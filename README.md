@@ -11,3 +11,5 @@ A short list of files I maintain:
 Let me know of any ideas that can help people contribute to Mudae, or other things that you're curious to see.
 
 Mudae World Server: https://discord.gg/EEGkGSh
+
+DISCLAIMER: The info contained here is not 100% accurate, results may vary.
