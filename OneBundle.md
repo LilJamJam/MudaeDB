@@ -3,7 +3,7 @@
 Series with no main chars are in italics.<br>
 General ($disableblock) bundles (eg: Anime, Manga...) are excluded when counting bundles for series.
 
-TOTAL SERIES: 417 --> ***434***
+TOTAL SERIES: 417 --> ***435***
 
 ### Hentai Exclusive (70) \#\#\#\#\#\#\#\#\#<br>
 Aibyou Chanto Icharabu<br>
@@ -227,7 +227,7 @@ Lamput<br>
 Old Master Q<br>
 <br>
 
-### Other Series (with Bundle Attached) (226) \#\#\#\#\#\#\#\#\#
+### Other Series (with Bundle Attached) (227) \#\#\#\#\#\#\#\#\#
 
 Series | Bundle
 ------ | ------
@@ -373,6 +373,7 @@ Records of the Deep Sea | Okegom
 Sunahama | Okegom
 Me no Doku Sugiru Shokuba no Futari | OVERLAP
 PaRappa the Rapper 2 | PaRappa the Rapper Series
+PinocchioP | PinocchioP's Works
 Koushinchou no Kouhai (Onna) to Teishinchou no Senpai (Otoko) ga Renai ni Hattensuru made | pixiv Media
 Uketsukejou ni Kokuhaku Shitakute Guild ni Kayoitsumetara Eiyuu ni Natteta | pixiv Media
 Creature Crunch | Point-and-click Adventure Games
