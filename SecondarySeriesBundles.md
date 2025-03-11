@@ -2,17 +2,21 @@
 
 The following is a list of series and bundles on Mudae that have no main characters.
 
-## Series (2474)
+## Series (2949)
 
 +44<br>
 007: Everything or Nothing<br>
+1-nichi Gaishutsuroku Hanchou<br>
 1017 Brick Squad<br>
 213<br>
 2wo<br>
 2XKO<br>
 3<br>
+3rd Secret<br>
 4 Week Continuous Special: Super Sentai Strongest Battle!!<br>
 4Minute<br>
+50 Cent: Blood on the Sand<br>
+50 Cent: Bulletproof<br>
 7 Days of Funk<br>
 88rising<br>
 909 Worldwide<br>
@@ -20,6 +24,7 @@ The following is a list of series and bundles on Mudae that have no main charact
 A Dog's Life<br>
 A Lesson Learnt<br>
 A Minecraft Movie<br>
+A Nightmare on Elm Street (Game)<br>
 A Nightmare on Elm Street 5: The Dream Child<br>
 A Perfect Circle<br>
 A Pup Named Scooby-Doo<br>
@@ -37,16 +42,19 @@ Adventures of Superman<br>
 Aetheria<br>
 Agatha All Along<br>
 Age of Zombies<br>
-Agent Carter<br>
 Agents of Mayhem<br>
 Agents of PACT<br>
+Airplane!<br>
+Alan Wake's American Nightmare<br>
 Alien 3<br>
 Alien: Covenant<br>
 Alkaline Trio<br>
 All Grown Up!<br>
 All Hail King Julien<br>
+All Hallows' Eve<br>
 All in the Family<br>
 All Monsters Attack<br>
+All-Star Fighters<br>
 Alleyway<br>
 Alone in the Woods<br>
 Alpine Racer 3<br>
@@ -55,6 +63,7 @@ Amada Anime Series: Super Mario Bros.<br>
 Amanda the Adventurer 2<br>
 Amaryllis<br>
 American Horror Story: 1984<br>
+American Horror Story: Apocalypse<br>
 American Horror Story: Asylum<br>
 American Horror Story: Coven<br>
 American Horror Story: Cult<br>
@@ -63,6 +72,7 @@ American Horror Story: Hotel<br>
 American Horror Story: Murder House<br>
 American Idol<br>
 American Nightmare<br>
+AMP<br>
 Anal Blast<br>
 Anderson Bruford Wakeman Howe<br>
 Angel Links<br>
@@ -71,23 +81,30 @@ Angelique Retour<br>
 Angelique Special 2<br>
 Angelique Trois<br>
 Angels & Airwaves<br>
+Angry Birds Epic<br>
 Angry Birds Friends<br>
 Angry Birds Go!<br>
 Angry Birds Rio<br>
 Animal Crossing: amiibo Festival<br>
 Animation Throwdown: The Quest for Cards<br>
+Animation vs. Education<br>
 Animators<br>
 Anime Arcade!<br>
 Ant-Man and the Wasp: Quantumania<br>
 Ant-Man and the Wasp<br>
 Anthony Padilla<br>
+Anywhere<br>
 Apogee & Perigee<br>
 Aquaman (2018)<br>
 Aquaman and the Lost Kingdom<br>
+Aquaman: King of Atlantis<br>
 AQUAPAZZA: Aquaplus Dream Match<br>
 AQUARIUM<br>
+AR Games (3DS)<br>
+Aragami 2<br>
 Archie's Weird Mysteries<br>
 Are You Smarter than a 5th Grader?<br>
+Arm Wrestling<br>
 Arma Angelus<br>
 Artists United Against Apartheid<br>
 ARTMS<br>
@@ -102,9 +119,12 @@ Assassin's Creed: Forsaken<br>
 Assassin's Creed: Lineage<br>
 Assassin's Creed: Nexus VR<br>
 Assassin's Creed: Reflections<br>
+Assassin's Creed: Underworld<br>
 Astel Leda Ch.<br>
+Asterix & Obelix: XXL2<br>
 Astral ✽ Buddy<br>
-Astro Bot: Rescue Mission<br>
+Astronauta<br>
+Athena: Awakening from the Ordinary Life<br>
 Atlantis: Milo's Return<br>
 Atoms for Peace<br>
 Atop the Fourth Wall: The Movie<br>
@@ -117,23 +137,36 @@ Avengers Assemble<br>
 Avengers: Age of Ultron<br>
 Avengers: Endgame<br>
 Avengers: Infinity War<br>
+Aventuras de Joselito y Pulgarcito<br>
 Avenue Flo: Special Delivery<br>
 Avenue Flo<br>
 Awakening<br>
+Ax Battler: A Legend of Golden Axe<br>
 Baby Looney Tunes<br>
 Baby Shark's Big Show!<br>
+Back to the Future (C64)<br>
+Back to the Future (MSX)<br>
+Back to the Future (NES)<br>
+Back to the Future Part II & III<br>
+Back to the Future Part II (Game)<br>
+Back to the Future Part III (Game)<br>
+Back to the Future: The Game<br>
+Back to the Future: The Ride<br>
 Bad Meets Evil<br>
 Badlands<br>
 Bad∞End∞Night<br>
+Baldi's Basics Plus<br>
 Bambi II<br>
 Band Hero<br>
 Band of Joy<br>
 Bandle Tale<br>
+BanG Dream! Ave Mujica<br>
 BanG Dream! It's MyGO!!!!!<br>
 Banks & Steelz<br>
 Bankstatement<br>
 Barbie (Movie)<br>
 Barbie Dreamhouse Adventures<br>
+Bart Simpson's Escape from Camp Deadly<br>
 Bartok the Magnificent<br>
 Batman & Mr. Freeze: SubZero<br>
 Batman & Robin<br>
@@ -154,12 +187,15 @@ Batman: Caped Crusader<br>
 Batman: Mask of the Phantasm<br>
 Batman: Mystery of the Batwoman<br>
 Battleground Z<br>
+Be Cool, Scooby-Doo!<br>
+Beast Boy: Lone Wolf<br>
 Beast Machines: Transformers<br>
 Beats International<br>
 Bedlam<br>
 Beetlejuice (TV)<br>
 Being low as dirt, taking what's important from me<br>
 Belle's Magical World<br>
+Bello recuerdo<br>
 Ben 10 (2016)<br>
 Ben 10: Alien Force (Game)<br>
 Ben 10: Protector of Earth<br>
@@ -175,6 +211,7 @@ Big Brain Academy: Wii Degree<br>
 Big Dumb Face<br>
 Big Grams<br>
 Bill Bruford's Earthworks<br>
+BIOHAZARD UMBRELLA CHRONICLES: Prelude to the Fall<br>
 Bionic Commando (2009)<br>
 BIONICLE 2: Legends of Metru Nui<br>
 BIONICLE 3: Web of Shadows<br>
@@ -202,14 +239,23 @@ BlazBlue Entropy Effect<br>
 BlazBlue: Alter Memory<br>
 BlazBlue: Cross Tag Battle<br>
 Blind Illusion<br>
+BloodRayne 2<br>
+BloodRayne: Betrayal<br>
 Bloons (2007)<br>
 Bloons Card Storm<br>
 Bloons Super Monkey<br>
 Blue (Da Ba Dee)<br>
 Blue Beetle (2023)<br>
 Blue Collar Comedy Tour<br>
+BLUE REFLECTION RAY<br>
+BLUE REFLECTION TIE<br>
 Bob Marley & The Wailers<br>
+BoBoiBoy Galaxy<br>
+Boktai 2: Solar Boy Django<br>
 Boku Dake ga Inai Machi: Another Record<br>
+Bonk 3: Bonk's Big Adventure<br>
+Bonk's Revenge<br>
+Bookworm Adventures<br>
 Boom Town<br>
 Boris and the Dark Survival<br>
 Boruto: Two Blue Vortex<br>
@@ -225,8 +271,10 @@ Brand X<br>
 Brave Saga 2<br>
 Brave Saga New Chapter: Astaria<br>
 Brave Saga<br>
+Brawl Taunts<br>
 Brazzers The Game<br>
 Breaking the Bank<br>
+Brit<br>
 Britney's Dance Beat<br>
 Broken Harbours<br>
 Bruford Levin Upper Extremities<br>
@@ -238,15 +286,21 @@ Bubsy in: Fractured Furry Tales<br>
 Bubsy: Paws on Fire!<br>
 Bubsy: The Woolies Strike Back<br>
 Bugs Bunny Builders<br>
-Bullet Heaven (KG)<br>
+Bugs Bunny in Crazy Castle 4<br>
+Bugs Bunny: Crazy Castle 3<br>
+Bullet Heaven (EBF)<br>
 Bullet Heaven 2<br>
 Burrito Bison Revenge<br>
 Burrito Bison: Launcha Libre<br>
+Bushido Ball<br>
 Cacophony<br>
 Cactus McCoy 2: The Ruins of Calavera<br>
 Cake Pop<br>
 Call of Duty: Modern Warfare III<br>
+Camouflage<br>
 Camp Pikachu<br>
+Campanella 2<br>
+Campanella 3<br>
 Capcom vs. SNK 2: Mark of the Millennium 2001<br>
 Capcom vs. SNK: Millenium Fight 2000<br>
 Captain America: Brave New World<br>
@@ -254,6 +308,7 @@ Captain America: Civil War<br>
 Captain America: The First Avenger<br>
 Captain America: The Winter Soldier<br>
 Captain Marvel (2019)<br>
+Cards on the Table<br>
 Carnivore<br>
 Cars 2: The Video Game<br>
 Cars 3: Driven to Win<br>
@@ -263,6 +318,7 @@ Cars: The Video Game<br>
 Cartagra: Tsuki Gurui no Yamai (OVA)<br>
 Cartoon Network: Punch Time Explosion<br>
 Cartoon Planet<br>
+Casseurs Flowters<br>
 Castle Crashing the Beard<br>
 Castle of Illusion Starring Mickey Mouse<br>
 Castlevania Judgment<br>
@@ -281,19 +337,29 @@ Chasing Amy<br>
 Chasing Dogma<br>
 Chibi-Robo! Photo Finder<br>
 Chibi-Robo! Zip Lash<br>
+Chicken Little (Game)<br>
 Chicken Shack<br>
+Chico Bento e a Goiabeira Maraviósa<br>
 Chico Bento Moço<br>
 Child Rebel Soldier<br>
 Child's Play 3<br>
+Chip 'n Dale: Rescue Rangers (Game)<br>
+Chip 'n Dale: Rescue Rangers 2<br>
 Chip 'n' Dale: Park Life<br>
 Chloe x Halle<br>
+Christopher Robin<br>
+Chrono Gear: Warden of Time<br>
 Chubby Mermaid<br>
 Cinderella II: Dreams Come True<br>
 Cinderella III: A Twist in Time<br>
 Circulatory System<br>
 City Lights<br>
+Clannad (Band)<br>
 Clash Mini<br>
+Class of '09: The Anime<br>
 Class of '09: The Flip Side<br>
+Class of '09: The Re-Up<br>
+Clayfighter 2: Judgment Clay<br>
 ClayFighter 63⅓<br>
 Clerks (Comic)<br>
 Clerks II<br>
@@ -329,13 +395,23 @@ Cooking Dash 2: DinerTown Studios<br>
 Cooking Dash 3 Thrills and Spills<br>
 Cooking Dash<br>
 Cool Kid Cody<br>
+Cool Spot<br>
+Copper Odyssey 2<br>
 Core Keeper<br>
 CORPSE-PARTY (PC-98)<br>
+Cotton 2: Magical Night Dreams<br>
+Cotton Boomerang<br>
+Cotton Reboot! High Tension!<br>
+Cotton Reboot!<br>
+Cotton Rock 'n' Roll: Superlative Night Dreams<br>
 Crash Bandicoot Purple: Ripto's Rampage<br>
 Crazy Frog Racer 2<br>
 Crazy Frog Racer<br>
+Crazy Taxi 2<br>
+Crazy Taxi 3: High Roller<br>
 Creature Commandos<br>
 CreepCast<br>
+Croc 2<br>
 Cross Edge<br>
 Cross Impact<br>
 Crossy Road<br>
@@ -351,40 +427,52 @@ Daddy Love<br>
 Dance Dance Revolution: Mario Mix<br>
 Danganronpa S: Ultimate Summer Camp<br>
 Danger Force<br>
+Danger Girl (Game)<br>
 Daniel Tiger's Neighborhood<br>
 DanMachi BATTLE CHRONICLE<br>
-Danmaku Amanojaku ~ Impossible Spell Card<br>
+Danmaku Amanojaku \~ Impossible Spell Card<br>
 Daredevil (2003)<br>
 Daredevil: Born Again<br>
 Dark Lotus<br>
 Dark Phoenix<br>
 Darkman vs. Army of Darkness<br>
+Darkwing Duck (Game)<br>
 Daron Malakian and Scars on Broadway<br>
 Dastardly and Muttley in Their Flying Machines<br>
 Daxter<br>
 Days with Ollie<br>
+DC Filmation Adventures<br>
 DC League of Super-Pets<br>
+DC Super Hero Girls<br>
 DC's Legends of Tomorrow<br>
 DC's Stargirl<br>
 Dead Ahead: Zombie Warfare<br>
 Dead by Sunrise<br>
 Dead Cross<br>
+Dead Island: Riptide<br>
+Dead Man's Bones<br>
+Dead Men Don't Wear Plaid<br>
+Dead or Alive: Dimensions<br>
 Dead Rising 2: Case West<br>
 Dead Rising 2: Case Zero<br>
 Dead Rising 2: Off the Record<br>
 Dead Rising 4<br>
+Dead Space 2<br>
 Deadpool & Wolverine<br>
 Deadpool (2016)<br>
 Deadpool (Game)<br>
 Death by Degrees<br>
 DEATH NOTE Killer Within<br>
+Death on the Nile<br>
 Death Stranding 2: On the Beach<br>
 Def Jam: Fight for NY<br>
 Delicious Party♡PreCure: Dreaming♡Children's Lunch!<br>
 Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles<br>
 Dengeki Bunko: Fighting Climax<br>
 Denkou Choujin Gridman: boys invent great hero<br>
+Densetsu no Stafy 2<br>
 Desert Sessions<br>
+Despicable Me Minion Mayhem<br>
 Destiny's Child<br>
 Destroy All Monsters<br>
 Detective Conan: Black Iron Submarine<br>
@@ -415,6 +503,7 @@ Detective Conan: The Scarlet Bullet<br>
 Detective Conan: The Time-Bombed Skyscraper<br>
 Detective Conan: Zero the Enforcer<br>
 Dethklok<br>
+Die Hard (Game)<br>
 Digimon Adventure 01<br>
 Digimon Adventure 02<br>
 Digimon Adventure tri.<br>
@@ -441,15 +530,20 @@ Disney Speedstorm<br>
 Disney's Extreme Skate Adventure<br>
 Disney's Magical Mirror Starring Mickey Mouse<br>
 Disque Attack<br>
+Disventure Camp 2<br>
+Disventure Camp 4: Carnival of Chaos<br>
 Disventure Camp: All-Stars<br>
 Disventure Camp: TomJake<br>
 Divekick<br>
+Divers<br>
 Divination<br>
 DK: Jungle Climber<br>
 DK: King of Swing<br>
 DNCE<br>
+Doctor Doom's Fearfall<br>
 Doctor Strange (2016)<br>
 Doctor Strange in the Multiverse of Madness<br>
+Doctor Strange: The Sorcerer Supreme<br>
 Doctor Who (Polystyle)<br>
 Doctor Who (Titan Comics)<br>
 Doctor Who Adventures<br>
@@ -459,6 +553,8 @@ Doctor Who: Virgin Missing Adventures<br>
 Doctor Who: Virgin New Adventures<br>
 Dog Blood<br>
 Dogma<br>
+Dogstar<br>
+Donald Duck Visits Japan!<br>
 Donkey Kong '94<br>
 Donkey Kong 3: Dai Gyakushuu<br>
 Donkey Kong 3<br>
@@ -474,9 +570,16 @@ Donkey Konga 3: Tabehōdai! Haru Mogitate 50 Kyoku<br>
 Donkey Konga<br>
 DOOM 64<br>
 Doom Patrol<br>
+DOOM: The Dark Ages<br>
 Dora and Friends: Into the City!<br>
 Dora and the Lost City of Gold<br>
+Doraemon: Nobita and the Birth of Japan<br>
+Doraemon: Story of Seasons<br>
+Double Dragon (TV)<br>
+Double Dragon Neon<br>
 Dr Kawashima's Brain Training for Nintendo Switch<br>
+Dr. Doe's Chemical Kitchen<br>
+Dr. Doe's Chemistry Quiz<br>
 Dr. Luigi<br>
 Dr. Mario 64<br>
 Dr. Mario Express<br>
@@ -563,10 +666,15 @@ Dragon Ball: The Breakers<br>
 Dragon Ball: The Path to Power<br>
 Dragon Ball: Zenkai Battle<br>
 Dragon Boy 2<br>
+Dragon Quest Monsters: The Dark Prince<br>
 Drakan: The Ancients' Gates<br>
 DRC Music<br>
 Dream Widow<br>
+Dreamville<br>
+DreamWorks Dragons: The Series<br>
+DreamWorks Theatre<br>
 DuckTales (Game)<br>
+DuckTales 2<br>
 Duke Nukem 3D<br>
 Duke Nukem Forever<br>
 Duke Nukem II<br>
@@ -575,37 +683,59 @@ Dungeon Family<br>
 Dungeon Link<br>
 Dynasty Warriors 6<br>
 Död Mark<br>
+E.T. Adventure<br>
 Earth<br>
 Ebirah, Horror of the Deep<br>
+Ecco Jr. and the Great Ocean Treasure Hunt<br>
+Ecco Jr.<br>
+Ecco the Dolphin: Defender of the Future<br>
+Ecco: The Tides of Time<br>
 Echo (TV)<br>
 ECW<br>
 Edge of Space<br>
 Eevee & Friends<br>
 Egoraptor<br>
+El caballo blanco<br>
 El Chavo (Game)<br>
 El Chavo Animado<br>
 El Chavo Kart<br>
+El pequeño coronel<br>
+El ruiseñor de las cumbres<br>
+El secreto de Tomy<br>
 ELDEN RING NIGHTREIGN<br>
 Elektra (2005)<br>
 Elf (Band)<br>
 Emerson, Lake & Powell<br>
 Emigrate<br>
 Emiya-san Chi no Kyou no Gohan<br>
+Empires SMP<br>
 EN-Eins Perfektewelt<br>
 Enter the Matrix<br>
 Envy of None<br>
 Epic Battle Fantasy 3<br>
 Epic Battle Fantasy 5<br>
 Epic Mickey: Power of Illusion<br>
+Escape from L.A.<br>
 Escaping the Prison<br>
+Escucha mi canción<br>
 Eternals (2021)<br>
 Even tears withered<br>
 Everybody's Golf 5<br>
 Everybody's Golf 6<br>
+Evil Bong 2: King Bong<br>
+Evil Bong 3D: The Wrath of Bong<br>
+Evil Bong 420<br>
+Evil Bong 666<br>
+Evil Bong 777<br>
+Evil Bong 888: Infinity High<br>
+Evil Bong High-5!<br>
 Evil Dead: The Game<br>
 Evil God Korone<br>
 Excitebike: Bun Bun Mario Battle<br>
 Exodus<br>
+Extreme Ghostbusters (Game)<br>
+Extreme Ghostbusters: Code Ecto-1<br>
+Extreme Ghostbusters: The Ultimate Invasion<br>
 F-Zero Climax<br>
 Faction Paradox<br>
 Fairy Fencer F: Refrain Chord<br>
@@ -616,6 +746,11 @@ Fallout Shelter<br>
 Famicom Grand Prix II: 3D Hot Rally<br>
 Famicom Grand Prix: F1 Race<br>
 Family Feud<br>
+Family Guy Video Game!<br>
+Family Guy: Another Freakin' Mobile Game<br>
+Family Guy: Back to the Multiverse<br>
+Family Guy: The Quest for Stuff<br>
+Famiresu Iko.<br>
 Fantasia 2000<br>
 Fantastic Four (2005)<br>
 Fantastic Four (2015)<br>
@@ -624,10 +759,12 @@ Fantastic Four: The Animated Series<br>
 Fantastic Four: World's Greatest Heroes<br>
 Fantômas (Band)<br>
 Fast & Furious Presents: Hobbs & Shaw<br>
+Fast & Furious: Supercharged<br>
 Fastbacks<br>
 Fate/Grand Order From Lostbelt<br>
 Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai<br>
 Fate/unlimited codes<br>
+Fear Factor<br>
 Fecal Matter<br>
 Feed Mii<br>
 FFWD<br>
@@ -637,19 +774,28 @@ Fighters Megamix<br>
 Fighting with My Family<br>
 Find Mii 2<br>
 Find Mii<br>
+Finding Nemo (Game)<br>
+Finding Nemo: Escape to the Big Blue<br>
+Finding Nemo: The Continuing Adventures<br>
 First Class Entertainment<br>
+FIST OF THE NORTH STAR: LEGENDS ReVIVE<br>
 Fitness Boxing feat. HATSUNE MIKU<br>
 Fitness Boxing Fist of the North Star<br>
 Five Laps at Freddy's<br>
 Five Nights at Candy's 2<br>
 Five Nights at Freddy's (2023)<br>
+Five Nights at Freddy's AR: Special Delivery<br>
 Five Nights at Freddy's: An Interactive Novel<br>
 Flaming Youth<br>
 Flash Bash<br>
 Fleeing the Complex<br>
 Fleet Foxes<br>
+Flight of the Hippogriff<br>
+Flipper<br>
+Float Play<br>
 Flower Town<br>
 FNAC FUR<br>
+FNaF World: Halloween Edition<br>
 Forcefield<br>
 Fort Minor<br>
 Fortune Street<br>
@@ -662,15 +808,19 @@ Fraymakers<br>
 Freak Power<br>
 Fred 2: Night of the Living Fred<br>
 Fred: The Movie<br>
+Freddy In Space 2<br>
+Freddy in Space 3: Chica in Space<br>
 Freddy vs. Jason vs. Ash<br>
 Freddy vs. Jason<br>
 Freeman<br>
 Friday the 13th (2009)<br>
+Friday the 13th (NES)<br>
 Friday the 13th Part VIII: Jason Takes Manhattan<br>
 From First to Last<br>
 From the World of John Wick: Ballerina<br>
 Frosty Returns<br>
 Frosty's Winter Wonderland<br>
+FUBUKI \~zero in on Holoearth\~<br>
 Fun and Fancy Free<br>
 Funko Fusion<br>
 Furiosa: A Mad Max Saga<br>
@@ -683,6 +833,7 @@ Gacha Life 2<br>
 Gacha Memories<br>
 Gachaverse<br>
 Gadget & the Gadgetinis<br>
+Gal Guardians: Demon Purge<br>
 Game & Watch Gallery 2<br>
 Game & Watch Gallery 3<br>
 Game & Watch Gallery 4<br>
@@ -691,6 +842,11 @@ Garfield Kart<br>
 Garfield's Fun Fest<br>
 Garfield: A Tail of Two Kitties<br>
 Garfield: The Movie<br>
+Garten of Banban 0<br>
+Garten of Banban RP<br>
+Garten of Banban VR: Distorting Clay<br>
+Garten of Banban: Punchrush<br>
+Gavis Bettel Ch.<br>
 Gawr Gura Ch.<br>
 Gears of War: E-Day<br>
 Gears Tactics<br>
@@ -698,20 +854,32 @@ Gekijouban CLANNAD<br>
 Generation X<br>
 Germs<br>
 GetsuFumaDen: Undying Moon<br>
+Gex 3: Deep Cover Gecko<br>
+Gex: Enter the Gecko<br>
 Ghidorah, the Three-Headed Monster<br>
 Ghost in the Shell: S.A.C. 2nd GIG<br>
 Ghost in the Shell: Stand Alone Complex<br>
 Ghost Rider (2007)<br>
 Ghost Rider: Spirit of Vengeance<br>
 Ghost Tale<br>
+Ghostbusters (2016 Game)<br>
+Ghostbusters (Beeline)<br>
+Ghostbusters (Genesis)<br>
+Ghostbusters (NES)<br>
+Ghostbusters Puzzle Fighter<br>
 Ghostbusters: Frozen Empire<br>
+Ghostbusters: Sanctum of Slime<br>
+Ghostbusters: Spirits Unleashed<br>
 Ghostbusters: The Video Game<br>
+Ghostrunner II<br>
 Giants in the Trees<br>
 Gibby Haynes and His Problem<br>
 Giles, Giles and Fripp<br>
 Gillan<br>
 Gilmore Girls: A Year in the Life<br>
+Gingerdead Man vs. Evil Bong<br>
 Gintama: THE FINAL<br>
+Girl Genius: Adventures in Castle Heterodyne<br>
 GirlsMons<br>
 Global Trotters<br>
 Go! Go! Pogo Cat<br>
@@ -734,8 +902,15 @@ Godzilla vs. Megalon<br>
 Godzilla vs. Mothra<br>
 Godzilla vs. SpaceGodzilla<br>
 Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack<br>
+Godzilla: Destroy All Monsters Melee<br>
 Godzilla: Tokyo SOS<br>
 Gogmagog<br>
+Golden Axe II<br>
+Golden Axe III<br>
+Golden Axe Warrior<br>
+Golden Axe: Beast Rider<br>
+Golden Axe: The Duel<br>
+Golden Axe: The Revenge of Death Adder<br>
 GoldenEye 007<br>
 Gong<br>
 Goodbye to Rock you<br>
@@ -748,10 +923,14 @@ Gotham Knights<br>
 Gotham<br>
 GothBoiClique<br>
 Gotta Dance!<br>
+Grand Theft Auto IV: The Ballad of Gay Tony<br>
+Grand Theft Auto IV: The Lost and the Damned<br>
 Grand Theft Auto: Liberty City Stories<br>
+Granny 3<br>
+Granny: Chapter Two<br>
 Gravediggaz<br>
 GREAT DECEIVER<br>
-Great Fairy Wars ~ Touhou Sangetsusei<br>
+Great Fairy Wars \~ Touhou Sangetsusei<br>
 Green Bullfrog<br>
 Green Jellÿ<br>
 Green Lantern (2011)<br>
@@ -759,6 +938,7 @@ Green Lantern: Emerald Knights<br>
 Green Lantern: The Animated Series<br>
 Gremlins: Secrets of the Mogwai<br>
 Grey Daze<br>
+Grimstone<br>
 Grown-ish<br>
 GTR<br>
 GTS - Great Teacher Sayoko<br>
@@ -774,9 +954,9 @@ Guilty Gear Petit<br>
 Guilty Gear Series Story Digest Comics<br>
 Guilty Gear Vastedge XT<br>
 Guilty Gear X Lightning the Argent<br>
-Guitar Hero 2<br>
 Guitar Hero 5<br>
 Guitar Hero Encore: Rocks the 80s<br>
+Guitar Hero II<br>
 Guitar Hero On Tour: Decades<br>
 Guitar Hero World Tour<br>
 Guitar Hero: Aerosmith<br>
@@ -790,6 +970,7 @@ Guy's Grocery Games: All-Star Invitational<br>
 Guy's Grocery Games<br>
 Guy's Ranch Kitchen<br>
 HAACHAMA Ch.<br>
+Hagrid's Magical Creatures Motorbike Adventure<br>
 Hakos Baelz Ch.<br>
 Hakui Koyori Ch.<br>
 Hakuouki: Bakumatsu Musou Roku<br>
@@ -805,6 +986,10 @@ Halo 3<br>
 Halo 4<br>
 Happy Halloween, Scooby-Doo!<br>
 Harley Quinn (TV)<br>
+Harry Potter and the Battle at the Ministry<br>
+Harry Potter and the Escape from Gringotts<br>
+Harry Potter and the Forbidden Journey<br>
+Harry Potter: Quidditch World Cup<br>
 Haruka Naru Enkei Sekai<br>
 Harvest Moon GB<br>
 Harvest Moon GBC 2<br>
@@ -821,7 +1006,11 @@ Hawkeye (TV)<br>
 Hawkwind<br>
 Heartcatch PreCure! the Movie: Fashion Show in the Flower Capital... Really?!<br>
 Hellbound Boobies<br>
+Hello Engineer: Scrap Machines Constructor<br>
+Hello Guest<br>
 Hello Kitty Island Adventure<br>
+Hello Neighbor VR: Search and Rescue<br>
+Hello Neighbor: Hide and Seek<br>
 Hello Neighbor: Welcome to Ravenbrook<br>
 Hello Nikki-Let's Beauty Up<br>
 Hentai Clicker<br>
@@ -830,8 +1019,9 @@ Hextech Mayhem<br>
 Hey! Pikmin<br>
 Hi Hi Puffy AmiYumi<br>
 Hi Score Girl DASH<br>
+Hiccup's Wing Gliders<br>
 Hidden Block<br>
-Hifuu Nightmare Diary ~ Violet Detector<br>
+Hifuu Nightmare Diary \~ Violet Detector<br>
 Higurashi Daybreak<br>
 Higurashi no Naku Koro ni Gou/Sotsu<br>
 Higurashi no Naku Koro ni: Himatsubushi-hen<br>
@@ -851,10 +1041,13 @@ Hitman: Blood Money<br>
 Hitman: Codename 47<br>
 Hitman: Contracts<br>
 Hogan's Alley<br>
+Hokuto no Ken (Arcade)<br>
+Hokuto no Ken Gaiden: Tensai Amiba no Isekai Haо Densetsu<br>
 Hollywood Rose<br>
 Hollywood Vampires<br>
 hololive Alternative<br>
 hololive ERROR<br>
+hololive Holo's Hanafuda<br>
 HOLY BREAKER!2 -THE WISH IN THE NIGHT OF THE STAR TALERS.-<br>
 Honey Popcorn<br>
 Hoshigari Sugi Desho!? Inaba-san<br>
@@ -883,20 +1076,28 @@ Hyperdimension Neptunia: The Animation<br>
 Hypnotize Camp Posse<br>
 I Am Groot<br>
 I'm getting on the bus to the other world, see ya!<br>
+I'm the Rain<br>
 I.O.I<br>
+IA/VT Colorful<br>
+Ice Age on the World of Magic: The Gathering<br>
 Ice Age: Scrat Tales<br>
+Idol Showdown<br>
 If There Was An Endpoint.<br>
+Illumination's Villain-Con Minion Blast<br>
 Indiana Jones and the Dial of Destiny<br>
 Indie Game Battle<br>
 Indie Pogo<br>
 inFAMOUS: First Light<br>
 Infiltrating the Airship<br>
+Infinity Blade II<br>
+Infinity Blade III<br>
 Infinity Nikki<br>
 Injustice 2<br>
 Injustice: Gods Among Us<br>
 Inspector Zenigata<br>
 Inugami Korone Ch.<br>
 Invasion of Astro-Monster<br>
+Ion Fury<br>
 IRL Cats<br>
 Iron Man (2008)<br>
 Iron Man 2<br>
@@ -905,19 +1106,23 @@ Iron Man: The Animated Series<br>
 IRyS Ch.<br>
 Is Lupin Still Burning?<br>
 Isekai Quartet<br>
+Isekai∞Isekai<br>
 Island Days<br>
 It's Raining After All<br>
 Itadaki Street DS<br>
-IZ\*ONE<br>
+IZ*ONE<br>
 J-Stars Victory VS<br>
 Jack Bros.<br>
 Jack Ü<br>
 Jak 3<br>
 Jak and Daxter: The Lost Frontier<br>
 Jak X: Combat Racing<br>
+James Cameron's Avatar: The Game (Wii)<br>
+James Cameron's Avatar: The Game<br>
 Jane's Addiction<br>
 Jason Goes to Hell: The Final Friday<br>
 Jason X<br>
+Jaws (Ride)<br>
 Jay & Silent Bob's Super Groovy Cartoon Movie!<br>
 Jay and Silent Bob Reboot<br>
 Jay and Silent Bob Strike Back<br>
@@ -932,16 +1137,20 @@ Jethro Tull<br>
 Jetpack Joyride 2<br>
 Jigen Daisuke<br>
 Jigsaw<br>
-Jimmy Neutron: Boy Genius<br>
+Jimmy Neutron's Nicktoon Blast<br>
 Jimmy Timmy Power Hour<br>
 Job Job<br>
 John Wick Hex<br>
 JoJo's Bizarre Adventure: All-Star Battle<br>
+JoJo's Bizarre Adventure: Diamond Records<br>
+JoJo's Bizarre Adventure: Heritage for the Future<br>
+JoJo's Pitter-Patter Pop!<br>
 Joke Boat<br>
 Joker: Folie à Deux<br>
 Joker<br>
 Jonah Hex (2010)<br>
 Joukyou Seikatsuroku Ichijou<br>
+Jr. PAC-MAN<br>
 Jujutsu Kaisen 0<br>
 Jujutsu Kaisen Cursed Clash<br>
 JUMP SUPER STARS<br>
@@ -952,10 +1161,12 @@ Junior M.A.F.I.A.<br>
 Junji Ito Collection<br>
 Junji Ito Maniac: Japanese Tales of the Macabre<br>
 Juno<br>
+Jurassic Park River Adventure<br>
 Jurassic Park: Operation Genesis<br>
 Jurassic World Evolution 2<br>
 Jurassic World Evolution<br>
 Jurassic World: Dominion<br>
+Jurassic World: The Ride<br>
 Just Cause 2<br>
 Just Cause 4<br>
 Just Dance (2009)<br>
@@ -982,17 +1193,22 @@ Justice League (2001)<br>
 Justice League (2017)<br>
 Justice League Action<br>
 Justice League Unlimited<br>
+Justin Bieber: Never Say Never<br>
 K-ON! College<br>
 K-ON! High School<br>
 Kaela Kovalskia Ch.<br>
 Kaginado (Series)<br>
+Kaitou Tenshi Twin Angel \~Toki to Sekai no Labyrinth\~<br>
 Kamen Rider Outsiders<br>
+KAMITSUBAKI CITY ENSEMBLE<br>
 Kamp Koral: SpongeBob's Under Years<br>
+Kang & Kodos' Twirl 'n' Hurl<br>
 Kao the Kangaroo (2022)<br>
 Kao the Kangaroo: Round 2<br>
 Kao: Mystery of the Volcano<br>
 Kara no Shoujo (OVA)<br>
 Karen Girl's<br>
+Karting of Banban<br>
 Kazama Iroha Ch.<br>
 Kaze no Kishihime<br>
 Kaze no Klonoa 4Koma Manga Gekijou<br>
@@ -1006,6 +1222,7 @@ Kemono Friends: Welcome to Japari Park!<br>
 Kickassia<br>
 KIDS SEE GHOSTS<br>
 Kill la Kill - IF<br>
+Kimi Dake no Ponytail<br>
 Kindergarten 2<br>
 Kindergarten 3<br>
 King for a Day Tournament<br>
@@ -1021,7 +1238,6 @@ Kirby Air Ride<br>
 Kirby Tilt 'n' Tumble<br>
 Kirby's Avalanche<br>
 Kirby's Block Ball<br>
-Kirby's Dream Course<br>
 Kirby's Pinball Land<br>
 Kiryu Coco Ch.<br>
 Kitchen Nightmares<br>
@@ -1040,29 +1256,38 @@ Koha-Ace<br>
 Koi ga Michitara<br>
 Komorebi<br>
 Konami Krazy Racers<br>
+Kongfrontation<br>
+Kono Subarashii Sekai ni Shukufuku wo! -Kono Yokubukai Game ni Shinpan wo!-<br>
+Kono Subarashii Sekai ni Shukufuku wo! Fukkatsu no Beldia<br>
 Koro-Sensei Q!<br>
 Koseki Bijou Ch.<br>
 Kraven the Hunter (2024)<br>
+Krusty's Fun House<br>
 Krypto the Superdog (TV)<br>
 Kud Wafter (Anime)<br>
 KUKL<br>
 Kung Fu Panda: Legends of Awesomeness<br>
+Kung Fury: Street Rage<br>
 Kureiji Ollie Ch.<br>
 Kx5<br>
 L.A. Guns<br>
 L.S. Dunes<br>
 La Máquina de Hacer Pájaros<br>
+Lagtrain<br>
 Laina<br>
 Lalaloopsy Girls: Welcome to L.A.L.A. Prep School<br>
 Land of Illusion Starring Mickey Mouse<br>
+Lanterns<br>
 Lara Croft's Poker Party<br>
 Larryboy: The Cartoon Adventures<br>
+Last Life<br>
 Le Knight Club<br>
 Leaders of the New School<br>
 Leatherface (2017)<br>
 Leatherface: The Texas Chainsaw Massacre III<br>
 Legacies<br>
 Legend of the Three Caballeros<br>
+Legion of Super Heroes<br>
 LEGO Batman 2: DC Super Heroes<br>
 LEGO Batman 3: Beyond Gotham<br>
 LEGO Batman: The Videogame<br>
@@ -1071,6 +1296,7 @@ LEGO Horizon Adventures<br>
 LEGO Indiana Jones 2: The Adventure Continues<br>
 LEGO Indiana Jones: The Original Adventures<br>
 LEGO Jurassic World<br>
+LEGO Legends of Chima: Laval's Journey<br>
 LEGO Marvel Super Heroes<br>
 LEGO Marvel's Avengers<br>
 LEGO Star Wars III: The Clone Wars<br>
@@ -1078,6 +1304,12 @@ LEGO Star Wars: The Force Awakens<br>
 LEGO The Hobbit<br>
 LEGO The Incredibles<br>
 LEGO The Lord of the Rings<br>
+Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places)<br>
+Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work<br>
+Leisure Suit Larry 6: Shape Up or Slip Out!<br>
+Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals<br>
+Leisure Suit Larry: Wet Dreams Don't Dry<br>
+Leisure Suit Larry: Wet Dreams Dry Twice<br>
 Lesson Learnt 2<br>
 Like a Dragon: Pirate Yakuza in Hawaii<br>
 Like a Dragon: Yakuza<br>
@@ -1090,18 +1322,22 @@ LitMedia<br>
 Little Vampire<br>
 LittleBigPlanet Karting<br>
 Loaded<br>
+Loca juventud<br>
 Logan<br>
 Looney Tunes Cartoons<br>
 Looney Tunes World of Mayhem<br>
 Looney Tunes: Back in Action<br>
 Loossemble<br>
 Lord of Nazarick<br>
+Los dos golfillos<br>
 Loser Girl<br>
 Lovage<br>
 Lovely Runner<br>
 Lovely ♡<br>
 Lovers of Aether<br>
 LSD (IRL)<br>
+Lucius II: The Prophecy<br>
+Lucius III<br>
 Lupin III Episode 0: The First Contact<br>
 Lupin III Part IV: The Italian Adventure<br>
 Lupin III Part V: Misadventures in France<br>
@@ -1151,16 +1387,19 @@ Lupin Shanshei<br>
 LUPIN THE 3rd vs. CAT'S EYE<br>
 Lupin the 3rd<br>
 Lupin Zero<br>
+M.C. Kids<br>
 Mabel Greer's Toyshop<br>
 Mad Season<br>
 Mad Verse City<br>
 Madame Web<br>
+Mado Monogatari: Fia and the Wondrous Academy<br>
 Madou Monogatari (Saturn)<br>
 Madou Monogatari 1-2-3<br>
 Madou Monogatari: Chaotic Final Exam<br>
-Madou Monogatari: Fia and the Mysterious School<br>
 Madou Monogatari: Michikusa Ibun<br>
 Madvillain<br>
+Magic: The Gathering - Arabian Nights<br>
+Magic: The Gathering – Battlegrounds<br>
 Magical Drop F: Daibouken mo Rakujyanai!<br>
 Magical Drop I<br>
 Magical Drop II<br>
@@ -1168,6 +1407,7 @@ Magical Drop III<br>
 Magical Drop V<br>
 Magical Drop VI<br>
 Magical Quest 3 Starring Mickey and Donald<br>
+Magical Tetris Challenge<br>
 Mahoutsukai PreCure! The Movie: Miraculous Transformation! Cure Mofurun!<br>
 Major Organ and the Adding Machine<br>
 Makai Wars<br>
@@ -1190,6 +1430,7 @@ Mario & Sonic at the Rio 2016 Olympic Games<br>
 Mario & Sonic at the Sochi 2014 Olympic Winter Games<br>
 Mario & Wario<br>
 Mario and Donkey Kong: Minis on the Move<br>
+Mario Bros. (Game & Watch)<br>
 Mario Clash<br>
 Mario Golf: Super Rush<br>
 Mario Golf: Toadstool Tour<br>
@@ -1204,6 +1445,7 @@ Mario Kart Arcade GP<br>
 Mario Kart DS<br>
 Mario Kart Live: Home Circuit<br>
 Mario Kart Tour<br>
+Mario Kart: Bowser's Challenge<br>
 Mario Kart: Super Circuit<br>
 Mario Party 10<br>
 Mario Party 1<br>
@@ -1242,21 +1484,27 @@ Mario's Tennis<br>
 Mario's Time Machine<br>
 Market Crashers<br>
 Martian Successor Nadesico: The Blank of 3 Years<br>
+Marvel 1943: Rise of Hydra<br>
+Marvel Nemesis: Rise of the Imperfects<br>
 Marvel Rivals<br>
 Marvel Snap<br>
 Marvel Super Heroes<br>
 Marvel Ultimate Alliance 3: The Black Order<br>
 Marvel vs. Capcom 3: Fate of Two Worlds<br>
 Marvel vs. Capcom: Clash of Super Heroes<br>
+Marvel's Agent Carter<br>
 Marvel's Agents of S.H.I.E.L.D.<br>
 Marvel's Avengers<br>
+Marvel's Cloak & Dagger<br>
 Marvel's Daredevil<br>
 Marvel's Hit-Monkey<br>
+Marvel's Inhumans<br>
 Marvel's Iron Fist<br>
 Marvel's Jessica Jones<br>
 Marvel's Luke Cage<br>
 Marvel's M.O.D.O.K.<br>
 Marvel's Midnight Suns<br>
+Marvel's Runaways<br>
 Marvel's Spider-Man 2<br>
 Marvel's The Avengers<br>
 Marvel's The Defenders<br>
@@ -1264,6 +1512,7 @@ Marvel's The Punisher<br>
 Marvel: Ultimate Alliance 2<br>
 Marvel: Ultimate Alliance<br>
 Mashima HERO'S<br>
+Mass Effect Galaxy<br>
 Mass Effect: Evolution<br>
 Mass Effect: Foundation<br>
 Mass Effect: Homeworlds<br>
@@ -1272,22 +1521,29 @@ Mass Effect: Paragon Lost<br>
 Mass Effect: Redemption<br>
 MasterChef<br>
 Masters of the Universe (200X)<br>
+Masters of the Universe (2026 Film)<br>
 Masters of the Universe - Masterverse: New Eternia<br>
 Masters of the Universe Origins: Sketchbook Series<br>
 Matchmaker<br>
+Max Payne 2: The Fall of Max Payne<br>
+Max Payne 3<br>
+Max Steel: Covert Missions<br>
 MD.45<br>
 Meat Boy (Flash)<br>
 Meat Puppets<br>
 Mega Man 2: The Power Fighters<br>
+Mega Man NT Warrior Axess<br>
 Mega Man Xtreme 2<br>
 Mega Man Xtreme<br>
 Mega Man's Soccer<br>
 Mega Man: The Power Battle<br>
 Megamind Rules!<br>
 Megamind vs. the Doom Syndicate<br>
+Megpoid the Music♯<br>
 Meloetta's Moonlight Serenade<br>
 Melty Blood: Type Lumina<br>
 Members Only<br>
+Men in Black: Alien Attack<br>
 Men's Time<br>
 Merry Little Batman<br>
 METAL GEAR AC!D<br>
@@ -1297,14 +1553,17 @@ Metal Slug 5<br>
 Metal Slug 6<br>
 Metal Slug 7<br>
 Metroid Prime 4: Beyond<br>
+Metroid: Zero Mission<br>
 Michael Jackson: The Experience<br>
 Mickey Mania: The Timeless Adventures of Mickey Mouse<br>
 Mickey Mouse (2013)<br>
 Mickey Mouse Funhouse<br>
 Mickey Mouse Mixed-Up Adventures<br>
 Mickey Mouse Works<br>
+Mickey Mouse: Magic Wands!<br>
 Mickey Mousecapade<br>
 Mickey's Christmas Carol<br>
+Mickey's Dangerous Chase<br>
 Mickey's Once Upon a Christmas<br>
 Mickey's Speedway USA<br>
 Mickey's Twice Upon a Christmas<br>
@@ -1312,15 +1571,19 @@ Mickey, Donald, Goofy: The Three Musketeers<br>
 Mike + The Mechanics<br>
 Millennium<br>
 Minato Aqua Ch.<br>
+Mine Cart Madness<br>
 Minecraft Diaries<br>
+Mini & Max<br>
 Mini Mario & Friends: amiibo Challenge<br>
-Minions: The Rise of Gru<br>
 Minute to Win It<br>
+Missing Banban<br>
 MNF Metropolis<br>
 Mobile Golf<br>
 Modern Times<br>
 Moi dix Mois<br>
 Moistboyz<br>
+Momodora III<br>
+Momodora: Moonlit Farewell<br>
 Momosuzu Nene Ch.<br>
 Monster Dash<br>
 Monster High (2010)<br>
@@ -1330,9 +1593,11 @@ Monster High: Scary Cool Ghouls<br>
 Monster High: The Movie<br>
 Monster Manor<br>
 Monsters at Work<br>
-Moon Girl and Devil Dinosaur (TV)<br>
+Monsters Unchained: The Frankenstein Experiment<br>
+Moon Girl and Devil Dinosaur<br>
 Moon Knight (TV)<br>
 Moonchild Trio<br>
+Moonleap<br>
 Moonwalker<br>
 Morbius (2022)<br>
 Mori Calliope Ch.<br>
@@ -1341,7 +1606,9 @@ Mortal Kombat (2021)<br>
 Mortal Kombat Mobile<br>
 Mortal Kombat: Annihilation<br>
 Mortal Kombat: Legacy<br>
+Mortal Kombat: Shaolin Monks<br>
 Mothra vs. Godzilla<br>
+Mothra<br>
 Mount Westmore<br>
 Mr. Bungle<br>
 Ms. Marvel (TV)<br>
@@ -1355,18 +1622,28 @@ Muppets from Space<br>
 Muppets Haunted Mansion<br>
 Muppets Now<br>
 Muppets Tonight<br>
+Murder on the Orient Express<br>
 Murderdolls<br>
 Music Producers<br>
+Mutant Mudds Super Challenge<br>
 My Adventures with Superman<br>
 My Friends Tigger & Pooh<br>
 MY HERO ONE'S JUSTICE 2<br>
 MY HERO ONE'S JUSTICE<br>
 MY HERO ULTRA RUMBLE<br>
 My Scene<br>
+My Singing Monsters Playground<br>
+MySims Agents<br>
+MySims Kingdom (DS)<br>
+MySims Party<br>
+MySims Racing<br>
+MySims SkyHeroes<br>
+Märchen Adventure Cotton 100%<br>
 N.W.A<br>
-N\\*E\\*R\\*D<br>
+N\*E\*R\*D<br>
 Nagato Yuki-chan no Shoushitsu<br>
 Nakiri Ayame Ch.<br>
+Nakoruru \~Ano Hito kara no Okurimono\~<br>
 Namco High<br>
 Nanashi Mumei Ch.<br>
 Nancy Drew: Alibi in Ashes<br>
@@ -1409,16 +1686,20 @@ Natsuiro Matsuri Ch.<br>
 NBA Street V3<br>
 NCT 127<br>
 NCT Dream<br>
+NEEDY GIRL OVERDOSE: Petit Game Collection vol.1<br>
+NEEDY GIRL OVERDOSE: Typing of the Net<br>
 Neon Genesis Evangelion: The Shinji Ikari Raising Project<br>
 Neopets: The Darkest Faerie<br>
 Neptunia & Friends<br>
 Neptunia Virtual Stars<br>
 NES Open Tournament Golf<br>
 Neurotic Outsiders<br>
+New Ghostbusters II<br>
 New Looney Tunes<br>
 New Super Mario Bros. 2<br>
 New Tales from the Borderlands<br>
 Newgrounds Rumble<br>
+Next Avengers: Heroes of Tomorrow<br>
 Nickelodeon All-Star Brawl 2<br>
 Nickelodeon All-Star Brawl<br>
 Nicktoons Movin'<br>
@@ -1431,6 +1712,11 @@ Nightmare Kart<br>
 NiGHTS: Journey of Dreams<br>
 Nightwish<br>
 Nikki UP2U: A Dressing Story<br>
+Ninja Gaiden 3<br>
+Ninja Gaiden 4<br>
+Ninja Gaiden II: The Dark Sword of Chaos<br>
+Ninja Gaiden II<br>
+Ninja Gaiden III: The Ancient Ship of Doom<br>
 Ninja Launcher<br>
 Ninomae Ina'nis Ch.<br>
 Nintendo Adventure Books<br>
@@ -1444,10 +1730,9 @@ NSYNC<br>
 Octopath Traveler: Champions of the Continent<br>
 Oddworld: Soulstorm<br>
 OFWGKTA<br>
-Oide yo! Mizuryuu Kei Land ~Kazoku to Sukebe na Theme Park!~<br>
+Oide yo! Mizuryuu Kei Land \~Kazoku to Sukebe na Theme Park!\~<br>
 Okayu Nyumu!<br>
 One Direction<br>
-One Piece Film: Strong World<br>
 One Punch Man: A Hero Nobody Knows<br>
 Ookami Mio Ch.<br>
 Ore to Akuma no Blues<br>
@@ -1456,6 +1741,7 @@ OTAHOO Project<br>
 Ouro Kronii Ch.<br>
 Outlast: The Murkoff Account<br>
 OvenBreak<br>
+Overbold<br>
 Oysterhead<br>
 Ozzy & Drix<br>
 P-Model<br>
@@ -1483,6 +1769,7 @@ Pac-Man World Rally<br>
 Pac-Man: Adventures in Time<br>
 Pac-Mania<br>
 Pac-Pix<br>
+Panorama Cotton<br>
 Papa Louie 2: When Burgers Attack!<br>
 Papa Louie 3: When Sundaes Attack!<br>
 Papa Louie: When Pizzas Attack!<br>
@@ -1507,11 +1794,15 @@ Patently Stupid<br>
 Peacemaker<br>
 Peeping Tom<br>
 Peggle 2<br>
+Peggle Nights<br>
 Persona 3: Dancing in Moonlight<br>
 Persona 5: Dancing in Starlight<br>
 Pesterquest<br>
 Peter Green Splinter Group<br>
+PewDiePie: Legend of the Brofist<br>
+Phantom Fury<br>
 Phineas and Ferb the Movie: Candace Against the Universe<br>
+Photos with Mario<br>
 Pic-Nic<br>
 Piece By Piece<br>
 Pigface<br>
@@ -1525,7 +1816,9 @@ Pikachu's PikaBoo<br>
 Pikachu's Rescue Adventure<br>
 Pikachu's Vacation<br>
 Pikachu, What's This Key?<br>
+Pilot Quest<br>
 Pinball (NES)<br>
+Pingolf<br>
 Pinhead Gunpowder<br>
 Pinky, Elmyra & the Brain<br>
 PinocchioP<br>
@@ -1535,12 +1828,16 @@ Pirates of the Caribbean: Dead Men Tell No Tales<br>
 Pirates of the Caribbean: On Stranger Tides<br>
 Pirates of the Caribbean: The Curse of the Black Pearl<br>
 Pixels<br>
+Pizzaman<br>
+Planet Hulk<br>
 Planet Sheen<br>
-planetarian ~Snow Globe~<br>
+Planet Zoldath<br>
+planetarian \~Snow Globe\~<br>
 Plants vs. Zombies 3: Welcome to Zomburbia<br>
 Plants vs. Zombies Adventures<br>
 Plants vs. Zombies: Battle for Neighborville<br>
 Plants vs. Zombies: Garden Warfare<br>
+Plastic Man (1979)<br>
 Plastic Ono Band<br>
 PlayStation All-Stars Battle Royale<br>
 Poker Night 2<br>
@@ -1548,6 +1845,7 @@ Poker Night at the Inventory<br>
 Pokémon 4Ever<br>
 Pokémon Box Ruby & Sapphire<br>
 Pokémon Dash<br>
+Pokémon Legends: Z-A<br>
 Pokémon Puzzle Challenge<br>
 Pokémon Puzzle League<br>
 Pokémon the Movie: Black - Victini and Reshiram/White - Victini and Zekrom<br>
@@ -1559,14 +1857,20 @@ Pokémon: The First Movie<br>
 Pooh's Grand Adventure: The Search for Christopher Robin<br>
 Pooh's Heffalump Halloween Movie<br>
 Pooh's Heffalump Movie<br>
+Pop'n TwinBee: Rainbow Bell Adventures<br>
+Pop'n TwinBee<br>
+Popeye & Bluto's Bilge-Rat Barges<br>
 Possessed<br>
 Postal III<br>
 Postal: Brain Damaged<br>
 Power Rangers: Battle for the Grid<br>
+Power Rangers: Super Legends<br>
 Praxis<br>
 PreCure All Stars DX3: Deliver the Future! The Rainbow ☆ Flower That Connects the World!<br>
 PreCure All Stars DX: Everyone is Friends☆The Collection of Miracles!<br>
 Prince and The Revolution<br>
+Princess Maker 3<br>
+Princess Maker: Go! Go! Princess<br>
 Princess Peach: Showtime!<br>
 Princess Sally<br>
 PRISM Project<br>
@@ -1576,7 +1880,8 @@ Professor Layton and the New World of Steam<br>
 Project 575<br>
 Project A-ko: Uncivil Wars<br>
 Prophet Posse<br>
-Puchi Eva ~EVANGELION@SCHOOL~<br>
+Prostudent Good<br>
+Puchi Eva \~EVANGELION@SCHOOL\~<br>
 Puff Daddy & The Family<br>
 Punch-Out!! (Arcade)<br>
 Punisher: War Zone<br>
@@ -1586,6 +1891,7 @@ Puyo Puyo (1992)<br>
 Puyo Puyo 7<br>
 Puyo Puyo Champions<br>
 Puyo Puyo Chronicle<br>
+Puyo Puyo DA!<br>
 Puyo Puyo Fever 2<br>
 Puyo Puyo Fever<br>
 Puyo Puyo Puzzle Pop<br>
@@ -1595,18 +1901,23 @@ Puyo Puyo Tetris<br>
 Puyo Puyo Tsu<br>
 Puyo Puyo! 15th Anniversary<br>
 Puyo Puyo!! 20th Anniversary<br>
-Puyo Puyo~n<br>
+Puyo Puyo\~n<br>
 Puzzle & Dragons: Super Mario Bros. Edition<br>
+Puzzle Bobble<br>
 Puzzle Fighter<br>
 Quack Pack<br>
 Queen Charlotte: A Bridgerton Story<br>
 Queens of the Stone Age<br>
+Quibble Race<br>
 Rabbids Go Home<br>
+Race Through New York Starring Jimmy Fallon<br>
 Racetraitor<br>
 Radha Krishna Temple<br>
 Raider Klan<br>
 Rainbow (Band)<br>
+Rainbow Cotton<br>
 Rainbow Islands<br>
+Rainy Boots<br>
 Rance 02: The Rebellious Maidens<br>
 Rance 03: The Fall of Leazas<br>
 Rance 4.1 & 4.2<br>
@@ -1629,15 +1940,29 @@ Record of Lodoss War: Deedlit in Wonder Labyrinth<br>
 Red Vox<br>
 Reggie's Bakery<br>
 Requiem of the Rose King: The Queen and the Rose Knight<br>
+Resident Evil Gaiden<br>
+Resident Evil Re:Verse<br>
+Resident Evil Survivor 2 CODE: Veronica<br>
+Resident Evil: Degeneration<br>
+Resident Evil: Welcome to Raccoon City<br>
 RetroMania Wrestling<br>
 RetroRealms Arcade<br>
 RetroRealms<br>
 Return to Castle Wolfenstein<br>
-Revenge Room ~Jutai o Kyouyou Sareru Chikashitsu~<br>
+Revenge of the Mummy<br>
+Revenge Room \~Jutai o Kyouyou Sareru Chikashitsu\~<br>
 Revolting Cocks<br>
+Revolutionary Girl Utena: After the Revolution<br>
 Rey Mysterio vs. La Oscuridad<br>
 Rich Gang<br>
 Rick and Morty: The Anime<br>
+Rick and Morty: Virtual Rick-ality<br>
+Riddle School 2<br>
+Riddle School 3<br>
+Riddle School 4<br>
+Riddle School 5<br>
+Riddle Transfer 2<br>
+Riddle Transfer<br>
 Ridge Racer (PSP)<br>
 Ridge Racer 3D<br>
 Ridge Racer 64<br>
@@ -1645,11 +1970,13 @@ Ridge Racer 6<br>
 Ridge Racer 7<br>
 Ridge Racer Slipstream<br>
 Ridge Racer Type 4<br>
+Rift of the NecroDancer<br>
 Roadrunner United<br>
 Rob Zombie's Halloween II<br>
 Rob Zombie's Halloween<br>
 Robert Plant and The Strange Sensation<br>
 Rocket Juice & The Moon<br>
+Rocky (SMS)<br>
 Rodan<br>
 Rough Upbringing<br>
 Rubble & Crew<br>
@@ -1657,25 +1984,29 @@ Rudolph and Frosty's Christmas in July<br>
 Rudolph's Shiny New Year<br>
 Rugrats Go Wild<br>
 Ruined King<br>
+Rusty's Retirement<br>
 S.T.A.L.K.E.R. 2: Heart of Chornobyl<br>
 Saber + Zenkaiger: Super Hero Senki<br>
 Sabrina: Secrets of a Teenage Witch<br>
 Sabrina: The Animated Series<br>
 Sad Boys<br>
+Saeta del ruiseñor<br>
 Sailor Moon S: Jougai Rantou!<br>
 Sailor Moon S: The Movie<br>
 Saint Seiya Omega: Ultimate Cosmo<br>
+Saints Row (2022)<br>
 Saints Row: Gat out of Hell<br>
 Sakamata Chloe Ch.<br>
 Sakuna Chronicles: Kokorowa and the Gears of Creation<br>
 Sakura Miko Ch.<br>
-Sakura Taisen 4 ~Koiseyo Otome~<br>
+Sakura Taisen 4 \~Koiseyo Otome\~<br>
 Sakura-iro Dreamer<br>
 Sam & Cat<br>
 Sam & Max Hit the Road<br>
 Sam Gopal<br>
 Samba de Amigo (Wii)<br>
 Samson<br>
+Samurai Pizza Cats: Blast from the Past!<br>
 SAMURAI vs ZOMBIES DEFENSE 2<br>
 Samurai Warriors: Spirit of Sanada<br>
 Santana<br>
@@ -1688,6 +2019,7 @@ Saw 3D<br>
 Saw V<br>
 Saw VI<br>
 Saw X<br>
+Sayonara End Roll<br>
 Scar the Martyr<br>
 Schemaposse<br>
 Scoob!<br>
@@ -1710,7 +2042,10 @@ Scribblenauts Showdown<br>
 Scribblenauts Unmasked: A DC Comics Adventure<br>
 Secret Agent Clank<br>
 Secret Invasion<br>
+Secret Life<br>
 Secret Mountain Fort Awesome<br>
+Secret Neighbor<br>
+Security Breach: Fury's Rage<br>
 SEGA Heroes<br>
 SEGA Superstars Tennis<br>
 SEGA Superstars<br>
@@ -1720,6 +2055,8 @@ Sei Yariman Gakuen Pakopako Nikki 2021<br>
 Sengoku BASARA Judge End<br>
 Sengoku BASARA X<br>
 Sengoku Basara: Samurai Kings<br>
+Sengoku Blade<br>
+Sengoku Cannon<br>
 Senran Kagura RUN<br>
 Senran Kagura Spark!<br>
 Senran Kagura: Bon Appétit!<br>
@@ -1733,35 +2070,45 @@ Servants of the Serpent<br>
 Serú Girán<br>
 Shadow Generations<br>
 Shadow of the Tomb Raider<br>
+Shaggy & Scooby-Doo Get a Clue!<br>
 Shaq-Fu<br>
+Shazam! (1981)<br>
 Shazam! Fury of the Gods<br>
 Shazam!<br>
 She-Hulk: Attorney at Law<br>
+Shin Bokura no Taiyou: Gyakushuu no Sabata<br>
 Shin Godzilla<br>
+Shin Megami Tensei: Synchronicity Prologue<br>
 Shining Force Gaiden<br>
 Shippuu Tengoku Kaze no Klonoa<br>
 Shirakami Fubuki Ch.<br>
 Shishiro Botan Ch.<br>
 Shock Treatment<br>
+Shrek 4-D<br>
+Shrek 5<br>
+Shrek SuperSlam<br>
 Shun<br>
 Silent Hill: Homecoming<br>
 Silent Hill: Origins<br>
 Silk Sonic<br>
 Silver Surfer (1998)<br>
+Silver Surfer (Game)<br>
 SimCity<br>
 Sinsaenum<br>
 SISTAR<br>
 SKE48<br>
+Skull Island: Reign of Kong<br>
 Skullmonkeys<br>
 SKYCOLOR Project<br>
 Slash's Snakepit<br>
+SLEEPLESS \~A Midsummer Night's Dream\~<br>
 SLEEPLESS Nocturne<br>
-SLEEPLESS ~A Midsummer Night's Dream~<br>
 Slender: The Arrival<br>
 Slender: The Eight Pages<br>
 Slippin' Jimmy<br>
 Slot Car Rivals<br>
 Smallville<br>
+SMITE 2<br>
 SNK vs. Capcom: SVC Chaos<br>
 SNK vs. Capcom: The Match of the Millennium<br>
 So You Think You Can Dance<br>
@@ -1831,18 +2178,23 @@ Soulcalibur Legends<br>
 Space Channel 5 VR: Kinda Funky News Flash!<br>
 Space Channel 5: Part 1<br>
 Space Channel 5: Part 2<br>
+Spark the Electric Jester 2<br>
+Spark the Electric Jester 3<br>
 Spider-Man (1967)<br>
 Spider-Man (1981)<br>
 Spider-Man (1994)<br>
 Spider-Man (2000 Game)<br>
 Spider-Man (2002)<br>
 Spider-Man (2017)<br>
+Spider-Man (Atari)<br>
+Spider-Man 2 (GBA)<br>
 Spider-Man 3<br>
 Spider-Man and His Amazing Friends<br>
 Spider-Man Unlimited<br>
 Spider-Man: Edge of Time<br>
 Spider-Man: Far From Home<br>
 Spider-Man: No Way Home<br>
+Spider-Man: Return of the Sinister Six<br>
 Spider-Man: Shattered Dimensions<br>
 Spider-Man: The New Animated Series<br>
 Spider-Man: Web of Shadows<br>
@@ -1852,6 +2204,7 @@ Spiral Clicker 2<br>
 Spiral Clicker: Christmas Survivors<br>
 Split the Room<br>
 SpongeBob Diner Dash 2: Two Times the Trouble<br>
+SpongeBob Simulator<br>
 SpongeBob SquarePants Diner Dash<br>
 SpongeBob SquarePants featuring Nicktoons: Globs of Doom<br>
 SpongeBob SquarePants: Creature from the Krusty Krab<br>
@@ -1861,8 +2214,12 @@ SpongeBob SquarePants: Plankton's Robotic Revenge<br>
 SpongeBob SquarePants: Revenge of the Flying Dutchman<br>
 SpongeBob SquarePants: SuperSponge<br>
 SpongeBob SquarePants: The Cosmic Shake<br>
+Spot Goes to Hollywood<br>
+Spot: The Cool Adventure<br>
+Spot: The Video Game<br>
 Springtime with Roo<br>
 Spy Fox 2: 'Some Assembly Required'<br>
+Spy x Family: Code White<br>
 Spyro Orange: The Cortex Conspiracy<br>
 Spyro: Enter the Dragonfly<br>
 SPYxANYA: Operation Memories<br>
@@ -1891,10 +2248,17 @@ Star Wars: Tales from the Galaxy's Edge<br>
 Star Wars: Yoda Stories<br>
 Star Wars: Young Jedi Adventures<br>
 Stardust<br>
+Starlink: Battle for Atlas<br>
 Static Shock<br>
+Steal the Antique Chicken<br>
 Stealing the Diamond<br>
 Steel (1997)<br>
+Stitch and the Samurai<br>
+Stitch! (Manga)<br>
+Stitch!<br>
 Stone Sour<br>
+Storm Force Accelatron<br>
+Street Fighter X Mega Man<br>
 Streetwalkers<br>
 Stretch<br>
 Strictly Inc.<br>
@@ -1908,9 +2272,13 @@ Summer Radish Vacation!! 2<br>
 Sunday vs Magazine: Shuuketsu! Choujou Daikessen<br>
 Sunny Day Real Estate<br>
 Sunshine Boy<br>
+Super Back to the Future Part II<br>
 Super Bomberman R<br>
+Super Bonk<br>
 Super Castlevania IV<br>
 Super Dragon Ball Z<br>
+Super Friends<br>
+Super Genjin 2<br>
 Super Heroine Chronicle<br>
 Super Indie Karts<br>
 Super Mario Adventures<br>
@@ -1926,13 +2294,19 @@ Super Mario Run<br>
 Super Mario World: Mario to Yoshi no Bouken Land<br>
 Super Mario-kun<br>
 Super Monkey Ball Banana Mania<br>
+Super Monkey Ball Banana Rumble<br>
+Super Monkey Ball: Step & Roll<br>
 Super PAC-MAN<br>
 Super Punch-Out!! (Arcade)<br>
+Super Puzzle Bobble<br>
 Super Puzzle Fighter II Turbo<br>
 Super Scribblenauts<br>
 Supergirl (1984)<br>
+Supergirl (TV)<br>
+Superhuman Samurai Syber-Squad<br>
 SuperM<br>
 Superman & Lois<br>
+Superman (1988)<br>
 Superman (2025)<br>
 Superman II<br>
 Superman III<br>
@@ -1944,9 +2318,11 @@ Superman: The New Superman Adventures<br>
 Surf's Up 2: WaveMania<br>
 Survive the Internet<br>
 Swamp Thing (1982)<br>
+Swamp Thing (1991)<br>
 Swap Poker<br>
 Sword Art Online: Fractured Daydream<br>
 Sword of the Berserk: Guts' Rage<br>
+T2-3D: Battle Across Time<br>
 Tails Adventure<br>
 Tails and the Music Maker<br>
 Tails' Skypatrol<br>
@@ -1962,6 +2338,7 @@ Tales of the Heroes: Twin Brave<br>
 Tales of the Jedi<br>
 Tales of the Teenage Mutant Ninja Turtles<br>
 Tales of VS.<br>
+TaleSpin (Game)<br>
 Tappi Tíkarrass<br>
 Tarzan II<br>
 Tater Totz<br>
@@ -1976,10 +2353,12 @@ Tee K.O. 2<br>
 Teen Titans Go! To the Movies<br>
 Teen Titans Go!<br>
 Teenage Mutant Ninja Turtles (1990)<br>
+Teenage Mutant Ninja Turtles (NES)<br>
 Teenage Mutant Ninja Turtles II: The Secret of the Ooze<br>
 Teenage Mutant Ninja Turtles III<br>
 Teenage Mutant Ninja Turtles: Mutant Mayhem<br>
 Teenage Mutant Ninja Turtles: Out of the Shadows<br>
+Teenage Mutant Ninja Turtles: Shredder's Revenge<br>
 TEKKEN (Mobile)<br>
 TEKKEN (Movie)<br>
 TEKKEN TAG TOURNAMENT 2<br>
@@ -1987,13 +2366,23 @@ TEKKEN: Bloodline<br>
 TEKKEN: The Motion Picture<br>
 Temple of the Dog<br>
 Tennis (NES)<br>
+Terrifier 2<br>
+Terrifier 3<br>
+Terrifier: The ARTcade Game<br>
 Terror of Mechagodzilla<br>
 Tetris Attack<br>
 Texas Chainsaw 3D<br>
 Texas Chainsaw Massacre (2022)<br>
 Tha Eastsidaz<br>
+That's Entertainment!<br>
 The 3rd Birthday<br>
+The 9th Circle<br>
+The A.B.C. Murders<br>
+The Amazing Adventures of Spider-Man<br>
+The Amazing Spider-Man (GB)<br>
+The Amazing Spider-Man 2 (GB)<br>
 The Amazing Spider-Man 2<br>
+The Amazing Spider-Man 3: Invasion of the Spider-Slayers<br>
 The Amazing Spider-Man<br>
 The Angry Birds Movie 2<br>
 The Angry Birds Movie<br>
@@ -2008,12 +2397,18 @@ The Band<br>
 The Batman vs. Dracula<br>
 The Batman<br>
 The Best<br>
+The Big Bell Race<br>
 The Binding of Isaac: Four Souls<br>
 The Brak Show<br>
 The Brian May Band<br>
 The Brief Return of Dr. Slump<br>
 The Brighton Port Authority<br>
+The Bugs Bunny Crazy Castle 2<br>
+The Bugs Bunny Crazy Castle<br>
 The Casagrandes<br>
+The Cat in the Hat: The Ride<br>
+The Chronicles of Riddick: Assault on Dark Athena<br>
+The Chronicles of Riddick: Escape from Butcher Bay<br>
 The Circus<br>
 The Claypool Lennon Delirium<br>
 The Color of Money<br>
@@ -2026,12 +2421,15 @@ The Crow: Stairway to Heaven<br>
 The Cuphead Show!<br>
 The Damned Things<br>
 The Dark Knight<br>
+The Darkness (Game)<br>
+The Darkness II<br>
 The Dawn of Yangchen<br>
 The Day the Earth Blew Up: A Looney Tunes Movie<br>
 The Deep Dark<br>
 The Dillinger Escape Plan<br>
 The Dirty Mac<br>
 The Dresden Dolls<br>
+The Electric Tale of Pikachu<br>
 The Eras Tour<br>
 The Evaporators<br>
 The Fairly OddParents: Fairly Odder<br>
@@ -2041,12 +2439,16 @@ The Fantastic Four: First Steps<br>
 The Fire Theft<br>
 The Fireman<br>
 The Firm<br>
+The First Berserker: Khazan<br>
 The Flash (1990)<br>
 The Flash (2023)<br>
 The Flintstones & WWE: Stone Age Smackdown<br>
 The Forces of Evil<br>
+The Forest<br>
 The Fowl Twins<br>
 The Fugees<br>
+The Funtastic World of Hanna-Barbera<br>
+The Gingerweed Man<br>
 The Glove<br>
 The Gold Rush<br>
 The Good, the Bad & the Queen<br>
@@ -2060,6 +2462,7 @@ The Herd<br>
 The Highwaymen<br>
 The Honey Drippers<br>
 The House of the Dead 2<br>
+The House of the Dead: Scarlet Dawn<br>
 The Housemartins<br>
 The Hunchback of Notre Dame II<br>
 The Idle Race<br>
@@ -2067,18 +2470,22 @@ THE iDOLM@STER 2<br>
 The Immigrant<br>
 The Incredible Hulk (1982)<br>
 The Incredible Hulk (1996)<br>
+The Incredible Hulk Coaster<br>
 The Incredible Hulk<br>
+The Invincible Iron Man<br>
 The Jaded Hearts Club<br>
 The Jealous Sound<br>
 The Jeff Beck Group<br>
 The Jetsons & WWE: Robo-WrestleMania!<br>
 The Jimmy Dean Show<br>
 The Jungle Book 2<br>
+The Karate Kid (Game)<br>
 The Kid<br>
 The King of Fighters '98 Ultimate Match Online<br>
 The King of Fighters '98<br>
 THE KING OF FIGHTERS for GIRLS<br>
 The Lara-Su Chronicles<br>
+The Last Hour of an Epic TO THE MOON RPG<br>
 The Last of Us (TV)<br>
 The Layover<br>
 The Left Rights<br>
@@ -2089,7 +2496,10 @@ The Legend of Zelda: Tri Force Heroes<br>
 The LEGO Batman Movie<br>
 The LEGO Ninjago Movie<br>
 The Life and Adventures of Santa Claus<br>
+The Little Mermaid (Game)<br>
+The Lone Gunmen<br>
 The Longshot<br>
+The Lost Vikings 2<br>
 The Lost World: Jurassic Park<br>
 The Mageseeker<br>
 The Magical Quest Starring Mickey Mouse<br>
@@ -2114,6 +2524,7 @@ The Muppets (2015)<br>
 The Muppets Mayhem<br>
 The Muppets Take Manhattan<br>
 The Muppets' Wizard of Oz<br>
+The Murder of Roger Ackroyd<br>
 The Music Tapes<br>
 The Neptunes<br>
 The Network<br>
@@ -2130,28 +2541,44 @@ The Olivia Tremor Control<br>
 The Originals<br>
 The Pack<br>
 The Peanuts Movie: Snoopy's Grand Adventure<br>
+The Playroom VR<br>
 The Prince and the Pauper (1990)<br>
 The Punisher (1989)<br>
 The Punisher (1993 Game)<br>
 The Punisher (2004)<br>
 The Punisher (2005 Game)<br>
 The Quarrymen<br>
+The Real Ghostbusters (Game)<br>
 The Real Ghostbusters<br>
 The Reckoning of Roku<br>
 The Return of Godzilla<br>
 The Return of Jafar<br>
 The Return of Swamp Thing<br>
 The Return of the Texas Chainsaw Massacre<br>
+The Riddle<br>
 The Scotts<br>
 The Secret Diary of Laura Palmer<br>
+The Secret Life Of Pets: Off The Leash<br>
 The SiIvaGunner Christmas Comeback Crisis<br>
+The Simpsons Arcade Game<br>
 The Simpsons Game<br>
+The Simpsons Ride<br>
 The Simpsons Skateboarding<br>
+The Simpsons: Bart vs. The Juggernauts<br>
+The Simpsons: Bart vs. the Space Mutants<br>
+The Simpsons: Bart vs. the World<br>
+The Simpsons: Bart's House of Weirdness<br>
+The Simpsons: Bart's Nightmare<br>
+The Simpsons: Bartman Meets Radioactive Man<br>
 The Simpsons: Hit & Run<br>
+The Simpsons: Itchy & Scratchy in Miniature Golf Madness<br>
 The Simpsons: Road Rage<br>
+The Simpsons: Tapped Out<br>
+The Sims (Console)<br>
 The Smile<br>
 The Social Experiment<br>
 The Spectacular Spider-Man<br>
+The Stars Above<br>
 The Sugarcubes<br>
 The Suicide Squad<br>
 The Super Hero Squad Show<br>
@@ -2164,28 +2591,44 @@ The Tigger Movie<br>
 The Transformers: Super-God Masterforce<br>
 The Transformers: The Movie<br>
 The Trip<br>
+The Typing of the Dead: Overkill<br>
+The Typing of the Dead<br>
 The Unbearable Weight of Massive Talent<br>
 The Voice<br>
 The Voidz<br>
 The Walking Dead (Comic)<br>
 The Walking Dead: Daryl Dixon<br>
 The Walking Dead: Dead City<br>
+The Walking Dead: Michonne<br>
 The Walking Dead: The Ones Who Live<br>
 The War of the Gargantuas<br>
 The Weird Al Show<br>
 The Wipeouters<br>
+The Witcher (Game)<br>
+The Witcher (TV)<br>
+The Witcher 2: Assassins of Kings<br>
+The Witcher 3: Wild Hunt<br>
+The Witcher IV<br>
 The Wizard of Oz: Beyond the Yellow Brick Road<br>
 The Wolverine<br>
 The Wubbulous World of Dr. Seuss<br>
 The Yard<br>
+Theatrhythm Dragon Quest<br>
+Theatrhythm Final Bar Line<br>
+Theatrhythm Final Fantasy All-Star Carnival<br>
+Theatrhythm Final Fantasy Curtain Call<br>
+Theatrhythm Final Fantasy<br>
 Them Crooked Vultures<br>
 Theodore Unit<br>
+Thomas & Friends: Calling All Engines!<br>
+Thomas & Friends: The Great Discovery<br>
+Thomas and the Magic Railroad<br>
 Thor & Loki: Blood Brothers<br>
 Thor: Love and Thunder<br>
 Thor: Tales of Asgard<br>
 Thor: The Dark World<br>
 Thug Life<br>
-Thunderbolts\*<br>
+Thunderbolts*<br>
 Timmy Time<br>
 Tin Machine<br>
 Tipton, Entwistle & Powell<br>
@@ -2218,8 +2661,6 @@ Tomahawk<br>
 Tomb Raider II<br>
 Tomb Raider III<br>
 Tomb Raider: Anniversary<br>
-Tomb Raider: Chronicles<br>
-Tomb Raider: Legend<br>
 Tomb Raider: The Angel of Darkness<br>
 Tomb Raider: The Last Revelation<br>
 Tomb Raider: The Legend of Lara Croft<br>
@@ -2237,7 +2678,8 @@ Top Gun: Maverick<br>
 ToppDogg<br>
 Torneko: The Last Hope<br>
 Total War: Warhammer<br>
-Touhou Bunkachou ~ Shoot the Bullet<br>
+Touhou Bunkachou \~ Shoot the Bullet<br>
+Touhou Luna Nights<br>
 Touhou Spell Bubble<br>
 Touken Ranbu Warriors<br>
 Tournament of Champions<br>
@@ -2268,6 +2710,7 @@ Transformers: Rise Of The Beasts<br>
 Transformers: Robots in disguise (2001)<br>
 Transformers: Robots In Disguise<br>
 Transformers: The Headmasters<br>
+Transformers: The Ride<br>
 Transformers: Victory<br>
 Transformers: War For Cybertron<br>
 Transformers: WFC trilogy<br>
@@ -2276,6 +2719,7 @@ Trapped in the Past<br>
 Traveling Wilburys<br>
 Triple K.O.<br>
 Trolls Scrapbook Stories<br>
+Trolls' Trollercoaster<br>
 Trolls: The Beat Goes On!<br>
 Trolls: TrollsTopia<br>
 TRON: Betrayal<br>
@@ -2285,6 +2729,7 @@ Truth of Beauty Witch -Marine's treasure ship-<br>
 Tsubasa Reservoir Chronicle the Movie: The Princess in the Birdcage Kingdom<br>
 Tsukumo Sana Ch.<br>
 Tsunderia<br>
+Turbo Kid (Game)<br>
 Turma da Mata<br>
 Turma da Mônica em Uma Aventura no Tempo<br>
 Turma da Mônica Geração 12<br>
@@ -2300,22 +2745,28 @@ Turma do Horácio<br>
 Turma do Papa-Capim<br>
 Turma do Penadinho<br>
 Turma do Piteco<br>
+Turnip Boy Robs a Bank<br>
 Turtles of Grayskull<br>
 Twin Freaks<br>
 Twin Peaks: Fire Walk with Me<br>
+TwinBee RPG<br>
+TwinBee Taisen Puzzle-Dama<br>
+TwinBee Yahho!: Fushigi no Kuni de Oabare!!<br>
 Twisted Metal (TV)<br>
 TYPE-MOON Academy Chibichuki!<br>
 tētēma<br>
 U.K.<br>
 Ultimate Angler<br>
+Ultimate Avengers 2: Rise of the Panther<br>
+Ultimate Avengers: The Movie<br>
 Ultimate Custom Night<br>
 Ultimate Spider-Man<br>
 Um, Actually<br>
+Uma Musume Pretty Derby: Star Blossom<br>
 Uma Musume: Cinderella Gray<br>
 Umehara FIGHTING GAMERS!<br>
 Umehara: To Live Is to Game<br>
 Umineko Golden Fantasia<br>
-UmJammer Lammy<br>
 Uncharted (2022)<br>
 Uncharted: Golden Abyss<br>
 Uncharted: The Lost Legacy<br>
@@ -2323,6 +2774,7 @@ Under Kids<br>
 Under the Summer Breeze<br>
 UNIQ<br>
 Universal Indicator<br>
+Universal Studios Theme Park Adventure<br>
 Uruha Rushia Ch.<br>
 USA for Africa<br>
 Usada Pekora Ch.<br>
@@ -2332,6 +2784,8 @@ Vader Immortal: A Star Wars VR Series<br>
 Vantage Master Portable<br>
 Varan<br>
 VCMG<br>
+Velgress<br>
+VelociCoaster<br>
 Velvet Revolver<br>
 Venom: Let There Be Carnage<br>
 Venom: The Last Dance<br>
@@ -2346,8 +2800,11 @@ VIVIZ<br>
 VM JAPAN<br>
 VOICE-ORE<br>
 VOICEPEAK<br>
+Voltes V: Legacy<br>
 Vyugen<br>
 Waku Waku Sonic Patrol Car<br>
+Waldorf's Journey<br>
+Wallace & Gromit's Grand Adventures<br>
 Wallace & Gromit: A Close Shave<br>
 Wallace & Gromit: A Matter of Loaf and Death<br>
 Walter TV<br>
@@ -2361,6 +2818,7 @@ Warhammer 40,000: Tacticus<br>
 Wario Blast: Featuring Bomberman!<br>
 Wario Land 3<br>
 Wario Land II<br>
+Wario's Woods (SNES)<br>
 Wario's Woods<br>
 Wario: Master of Disguise<br>
 WarioWare: D.I.Y. Showcase<br>
@@ -2372,6 +2830,7 @@ Warriors Orochi 2<br>
 Warriors Orochi 3<br>
 Warriors Orochi 4<br>
 Warriors: A Vision of Shadows<br>
+WARRIORS: Abyss<br>
 Warriors: Dawn of the Clans<br>
 Warriors: Omen of the Stars<br>
 Warriors: Power of Three<br>
@@ -2387,14 +2846,20 @@ Werewolf by Night (2022)<br>
 Wes Craven's New Nightmare<br>
 Westside Connection<br>
 Wham!<br>
+Where in the World Is Carmen Sandiego? (1991)<br>
 Where in the World Is Carmen Sandiego?<br>
 Where's my Water? 2<br>
+White Rabbit Project<br>
 White Spirit<br>
 White Zombie<br>
 Whitesnake<br>
+Who Framed Roger Rabbit (Game)<br>
 WhoCares<br>
+Wild Life<br>
 Wild Rift<br>
+WILD/CARD<br>
 Will Haven<br>
+Windy X Windam<br>
 Wings (Band)<br>
 Winnie the Pooh: Seasons of Giving<br>
 WitchSpring 1<br>
@@ -2410,6 +2875,8 @@ Wonder Woman (1975)<br>
 Wonder Woman (2017)<br>
 Wonder Woman 1984<br>
 Wonderful PreCure! The Movie! Doki Doki! An Epic♡Adventure In The Game World!<br>
+Woody Woodpecker in Crazy Castle 5<br>
+Woody Woodpecker's Nuthouse Coaster<br>
 World Class Wreckin Cru<br>
 World Kicks<br>
 World of Illusion Starring Mickey Mouse and Donald Duck<br>
@@ -2420,6 +2887,9 @@ Wu-Block<br>
 Wu-Tang: Shaolin Style<br>
 WWE '12<br>
 WWE '13<br>
+WWE 2K14<br>
+WWE 2K15<br>
+WWE 2K16<br>
 WWE Champions<br>
 WWE Immortals<br>
 WWE Slam City<br>
@@ -2429,6 +2899,7 @@ WWE SmackDown! vs RAW 2008<br>
 WWE SmackDown! vs RAW 2010<br>
 WWE SmackDown! vs RAW 2011<br>
 WWE SmackDown! vs. Raw<br>
+WWF WrestleFest<br>
 WZRD<br>
 X-Men '97<br>
 X-Men (2000)<br>
@@ -2449,11 +2920,13 @@ Yapoos<br>
 Yardbirds<br>
 Yasha<br>
 Yo Yogi!<br>
+Yo! Noid<br>
 Yo-kai Watch Dance: Just Dance Special Version<br>
 Yooka-Laylee and the Impossible Lair<br>
 Yoshi (Game)<br>
 Yoshi Topsy-Turvy<br>
 Yoshi Touch & Go<br>
+Yoshi's Adventure<br>
 Yoshi's Cookie<br>
 Yoshi's Crafted World<br>
 Yoshi's Safari<br>
@@ -2468,6 +2941,7 @@ Yu-Gi-Oh! Duel Links<br>
 Yu-Gi-Oh! GX Tag Force 3<br>
 Yu-Gi-Oh! OCG Stories<br>
 Yu-Gi-Oh! Power of Chaos<br>
+Yu-Gi-Oh! The Falsebound Kingdom<br>
 Yukihana Lamy Ch.<br>
 Yume Kojo: Doki Doki Panic<br>
 YUMENIKKI –DREAM DIARY–<br>
@@ -2475,21 +2949,25 @@ Z-Rock Hawaii<br>
 Zee<br>
 Zero no Tsukaima Gaiden: Tabitha no Bouken<br>
 Zone Fighter<br>
+Zuma's Revenge<br>
 Zé Carioca<br>
 ¥$<br>
 Ōkami Sequel<br>
 
-## Bundles (111)
+## Bundles (139)
 
 Archie Sonic Miniseries<br>
 Backbone Entertainment<br>
 BIONICLE Movies<br>
 Blade Trilogy<br>
 Bowser's Minions Series<br>
+Captain America Franchise<br>
 Cars Video Games<br>
 Castle of Illusion Series<br>
 Clerks Series<br>
 Cooking Dash Series<br>
+Cotton Series<br>
+Crazy Castle<br>
 Daredevil Franchise<br>
 DC Extended Universe<br>
 DC Universe<br>
@@ -2515,9 +2993,10 @@ Famicom Grand Prix<br>
 Fantastic Four Franchise<br>
 Fitness Boxing Series<br>
 Game & Watch Gallery Series<br>
-Game Republic<br>
+Gamefam<br>
 Godzilla: Heisei Continuity<br>
 Godzilla: Millennium Era<br>
+Godzilla: Shōwa Continuity<br>
 Grantray-Lawrence Animation<br>
 Green Lantern Franchise<br>
 Griptonite Games<br>
@@ -2525,18 +3004,22 @@ Higurashi no Naku Koro ni Kai<br>
 Higurashi no Naku Koro Ni Main Story Arcs<br>
 Higurashi no Naku Koro ni Question Arcs<br>
 Higurashi no Naku Koro Ni Story Arcs<br>
+holo Indie<br>
 Hulk Franchise<br>
 Hulk vs.<br>
 IDW Sonic the Hedgehog Miniseries<br>
 ImCyan<br>
+inabakumori Series<br>
 indieszero<br>
 Injustice Series<br>
 Itadaki Street Series<br>
 J Legend Retsuden<br>
 Justice League Franchise<br>
+LEGO Batman<br>
 LEGO DC Video Games<br>
 LEGO Indiana Jones Video Games<br>
-Magical Drop Series<br>
+Life Series<br>
+Light & Shadow Production<br>
 Mario & Sonic at the Olympic Games Series<br>
 Mario & Sonic at the Olympic Winter Games Series<br>
 Mario & Sonic<br>
@@ -2545,6 +3028,8 @@ Mario Discovery Series<br>
 Mario Kart Arcade GP Series<br>
 Mario Teaches Typing Series<br>
 Mario vs. Donkey Kong Series<br>
+Marvel Animated Features Collection<br>
+Marvel Earth-8096<br>
 Marvel's Netflix Television Series<br>
 Marvel: Ultimate Alliance Series<br>
 MCU Avengers Series<br>
@@ -2560,8 +3045,9 @@ Papa's Gamerias<br>
 Pikachu Shorts<br>
 Poker Night Series<br>
 Punisher Franchise<br>
+Puzzle Fighter Series<br>
 SEGA AM1<br>
-SEGA Pico Games<br>
+SEGA Pico<br>
 SEGA Superstars Series<br>
 Sonic & Mega Man<br>
 Sonic & SEGA All-Stars Racing Series<br>
@@ -2573,22 +3059,39 @@ Sonic Rivals Series<br>
 Sonic Runners Series<br>
 Sonic the Hedgehog 4<br>
 Space Channel 5 Series<br>
+Spot Series<br>
 Super Mario Party Series<br>
 Superman Franchise<br>
 Superman Movies<br>
 Superman TV Shows<br>
 Tails Series<br>
+Team Ladybug<br>
 Teenage Mutant Ninja Turtles: Mutant Mayhem Series<br>
 Tetris Series<br>
 The Amazing Spider-Man Movie Series<br>
+The Disney Afternoon Collection<br>
+The Real Ghostbusters Series<br>
 The Simpsons Video Games<br>
 The Software Toolworks<br>
+The Typing of the Dead Series<br>
+Theatrhythm<br>
 Tom Clancy's Splinter Cell Series<br>
 TUYU Series<br>
+Typing Tutors<br>
+UFO 50 Games<br>
+Universal Epic Universe<br>
+Universal Islands of Adventure<br>
+Universal Orlando Resort<br>
+Universal Parks<br>
+Universal Studios Beijing<br>
+Universal Studios Florida<br>
+Universal Studios Hollywood<br>
+Universal Studios Japan<br>
+Universal Studios Singapore<br>
 Waku Waku Children's Arcade Rides<br>
 Warhammer 40,000: Space Marine Series<br>
+Wario's Woods Series<br>
 WarioWare: D.I.Y. Series<br>
 WB Games Montréal<br>
-Webfoot Technologies<br>
 Wolverine Franchise<br>
 WonderSwan Color Games<br>
