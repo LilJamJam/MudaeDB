@@ -1110,7 +1110,7 @@ Isekai∞Isekai<br>
 Island Days<br>
 It's Raining After All<br>
 Itadaki Street DS<br>
-IZ*ONE<br>
+IZ\*ONE<br>
 J-Stars Victory VS<br>
 Jack Bros.<br>
 Jack Ü<br>
@@ -1640,7 +1640,7 @@ MySims Racing<br>
 MySims SkyHeroes<br>
 Märchen Adventure Cotton 100%<br>
 N.W.A<br>
-N\*E\*R\*D<br>
+N\\*E\\*R\\*D<br>
 Nagato Yuki-chan no Shoushitsu<br>
 Nakiri Ayame Ch.<br>
 Nakoruru \~Ano Hito kara no Okurimono\~<br>
@@ -2628,7 +2628,7 @@ Thor: Love and Thunder<br>
 Thor: Tales of Asgard<br>
 Thor: The Dark World<br>
 Thug Life<br>
-Thunderbolts*<br>
+Thunderbolts\*<br>
 Timmy Time<br>
 Tin Machine<br>
 Tipton, Entwistle & Powell<br>
