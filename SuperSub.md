@@ -4,33 +4,33 @@
 
 General ($disableblock-ed) bundles (eg: Anime, Manga...) are excluded from calculations.
 
-Number of known pairs: 11614 => **12231**
+Number of known pairs: 12231 => **13152**
 
-Number of unique super-bundles: 1493 => **1542** (\~27.9% of all bundles)
+Number of unique super-bundles: 1542 => **1626** (\~28.0% of all bundles)
 
-Number of unique sub-bundles: 3454 => **3624** (\~65.7%)
+Number of unique sub-bundles: 3624 => **3836** (\~66.0%)
 
 ## All Pairs
 
 Superset | Subsets
 ------ | ------
 [adult swim] | Christy Karacas's Works \ Dragon Ball Original Manga Run
-07th Expansion | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Umineko no Naku Koro ni Series
+07th Expansion | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Umineko Series
 0verflow | Junji Gotou's Art \ Mathers Numakichi's Works \ Radish Series \ School Days Series
 1970's Anime | Fall 1971 Anime \ Nippon TV Video \ Waki Yamato's Works
-20th Century Fox Television | Family Guy Series
 20th Century Studios | Carlos Saldanha's Works \ Chris Wedge's Works \ Original X-Men Cinematic Universe
 2D Animated Movies | Atlantis Series \ Bambi Series \ Beauty and the Beast Series \ Boku no Hero Academia Movies \ Brother Bear Series \ Cartoon Saloon \ Cinderella Series \ Darrell Rooney's Works \ Dragon Ball Specials & OVAs \ Dragon Ball Z: Cooler Series \ Dragon Ball: Broly Series \ Fantasia Series \ Gary Trousdale & Kirk Wise's Works \ Hulk vs. \ InuYasha Movies \ Jim Kammerud's Works \ Kurayukaba Series \ Lady and the Tramp Series \ Mamoru Hosoda's Works \ Marvel Animated Features Collection \ Mulan Series \ One Piece Movies \ Pocahontas Series \ PreCure All Stars \ Richard Rich's Works \ Studio Chizu \ Team OneOne \ The Adventures of Ichabod and Mr. Toad \ The Fox and the Hound Series \ The Hunchback of Notre Dame Series \ The Rescuers Series \ Tomm Moore's Works \ Wolfgang Reitherman's Works
-2D Fighting Games | Akatsuki/En-Eins \ Arcana Heart \ Arcana Heart 3 Series \ Art of Fighting Series \ ClayFighter Series \ Darkstalkers Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Supersonic Warriors Series \ Examu \ Fatal Fury \ French-Bread \ Injustice Series \ Lethal League Series \ Marvel vs. Capcom \ The King of Fighters EX Series \ The Last Blade Series
-2D Platformers | Backbone Entertainment \ Bonk Series \ Cactus McCoy Series \ Castle of Illusion Series \ Donkey Kong Land Series \ Drawn to Life Series \ Hollow Knight Series \ Mega Man Legacy Collection \ Mega Man Legacy Collection 2 \ Mega Man X Legacy Collection \ Mega Man X Legacy Collection 2 \ Mega Man Zero Series \ Mega Man Zero/ZX Legacy Collection \ Mega Man ZX Series \ Ori \ Papa Louie Platformers \ Playdead \ Rosenkreuzstilette Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Colors Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic the Hedgehog 4 \ Super Mario All-Stars \ Super Mario Bros. 2 Series \ Super Mario Maker Series \ Super Meat Boy Series \ Team Ladybug \ The Lost Vikings Series \ Yacht Club Games \ Yoshi's Island Series
+2D Boy | World of Goo Series
+2D Fighting Games | Akatsuki/En-Eins \ Arcana Heart \ Arcana Heart 3 Series \ Art of Fighting Series \ ClayFighter Series \ Darkstalkers Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Supersonic Warriors Series \ Examu \ Fatal Fury \ Fighting Layer Series \ French-Bread \ Injustice Series \ Lethal League Series \ Marvel vs. Capcom \ The King of Fighters EX Series \ The Last Blade Series
+2D Platformers | Blasphemous Series \ Bonk Series \ Cactus McCoy Series \ Castle of Illusion Series \ Donkey Kong Land Series \ Drawn to Life Series \ Gal Guardians Series \ Hollow Knight Series \ Mega Man Legacy Collection \ Mega Man Legacy Collection 2 \ Mega Man X Legacy Collection \ Mega Man X Legacy Collection 2 \ Mega Man Zero Series \ Mega Man Zero/ZX Legacy Collection \ Mega Man ZX Series \ N Series \ Ori \ Papa Louie Platformers \ Playdead \ Red Ball Series \ Rosenkreuzstilette Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Colors Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic the Hedgehog 4 \ Super Mario All-Stars \ Super Mario Bros. 2 Series \ Super Mario Maker Series \ Super Meat Boy Series \ Team Ladybug \ The Lost Vikings Series \ Umihara Kawase Series \ Yacht Club Games \ Yoshi's Island Series
 3D Adult Games | Caribdis Games \ DrPinkCake's Works \ Koikatsu CG \ Ocean (Adult) \ Pizza Takeout Obscenity Series \ Rebootlove's Works
-3D CGI Animated Movies | BIONICLE Movies \ Byron Howard's Works \ Carlos Saldanha's Works \ Cars Movies \ Chris Wedge's Works \ Chris Williams's Works \ Cloudy with a Chance of Meatballs Series \ Dav Pilkey's Works \ Finding Nemo Series \ Frozen Series \ Hot Wheels \ Kung Fu Panda Movies \ Lee Unkrich's Works \ Moana Series \ Pete Docter's Works \ Peter Sohn's Works \ Rich Moore's Works \ Rise of the Brave Tangled Dragons \ Shrek Series \ Sing Series \ Spider-Verse Saga \ The Bad Guys Series \ Toy Story Mainline Movies \ White Snake Series \ Wreck-It Ralph Series
-3D CGI Animated Shows | BoBoiBoy Series \ Craig Gerber's Works \ Glitch Productions \ PAW Patrol Series \ Ryuji Masuda's Works \ Tales of Arcadia
-3D Fighting Games | Bloody Roar \ Dissidia Final Fantasy Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Shin Budokai Series \ TEKKEN TAG TOURNAMENT Series
-3D Platformers | American McGee's Alice Series \ Banjo-Kazooie Series \ Core Design \ Crash Bandicoot N. Sane Trilogy \ Ghostrunner Series \ Jet Set Radio Series \ Kao the Kangaroo Series \ Little Nightmares Series \ Ratchet & Clank Collection \ Sly Cooper \ Sonic Adventure Series \ Sonic Storybook Series \ Spyro Reignited Trilogy \ Super Mario 3D All-Stars \ Super Mario Galaxy Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
-3D Realms | Slipgate Ironworks
+3D CGI Animated Movies | BIONICLE Movies \ Byron Howard's Works \ Carlos Saldanha's Works \ Cars Movies \ Chris Wedge's Works \ Chris Williams's Works \ Cloudy with a Chance of Meatballs Series \ Dav Pilkey's Works \ Frozen Series \ Hot Wheels \ Kung Fu Panda Movies \ Lee Unkrich's Works \ Moana Series \ Ne Zha Series \ Pete Docter's Works \ Peter Sohn's Works \ Rich Moore's Works \ Rise of the Brave Tangled Dragons \ Sing Series \ Spider-Verse Saga \ The Bad Guys Series \ Toy Story Mainline Movies \ White Snake Series \ Wreck-It Ralph Series
+3D CGI Animated Shows | BoBoiBoy Series \ Craig Gerber's Works \ PAW Patrol Series \ Ryuji Masuda's Works \ Tales of Arcadia
+3D Fighting Games | Bloody Roar \ Def Jam Games \ Dissidia Final Fantasy Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Shin Budokai Series \ KOF: Maximum Impact Series \ TEKKEN TAG TOURNAMENT Series
+3D Platformers | American McGee's Alice Series \ Core Design \ Crash Bandicoot N. Sane Trilogy \ Ghostrunner Series \ Grow Home Series \ Jet Set Radio Series \ Kao the Kangaroo Series \ Little Nightmares Series \ Ratchet & Clank Collection \ Sly Cooper \ Sonic Adventure Series \ Sonic Storybook Series \ Spyro Reignited Trilogy \ Super Mario 3D All-Stars \ Super Mario Galaxy Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ Toree Series
+3D Realms | Bombshell Series \ Slipgate Ironworks
 4-koma | Cherry Arai's Works \ Gekkan Shoujo Nozaki-kun Series \ K-ON! Series \ Manga Time Original \ Yui Hara's Works
-505 Games | Drawn to Life Series
+505 Games | Drawn to Life Series \ Eiyuden Chronicle \ Ghostrunner Series
 A Shell in the Pit | Greg Lobanov's Works
 A-1 Pictures | Karino Takatsu's Works \ Tsukasa Fushimi's Works
 a1c | Collaboration Works \ Jitaku Keibiin Series \ LiLiM DARKNESS \ Majin \ Mousou Senka \ Nihikime no Dozeu \ Nur \ Oni Chichi Series \ PoRO \ Suzuki Mirano
@@ -40,55 +40,58 @@ Abyo4's Works | Bolp.'s Art
 Ace Attorney | Ace Attorney Investigations \ Apollo Justice: Ace Attorney Trilogy \ Phoenix Wright: Ace Attorney Trilogy \ The Great Ace Attorney
 Acquire | Akiba's Trip Series \ Octopath Traveler Series
 Action Horror Games | Dead Island Series \ Dead Rising \ Left 4 Dead Series \ S.T.A.L.K.E.R. Series
-Action Role-Playing Games | Aurogon Shanghai \ Bayonetta Series \ Collection of Mana \ Custom Robo \ Dark Cloud Series \ Darksiders Series \ Deck13 Interactive \ Diablo Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: The Legacy of Goku Series \ Dragon Slayer Chronicle \ Evoland Series \ Fable Series \ Fire Emblem Warriors Series \ Games Like Monster Hunter \ Gothic Series \ HACCAN's Art \ Half-Minute Hero Series \ Infinity Blade Series \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kuro Games \ Lionhead Studios \ Lost Kingdoms Series \ Mega Man Battle Network Legacy Collection \ Mega Man Star Force Series \ Musashi \ Operation Rainfall \ Phantasy Star Portable Series \ Phantasy Star Universe Series \ Piranha Bytes \ Pokémon Legends \ Radical Fish Games \ Rune Factory Series \ Shadow of Middle-earth \ Star Ocean Series \ Star Wars: Knights of the Old Republic Series \ SureAI \ Tales of Symphonia Chronicles \ Tales of the World: Radiant Mythology Series \ Tales of Xillia Series \ The Witch and The Hundred Knight Series \ The World Ends with You Series \ Toukiden Series \ Xanadu Series \ Xenoblade
+Action Role-Playing Games | Aurogon Shanghai \ Boktai Series \ Collection of Mana \ Custom Robo \ Dark Cloud Series \ Darksiders Series \ Deck13 Interactive \ Diablo Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: The Legacy of Goku Series \ Dragon Slayer Chronicle \ Evoland Series \ Fable Series \ Fire Emblem Warriors Series \ Games Like Monster Hunter \ Gothic Series \ Guild Wars Series \ HACCAN's Art \ Half-Minute Hero Series \ Infinity Blade Series \ Kingdom Come: Deliverance Series \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kuro Games \ Lionhead Studios \ Lost Kingdoms Series \ Mega Man Battle Network Legacy Collection \ Mega Man Star Force Series \ Mount & Blade Series \ Musashi \ Operation Rainfall \ Phantasy Star Portable Series \ Phantasy Star Universe Series \ Pillars of Eternity Series \ Piranha Bytes \ Pokémon Legends \ Radical Fish Games \ Rune Factory Series \ Shadow of Middle-earth \ SKIPMORE \ Star Ocean Series \ Star Wars: Knights of the Old Republic Series \ SureAI \ Tales of Symphonia Chronicles \ Tales of the World: Radiant Mythology Series \ Tales of Xillia Series \ TaleWorlds Entertainment \ The Witch and The Hundred Knight Series \ The World Ends with You Series \ Toukiden Series \ Xanadu Series \ Xenoblade
 Active Software | Kururi Active
-Activision | [PROTOTYPE] Series \ Call of Duty \ Crash Bandicoot N. Sane Trilogy \ Destiny \ Lost Kingdoms Series \ Modern Warfare Series \ Skylanders \ Spyro Reignited Trilogy \ Tony Hawk Series \ Tony Hawk's Pro Skater Series \ Tony Hawk's Underground Series \ Treyarch
-Activision Blizzard | [PROTOTYPE] Series \ Blizzard Entertainment \ Crash Bandicoot N. Sane Trilogy \ Destiny \ Diablo Series \ Overwatch Series \ Skylanders \ Spyro Reignited Trilogy \ Warcraft Universe
+Activision | [PROTOTYPE] Series \ Call of Duty \ Crash Bandicoot N. Sane Trilogy \ Destiny \ Lost Kingdoms Series \ Modern Warfare Series \ Pitfall Series \ Skylanders \ Spyro Reignited Trilogy \ Tony Hawk Series \ Tony Hawk's Pro Skater Series \ Tony Hawk's Underground Series \ X-Men: Mutant Academy Series
+Activision Blizzard | [PROTOTYPE] Series \ Blizzard Entertainment \ Crash Bandicoot N. Sane Trilogy \ Destiny \ Diablo Series \ Overwatch Series \ Skylanders \ Spyro Reignited Trilogy \ The Lost Vikings Series \ Warcraft Universe
+Adi Shankar's Works | Castlevania Netflix Series
 Adobe AIR Games | Evoland Series \ Story of Eroolia
-Adult Cartoons | Beavis and Butt-Head Franchise \ Christy Karacas's Works \ Family Guy Series \ Hellaverse \ Matt Groening's Works \ Olan Rogers's Works \ Sausage Party Series
+Adult Cartoons | Beavis and Butt-Head Franchise \ Christy Karacas's Works \ Hellaverse \ Matt Groening's Works \ Olan Rogers's Works \ Sausage Party Series \ Squigglevision
 Aether Studios | Rivals of Aether Series
 Afternoon | Riichi Ueshiba's Works
 âge | Muv-Luv Alternative Series \ Muv-Luv Series \ Muv-Luv Unlimited Series
+Age of Defense Series | Belugerin
 AI5 Games | Doukyuusei Series
 AIC | Burn Up! \ Tenchi Muyo!
 AiCherry | Amakano Series \ G.J?
+Airdashers | Arcana Heart \ Arcana Heart 3 Series \ Darkstalkers Series \ French-Bread
 Aiue Oka's Works | Saimin Seishidou Series
 AkaBaka | Sucker for Love
 AKABEiSOFT2 | Bosei Kanojo Series
 Akaneshinsha | Towako
 Akeji Fujimura's Art | Kamisama no Iutoori Series
 Akihisa Ikeda's Works | Rosario to Vampire Series
-Akihito Tsukushi's Works | Elebits Series
+Akihito Tsukushi's Works | Elebits Series \ Made in Abyss Series
 Akio Watanabe's Art | Grisaia
-Akira Toriyama's Works | Blue Dragon Series \ Dragon Ball Original Manga Run \ Dragon Ball Super Series \ Dragon Ball Xenoverse Series \ Dragon Ball Z: Bardock Series \ Dragon Ball Z: Cooler Series \ Dragon Ball: Broly Series \ Galactic Patrol Series \ Katsura Akira
+Akira Toriyama's Works | Blue Dragon Series \ Dragon Ball Original Manga Run \ Dragon Ball Super Series \ Dragon Ball Xenoverse Series \ Dragon Ball Z: Bardock Series \ Dragon Ball Z: Cooler Series \ Dragon Ball: Broly Series \ Dragon Quest Heroes Series \ Galactic Patrol Series \ Katsura Akira
 Akita Shoten | Bessatsu Shounen Champion \ Black Jack Series \ Champion Cross \ Champion RED \ Eiji Masuda's Works \ Gekkan Shounen Champion \ Hiromasa Okujima's Works \ Hiroshi Takahashi's Works \ Katsuki Izumi's Works \ Mahou Shoujo Site Series \ Manga Cross \ Masahiro Anbe's Works \ Norio Sakurai's Works \ Paru Itagaki's Works \ Requiem of the Rose King Series \ Satou Kentarou's Works \ Young Champion Magazine \ Young Champion Retsu
 Aksys Games | Arcana Heart 3 Series \ Collar×Malice Series \ Hakuouki Series \ Record of Agarest War Series \ Spirit Hunter Series
 Alec's Works | Lebre e Coelho Series
 AlfaSystem Co., Ltd. | Phantasy Star Portable Series
-Alice in Wonderland Media | American McGee's Alice Series \ Kuni no Alice Series
-AliceSoft | AliceSoft System4.X Games \ Beat Series \ Evenicle Series \ Onono Imoko's Art \ Rance \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series
+Alice in Wonderland Media | Alice in Wonderland Series \ American McGee's Alice Series \ Kuni no Alice Series
+AliceSoft | AliceSoft System4.X Games \ Beat Series \ Evenicle Series \ Onono Imoko's Art \ Prostudent G Series \ Rance \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series
 Alien Series | Alien vs. Predator Series
 AlphaDream | Bowser's Minions Series \ Mario & Luigi: Bowser's Inside Story Series \ Mario & Luigi: Superstar Saga Series
-AlphaPolis | AlphaPolis Web Manga \ Yamakawa's Art
+AlphaPolis | AlphaPolis Web Manga \ Jishou Akuyaku Reijou Series \ Yamakawa's Art
 Alternate Reality Game | OXENFREE Series \ Project:;COLD Series
-Amazon MGM Studios | The Boys Series
-Amazon Prime Video Originals | The Boys Series
+Amazon MGM Studios | Hellaverse \ The Boys Series
+Amazon Prime Video Originals | Hellaverse \ The Boys Series
 Amblin | Gremlins Series
 AMC | Breaking Bad Universe
-American Games | [PROTOTYPE] Series \ AdventureQuest Series \ Artix Entertainment \ Axiom Verge Series \ Baldi's Basics Series \ BioShock Series \ BloodRayne Series \ Bookworm Series \ Brianna Lei's Works \ Cactus McCoy Series \ Cars Video Games \ Class of '09 Series \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Cluedo Series \ Crash Bandicoot N. Sane Trilogy \ Darksiders Series \ Deck Nine \ Diablo Series \ Drakan Series \ Flipline Studios \ Fortnite Series \ Gacha Life Series \ Gex Series \ Griptonite Games \ Hades Series \ Half-Life Series \ Henry Stickmin Series \ Hi-Rez Studios \ holo Indie \ Hylics Series \ id Software \ inFAMOUS Series \ Infinity Blade Series \ Injustice Series \ Insomniac Games \ Insomniac's Marvel Universe \ KingsIsle Entertainment \ Lab Zero \ Left 4 Dead Series \ LimboLane \ Luni's Works \ Lunime \ Mainline FNaF Games \ Mario Discovery Series \ Mario Teaches Typing Series \ Mario vs. Donkey Kong Series \ Maxis \ Mutant Mudds Series \ Nancy Drew Series \ Nix Hydra \ Obsidian Entertainment \ Paladins Series \ Papa Louie Platformers \ Papa Louie Series \ Papa's Gamerias \ Peggle Series \ Psychonauts Series \ Quake Series \ Ratchet & Clank Collection \ Resistance Series \ Risk of Rain Series \ Saints Row Series \ Slime Rancher Series \ Source 2 Games \ Spyro Reignited Trilogy \ Subnautica Series \ Sucker Punch Productions \ Supergiant Games \ Team Fortress Series \ temmie's art \ thatgamecompany \ The Behemoth \ The Lost Vikings Series \ The Orange Box \ The Software Toolworks \ Titanfall Series \ Toby Fox's Games \ Tom Fulp's Works \ Volition \ Warcraft Universe \ Young Horses \ Zuma Series
+American Games | [PROTOTYPE] Series \ 2D Boy \ AdventureQuest Series \ Artix Entertainment \ Axiom Verge Series \ Baldi's Basics Series \ BioShock Series \ BloodRayne Series \ Bookworm Series \ Brianna Lei's Works \ Cactus McCoy Series \ Camouflaj \ Cars Video Games \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Crash Bandicoot N. Sane Trilogy \ Cyan Inc. \ Darksiders Series \ Deck Nine \ Diablo Series \ Drakan Series \ Firaxis Games \ Flipline Studios \ Fortnite Series \ Gacha Life Series \ Gamigo \ Gex Series \ Griptonite Games \ Gungeon Series \ Hades Series \ Half-Life Series \ Henry Stickmin Series \ Heretic Series \ Hi-Rez Studios \ Hylics Series \ inFAMOUS Series \ Infinity Blade Series \ Injustice Series \ Insomniac Games \ Insomniac's Marvel Universe \ KingsIsle Entertainment \ Lab Zero \ Left 4 Dead Series \ LEGO Indiana Jones Video Games \ LimboLane \ Liquid Entertainment \ Lucky's Tale Series \ Luni's Works \ Mainline FNaF Games \ Mario Discovery Series \ Mario Teaches Typing Series \ Mario vs. Donkey Kong Series \ Maxis \ Monkey Island \ Mutant Mudds Series \ Nancy Drew Series \ Nix Hydra \ Obsidian Entertainment \ Paladins Series \ Papa Louie Platformers \ Papa Louie Series \ Papa's Gamerias \ Peggle Series \ Pillars of Eternity Series \ Psychonauts Series \ Ratchet & Clank Collection \ Resistance Series \ Risk of Rain Series \ Saints Row Series \ Slime Rancher Series \ Source 2 Games \ Spyro Reignited Trilogy \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ Subnautica Series \ Sucker Punch Productions \ Supergiant Games \ Team Fortress Series \ temmie's art \ thatgamecompany \ The Age of the Old Republic \ The Behemoth \ The Lord of the Rings: The Battle for Middle-earth Series \ The Lost Vikings Series \ The Orange Box \ The Software Toolworks \ Titanfall Series \ Toby Fox's Games \ Tom Fulp's Works \ Vectorman Series \ Volition \ Warcraft Universe \ Will Wright's Works \ World of Goo Series \ X-Men: Mutant Academy Series \ Young Horses \ Zelda CD-i Series \ Zuma Series
 Amusement Parks | Disney Parks \ Universal Epic Universe \ Universal Islands of Adventure \ Universal Orlando Resort \ Universal Parks \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Hollywood \ Universal Studios Japan \ Universal Studios Singapore
 Analog Science Fiction and Fact | A. E. van Vogt's Works
+Andrew Hussie's Works | MSPaintAdventures
 Angry Birds Series | Angry Birds Trilogy
-Animatronic Media | Mainline FNaF Games \ ShowBiz Pizza Time Incorporated
-Anime Fighters | Arcana Heart \ Arcana Heart 3 Series \ Darkstalkers Series \ French-Bread
-Anime Originals | Akifumi Kaneko's Works \ Glitter Force Series \ GoRA \ Hiroko Utsumi's Works \ Miyagi Yousuke's Works \ Sousei no Aquarion Series
+Animatronic Media | Five Nights at Freddy's Movie Series \ Mainline FNaF Games \ ShowBiz Pizza Time Incorporated
+Anime Originals | Akifumi Kaneko's Works \ Glitter Force Series \ GoRA \ Hiroko Utsumi's Works \ Miyagi Yousuke's Works \ Sousei no Aquarion Series \ Unison
 Anime OVAs | Project A-ko Series
 Aniplex | ANIPLEX.EXE \ Cencoroll Series \ Eureka Seven Series \ Fullmetal Alchemist Series \ Tsukasa Fushimi's Works \ Yuki Midorikawa's Works
 Ankama | Krosmoz
 Anthologies | Fantasia Series
 AQUAPLUS | Dungeon Travelers Series \ Tears to Tiara Series \ To Heart Series \ Utawarerumono Series \ WHITE ALBUM Series
 Arc System Works | Arcana Heart 3 Series \ Dragon Ball Z: Supersonic Warriors Series
-Arcade Games | Arcade Classics Series \ Arcana Heart \ Arcana Heart 3 Series \ Art of Fighting Series \ Bubble Bobble Series \ Capcom Arcade 2nd Stadium \ Capcom Arcade Stadium \ Darkstalkers Series \ Data Carddass \ Dig Dug Series \ DonPachi Series \ Dragon Ball Z Arcade Series \ Geki!Chumai \ Mario Kart Arcade GP Series \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Mushihime-sama Series \ Mushiking \ Nazca Corporation \ PriPara Series \ Puzzle Bobble Series \ Samurai Shodown \ SEGA AM1 \ SegaSonic the Hedgehog Series \ TEKKEN TAG TOURNAMENT Series \ The Last Blade Series \ Time Crisis Series \ Waku Waku Children's Arcade Rides
+Arcade Games | Arcade Classics Series \ Arcana Heart \ Arcana Heart 3 Series \ Art of Fighting Series \ Capcom Arcade 2nd Stadium \ Capcom Arcade Stadium \ Darkstalkers Series \ Data Carddass \ Dig Dug Series \ DonPachi Series \ Dragon Ball Z Arcade Series \ Fighting Layer Series \ Geki!Chumai \ Mario Kart Arcade GP Series \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Mushihime-sama Series \ Mushiking \ Nazca Corporation \ SEGA AM1 \ SegaSonic the Hedgehog Series \ SNK Neo Geo \ Snow Bros. Series \ TEKKEN TAG TOURNAMENT Series \ Time Crisis Series \ Toaplan \ Waku Waku Children's Arcade Rides
 Arcana Heart | Arcana Heart 3 Series
 Archanea | Valentia Series
 Archie Comics | Archie Mega Man Series \ Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ Sonic & Mega Man
@@ -96,17 +99,18 @@ Archie Mega Man Series | Sonic & Mega Man
 Archie Sonic Multiverse | Archie Mega Man Series \ Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ Sonic & Mega Man
 Archie Sonic the Hedgehog Series | Archie Sonic Miniseries \ Sonic & Mega Man
 Arena Fighters | Custom Robo \ Dissidia Final Fantasy Series \ Dragon Ball Z: Budokai Tenkaichi Series
-Arena Shooters | Quake Series
 Argentinian Media | Commodorette's Works \ Rebootlove's Works \ SIAMÉƧ's Works
-Arika | Dr. Mario & Bacteria Extermination Series
+Argonaut Software | Croc Series
+Arika | Dr. Mario & Bacteria Extermination Series \ Endless Ocean Series \ Fighting Layer Series
 Arkane Studios | Dishonored Series
 Armor Games | Cactus McCoy Series \ Dragon Boy Series \ Epic Battle Fantasy Series \ Godlimations
 Artemis Engine Games | NinNinDays Series
-Artist CG | Aomizuan's Works \ Chinjao Girl \ MANKAI ZENSEKI \ Ponchi's Works
+Artist CG | Aomizuan's Works \ Chinjao Girl \ MANKAI ZENSEKI \ Ponchi's Works \ Serei Teru's Works
 Artix Entertainment | AdventureQuest Series
 Asanagi's Art | VictimGirlsR Series
 ASCII Media Works | @vitamin \ Bokuto Uno's Works \ Boogiepop Series \ COMIC it \ Dengeki Daioh-g \ Dengeki G's Comic \ Dengeki G's magazine \ Dengeki Maoh \ Dengeki Moeoh \ Dengeki no Shin Bungei \ Hajime Kamoshida's Works \ Hitoma Iruma's Works \ Mahouka Koukou no Rettousei Series \ MediaWorks Bunko \ Mei Fujimatsu's Works \ Onegai Teacher Series \ Pepu's Art \ Persona 2 Series \ Rakuda's Works \ Satoshi Wagahara's Works \ Satoyasu's Art \ Seikai Series \ Sylph Comics \ Tsukasa Fushimi's Works \ Yuyuko Takemiya's Works
 ASMR | Indivision \ Shanghai Hanten's Works
+Asobo Studio | A Plague Tale Series
 Aspect | Sonic & Tails Series
 asread. | Sakae Esuno's Works
 Assassin's Creed Series | Assassin's Creed Chronicles \ Assassin's Creed: The Ezio Collection
@@ -120,10 +124,11 @@ Atelier | Arland Series \ Atelier Iris Series \ Atelier Ryza Series \ Dusk Serie
 Atelier Kaguya | Baku Ane Series \ Holic Series
 ATLUS | Devil Survivor Series \ Digital Devil Story \ Etrian Odyssey Series \ Growlanser \ Modern Persona \ Persona \ Persona 2 Series \ Persona 3 Series \ Persona 4 Series \ Persona 5 Series \ Persona Dancing \ Persona Q Series \ Shin Megami Tensei \ Shin Megami Tensei IV Series \ Shin Megami Tensei V Series \ Soul Hackers Series \ Trauma Center Series \ Yuji Himukai's Art
 ATLUS West | Devil Survivor Series \ Etrian Odyssey Series \ Modern Persona \ Persona 2 Series \ Persona Dancing \ Persona Q Series \ Shin Megami Tensei IV Series \ Shin Megami Tensei V Series \ Soul Hackers Series \ Summon Night: Swordcraft Story Series \ Trauma Center Series
+Atomic Monster | MΞGAN Series \ The Conjuring Universe
 Atsushi Ohkubo's Works | Soul Eater Series
 AUGUST | Daitoshokan no Hitsujikai Series
-Australian Media | Barry Steakfries Series \ Bennett Foddy's Works \ C.S. Pacat's Works \ Dragon Boy Series \ Glitch Productions \ Godlimations \ Halfbrick Studios \ Hollow Knight Series \ Mad Max \ RIVER CROW STUDIOS \ Walkingnorth's Works
-Auto Runners | Sonic Runners Series \ Sonic Storybook Series
+Australian Media | Barry Steakfries Series \ Bennett Foddy's Works \ C.S. Pacat's Works \ Dragon Boy Series \ Godlimations \ Halfbrick Studios \ Hollow Knight Series \ Mad Max \ RIVER CROW STUDIOS \ Walkingnorth's Works
+Auto Runners | Sonic Dash Series \ Sonic Runners Series \ Sonic Storybook Series
 Avalanche Studios | Just Cause Series
 Avatar Series | Chronicles of the Avatar \ The Legend of Korra Series
 Avengers Franchise | MCU Avengers Series
@@ -132,10 +137,11 @@ Aya Kanno's Works | Requiem of the Rose King Series
 Azarashi Soft | Aibeya Series \ Aikagi Series \ Amakano Series
 Backbone Entertainment | Sonic Rivals Series
 Bakumatsu Fiction | Hakuouki Series
-Ball Rolling Games | Katamari \ Super Monkey Ball Deluxe
-Bandai Namco | Ace Combat \ Aikatsu! Series \ Bandai Namco Games \ Battle Spirits \ Cocotama \ Cowboy Bebop Series \ Data Carddass \ Dig Dug Series \ Digimon Anime \ Digimon Games \ Digimon Story \ Digimon World Series \ Dirty Pair Series \ Donkey Konga Series \ Dragon Ball Origins Series \ Dragon Ball Xenoverse Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Budokai Tenkaichi Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Goku Series \ Dragon Ball Z: Gokuden Series \ Dragon Ball Z: Shin Budokai Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: Super Saiya Densetsu \ Dragon Ball Z: Supersonic Warriors Series \ Dragon Ball: Raging Blast Series \ Dragon Ball: Shenlong no Nazo Series \ Green Bunny \ Gundam Build \ InuYasha Movies \ InuYasha Series \ J Legend Retsuden \ Katamari \ Klonoa Phantasy Reverie Series \ Little Nightmares Series \ Luck & Logic Series \ Mario Baseball Series \ Mario Kart Arcade GP Series \ Project X Zone Series \ Ridge Racer Series \ Sakae Esuno's Works \ Seikai Series \ Soulcalibur Series \ Summon Night Series \ Summon Night: Swordcraft Story Series \ Tales of Series \ Tales of Symphonia Chronicles \ Tales of the World: Radiant Mythology Series \ Tales of Xillia Series \ TEKKEN TAG TOURNAMENT Series \ Time Crisis Series
+Ball Rolling Games | Katamari \ LocoRoco Series \ Super Monkey Ball Deluxe \ Super Monkey Ball Series
+Bandai Namco | Ace Combat \ Bandai Namco Games \ Battle Spirits \ Cocotama \ Cowboy Bebop Series \ Data Carddass \ Dig Dug Series \ Digimon Anime \ Digimon Comic \ Digimon Games \ Digimon Story \ Digimon World Series \ Dirty Pair Series \ Donkey Konga Series \ Dragon Ball Origins Series \ Dragon Ball Xenoverse Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Budokai Tenkaichi Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Goku Series \ Dragon Ball Z: Gokuden Series \ Dragon Ball Z: Shin Budokai Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: Super Saiya Densetsu \ Dragon Ball Z: Supersonic Warriors Series \ Dragon Ball: Raging Blast Series \ Dragon Ball: Shenlong no Nazo Series \ Green Bunny \ Gundam Build \ InuYasha Movies \ InuYasha Series \ J Legend Retsuden \ Katamari \ Klonoa Phantasy Reverie Series \ Little Nightmares Series \ Luck & Logic Series \ Mario Baseball Series \ Mario Kart Arcade GP Series \ Project X Zone Series \ Ridge Racer Series \ Sakae Esuno's Works \ Seikai Series \ Soulcalibur Series \ Summon Night Series \ Summon Night: Swordcraft Story Series \ Tales of Series \ Tales of Symphonia Chronicles \ Tales of the World: Radiant Mythology Series \ Tales of Xillia Series \ TEKKEN TAG TOURNAMENT Series \ Time Crisis Series
 Bandai Namco Games | Ace Combat \ Dig Dug Series \ Digimon Games \ Digimon Story \ Digimon World Series \ Donkey Konga Series \ Dragon Ball Origins Series \ Dragon Ball Xenoverse Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Budokai Tenkaichi Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Goku Series \ Dragon Ball Z: Gokuden Series \ Dragon Ball Z: Shin Budokai Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: Super Saiya Densetsu \ Dragon Ball Z: Supersonic Warriors Series \ Dragon Ball: Raging Blast Series \ Dragon Ball: Shenlong no Nazo Series \ J Legend Retsuden \ Katamari \ Klonoa Phantasy Reverie Series \ Little Nightmares Series \ Mario Baseball Series \ Mario Kart Arcade GP Series \ Project X Zone Series \ Ridge Racer Series \ Soulcalibur Series \ Tales of Series \ Tales of Symphonia Chronicles \ Tales of the World: Radiant Mythology Series \ Tales of Xillia Series \ TEKKEN TAG TOURNAMENT Series
 Bands | J-Rock
+Bara | Adastra Series \ Blazingcheeks's Works \ CaptainGerBear's Art \ KAIJYU-09 \ Lifewonders \ Nanoff's Art \ Sollyz Sundyz' Art \ Studio Klondike \ TakaTaka's Art \ Zourik's Works
 Baseball | Lethal League Series \ Major Series \ TRIBE NINE Series
 BaseSon | Koihime†Musou Series
 Basketball | Mario Hoops Series \ Space Jam Series
@@ -150,7 +156,9 @@ Beam Comics | Karaoke Iko! Series \ Tetsukazu's Works
 Beat 'em Up Games | Baldr Series \ Cactus McCoy Series \ Dead Rising \ MadWorld Series \ Marvel: Ultimate Alliance Series \ Streets of Rage \ Team Baldrhead
 Beemoov | My Candy Love Series
 Behaviour Interactive | Dead by Daylight Series
+Belgian Media | Divinity \ Larian Studios
 Bell Features | Adrian Dingle's Works \ Canadian Whites
+Belugerin | Age of Defense Series
 BEMANI | HinaBitter♪ Project
 Bessatsu Friend | Rin Mikimoto's Works
 Bessatsu Margaret | Io Sakisaka's Works
@@ -161,15 +169,17 @@ Big Gangan | Hi Score Girl Series
 Big Idea Entertainment | VeggieTales Series
 Bilibili | Ci Wei Mao's Art \ Ju Jishe's Art \ Man kezhan
 BIONICLE Franchise | BIONICLE Movies
-BioWare | Dragon Age \ Mass Effect Trilogy
+BioWare | Mass Effect Trilogy
 Bird Media | Angry Birds Trilogy \ Club Penguin Series \ DuckTales Series \ The Penguins of Madagascar Series
+Black Panther Franchise | MCU Black Panther Series
 Blaster Master Series | Blaster Master Zero Series
 BlazBlue Series | Sumeragi's Art
-Blizzard Entertainment | Diablo Series \ Overwatch Series \ Warcraft Universe
+Blizzard Entertainment | Diablo Series \ Overwatch Series \ The Lost Vikings Series \ Warcraft Universe
 Blood-Related Incest | Imouto Paradise! Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Radish Series \ Tinkle Position
 Bloons Tower Defense Series | Ninja Kiwi
 Blue Sky Studios | Carlos Saldanha's Works \ Chris Wedge's Works \ Ice Age Series
 Bluepic Studio | Farnar's Works
+Blumhouse Productions | Five Nights at Freddy's Movie Series \ MΞGAN Series
 Board Video Games | CAProduction \ Itadaki Street Series \ Mario Party \ Super Mario Party Series
 Boichi's Art | Dr. STONE Series
 Boku no Hero Academia Series | Boku no Hero Academia Movies
@@ -178,32 +188,32 @@ Bomtoon | Ananas's Works \ Chada's Works \ Face Park's Works \ Haeyoon's Works \
 bones | Boku no Hero Academia Movies \ Eureka Seven Series \ Fullmetal Alchemist Series \ Soul Eater Series
 BookCube | Haeyoon's Works
 Bou Ditama's Art | Bou Ditama's Works
-Boxing | Fitness Boxing Series \ Punch-Out!! Series \ Rocky Series
-Boys' Love | .Bloom \ 188 Series \ Adastra Series \ ADELTA \ Ananas's Works \ Animan Studios \ Anti_Dev's Works \ Atami Michinoku's Works \ AZUMA Kaya's Works \ Bam U's Works \ BE･BOY GOLD \ Bei Nan's Works \ Beyond \ Binto's Works \ BlackMonkey-Pro \ Brothers Without A Tomorrow's Works \ Cab \ Canna \ Chada's Works \ Chaepali's Works \ Chara \ Cheri+ \ CHIMA's Works \ Chungnyun's Art \ Craft \ D. Jun's Works \ Daria Cafe \ drap \ Enjo's Works \ Euneunun's Works \ Fei Tian Ye Xiang's Works \ Fleur Comics \ Fujoking's Works \ Guideverse \ Gujira's Works \ gusao's Works \ Haejin's Works \ HAESIN's Works \ Haji's Works \ Hanaoto \ Harada's Works \ Haribo's Works \ Harusari's Works \ Hayakawa Nojiko's Works \ Hiromasa Okujima's Works \ ihr hertZ \ Im Ae-Ju's Art \ J-Publishing \ JAST Blue \ Jeong Seok-Chan's Works \ Ji-Yeon Park's Works \ Jiang Zi Bei's Works \ Juné \ KAIJYU-09 \ Kaiousha \ Kang Pucon's Art \ KUMA \ Langmaor \ Lifewonders \ Magazine Be x Boy \ Majeungji's Works \ Man Man He Qi Duo's Works \ MasterGin's Works \ Mayonaka Love Alliance \ Meatbun Doesn't Eat Meat's Works \ Meguru Hinohara's Works \ mellow kiss \ Meng Xi Shi's Works \ Mingwa's Works \ Minta Suzumara's Works \ Misa Ikezaki's Works \ Mo Xiang Tong Xiu's Works \ Morak's Works \ Moscareto's Works \ Moto Hagio's Works \ Mu Su Li's Works \ Mum's Art \ Nagi Ichi's Works \ NAGO Nayuta's Works \ Nanoff's Art \ Nekota Yonezou's Works \ Nitro+CHiRAL \ Nix Hydra \ Omegaverse \ on BLUE \ Opera \ Oryu's Works \ parade. \ Park Dam's Art \ Petit Flower \ Po Yun Series \ Potion's Art \ Powfooo's Works \ Priest's Works \ PrimeTime \ Psyche Delico's Works \ Ranmaru Zariya's Works \ RedRusker's Works \ Sagold's Works \ Sakurada Yana's Works \ SAMK's works \ Sana's Works \ Sarazanmai Series \ Scarlet Beriko's Works \ Seoul Cultural \ Seto Ryouko's Works \ Shiho Sugiura's Works \ shirokoi's Works \ Shoshinsha Josou Danshi Series \ Shu Cream \ Shungiku Nakamura's Works \ Sinran's Works \ sisei's Works \ Sollyz Sundyz' Art \ Studio Klondike \ SuBLime \ Suyohara's Works \ Syundei's Works \ Taiyo Tosho \ Tang Jiuqing's Works \ Tennenouji \ Today Spring's Works \ Tokifuji Comics \ Tokyo Mangasha \ TR's Works \ WAJE's Art \ White Eared's Works \ Wu Zhe's Works \ Xiyuer's Works \ Y Press Games \ Yamamoto Kotetsuko's Works \ Yeongha's Works \ Yukue Moegi's Works \ Yura's Works \ Yuruyakatou's Works \ Yuu Minazuki's Works \ Zhichu's Works \ ZIG's Works \ Zourik's Works
+Boxing | Fitness Boxing Series \ Rocky Series
+Boys' Love | .Bloom \ 188 Series \ Adastra Series \ ADELTA \ Ananas's Works \ Animan Studios \ Anti_Dev's Works \ Atami Michinoku's Works \ AZUMA Kaya's Works \ Bam U's Works \ BE･BOY GOLD \ Bei Nan's Works \ Beyond \ Binto's Works \ BlackMonkey-Pro \ Brothers Without A Tomorrow's Works \ Cab \ Canna \ Chada's Works \ Chaepali's Works \ Chara \ Cheri+ \ CHIMA's Works \ Chungnyun's Art \ Craft \ D. Jun's Works \ Daria Cafe \ drap \ Enjo's Works \ Euneunun's Works \ Fei Tian Ye Xiang's Works \ Fleur Comics \ Fujoking's Works \ Guideverse \ Gujira's Works \ gusao's Works \ Haejin's Works \ HAESIN's Works \ Haji's Works \ Hanaoto \ Harada's Works \ Haribo's Works \ Harusari's Works \ Hayakawa Nojiko's Works \ Hiromasa Okujima's Works \ Horizon (Publisher) \ ihr hertZ \ Ikezaki Misa's Works \ Im Ae-Ju's Art \ J-Publishing \ JAST Blue \ Jeong Seok-Chan's Works \ Ji-Yeon Park's Works \ Jiang Zi Bei's Works \ Juné \ KAIJYU-09 \ Kaiousha \ Kang Pucon's Art \ kozi's Works \ KUMA \ Langmaor \ Lifewonders \ Love is an Illusion! Series \ Magazine Be x Boy \ Majeungji's Works \ Man Man He Qi Duo's Works \ MasterGin's Works \ Mayonaka Love Alliance \ Meatbun Doesn't Eat Meat's Works \ Meguru Hinohara's Works \ mellow kiss \ Meng Xi Shi's Works \ Mingwa's Works \ Minta Suzumara's Works \ Misa Ikezaki's Works \ Mo Xiang Tong Xiu's Works \ Morak's Works \ Moscareto's Works \ Moto Hagio's Works \ Mu Su Li's Works \ Mum's Art \ Nagi Ichi's Works \ NAGO Nayuta's Works \ Nanoff's Art \ Nekota Yonezou's Works \ Nitro+CHiRAL \ Nix Hydra \ Omegaverse \ on BLUE \ Opera \ Oryu's Works \ parade. \ Park Dam's Art \ Petit Flower \ Po Yun Series \ Potion's Art \ Powfooo's Works \ Priest's Works \ PrimeTime \ Psyche Delico's Works \ Ranmaru Zariya's Works \ RedRusker's Works \ Sagold's Works \ Sakurada Yana's Works \ SAMK's works \ Sana's Works \ Sarazanmai Series \ Scarlet Beriko's Works \ Seoul Cultural \ Seto Ryouko's Works \ Shiho Sugiura's Works \ Shikke's Works \ shirokoi's Works \ Shoshinsha Josou Danshi Series \ Shu Cream \ Shungiku Nakamura's Works \ Sinran's Works \ sisei's Works \ Slow Damage Series \ Sollyz Sundyz' Art \ Studio Klondike \ SuBLime \ SUEHIRO Machi's Works \ Suyohara's Works \ Syundei's Works \ Taiyo Tosho \ Tang Jiuqing's Works \ Tennenouji \ Today Spring's Works \ Tokifuji Comics \ Tokyo Mangasha \ TR's Works \ WAJE's Art \ White Eared's Works \ Wu Zhe's Works \ Xiyuer's Works \ Y Press Games \ Yamamoto Kotetsuko's Works \ Yeongha's Works \ Yukue Moegi's Works \ Yura's Works \ Yuruyakatou's Works \ Yuu Minazuki's Works \ Zhichu's Works \ ZIG's Works \ Zourik's Works
 Brain's Base | Yuki Midorikawa's Works
 Brandon Sanderson's Works | Cosmere \ Mistborn Series
-Brazilian Media | Alec's Works \ Bombservice \ Lebre e Coelho Series \ Mauricio de Sousa Produções \ Melkor Mancin's Works \ Momodora Series \ Ordem Paranormal \ TUFOS \ TV Globo
+Brazilian Media | Alec's Works \ Bombservice \ Dumativa \ Lebre e Coelho Series \ Mauricio de Sousa Produções \ Melkor Mancin's Works \ Momodora Series \ Ordem Paranormal \ Spark the Electric Jester Series \ TUFOS \ TV Globo
 Bridge | Shaman King Series
-British Media | Aardman Animations \ Agatha Christie's Works \ Assassin's Creed Chronicles \ Bad Wolf Ltd \ Banjo-Kazooie Series \ Bossa Studios \ Charisma Records \ Conker Series \ Core Design \ Doctor Who \ Doctor Who Branded Media \ Donkey Kong Land Series \ EmiMG's Works \ Epic Battle Fantasy Series \ Fable Series \ FuturLab \ Grand Theft Auto \ Grand Theft Auto 3D Universe \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ H. G. Wells' Works \ Hanna-Barbera Studios Europe \ J.R.R. Tolkien's Works \ Jane Austen's Work \ Jonathan Stroud's Works \ King Crimson's Works \ LEGO DC Video Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars Video Games \ Lionhead Studios \ Monument Valley Series \ Pink Floyd's Works \ Rare Replay \ Rebellion Developments \ Rocksteady Studios \ The Dark Pictures Anthology \ The Wilderness Years \ Thomas & Friends Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ TomSka's Works \ Traveller's Tales \ Wallace & Gromit Franchise \ Wallace & Gromit Series \ Warrior Cats Series
-Broccoli | Koge-Donbo*'s Art \ Z/X -Zillions of enemy X-
+British Media | Agatha Christie's Works \ Assassin's Creed Chronicles \ Bad Wolf Ltd \ Banjo-Kazooie Series \ Bossa Studios \ Charisma Records \ Conker Series \ Core Design \ Doctor Who \ Doctor Who Branded Media \ Donkey Kong Land Series \ EmiMG's Works \ Epic Battle Fantasy Series \ Fable Series \ FuturLab \ Grand Theft Auto \ Grand Theft Auto 3D Universe \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ Grow Home Series \ H. G. Wells' Works \ Hanako Games \ Hanna-Barbera Studios Europe \ J.R.R. Tolkien's Works \ Jane Austen's Works \ Jonathan Stroud's Works \ King Crimson's Works \ LEGO DC Video Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars Video Games \ Lionhead Studios \ Monument Valley Series \ Mr. Men and Little Miss Series \ Perfect Dark Series \ Pink Floyd's Works \ PowerWash Simulator Series \ Rare Replay \ Rebellion Developments \ Rockstar North \ Rocksteady Studios \ Rusty Quill \ Scottish Media \ Sonic Dash Series \ Terry Cavanagh's Works \ The Dark Pictures Anthology \ The Wilderness Years \ Thomas & Friends Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ TomSka's Works \ Traveller's Tales \ Wallace & Gromit Franchise \ Wallace & Gromit Series \ Warrior Cats Series
+Broccoli | Koge-Donbo\*'s Art \ Z/X -Zillions of enemy X-
 Brownie Brown | Magical Vacation Series
-Browser Games | 2DPlay \ AdventureQuest Series \ Armor Games \ Artix Entertainment \ Beemoov \ Burrito Bison Series \ Cactus McCoy Series \ Corruption of Champions Series \ Dragon Boy Series \ Epic Battle Fantasy Series \ Facebook Games \ Gaia Online Series \ Godlimations \ goodbeans \ Kinkoid \ My Candy Love Series \ Not Doppler \ Papa Louie Platformers \ Riddle School Series
+Browser Games | 2DPlay \ AdventureQuest Series \ Age of Defense Series \ Armor Games \ Artix Entertainment \ Beemoov \ Belugerin \ Burrito Bison Series \ Cactus McCoy Series \ Corruption of Champions Series \ Dragon Boy Series \ Epic Battle Fantasy Series \ Facebook Games \ Gaia Interactive \ Gaia Online Series \ Godlimations \ goodbeans \ Kinkoid \ My Candy Love Series \ Papa Louie Platformers \ Riddle School Series
 Bryan Lee O'Malley's Works | Scott Pilgrim Series
 Bubble Bobble Series | Puzzle Bobble Series
 Buff Studio | MercTrans
 Bug Media | Hollow Knight Series \ Mushiking
-Bullet Hell | AQLoop \ DonPachi Series \ eXceed Series \ Henteko Doujin \ mino_dev \ Mushihime-sama Series \ QP Series \ Qute \ RebRank \ Seihou Project \ Team Elegant Impermanence of Sakura \ Toby Fox's Games \ Touhou Bunkachou \ Touhou Project (PC-98 Canon)
+Bullet Hell | AQLoop \ DonPachi Series \ eXceed Series \ Gungeon Series \ Henteko Doujin \ mino_dev \ QP Series \ Qute \ RebRank \ Seihou Project \ Team Elegant Impermanence of Sakura \ Toby Fox's Games \ Touhou Bunkachou \ Touhou Project (PC-98 Canon)
 BUNBUN's Art | Yuusha de Aru Series
 Bungie | Destiny
-Bunnywalker | Chinjao Girl \ How I Made Sex Friends Series \ Huracan's Art \ JOY RIDE's Works \ Muchakai's Works
-Buriki's Art | Rakuda's Works
+Bunnywalker | Chinjao Girl \ How I Made Sex Friends Series \ Huracan's Art \ JOY RIDE's Works
+Buriki's Art | Rakuda's Works \ Shine Post Series
 Bushiroad | BanG Dream! Franchise \ Cardfight!! Vanguard Series \ Future Card Buddyfight Series \ Kou Nakamura's Works \ Luck & Logic Series \ Shoujo☆Kageki Revue Starlight Series
 Butler Media | Black Butler Series
 Call of Duty | Modern Warfare Series
-Canadian Media | 90% Studios \ A Shell in the Pit \ Adrian Dingle's Works \ Alliance Atlantis \ Assassin's Creed: The Ezio Collection \ Bell Features \ Bendy \ Burrito Bison Series \ Canadian Whites \ CBC \ Chapterverse \ CTV \ Daniel Mullins' Games \ Darkest Dungeon Series \ Dead by Daylight Series \ Digital Extremes \ DrinkBox Studios \ EA Sports \ Endnight Games \ Freebird Games \ Fresh TV Inc. \ Global TV \ Greg Lobanov's Works \ Kitfox Games \ Klace's Works \ Lev Gleason Publications \ Love Conquers All Games \ Maddy Thorson's Works \ Murdoch Mysteries Universe \ My Singing Monsters Series \ Outlast Series \ Paper Lily Series \ PAW Patrol Series \ PixelFade \ Pixie Trix Comix \ Sabotage Studio \ Sad Panda Studios \ The Coalition \ The Forest Series \ Thunder Lotus Games \ Total Drama \ Turbo Kid Series \ WATCH_DOGS Series \ Xiran Jay Zhao's Works
+Canadian Media | 90% Studios \ A Shell in the Pit \ Adrian Dingle's Works \ Alliance Atlantis \ Amanda the Adventurer Series \ Assassin's Creed: The Ezio Collection \ Bell Features \ Bendy \ Black Tabby Games \ Brent Butt's Works \ Burrito Bison Series \ Canadian Whites \ CBC \ Chapterverse \ CTV \ Daniel Mullins' Games \ Darkest Dungeon Series \ Dead by Daylight Series \ Digital Extremes \ DrinkBox Studios \ Endnight Games \ Freebird Games \ Fresh TV Inc. \ Global TV \ Greg Lobanov's Works \ Kitfox Games \ Klace's Works \ Lev Gleason Publications \ Love Conquers All Games \ Lucy Maud Montgomery's Works \ Maddy Thorson's Works \ McPig's Works \ Moosopp's Works \ Mordecai Richler's Works \ Murdoch Mysteries Universe \ My Singing Monsters Series \ N Series \ Outlast Series \ Paper Lily Series \ PAW Patrol Series \ PixelFade \ Pixie Trix Comix \ ReBoot Series \ Sabotage Studio \ Sad Panda Studios \ The Coalition \ The Forest Series \ Thunder Lotus Games \ Total Drama \ Turbo Kid Series \ WATCH_DOGS Series \ Wishes Ultd. \ Xiran Jay Zhao's Works
 Canadian Whites | Adrian Dingle's Works \ Bell Features
 Canna | Haji's Works
-Capcom | Ace Attorney \ Ace Attorney Investigations \ Apollo Justice: Ace Attorney Trilogy \ Archie Mega Man Series \ Bionic Commando Series \ Breath of Fire \ Capcom Arcade 2nd Stadium \ Capcom Arcade Stadium \ Capcom Division 1 \ Capcom Fighting Collection \ Capcom Fighting Collection 2 \ Capcom Five \ Clover Studio \ Darkstalkers Series \ Dead Rising \ Dragon's Dogma Series \ Lost Planet Series \ Marvel vs. Capcom \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Mega Man 1 Series \ Mega Man Anniversary Collection \ Mega Man Battle Network Legacy Collection \ Mega Man Battle Network Series \ Mega Man Legacy Collection \ Mega Man Legacy Collection 2 \ Mega Man Legends Series \ Mega Man NT Warrior Series \ Mega Man Series \ Mega Man Star Force Series \ Mega Man World \ Mega Man X Legacy Collection \ Mega Man X Legacy Collection 2 \ Mega Man X Series \ Mega Man Zero Series \ Mega Man Zero/ZX Legacy Collection \ Mega Man ZX Series \ Monster Hunter Games \ Monster Hunter Manga Spin-offs \ Monster Hunter Stories Series \ Ōkami Series \ Onimusha \ Phoenix Wright: Ace Attorney Trilogy \ Puzzle Fighter Series \ RE Engine \ Resident Evil: Revelations Series \ Sengoku BASARA Series \ Sonic & Mega Man \ Street Fighter \ Street Fighter Shared Universe \ Strider Series \ The Disney Afternoon Collection \ The Great Ace Attorney
+Capcom | Ace Attorney \ Ace Attorney Investigations \ Apollo Justice: Ace Attorney Trilogy \ Archie Mega Man Series \ Bionic Commando Series \ Breath of Fire \ Capcom Arcade 2nd Stadium \ Capcom Arcade Stadium \ Capcom Division 1 \ Capcom Fighting Collection \ Capcom Fighting Collection 2 \ Capcom Five \ Clover Studio \ Darkstalkers Series \ Dead Rising \ Devil May Cry Series \ Dino Crisis Series \ Dragon's Dogma Series \ Lost Planet Series \ Marvel vs. Capcom \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Mega Man 1 Series \ Mega Man Anniversary Collection \ Mega Man Battle Network Legacy Collection \ Mega Man Battle Network Series \ Mega Man Legacy Collection \ Mega Man Legacy Collection 2 \ Mega Man Legends Series \ Mega Man NT Warrior Series \ Mega Man Series \ Mega Man Star Force Series \ Mega Man World \ Mega Man X Legacy Collection \ Mega Man X Legacy Collection 2 \ Mega Man X Series \ Mega Man Zero Series \ Mega Man Zero/ZX Legacy Collection \ Mega Man ZX Series \ Monster Hunter Games \ Monster Hunter Manga Spin-offs \ Monster Hunter Stories Series \ Ōkami Series \ Onimusha \ Phoenix Wright: Ace Attorney Trilogy \ Puzzle Fighter Series \ RE Engine \ Resident Evil Series \ Resident Evil: Revelations Series \ Sengoku BASARA Series \ Sonic & Mega Man \ Street Fighter \ Street Fighter Shared Universe \ Strider Series \ The Disney Afternoon Collection \ The Great Ace Attorney
 Capcom Arcade 2nd Stadium | Darkstalkers Series
 Capcom Fighting Collection | Darkstalkers Series
 Captain America Franchise | MCU Captain America Series
@@ -214,22 +224,23 @@ Carnby Kim's Works | Youngchan Hwang's Art
 Carpe Fulgur LLC | EasyGameStation
 Cars Series | Cars Movies \ Cars Video Games
 Cartoon Cartoons | Grim & Evil
-Cartoon Network | Cartoon Cartoons \ Grim & Evil \ Hanna-Barbera Studios Europe \ Steven Universe Series \ Teen Titans Series \ The Cartoon Cartoon Show \ The Cartoonstitute \ Total Drama \ We Bare Bears Series \ What a Cartoon!
-Cartoon Network Studios | Generator Rex Series \ Grim & Evil \ Steven Universe Series \ The Cartoonstitute \ We Bare Bears Series
+Cartoon Network | Cartoon Cartoons \ Grim & Evil \ Hanna-Barbera Studios Europe \ Teen Titans Series \ The Cartoon Cartoon Show \ Total Drama \ We Bare Bears Series \ What a Cartoon!
+Cartoon Network Studios | Generator Rex Series \ Grim & Evil \ We Bare Bears Series
 Cartoon Saloon | Tomm Moore's Works
 Castlevania | Castlevania Advance Collection \ Castlevania Anniversary Collection \ Castlevania Dominus Collection \ Castlevania Netflix Series \ Castlevania Requiem
 Cat Media | Warrior Cats Series
 CatSystem2 Games | Amakano Series \ Happiness! Series \ Laplacian
 CAVE Interactive Co., Ltd. | Deathsmiles Series \ DonPachi Series \ Mushihime-sama Series
 Cavia | Dragon Ball Z: Supersonic Warriors Series
-CBC | Murdoch Mysteries Universe
+CBC | Lucy Maud Montgomery's Works \ Murdoch Mysteries Universe
 CBS | Chuck Lorre's Works \ CSI Series \ I Dream of Jeannie Series \ The Big Bang Theory Series
 CG Year | Zhou Munan's Works
-Chapterverse | Lev Gleason Publications
 CHARON's Works | L-I-B Works
-Children's Literature | Dav Pilkey's Works \ Elisabetta Dami's Works \ Geronimo Stilton Series \ Jon Scieszka's Works \ Lemony Snicket's Works
-Chinese Animation | B.CMAY PICTURES \ CG Year \ Foch Films \ Light Chaser Animation Studios \ Mo Xiang Tong Xiu's Works \ Tencent Penguin Pictures \ To Be Hero Series \ White Snake Series \ Zhou Munan's Works
-Chinese Games | AsicxArt \ China Locked Games \ HoYoverse \ Hypergryph \ Imaginary Tree \ Kuro Games \ Lilith Games \ Mobile Legends \ My Time Series \ Nikki UP2U Series \ Papergames \ Plants vs. Zombies Chinese Games \ Seasun Games \ SUNBORN Network Technology Co., Ltd.
+Chat Simulation Games | Emily is Away Series
+Children's Literature | Dav Pilkey's Works \ Elisabetta Dami's Works \ Geronimo Stilton Series \ Jon Scieszka's Works \ Lemony Snicket's Works \ Lucy Maud Montgomery's Works
+Chime Corporation | Conception Series
+Chinese Animation | B.CMAY PICTURES \ CG Year \ Foch Films \ Light Chaser Animation Studios \ Mo Xiang Tong Xiu's Works \ Ne Zha Series \ Tencent Penguin Pictures \ To Be Hero Series \ White Snake Series \ Zhou Munan's Works
+Chinese Games | AsicxArt \ China Locked Games \ HoYoverse \ Hypergryph \ Imaginary Tree \ Iron Saga Series \ Kuro Games \ Lilith Games \ Mobile Legends \ My Time Series \ Nikki UP2U Series \ Papergames \ Plants vs. Zombies Chinese Games \ Seasun Games \ SUNBORN Network Technology Co., Ltd.
 Chris Buck's Works | Frozen Series
 Christopher Nolan's Works | The Dark Knight Trilogy
 Chronos Series | MyDearest Inc
@@ -240,62 +251,71 @@ Cinematic Platformers | Little Nightmares Series \ Playdead
 CIRCUS | Da Capo Series
 Civilization | Microprose
 CLAMP | Cardcaptor Sakura Series \ Tsubasa Chronicle Series
-Class of '09: Trey Pack | Class of '09 Series \ Class of '09: The Double Up
-Classic Sonic Series | Adventures of Sonic the Hedgehog Series \ Archie Sonic Miniseries \ Aspect \ DIC Sonic the Hedgehog Cartoons \ SEGA AM1 \ SEGA Pico \ SegaSonic the Hedgehog Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Drift Series \ Sonic Mania Series \ Sonic Origins \ Waku Waku Children's Arcade Rides
+Class of '09 Series | Class of '09: The Double Up \ Class of '09: Trey Pack
+Class of '09: Trey Pack | Class of '09: The Double Up
+Classic Sonic Series | Adventures of Sonic the Hedgehog Series \ Archie Sonic Miniseries \ Aspect \ DIC Sonic the Hedgehog Cartoons \ SEGA AM1 \ SegaSonic the Hedgehog Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Drift Series \ Sonic Mania Series \ Sonic Origins \ Waku Waku Children's Arcade Rides
+Clickteam Fusion Games | Baba Series
 Clip Craft | Unionism Quartet Series
 CNC Revolution | Jagae's Art
 Coamix | Comic Zenon \ Mixer \ Web Comic Zenyon
 Cocktail Soft | Pia♥Carrot e Youkoso!! Series
-Collect-a-thon Platformers | Banjo-Kazooie Series \ Spyro Reignited Trilogy
+Collect-a-thon Platformers | Croc Series \ Spyro Reignited Trilogy
 Columbia Pictures | Cloudy with a Chance of Meatballs Series \ Jumanji Series \ MCU Spider-Man Series \ Raimi Spider-Man Trilogy \ Ruben Fleischer's Works \ Sony's Spider-Man Universe \ Spider-Man Movies \ Spider-Verse Saga \ The Amazing Spider-Man Movie Series
 Comedy Central | South Park Series
 Comic Aun | Hit Shuppansha \ Shiwasu no Okina's Works
-Comic Based Series | Avengers Franchise \ Batman Animation \ Batman Games \ Batman Movies \ Batman: Arkham \ Big Hero 6 Series \ Blade Trilogy \ Bruce Timm's Works \ Captain America Franchise \ Daredevil Franchise \ DC Animated Universe \ DC Extended Universe \ DC Games \ DC Movies \ DC TV Shows \ DC Universe \ DuckTales Series \ Fantastic Four Franchise \ Fox's X-Men Cinematic Universe \ Garfield Series \ Grantray-Lawrence Animation \ Green Lantern Franchise \ Hulk Franchise \ Hulk vs. \ Injustice Series \ Insomniac's Marvel Universe \ Iron Man Franchise \ Justice League Franchise \ LEGO Batman \ LEGO DC Video Games \ LEGO Marvel Video Games \ Marvel Animated Features Collection \ Marvel Animation \ Marvel Earth-8096 \ Marvel Games \ Marvel Movies \ Marvel TV Shows \ Marvel vs. Capcom \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Marvel: Ultimate Alliance Series \ Marvel's Netflix Television Series \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Original X-Men Cinematic Universe \ Punisher Franchise \ Raimi Spider-Man Trilogy \ Revised X-Men Cinematic Universe \ Rise of the Teenage Mutant Ninja Turtles Series \ Rocksteady Studios \ Sam & Max Games \ Sam & Max Series \ Sony's Spider-Man Universe \ Spider-Man Animation \ Spider-Man Franchise \ Spider-Man Games \ Spider-Man Movies \ Spider-Verse Saga \ Superman Franchise \ Superman Movies \ Superman TV Shows \ Teen Titans Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ The Addams Family Series \ The Amazing Spider-Man Movie Series \ The Bad Guys Series \ The Batman Universe \ The Boys Series \ The Dark Knight Trilogy \ Thor Franchise \ TMNT Games \ TMNT Movies \ WB Games Montréal \ We Bare Bears Series \ Wolverine Franchise \ X-Men Franchise
-Comic Cune | Tamamusi's Works
+Comic Based Series | Aquaman Franchise \ Avengers Franchise \ Batman Animation \ Batman Games \ Batman Movies \ Batman: Arkham \ Big Hero 6 Series \ Black Panther Franchise \ Blade Trilogy \ Bruce Timm's Works \ Camouflaj \ Captain America Franchise \ Daredevil Franchise \ DC Animated Universe \ DC Extended Universe \ DC Games \ DC Movies \ DC TV Shows \ DC Universe \ Doctor Strange Franchise \ DuckTales Series \ Fantastic Four Franchise \ Flash Franchise \ Fox's X-Men Cinematic Universe \ Garfield Series \ Grantray-Lawrence Animation \ Green Lantern Franchise \ Hulk Franchise \ Hulk vs. \ Injustice Series \ Insomniac's Marvel Universe \ Iron Man Franchise \ LEGO Batman \ LEGO DC Video Games \ LEGO Marvel Video Games \ Marvel Animated Features Collection \ Marvel Animation \ Marvel Earth-8096 \ Marvel Movies \ Marvel TV Shows \ Marvel vs. Capcom \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Marvel: Ultimate Alliance Series \ Marvel's Netflix Television Series \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Original X-Men Cinematic Universe \ Punisher Franchise \ Raimi Spider-Man Trilogy \ Revised X-Men Cinematic Universe \ Rise of the Teenage Mutant Ninja Turtles Series \ Rocksteady Studios \ Sam & Max Games \ Sam & Max Series \ Shazam Franchise \ Sony's Spider-Man Universe \ Spider-Man Animation \ Spider-Man Franchise \ Spider-Man Games \ Spider-Man Movies \ Spider-Verse Saga \ Suicide Squad Franchise \ Superman Franchise \ Superman Movies \ Superman TV Shows \ Swamp Thing Franchise \ Teen Titans Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ The Addams Family Series \ The Amazing Spider-Man Movie Series \ The Bad Guys Series \ The Batman Universe \ The Boys Series \ The Dark Knight Trilogy \ Thor Franchise \ TMNT Games \ TMNT Movies \ WB Games Montréal \ We Bare Bears Series \ Wolverine Franchise \ Wonder Woman Franchise \ X-Men Franchise \ X-Men: Mutant Academy Series
+Comic Cune | Roron Oohara's Works \ Tamamusi's Works
 Comic Days | Noise's Works
 Comic ExE | Akira Hizuki's Works
-Comic Gardo | Arifureta Series \ Overlap Novels f
+Comic Gardo | Arifureta Series
 Comic Gene | Gene pixiv
 Comic Grape | Juku Mesu - Erotic Mature Women
 Comic Megastore | Fukudahda's Works
 Comic Newtype | Rimukoro's Works
 Comic Shingeki | Kuroe Shuppan
-Comic Tenma | Yamatogawa's Works \ Yuzuki N's Works
+Comic Tenma | Yamatogawa's Works
 Comic Unreal | Date's Works
-Comic Zenon | Mixer \ Web Comic Zenyon
+Comic Yuri-Hime. | Kashikaze's Works
+Comic Zenon | Coamix \ Mixer \ Web Comic Zenyon
 Comic ZERO-SUM | Touya Mikanagi's Works
 Comico | Haejin's Works \ Haeyoon's Works \ Plutus's Works \ Saedeul's Art
 Comics | 2000 AD \ Adrian Dingle's Works \ Alan Moore's Works \ Ana C. Sánchez's Works \ Archie Mega Man Series \ Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ Bell Features \ Canadian Whites \ Chapterverse \ Editorial Bruguera \ Fleetway \ Francisco Ibáñez's Works \ Invincible Universe \ Joe Oriolo's Works \ Ken Penders's Works \ Lev Gleason Publications \ Mirage Studios \ Nintendo Power \ Robert Kirkman's Works \ Sonic & Mega Man \ Street & Smith \ The Adventure Zone \ Usagi Yojimbo Series \ Zenescope Entertainment
 ComicWalker | Inumajin's Works
 CoMix Wave Films | Makoto Shinkai's Works
 Comp Ace | Masaki Tsuzuki's Works
-Compile Heart | Fairy Fencer F Series \ Genkai Tokki \ Mary Skelter Series \ Mugen Souls Series \ Record of Agarest War Series
-Computer Role-Playing Games | Baldur's Gate Series \ Divinity \ Growlanser \ Larian Studios
+Compile Heart | Death end re;Quest Series \ Fairy Fencer F Series \ Genkai Tokki \ Mary Skelter Series \ Mugen Souls Series \ Record of Agarest War Series
+Computer Role-Playing Games | Baldur's Gate Series \ Growlanser \ Owlcat Games \ Wizardry Series
 Cooking Genre | Cooking Dash Series \ Diner Dash Series \ Food Network \ Gordon Ramsay Series \ Papa Louie Platformers \ Papa Louie Series \ Papa's Gamerias
 COPIN | Bulsa's Works
 Core Design | Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
 Coro Coro Comic | Bakusou Kyoudai Let's & Go Series \ Mega Man Battle Network Legacy Collection \ Tetsuhiro Koshita's Works
 Cosmere | Mistborn Series
-COVER Corporation | ImCyan
+COVER Corporation | hololive Alternative Series \ ImCyan
 Crash Bandicoot Main Series | Crash Bandicoot N. Sane Trilogy
 Crash Bandicoot Racing Series | Crash Nitro Kart Series
 Crash Bandicoot Series | Crash Bandicoot Main Series \ Crash Bandicoot N. Sane Trilogy \ Crash Bandicoot Party Series \ Crash Bandicoot Racing Series \ Crash Handheld Series \ Crash Mutants Series \ Crash Nitro Kart Series
 Crazy Frog Series | Crazy Frog Racer Series
 Creatalsoftware Games | Garenburg Franchise
 Creature Collector Games | Fossil Fighters Series \ Monster Hunter Stories Series \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Legends \ Pokémon Mystery Dungeon
-Creatures Inc. | Pokémon Colosseum Series \ Pokémon Trading Card Game (GBC) Series
-Crossover Media | Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts Union χ Dark Road \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario + Rabbids \ Mario Hoops Series \ Marvel vs. Capcom \ Mashup Tournaments \ Nickelodeon All-Star Brawl Series \ Nicktoons Unite Series \ Poker Night Series \ Sonic & Mega Man \ Sonic & SEGA All-Stars Racing Series \ Super Robot Taisen \ Super Smash Bros. \ Weekly Shounen Jump Crossover Games
+Creatures Inc. | Pokémon Colosseum Series \ Pokémon Legends \ Pokémon Trading Card Game (GBC) Series
+Croatian Media | Croteam \ The Talos Principle Series
+Crossover Media | Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts Union χ Dark Road \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario + Rabbids \ Mario Hoops Series \ Marvel vs. Capcom \ Mashup Tournaments \ Nickelodeon All-Star Brawl Series \ Nicktoons Unite Series \ PlayStation All-Stars \ Poker Night Series \ Sonic & Mega Man \ Sonic & SEGA All-Stars Racing Series \ Super Robot Taisen \ Super Smash Bros. \ Weekly Shounen Jump Crossover Games
 Croteam | The Talos Principle Series
+CryEngine Games | Crysis Series \ Crytek \ Kingdom Come: Deliverance Series
+Crystal Dynamics | Gex Series \ Legacy of Kain Series
+Crytek | Crysis Series
+Cthulhu Mythos | Demonbane Series \ Sucker for Love
+Cute 'em ups | Cotton Series
 Cute Girls Doing Cute Things | K-ON! Series \ Yui Hara's Works
 CyberConnect2 | Little Tail Bronx
 CyberFront | Infinity Series \ Xuse
-Cyberpunk Media | .hack \ Baldr Series \ Blade Runner Series \ Cowboy Bebop Series \ Cyberpunk Bartender Action \ Cyberpunk Series \ Cyberpunk: Edgerunners Series \ Deus Ex Universe \ Mirror's Edge Series \ Paul Verhoeven's Works \ Shadowrun Series \ Terminator Series
+Cyberpunk Media | .hack \ Baldr Series \ Blade Runner Series \ Bombshell Series \ Cowboy Bebop Series \ Cyberpunk Bartender Action \ Cyberpunk Series \ Cyberpunk: Edgerunners Series \ Ghostrunner Series \ Minority Report Series \ Mirror's Edge Series \ Neill Blomkamp's Works \ Perfect Dark Series \ Shadowrun Series \ Terminator Series
 Cyberpunk Series | Cyberpunk: Edgerunners Series
 CYBIRD | Ikémen Series \ Shiro Yamada's Art
 Cygames | Cygames Games \ Cygames Series with Bahamut \ Granblue Fantasy Series \ Shadowverse Series \ Shingeki no Bahamut Series
 Cygames Games | Granblue Fantasy Series
 Cygames Series with Bahamut | Shadowverse Series \ Shingeki no Bahamut Series
-D&C Media | Yoon Hawol's Works
+D&C Media | Wookjakga's Art \ Yoon Hawol's Works
 D3 Publisher | Bullet Girls Series \ Omega Labyrinth Series
 Daedalic Entertainment | The Dark Eye Series
 Daily Books | Woo-gak's Works
@@ -304,57 +324,60 @@ Dan Schneider's Works | iCarly Series \ VICTORiOUS Series
 Dance Games | DanceDance Revolution Series \ Just Dance Series
 Dangan Fangan Bundgan | Danganronpa \ Danganronpa Another Series \ Danganronpa Fangames
 Danganronpa Fangames | Danganronpa Another Series
-Danish Media | Ghostrunner Series \ Hitman Series \ Hitman: World of Assassination \ IO Interactive \ Merryweatherey's Works \ Playdead
+Danish Media | Deep Rock Galactic Series \ Ghostrunner Series \ Hitman Series \ Hitman: World of Assassination \ IO Interactive \ Kane & Lynch Series \ Merryweatherey's Works \ Playdead
 Dash Series | Cooking Dash Series \ Diner Dash Series
 Dating Sims | Destiny Ninja Series \ Dulcet Games \ Lunaris Games \ My Candy Love Series \ Nix Hydra \ Our Life Series \ Sad Panda Studios \ SnaccPop Studios \ Studio Genius Japan Inc. \ Sucker for Love \ Tokimeki Memorial Girl's Side
-Daum | Cassiopeia's Works \ Cheongcho's Works \ Contents Lab. Blue \ Cyungchan Noh's Works \ Eun-chae Go's Works \ Eunhyang Ja's Works \ Eunyoul's Works \ Farnar's Works \ GLEE's Art \ GongDeunTop's Works \ Gwon Gyeoeul's Works \ HÆON's Works \ Hee-jin Bae's Works \ JS Content \ Juhong's Art \ Lisabel's Works \ Moon Sihyun's Works \ NARAK's Art \ Neptune \ Portofino's Works \ RinA's Works \ Sol Leesu's Works \ Supercomix Studio \ Taeson's Works \ Tess' Art \ todac_s's Art \ Woo-gak's Works \ Yoon Hawol's Works \ Yumyum's Art
+Daum | Cassiopeia's Works \ Cheongcho's Works \ Contents Lab. Blue \ Cyungchan Noh's Works \ Eun-chae Go's Works \ Eunhyang Ja's Works \ Eunyoul's Works \ Farnar's Works \ GLEE's Art \ GongDeunTop's Works \ Gwon Gyeoeul's Works \ HÆON's Works \ Hee-jin Bae's Works \ JS Content \ Juhong's Art \ Lisabel's Works \ Moon Sihyun's Works \ NARAK's Art \ Neptune \ Portofino's Works \ RinA's Works \ Sol Leesu's Works \ Supercomix Studio \ Taeson's Works \ Tess' Art \ todac_s's Art \ Woo-gak's Works \ Wookjakga's Art \ Yoon Hawol's Works \ Yumyum's Art
 Daume | Onegai Teacher Series
-Day Comics | Baegji's Art \ Dolkong's Works \ Jake's Art \ Naru's Art \ Red City's Art \ red-A's Works
+David Chase's Works | The Sopranos Series
+Day Comics | Baegji's Art \ Basasak's Works \ Dolkong's Works \ Jake's Art \ Lee Wan's Art \ Naru's Art \ Red City's Art \ red-A's Works \ Tting Jini's Works
 Daz 3D CG | DrPinkCake's Works \ Ocean (Adult)
 DC Animation | Batman Animation \ Bruce Timm's Works \ DC Animated Universe \ Teen Titans Series
 DC Games | Batman Games \ Batman: Arkham \ Injustice Series \ LEGO DC Video Games \ Rocksteady Studios \ WB Games Montréal
 DC Movies | Batman Movies \ Superman Movies \ The Dark Knight Trilogy
-DC Multiverse | Batman Animation \ Batman Franchise \ Batman Games \ Batman Movies \ Batman: Arkham \ Bruce Timm's Works \ DC Animated Universe \ DC Animation \ DC Extended Universe \ DC Games \ DC Movies \ DC TV Shows \ DC Universe \ DC Vertigo \ Green Lantern Franchise \ Injustice Series \ Justice League Franchise \ LEGO Batman \ LEGO DC Video Games \ Rocksteady Studios \ Superman Franchise \ Superman Movies \ Superman TV Shows \ Teen Titans Series \ The Batman Universe \ The Dark Knight Trilogy \ WB Games Montréal
+DC Multiverse | Aquaman Franchise \ Batman Animation \ Batman Franchise \ Batman Games \ Batman Movies \ Batman: Arkham \ Bruce Timm's Works \ DC Animated Universe \ DC Animation \ DC Extended Universe \ DC Games \ DC Movies \ DC TV Shows \ DC Universe \ DC Vertigo \ Flash Franchise \ Green Lantern Franchise \ Injustice Series \ Justice League Franchise \ LEGO Batman \ LEGO DC Video Games \ Rocksteady Studios \ Shazam Franchise \ Suicide Squad Franchise \ Superman Franchise \ Superman Movies \ Superman TV Shows \ Swamp Thing Franchise \ Teen Titans Series \ The Batman Universe \ The Dark Knight Trilogy \ WB Games Montréal \ Wonder Woman Franchise
 DC TV Shows | Bruce Timm's Works \ Superman TV Shows
 Dead Ahead Series | Mobirate
 Dead Games | BF (Beta) Series \ goodbeans \ Mushiking \ Puzzle Fighter Series \ Studio FgG
 Death Game Genre | Danganronpa Another Series \ Danganronpa Fangames \ Saw Franchise \ Zero Escape
-Deep Silver | Dead Island Series \ Metro Series
+Deep Silver | Dead Island Series \ Kingdom Come: Deliverance Series \ Metro Series
 Dengeki Bunko | Bokuto Uno's Works \ Boogiepop Series \ Hitoma Iruma's Works \ Mahouka Koukou no Rettousei Series \ Onegai Teacher Series \ Rakuda's Works \ Satoshi Wagahara's Works \ Satoyasu's Art \ Tsukasa Fushimi's Works
 Dengeki Daioh | Onegai Teacher Series \ Seikai Series \ Yuyuko Takemiya's Works
 Denpasoft | NEKO-NIN exHeart Series \ Re;Lord Series \ Seiiki Series
 Derek Yu's Works | Spelunky Series
-Detective Media | Cluedo Series \ Collar×Malice Series \ Detective Pikachu Series \ Famicom Detective Club Series \ Kara no Shoujo Series \ Nancy Drew Series
+Detective Media | Cluedo Series \ Collar×Malice Series \ Detective Pikachu Series \ Famicom Detective Club Series \ Kara no Shoujo Series \ Law & Order Series \ Nancy Drew Series
 Devil Summoner | Raidou Kuzunoha Series \ Soul Hackers Series
-Devolver Digital | Croteam \ Hatoful Boyfriend Series \ Hotline Miami Series \ Nomada Studio \ The Talos Principle Series
+Devolver Digital | Croteam \ Gungeon Series \ Hatoful Boyfriend Series \ Hotline Miami Series \ Nomada Studio \ The Talos Principle Series
 DiC | Captain N and the New Super Mario World \ DIC Sonic the Hedgehog Cartoons \ Inspector Gadget Series \ Mario All Stars \ Super Mario Bros. Cartoons
 DICE (Company) | Mirror's Edge Series
-Digimon | Digimon Anime \ Digimon Games \ Digimon Story \ Digimon World Series
+Digimon | Digimon Anime \ Digimon Comic \ Digimon Games \ Digimon Story \ Digimon World Series
 Digimon Games | Digimon Story \ Digimon World Series
 Dimps | Dragon Ball Xenoverse Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Shin Budokai Series \ Sonic Advance Series \ Sonic Rush Series \ Sonic the Hedgehog 4
-Dinosaur Media | Fossil Fighters Series \ Jurassic Park Franchise \ Jurassic Park Series \ Jurassic World Series
+Dinosaur Media | Dino Crisis Series \ Fossil Fighters Series \ Jurassic Park Franchise \ Jurassic Park Series \ Jurassic World Series
 Discovery Family | Littlest Pet Shop Franchise
 Disgaea Series | Prinny Series
 Disney Channel | Craig Gerber's Works \ Descendants Series \ Disney Channel Original Movies \ Kenny Ortega's Works
-Disney Games | Cars Video Games \ Castle of Illusion Series \ Epic Mickey Series \ Insomniac's Marvel Universe \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts Union χ Dark Road \ LEGO Marvel Video Games \ Star Wars Jedi Series
+Disney Games | Cars Video Games \ Castle of Illusion Series \ Epic Mickey Series \ Insomniac's Marvel Universe \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts Union χ Dark Road \ LEGO Marvel Video Games \ Star Wars Jedi Series \ The Disney Afternoon Collection
 Disney Interactive Studios | Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts Union χ Dark Road
 Disney Junior | Craig Gerber's Works
 Disney Princess Films | Beauty and the Beast Series \ Cinderella Series \ Frozen Series \ Moana Series \ Mulan Series \ Pocahontas Series
 Disney Television Animation | Bobs Gannaway's Works \ Craig Gerber's Works \ Jymn Magon's Works \ Phineas and Ferb Series \ The Disney Afternoon \ Tri-State Area Series
 Disneytoon Studios | Darrell Rooney's Works \ Jim Kammerud's Works
-Disturbing Imagery | A Nightmare on Elm Street Series \ American McGee's Alice Series \ Dark Marchen \ Dead Space Series \ Devil Came Through Here Trilogy \ Devilman Series \ Eroguro \ Fear & Hunger Series \ Friday the 13th Series \ Kara no Shoujo Series \ Kenshirou Minori's Works \ KeroQ \ Kosmicdream's Works \ LISA \ Lucius Series \ Outlast Series \ Paper Lily Series \ Petit Flower \ Punica \ Purgatory Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Resident Evil: Revelations Series \ Saw Franchise \ Silent Hill \ Spirit Hunter Series \ Synapse Series \ Team Silent \ The Dark Pictures Anthology \ The Last of Us Series \ The Texas Chainsaw Massacre Series \ Yai Gameworks
+Disturbing Imagery | American McGee's Alice Series \ Dark Marchen \ Dead Space Series \ Devil Came Through Here Trilogy \ Devilman Series \ Fear & Hunger Series \ Granny Series \ Kara no Shoujo Series \ Kenshirou Minori's Works \ KeroQ \ Kosmicdream's Works \ LISA \ Lucius Series \ Made in Abyss Series \ Outlast Series \ Paper Lily Series \ Petit Flower \ Punica \ Purgatory Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Resident Evil: Revelations Series \ Saw Franchise \ Silent Hill \ Spirit Hunter Series \ Synapse Series \ Team Silent \ The Dark Pictures Anthology \ The Last of Us Series \ The Texas Chainsaw Massacre Series \ Yai Gameworks
 DMM Games | KMS GAMES \ Touken Ranbu Series
 DMM.com | KMS GAMES \ Techcross \ Touken Ranbu Series
+Doctor Strange Franchise | MCU Doctor Strange Series
 Doctor Who Branded Media | Doctor Who \ The Wilderness Years
-Dog Media | Clifford the Big Red Dog Series \ Lady and the Tramp Series \ PAW Patrol Series
+Dog Media | Clifford the Big Red Dog Series \ Ginga Series \ Lady and the Tramp Series \ PAW Patrol Series
 Doga Kobo | Cherry Arai's Works \ Koihime†Musou Series \ Luck & Logic Series
-Donald Duck Universe | DuckTales Series
+Donald Duck Franchise | Darkwing Duck Series \ DuckTales Series
 Donkey Kong Arcade Series | Donkey Kong 3 Series \ Donkey Kong Jr. Series
 Donkey Kong Series | DK Climber Series \ Donkey Kong 3 Series \ Donkey Kong Arcade Series \ Donkey Kong Country Series \ Donkey Kong Country TV Series \ Donkey Kong Jr. Series \ Donkey Kong Land Series \ Donkey Konga Series
-DOS | Mario Discovery Series \ Presage Software \ The Lost Vikings Series \ The Software Toolworks
+DOS | Laura Bow Series \ Mario Discovery Series \ Presage Software \ The Lost Vikings Series \ The Software Toolworks
 Double Fine | Psychonauts Series
-Doujinshi | Aomizuan's Works \ Binto's Works \ DOLL PLAY \ Gujira's Works \ HiRoB's Art \ JOY RIDE's Works \ Karaoke Iko! Series \ Kuromoto-kun's Works \ MANKAI ZENSEKI \ Muchakai's Works \ Nagi Ichi's Works \ Ponchi's Works \ Puu no Puupuupuu's Works \ Raidon's Art \ Rororogi Mogera's Works \ Seto Ryouko's Works \ Shoshinsha Josou Danshi Series \ sisei's Works \ Synapse Series \ VictimGirlsR Series
+Doujinshi | Aomizuan's Works \ Binto's Works \ Chiroru Kamioka's Art \ DOLL PLAY \ Gujira's Works \ HiRoB's Art \ Ikezaki Misa's Works \ JOY RIDE's Works \ Karaoke Iko! Series \ kozi's Works \ Kuromoto-kun's Works \ MANKAI ZENSEKI \ Misa Ikezaki's Works \ Nagi Ichi's Works \ Ponchi's Works \ Puu no Puupuupuu's Works \ Raidon's Art \ Rororogi Mogera's Works \ Seto Ryouko's Works \ Shoshinsha Josou Danshi Series \ sisei's Works \ Synapse Series \ VictimGirlsR Series
 Dr. Mario Series | Dr. Mario & Bacteria Extermination Series
+Dra-Dra Sharp# | Shunpei Morita's Works
 Dragon Ball Anime | Dragon Ball Original Manga Run
 Dragon Ball Games | Dragon Ball Origins Series \ Dragon Ball Xenoverse Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Budokai Tenkaichi Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Goku Series \ Dragon Ball Z: Shin Budokai Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: Super Saiya Densetsu \ Dragon Ball Z: Supersonic Warriors Series \ Dragon Ball Z: The Legacy of Goku Series \ Dragon Ball: Shenlong no Nazo Series \ J Legend Retsuden
 Dragon Ball Movies | Dragon Ball Z: Cooler Series \ Dragon Ball: Broly Series
@@ -364,32 +387,34 @@ Dragon Ball Z Series | Dragon Ball Z Arcade Series \ Dragon Ball Z: Budokai HD C
 Dragon Ball Z: Budokai Series | Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Shin Budokai Series
 Dragon Ball Z: Butoden Series | Dragon Ball Z: Super Butoden Series
 Dragon Ball Z: Gokuden Series | Dragon Ball Z: Super Saiya Densetsu
-Dragon Comics Age | Hajime Kanzaka's Works \ Sumeragi's Art
+Dragon Comics Age | Hajime Kanzaka's Works \ Shunpei Morita's Works \ Sumeragi's Art
 Dragon Media | Dragon Boy Series \ How To Train Your Dragon Series \ Spyro Reignited Trilogy \ The Legend of Spyro Series
-Dragon Quest | Itadaki Street Series
+Dragon Quest | Dragon Quest Heroes Series \ Itadaki Street Series
 Dragon Slayer Series | Dragon Slayer Chronicle \ Erebonia Arc \ Xanadu Series
 DrakenNieR | Drakengard Series \ NieR Series
 Drama CDs | Fuji Mitsuya's Art
 Dramatic Create | The House in Fata Morgana Series
-DreadXP | Sucker for Love
-Dreamcast | Climax Graphics \ Sonic Adventure Series
-DreamWorks Animation | Dav Pilkey's Works \ Kung Fu Panda Movies \ Kung Fu Panda Series \ Madagascar Series \ Megamind Series \ Puss in Boots Series \ Shrek Franchise \ Shrek Series \ The Bad Guys Series \ The Penguins of Madagascar Series \ Trolls Series
-Dress-Up Games | Destiny Ninja Series \ Gacha Life Series \ My Candy Love Series \ Nikki UP2U Series \ PriPara Series \ Shiro Yamada's Art
-Dungeon Crawlers | Bunny Black Series \ Crypt of the Necrodancer Series \ Diablo Series \ Dragon Boy Series \ Dungeon Travelers Series \ Etrian Odyssey Series \ Hades Series \ Marvel: Ultimate Alliance Series \ Mary Skelter Series \ Persona Q Series \ Pokémon Mystery Dungeon \ Risk of Rain Series \ Spelunky Series
+DreadXP | Amanda the Adventurer Series \ Sucker for Love
+Dreamcast | Climax Graphics \ Dino Crisis Series \ Sonic Adventure Series
+DreamWorks Animation | Dav Pilkey's Works \ Kung Fu Panda Movies \ Kung Fu Panda Series \ Madagascar Series \ Megamind Series \ Puss in Boots Series \ The Bad Guys Series \ The Penguins of Madagascar Series \ Turbo Series
+Dress-Up Games | Destiny Ninja Series \ Gacha Life Series \ My Candy Love Series \ Nikki UP2U Series \ Shiro Yamada's Art
+Dungeon Crawlers | Bunny Black Series \ Diablo Series \ Dragon Boy Series \ Dungeon Travelers Series \ Etrian Odyssey Series \ Gungeon Series \ Hades Series \ Marvel: Ultimate Alliance Series \ Mary Skelter Series \ Persona Q Series \ Pokémon Mystery Dungeon \ Risk of Rain Series \ Spelunky Series \ Wizardry Series
 Dungeons & Dragons | Baldur's Gate Series
-Dungeons & Dragons Genre | Baldur's Gate Series \ Not Another D&D Podcast \ Pathfinder \ The Adventure Zone \ The Third Wheel
-Dutch Media | Guerrilla Games \ Horizon \ Lethal League Series \ Sakurada Yana's Works \ Team Reptile \ Telescreen B.V. \ Vlambeer
+Dungeons & Dragons Genre | Baldur's Gate Series \ Legends of Avantris Campaigns \ Not Another D&D Podcast \ Pathfinder \ The Adventure Zone \ The Third Wheel
+Dutch Media | Guerrilla Games \ Horizon \ Killzone Series \ Lethal League Series \ Sakurada Yana's Works \ Team Reptile \ Telescreen B.V. \ Vlambeer
+DVloper's Works | Granny Series
 Eastasiasoft | Yangyang Mobile
 Ecchi | AIKa Series \ Akiko Morishima's Works \ Akira Hizuki's Works \ Atsushi Uchiyama's Works \ Booking \ Bullet Girls Series \ Burn Up! \ Chaos Chronicle Series \ Criminal Girls Series \ Genkai Tokki \ High School DxD Series \ Kakito Katou's Art \ Ken Akamatsu's Works \ Kenji Inoue's Works \ Kenji Saitou's Works \ Kill la Kill Series \ Leisure Suit Larry \ Masaki Kawakami's Art \ Meguru Ueno's Works \ Negima! Series \ Nujima's Works \ Omega Labyrinth Series \ Ookuma Nekosuke's Art \ Prison Princess Series \ Rifujin na Magonote's Works \ Seiji Ebisu's Works \ sin Franchise \ Taguchi Hoshino's Works \ To LOVE-Ru Series \ Uran's Art \ Valkyrie Drive \ Yoshinobu Yamada's Works \ Yui Haga's Art \ Yumi Nakata's Works
 Echo Project | Adastra Series \ Echo Series
 eComiX | Wann's Art
 Edgar Wright's Works | Three Flavours Cornetto Trilogy
 Editorial Bruguera | Francisco Ibáñez's Works
-Edmund McMillen's Works | Super Meat Boy Series
+Edmund McMillen's Works | Super Meat Boy Series \ The Binding of Isaac Series
 Education | Big Brain Academy Series \ Blue's Clues Series \ Bookworm Series \ Brain Age \ Carmen Sandiego Series \ Clifford the Big Red Dog Series \ Humongous Entertainment \ Kratt Brothers Company \ Mario Discovery Series \ Mario Teaches Typing Series \ SEGA Pico \ Spy Fox Series \ The Software Toolworks \ The Typing of the Dead Series
-Eidos Interactive | Core Design \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
+Egyptian Mythology Media | The Mummy Series
+Eidos Interactive | Core Design \ Kane & Lynch Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
 Ekachi Epilka Inc. | Indivision
-Electronic Arts | American McGee's Alice Series \ Bookworm Series \ Command & Conquer Series \ DICE (Company) \ EA Sports \ Frostbite Engine Games \ Mass Effect Trilogy \ Mirror's Edge Series \ MySims Series \ MySims: Cozy Bundle \ Need for Speed \ Peggle Series \ Plants vs. Zombies 2 Series \ Respawn Entertainment \ Star Wars Jedi Series \ Titanfall Series \ Visceral Games
+Electronic Arts | American McGee's Alice Series \ Bookworm Series \ Command & Conquer Series \ Crysis Series \ Def Jam Games \ DICE (Company) \ EA Sports \ Frostbite Engine Games \ Mass Effect Trilogy \ Mirror's Edge Series \ MySims Series \ MySims: Cozy Bundle \ Need for Speed \ Peggle Series \ Plants vs. Zombies 2 Series \ Respawn Entertainment \ Star Wars Jedi Series \ The Lord of the Rings: The Battle for Middle-earth Series \ Titanfall Series \ Visceral Games
 Elf Corporation | AI5 Games \ Aya Kadoi's Art \ Doukyuusei Series \ Kakyuusei Series \ Masaki Takei's Art \ Masato Hiruta's Works
 Elisabetta Dami's Works | Geronimo Stilton Series
 Empress | Starless Series
@@ -397,49 +422,50 @@ Endless Runners | Sonic Runners Series
 Endnight Games | The Forest Series
 Ensemble Studios | Halo Wars Series
 Enterbrain | Aoikishi Comics \ B's-LOG Bunko \ B's-LOG COMIC \ Beam Comics \ Famitsu Bunko \ Harta Comics \ Kaoru Mori's Works \ Karaoke Iko! Series \ Nami Sano's Works \ namo's Works \ TearRing Saga \ Tetsukazu's Works
-Entergram, Inc. | Prekano \ SAGA PLANETS
+Entergram, Inc. | Prekano
 Epic Games | Fortnite Series \ Infinity Blade Series
 Epyrus | Surim Lee's Works
 Erin Hunter's Works | Warrior Cats Series
-Eroge | Above a Damage Tile \ aburasobabiyori \ Acerola \ Active Software \ ADELTA \ AI5 Games \ Aibeya Series \ AiCherry \ Aikagi Series \ AKABEiSOFT2 \ AKABEiSOFT3 \ Akatsuki Works \ ALcot \ AliceSoft System4.X Games \ Amakano Series \ Ammolite \ Amuse Craft Erotica \ ANIM \ Applique \ Asa Project \ Asoberu! BD-GAME \ Astronauts \ Atelier Kaguya \ Atelier Sakura \ AVANTGARDE \ AVG32 Games \ Aya Kadoi's Art \ Azarashi Soft \ BABEL \ Baku Ane Series \ Baldr Series \ BaseSon \ BBQLiuhun's Works \ Beat Series \ Bishop \ Blue Gale \ Blueberry Soft \ Bosei Kanojo Series \ Bunny Black Series \ BUZAMA Series \ Cabbage Soft \ Candy Soft \ Caramel BOX \ Cation Series \ CHAOS-L \ Cherry Kiss Games \ ChuableSoft \ Ciel \ CIRCUS \ Clip Craft \ CLOCKUP \ CMVS Games \ Cocktail Soft \ Courreges Ace \ CRYSTALiA \ CUBE \ Da Capo Series \ Dark One! \ Dennou Club \ Dharker Studios \ Dieselmine \ Digital Cute \ Doukyuusei Series \ Eiyuu Senki \ Elf Corporation \ Elven Conquest Series \ Empress \ ensemble \ Erectlip \ EROLABS \ eRONDO \ Escu:de \ Eushully \ Evenicle Series \ F&C Co. \ FAVORITE \ feng \ FlyingShine \ FVP Games \ G.J? \ Galette \ Get Married! Series \ Giga \ Goblin Burrow Series \ Hadashi Shoujo \ HAMHAM-SOFT \ Happiness! Series \ Hearts \ Hibiki Works \ Hobikore \ Holic Series \ Honoo no Haramase Franchise \ Hooksoft \ Hublots Inc. \ Hulotte \ Huracan's Art \ Idol Hands Series \ Ikusa Megami Series \ Immoral Study Scenario Series \ Imouto Paradise! Series \ Inusuku \ Iris (Company) \ JAST Blue \ JAST USA Memorial Collection \ Jitaku Keibiin Series \ Juicy Mango \ Jukujo Paradise \ KAIJYU-09 \ Kakyuusei Series \ Kalmia8 \ Kamuo \ Kangoku Senkan Series \ KeroQ \ KMS GAMES \ Koihime†Musou Series \ KooooN Soft \ Kopianget's Art \ Kouyoku Senki ExS-Tia Series \ Kuroinu Series \ Kururi Active \ Kyonyuu Fantasy Series \ Langmaor \ Laplacian \ Lass \ Leaf Visual Novel Series \ Lightning Warrior Raidy Series \ LiLiM DARKNESS \ Liquid \ Littlewitch \ LiveMaker Games \ Love Lab (Company) \ Luna Soft \ M's TOY BOX \ Madosoft \ Makai Tenshi Jibril Series \ Malie Games \ Mamono Musume Series \ Marine \ Marmalade \ Marshmallow Soft \ Masaki Takei's Art \ Masato Hiruta's Works \ Mayfar Soft \ Miel \ Mink \ MoeNovel \ Monster Girl Quest Series \ Moonlight Lady Collection \ MOONSTONE \ N43 Project \ Nakahiro's Works \ Navel \ NEC Interchannel \ NEKO-NIN exHeart Series \ NeXAS Games \ Nexton \ Nihikime no Dozeu \ NinNinDays Series \ Nitro+CHiRAL \ Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series \ Nupu Nupu Dev's Works \ ONE Series \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Onono Imoko's Art \ Ota Guchi Field \ OTAKU Plan \ Overdrive \ Palette \ Panty Press \ parade. \ Peach Princess \ PeasSoft \ Pia♥Carrot e Youkoso!! Series \ PICOPICOSOFT \ PINKCORE \ Pizza Takeout Obscenity Series \ POISON \ Pre-Key Tactics \ Prekano \ Princess Soft \ Prostudent G Series \ PULLTOP \ Purple software \ Push! Soft \ QLIE Games \ Qruppo \ Radish Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Re;Lord Series \ Real Eroge Situation Series \ Rebootlove's Works \ Remtairy \ Rosebleu \ SAGA PLANETS \ Sei Yariman Gakuen Series \ Seiiki Series \ SEQUEL \ Shiina Rio Games \ Shin'ya Oosaki's Art \ shirokoi's Works \ Sierra Lee's Works \ Silky Engine Games \ Silky's \ Silky's Plus \ SiNiSistar Series \ Smee \ Smile \ Softhouse-Seal \ SofthouseChara \ Softpal ADV System Games \ Sono Hanabira ni Kuchizuke o Series \ Starless Series \ Studio e.go! \ Studio Matrix \ Studio Pork \ Studio Ryokucha \ Sugar Pot \ Tactics \ Tanuki Soft \ Team Baldrhead \ Tenioha! Series \ Tennenouji \ Tentacle Games (Company) \ Tigre Soft \ TinkerBell \ Tinkle Position \ tokinokogiri \ Tommydashen's Art \ tone work's \ Tsuki ni Yorisou Otome no Sahou Series \ Tsukinomizu Project \ Uguisu Kagura \ Unionism Quartet Series \ Variety Tactics! Series \ VenusBlood Series \ Viper Series \ Waffle \ Whirlpool \ WHITE ALBUM Series \ Windmill Oasis \ Xuse \ Yoru no Hitsuji \ Yuka System Games \ Yura's Works \ ZyX \ ωstar
+Eroge | Above a Damage Tile \ aburasobabiyori \ Acerola \ Active Software \ ADELTA \ AI5 Games \ Aibeya Series \ AiCherry \ Aikagi Series \ AKABEiSOFT2 \ AKABEiSOFT3 \ Akatsuki Works \ ALcot \ AliceSoft System4.X Games \ Amakano Series \ Ammolite \ Amuse Craft Erotica \ ANIM \ Applique \ Asa Project \ Asoberu! BD-GAME \ Astronauts \ Atelier Kaguya \ Atelier Sakura \ AVANTGARDE \ AVG32 Games \ Aya Kadoi's Art \ Azarashi Soft \ BABEL \ Baku Ane Series \ Baldr Series \ BanameiR \ BaseSon \ BBQLiuhun's Works \ Beat Series \ Bishop \ Blue Gale \ Blueberry Soft \ Bosei Kanojo Series \ Bunny Black Series \ BUZAMA Series \ Cabbage Soft \ Candy Soft \ Caramel BOX \ Cation Series \ CHAOS-L \ ChuableSoft \ Ciel \ CIRCUS \ Clip Craft \ CLOCKUP \ CMVS Games \ Cocktail Soft \ Courreges Ace \ CRAFTWORK \ CRYSTALiA \ CUBE \ Da Capo Series \ Dark One! \ Dennou Club \ Dharker Studios \ Dieselmine \ Digital Cute \ Doukyuusei Series \ Eiyuu Senki \ Elf Corporation \ Elven Conquest Series \ Empress \ ensemble \ EntisGLS Games \ Erectlip \ EROLABS \ eRONDO \ Escu:de \ Eushully \ Evenicle Series \ F&C Co. \ FAVORITE \ feng \ FlyingShine \ FVP Games \ G.J? \ Galette \ Get Married! Series \ Giga \ Goblin Burrow Series \ Hadashi Shoujo \ HAMHAM-SOFT \ Happiness! Series \ Hearts \ Hibiki Works \ Hobikore \ Holic Series \ Honoo no Haramase Franchise \ Hooksoft \ Hublots Inc. \ Hulotte \ Huracan's Art \ Idol Hands Series \ Ikusa Megami Series \ Immoral Study Scenario Series \ Imouto Paradise! Series \ Inusuku \ Iris (Company) \ Irotoridori no Sekai Series \ JAST Blue \ JAST USA Memorial Collection \ Jitaku Keibiin Series \ Juicy Mango \ Jukujo Paradise \ KAIJYU-09 \ Kakyuusei Series \ Kalmia8 \ Kamuo \ Kangoku Senkan Series \ KeroQ \ KMS GAMES \ Koihime†Musou Series \ KooooN Soft \ Kopianget's Art \ Kouyoku Senki ExS-Tia Series \ Kozue's Strange Journey Series \ Kuroinu Series \ Kururi Active \ Kyonyuu Fantasy Series \ Langmaor \ Laplacian \ Lass \ Leaf Visual Novel Series \ Lightning Warrior Raidy Series \ LiLiM DARKNESS \ Liquid \ Littlewitch \ LiveMaker Games \ Love Lab (Company) \ Luna Soft \ M's TOY BOX \ Madosoft \ Makai Tenshi Jibril Series \ Malie Games \ Mamono Musume Series \ Marine \ Marmalade \ Marshmallow Soft \ Masaki Takei's Art \ Masato Hiruta's Works \ Mayfar Soft \ Mink \ MoeNovel \ Monster Girl Quest Series \ Moonlight Lady Collection \ MOONSTONE \ N43 Project \ Nakahiro's Works \ Navel \ NEC Interchannel \ NEKO-NIN exHeart Series \ NeXAS Games \ Nexton \ Nihikime no Dozeu \ NinNinDays Series \ Nitro+CHiRAL \ Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series \ Nupu Nupu Dev's Works \ ONE Series \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Onono Imoko's Art \ Ota Guchi Field \ OTAKU Plan \ Overdrive \ Palette \ Panty Press \ parade. \ Peach Princess \ PeasSoft \ Pia♥Carrot e Youkoso!! Series \ PICOPICOSOFT \ PINKCORE \ Pizza Takeout Obscenity Series \ POISON \ Pre-Key Tactics \ Prekano \ Princess Soft \ Prostudent G Series \ PULLTOP \ Purple software \ Push! Soft \ QLIE Games \ Qruppo \ Radish Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Re;Lord Series \ Real Eroge Situation Series \ Rebootlove's Works \ Remtairy \ Rosebleu \ SAGA PLANETS \ Sei Yariman Gakuen Series \ Seiiki Series \ SEQUEL \ Shiina Rio Games \ Shin'ya Oosaki's Art \ shirokoi's Works \ Sierra Lee's Works \ Silky Engine Games \ Silky's \ Silky's Plus \ SiNiSistar Series \ Slow Damage Series \ Smee \ Smile \ Softhouse-Seal \ SofthouseChara \ Softpal ADV System Games \ Sono Hanabira ni Kuchizuke o Series \ Starless Series \ Studio e.go! \ Studio Matrix \ Studio Pork \ Studio Ryokucha \ Study § Steady Series \ Sugar Pot \ Tactics \ Tanuki Soft \ Team Baldrhead \ Tenioha! Series \ Tennenouji \ Tentacle Games (Company) \ Tigre Soft \ TinkerBell \ Tinkle Position \ tokinokogiri \ Tommydashen's Art \ tone work's \ Tsuki ni Yorisou Otome no Sahou Series \ Tsukinomizu Project \ Uguisu Kagura \ Unionism Quartet Series \ Variety Tactics! Series \ VenusBlood Series \ Viper Series \ Waffle \ Whirlpool \ WHITE ALBUM Series \ Windmill Oasis \ Xuse \ Yoru no Hitsuji \ Yuka System Games \ Yura's Works \ ZyX \ ωstar
 EROLABS | PINKCORE
-Eromanhwa | 6ho's Works \ Abyo4's Works \ Active Volcano's Works \ Alien's Works \ Among's Art \ Ananas's Works \ Andrew's Art \ Baegji's Art \ Baerona93's Works \ Beibi's Works \ Bolp.'s Art \ Camja's Art \ Chada's Works \ Cheongnyang's Art \ Choi Sung-wan's Art \ Dabble's Works \ Dolkong's Works \ Dong-Heon Lee's Works \ Edge Edge's Art \ ERO404's Works \ Face Park's Works \ Flower Storm's Works \ Gaehoju's Works \ GaeTi's Art \ GOSONJAK's Works \ Grid17's Art \ Gyou's Art \ Gyulpi's Works \ HAESIN's Works \ Hal's Works \ Haron's Works \ Harusari's Works \ Hoero's Works \ Husky Team's Works \ Hyungjakga's Art \ Jake's Art \ Jayeon PPang's Art \ Ji-Yeon Park's Works \ Jjang-yi's Art \ Ju-Won Lee's Art \ Kampiseu's Works \ Kang-Cheol Wang's Works \ Kimmundo's Works \ Kogi Jun's Works \ Kongbbaemi's Works \ Kyun's Art \ LObeam's Works \ Majeungji's Works \ Mangmungming's Works \ Matgini's Works \ MAYO's Art \ Mingwa's Works \ MJJ's Works \ Mokbegae's Works \ Morak's Works \ Moscareto's Works \ Muldeok's Works \ Mx2J's Art \ Naru's Art \ NOAH's Works \ NOKO's Art \ Nuwaru's Works \ On-Jeom's Works \ One Dollar's Works \ over.J's Works \ Park Min's Works \ Paya8's Art \ PD Kim's Art \ Potion's Art \ Puddinga's Art \ Red City's Art \ red-A's Works \ Rodong's Art \ Rozer's Art \ Rubung's Works \ Sagold's Works \ Salto's Art \ Samosa's Works \ SDbigpie's Art \ Sejul's Art \ Seok-Ji's Art \ Seongchi Lee's Works \ Seran Kim's Works \ SERIOUS's Works \ Sipmanwon's Works \ SSAEM's Works \ Ssaneung's Works \ Ssari's Art \ Studio M \ Sungmin's Works \ Sungwon's Art \ Swanis Works \ Tae-Young Choi's Art \ Talyeong's Art \ Tama's Works \ Team Biyam's Works \ Team Gaji's Works \ Tharchog's Works \ TR's Works \ White Eared's Works \ Yagyung's Works \ Yansae's Works \ Yuwol's Works \ Zeta Kim's Art \ ZIG's Works \ Zimtigee's Art
-Erotic Games | 3D Adult Games \ Above a Damage Tile \ aburasobabiyori \ Acerola \ Active Software \ Adastra Series \ ADELTA \ AI5 Games \ Aibeya Series \ AiCherry \ Aikagi Series \ AKABEiSOFT2 \ AKABEiSOFT3 \ Akatsuki Works \ ALcot \ AliceSoft System4.X Games \ Amakano Series \ Ammolite \ Amuse Craft Erotica \ ANIM \ Appetite (Company) \ Applique \ Asa Project \ Asoberu! BD-GAME \ Astronauts \ Atelier Kaguya \ Atelier Sakura \ AVANTGARDE \ AVG32 Games \ Aya Kadoi's Art \ Azarashi Soft \ BABEL \ Baku Ane Series \ Baldr Series \ BaseSon \ BBQLiuhun's Works \ Beat Series \ Bishop \ BlackMonkey-Pro \ Blue Gale \ Blueberry Soft \ Bosei Kanojo Series \ Bunny Black Series \ BUZAMA Series \ Candy Soft \ Caramel BOX \ Caribdis Games \ Cation Series \ CHAOS-L \ Cherry Kiss Games \ ChuableSoft \ Ciel \ CIRCUS \ Clip Craft \ CLOCKUP \ CMVS Games \ Cocktail Soft \ Corruption of Champions Series \ Courreges Ace \ CRYSTALiA \ CUBE \ Da Capo Series \ Dark Marchen \ Dark One! \ Daz 3D CG \ Dennou Club \ Dharker Studios \ Dieselmine \ Digital Cute \ Doukyuusei Series \ DrPinkCake's Works \ Echo Project \ Echo Series \ Eiyuu Senki \ Elf Corporation \ Elven Conquest Series \ Empress \ ensemble \ Erectlip \ EROLABS \ eRONDO \ Escu:de \ Eushully \ Evenicle Series \ F&C Co. \ FAVORITE \ feng \ FlyingShine \ FVP Games \ G.J? \ Galette \ Get Married! Series \ Giga \ Goblin Burrow Series \ Hadashi Shoujo \ HAMHAM-SOFT \ Happiness! Series \ Hearts \ Hibiki Works \ Hobikore \ Holic Series \ Honey Select CG \ Honoo no Haramase Franchise \ Hooksoft \ Hublots Inc. \ Hulotte \ HuniePot \ Huracan's Art \ Idol Hands Series \ Ikusa Megami Series \ Immoral Study Scenario Series \ Imouto Paradise! Series \ Inusuku \ Iris (Company) \ JAST Blue \ JAST USA Memorial Collection \ Jitaku Keibiin Series \ JSK Studio \ Juicy Mango \ Jukujo Paradise \ Kagura Games \ KAIJYU-09 \ Kakyuusei Series \ Kalmia8 \ Kamuo \ Kangoku Senkan Series \ KeroQ \ Kinkoid \ KMS GAMES \ Koihime†Musou Series \ Koikatsu CG \ KooooN Soft \ Kopianget's Art \ Kouyoku Senki ExS-Tia Series \ Kuroinu Series \ Kururi Active \ Kyonyuu Fantasy Series \ Langmaor \ Laplacian \ Lass \ Leaf Visual Novel Series \ Leisure Suit Larry \ Lewd Formosa \ Lightning Warrior Raidy Series \ LiLiM DARKNESS \ Liquid \ Littlewitch \ LiveMaker Games \ Love Lab (Company) \ Luna Soft \ M's TOY BOX \ Madosoft \ Makai Tenshi Jibril Series \ Malie Games \ Mamono Musume Series \ Mango Party \ Marine \ Marmalade \ Marshmallow Soft \ Masaki Takei's Art \ Masato Hiruta's Works \ Mayfar Soft \ Meet And Fuck Games \ Miel \ Mink \ MoeNovel \ Monster Girl Quest Series \ Moonlight Lady Collection \ MOONSTONE \ N43 Project \ Nakahiro's Works \ Navel \ NEC Interchannel \ NEKO-NIN exHeart Series \ NeXAS Games \ Nexton \ Nihikime no Dozeu \ NinNinDays Series \ Nitro+CHiRAL \ Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series \ Nupu Nupu Dev's Works \ Ocean (Adult) \ ONE Series \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Onono Imoko's Art \ Ota Guchi Field \ OTAKU Plan \ Overdrive \ Palette \ Panty Press \ parade. \ Peach Princess \ PeasSoft \ Pia♥Carrot e Youkoso!! Series \ PICOPICOSOFT \ Pink Tea Games \ PINKCORE \ Pizza Takeout Obscenity Series \ POISON \ Pre-Key Tactics \ Prekano \ Princess Soft \ Prostudent G Series \ PULLTOP \ Purple software \ Push! Soft \ QLIE Games \ Qruppo \ Radish Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Re;Lord Series \ Real Eroge Situation Series \ Rebootlove's Works \ Remtairy \ Rosebleu \ SAGA PLANETS \ Sei Yariman Gakuen Series \ Seiiki Series \ SEQUEL \ Shady Corner \ Shiina Rio Games \ Shin'ya Oosaki's Art \ shirokoi's Works \ Sierra Lee's Works \ Silky Engine Games \ Silky's \ Silky's Plus \ SiNiSistar Series \ Smee \ Smile \ Softhouse-Seal \ SofthouseChara \ Softpal ADV System Games \ Sono Hanabira ni Kuchizuke o Series \ Spiral Clicker Series \ Starless Series \ Studio e.go! \ Studio Matrix \ Studio Pork \ Studio Ryokucha \ Sugar Pot \ Tactics \ Tanuki Soft \ Team Baldrhead \ Tenioha! Series \ Tennenouji \ Tentacle Games (Company) \ Tigre Soft \ TinkerBell \ Tinkle Position \ tokinokogiri \ Tommydashen's Art \ tone work's \ Tsuki ni Yorisou Otome no Sahou Series \ Tsukinomizu Project \ Uguisu Kagura \ Unionism Quartet Series \ Variety Tactics! Series \ VenusBlood Series \ Viper Series \ Waffle \ Western Erotic Games \ Whirlpool \ WHITE ALBUM Series \ Windmill Oasis \ xDNA \ Xuse \ Y Press Games \ Yoru no Hitsuji \ Yuka System Games \ Yura's Works \ ZyX \ ωstar
-ESC-APE | SEEC
+Eromanhwa | 6ho's Works \ Abyo4's Works \ Active Volcano's Works \ Alien's Works \ Among's Art \ Ananas's Works \ Andrew's Art \ Baegji's Art \ Baengkki's Art \ Baerona93's Works \ Basasak's Works \ Beibi's Works \ Bolp.'s Art \ Camja's Art \ Chada's Works \ Cheongnyang's Art \ Cheori19's Works \ Choi Sung-wan's Art \ Dabble's Works \ Do-Ya's Art \ Dokta's Art \ Dolkong's Works \ Dong-Heon Lee's Works \ Edge Edge's Art \ Elyseesin's Art \ ERO404's Works \ Face Park's Works \ Flower Storm's Works \ Frate's Works \ Gaehoju's Works \ GaeTi's Art \ GOSONJAK's Works \ Grid17's Art \ Grilled Mero's Art \ guunhanchi's Art \ Gwinong's Works \ Gyou's Art \ Gyulpi's Works \ HAESIN's Works \ Hal's Works \ Haron's Works \ Harusari's Works \ Hoero's Works \ Husky Team's Works \ Hyungjakga's Art \ Jake's Art \ Jayeon PPang's Art \ Ji-Yeon Park's Works \ Jjang-yi's Art \ Ju-Won Lee's Art \ Kampiseu's Works \ Kang-Cheol Wang's Works \ Kimmundo's Works \ Kogi Jun's Works \ Kongbbaemi's Works \ Kuro Kitsune's Art \ Kyun's Art \ Lee Wan's Art \ LObeam's Works \ MAD's Art \ Majeungji's Works \ Mangmungming's Works \ Matgini's Works \ MAYO's Art \ Mingwa's Works \ MJJ's Works \ Mokbegae's Works \ Morak's Works \ Moscareto's Works \ Muldeok's Works \ Mx2J's Art \ Naru's Art \ NOAH's Works \ NOKO's Art \ Nuwaru's Works \ OB's Works \ On-Jeom's Works \ One Dollar's Works \ over.J's Works \ Park Min's Works \ Paya8's Art \ PD Kim's Art \ Potion's Art \ Puddinga's Art \ Rangrarii's Works \ Red City's Art \ red-A's Works \ Robot Kim's Art \ Rodong's Art \ Rozer's Art \ Rubung's Works \ Sagold's Works \ Salto's Art \ Samosa's Works \ SDbigpie's Art \ Sejul's Art \ Seok-Ji's Art \ Seongchi Lee's Works \ Seran Kim's Works \ SERIOUS's Works \ Sipmanwon's Works \ SSAEM's Works \ Ssaneung's Works \ Ssari's Art \ Studio M \ Sua Im's Works \ Sungmin's Works \ Sungwon's Art \ Swanis Works \ Tae-Young Choi's Art \ Talyeong's Art \ Tama's Works \ Team Biyam's Works \ Team Gaji's Works \ Tharchog's Works \ TR's Works \ Tting Jini's Works \ TTWOOK's Art \ White Eared's Works \ Yagyung's Works \ Yangyang's Art \ Yansae's Works \ Yuwol's Works \ Zeta Kim's Art \ ZIG's Works \ Zimtigee's Art
+Erotic Games | 3D Adult Games \ Above a Damage Tile \ aburasobabiyori \ Acerola \ Active Software \ Adastra Series \ ADELTA \ AI5 Games \ Aibeya Series \ AiCherry \ Aikagi Series \ AKABEiSOFT2 \ AKABEiSOFT3 \ Akatsuki Works \ ALcot \ AliceSoft System4.X Games \ Amakano Series \ Ammolite \ Amuse Craft Erotica \ ANIM \ Appetite (Company) \ Applique \ Asa Project \ Asoberu! BD-GAME \ Astronauts \ Atelier Sakura \ AVANTGARDE \ AVG32 Games \ Aya Kadoi's Art \ Azarashi Soft \ BABEL \ Baku Ane Series \ Baldr Series \ BanameiR \ BaseSon \ BBQLiuhun's Works \ Beat Series \ Bishop \ BlackMonkey-Pro \ Blue Gale \ Blueberry Soft \ Bosei Kanojo Series \ Bunny Black Series \ BUZAMA Series \ Candy Soft \ Caramel BOX \ Caribdis Games \ Cation Series \ CHAOS-L \ ChuableSoft \ Ciel \ CIRCUS \ Clip Craft \ CLOCKUP \ CMVS Games \ Cocktail Soft \ Corruption of Champions Series \ Courreges Ace \ CRAFTWORK \ CRYSTALiA \ CUBE \ Da Capo Series \ Dark Marchen \ Dark One! \ Daz 3D CG \ Dennou Club \ Dharker Studios \ Dieselmine \ Digital Cute \ Doukyuusei Series \ DrPinkCake's Works \ Echo Project \ Echo Series \ Eiyuu Senki \ Elf Corporation \ Elven Conquest Series \ Empress \ ensemble \ EntisGLS Games \ Erectlip \ EROLABS \ eRONDO \ Escu:de \ Eushully \ Evenicle Series \ F&C Co. \ FAVORITE \ feng \ FlyingShine \ FVP Games \ G.J? \ Galette \ Get Married! Series \ Giga \ Goblin Burrow Series \ Hadashi Shoujo \ HAMHAM-SOFT \ Happiness! Series \ Hearts \ Hibiki Works \ Hobikore \ Holic Series \ Honey Select CG \ Honoo no Haramase Franchise \ Hooksoft \ Hublots Inc. \ Hulotte \ HuniePot \ Huracan's Art \ Idol Hands Series \ Ikusa Megami Series \ Immoral Study Scenario Series \ Imouto Paradise! Series \ Inusuku \ Iris (Company) \ Irotoridori no Sekai Series \ JAST Blue \ JAST USA Memorial Collection \ Jitaku Keibiin Series \ JSK Studio \ Juicy Mango \ Jukujo Paradise \ Kagura Games \ KAIJYU-09 \ Kakyuusei Series \ Kalmia8 \ Kamuo \ Kangoku Senkan Series \ KeroQ \ Kinkoid \ KMS GAMES \ Koihime†Musou Series \ Koikatsu CG \ KooooN Soft \ Kopianget's Art \ Kouyoku Senki ExS-Tia Series \ Kozue's Strange Journey Series \ Kuroinu Series \ Kururi Active \ Kyonyuu Fantasy Series \ Langmaor \ Laplacian \ Lass \ Leaf Visual Novel Series \ Leisure Suit Larry \ Lewd Formosa \ Lightning Warrior Raidy Series \ LiLiM DARKNESS \ Liquid \ Littlewitch \ LiveMaker Games \ Love Lab (Company) \ Luna Soft \ M's TOY BOX \ Madosoft \ Makai Tenshi Jibril Series \ Malie Games \ Mamono Musume Series \ Mango Party \ Marine \ Marmalade \ Marshmallow Soft \ Masaki Takei's Art \ Masato Hiruta's Works \ Mayfar Soft \ Meet And Fuck Games \ Mink \ MoeNovel \ Monster Girl Quest Series \ Moonlight Lady Collection \ MOONSTONE \ N43 Project \ Nakahiro's Works \ Navel \ NEC Interchannel \ NEKO-NIN exHeart Series \ NeXAS Games \ Nexton \ Nihikime no Dozeu \ NinNinDays Series \ Nitro+CHiRAL \ Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series \ Nupu Nupu Dev's Works \ Ocean (Adult) \ ONE Series \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Onono Imoko's Art \ Ota Guchi Field \ OTAKU Plan \ Overdrive \ Palette \ Panty Press \ parade. \ Peach Princess \ PeasSoft \ Pia♥Carrot e Youkoso!! Series \ PICOPICOSOFT \ Pink Tea Games \ PINKCORE \ Pizza Takeout Obscenity Series \ POISON \ Pre-Key Tactics \ Prekano \ Princess Soft \ Prostudent G Series \ PULLTOP \ Purple software \ Push! Soft \ QLIE Games \ Qruppo \ Radish Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Re;Lord Series \ Real Eroge Situation Series \ Rebootlove's Works \ Remtairy \ Rosebleu \ SAGA PLANETS \ Sei Yariman Gakuen Series \ Seiiki Series \ SEQUEL \ Shady Corner \ Shiina Rio Games \ Shin'ya Oosaki's Art \ shirokoi's Works \ Sierra Lee's Works \ Silky Engine Games \ Silky's \ Silky's Plus \ SiNiSistar Series \ Slow Damage Series \ Smee \ Smile \ Softhouse-Seal \ SofthouseChara \ Softpal ADV System Games \ Sono Hanabira ni Kuchizuke o Series \ Spiral Clicker Series \ Starless Series \ Studio e.go! \ Studio Matrix \ Studio Pork \ Studio Ryokucha \ Study § Steady Series \ Sugar Pot \ Tactics \ Tanuki Soft \ Team Baldrhead \ Tenioha! Series \ Tennenouji \ Tentacle Games (Company) \ Tigre Soft \ TinkerBell \ Tinkle Position \ tokinokogiri \ Tommydashen's Art \ tone work's \ Tsuki ni Yorisou Otome no Sahou Series \ Tsukinomizu Project \ Uguisu Kagura \ Unionism Quartet Series \ Variety Tactics! Series \ VenusBlood Series \ Viper Series \ Waffle \ Western Erotic Games \ Whirlpool \ WHITE ALBUM Series \ Windmill Oasis \ xDNA \ Xuse \ Y Press Games \ Yoru no Hitsuji \ Yuka System Games \ Yura's Works \ ZyX \ ωstar
 Eushully | Ikusa Megami Series
 Examu | Arcana Heart \ Arcana Heart 3 Series
 Extreme Ghostbusters Series | Light & Shadow Production
 Fable Series | Lionhead Studios
 Fabula Nova Crystallis: Final Fantasy | Final Fantasy XIII Trilogy
-Fairy Tale Media | American McGee's Alice Series \ Beauty and the Beast Series \ Cinderella Media \ Cinderella Series \ Descendants Series \ Kuni no Alice Series \ Peter Pan Franchise \ Peter Pan Media \ Pinocchio Media \ Shrek Series \ Smile PreCure! Series \ Snow White Media
-Fanworks | Danganronpa Another Series \ Danganronpa Fangames \ Half-Life Fanworks \ holo Indie \ Minecraft Fanworks \ Sonic the Hedgehog Fanworks \ Team Elegant Impermanence of Sakura \ Touhou Fanworks \ UNDERTALE Fanworks \ Vast Error Universe \ Yume Nikki Fangames
+Fairy Tale Media | Alice in Wonderland Series \ American McGee's Alice Series \ Beauty and the Beast Series \ Cinderella Media \ Cinderella Series \ Descendants Series \ Grimms Franchise \ Kuni no Alice Series \ Mary Skelter Series \ Peter Pan Franchise \ Peter Pan Media \ Pinocchio Media \ Smile PreCure! Series \ Snow White Media
+Fanworks | Danganronpa Another Series \ Danganronpa Fangames \ Half-Life Fanworks \ holo Indie \ Kay Yu's Works \ Minecraft Fanworks \ Sonic the Hedgehog Fanworks \ Team Elegant Impermanence of Sakura \ Touhou Fanworks \ UNDERTALE Fanworks \ Vast Error Universe \ Yume Nikki Fangames
 Farming Simulator Games | Harvest Moon Series \ My Time Series \ Rune Factory Series \ Slime Rancher Series
-Fashion Dolls | Lalaloopsy Series \ MGA Entertainment \ Monster High Franchise
+Fashion Dolls | Lalaloopsy Series \ Monster High Franchise
 Fate | Fate/EX Series \ Fate/Grand Order Series
-FAVORITE | FVP Games
+FAVORITE | FVP Games \ Irotoridori no Sekai Series
 Feelyeon | Horizon (Publisher)
 feng | Seiiki Series
-Fiction-Based Isekai Stories | Blue Canna's Art \ Chae Yoohwa's Works \ Dalseul's Works \ Do Tol Hwang's Works \ Geulingilin's Art \ HameFura Series \ Haron Lee's Works \ Mokgamgi's Works \ Moon Sihyun's Works \ Yoon Hawol's Works
-Fighting Games | 2D Fighting Games \ 3D Fighting Games \ Akatsuki/En-Eins \ Anime Fighters \ Arcana Heart \ Arcana Heart 3 Series \ Arena Fighters \ Art of Fighting Series \ Bloody Roar \ Capcom Fighting Collection 2 \ ClayFighter Series \ Custom Robo \ Darkstalkers Series \ Dissidia Final Fantasy Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Budokai Tenkaichi Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Shin Budokai Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Supersonic Warriors Series \ Examu \ Fatal Fury \ French-Bread \ Injustice Series \ Lethal League Series \ Marvel vs. Capcom \ NetherRealm Studios \ Nickelodeon All-Star Brawl Series \ Punch-Out!! Series \ Rivals of Aether Series \ Samurai Shodown \ Super Smash Bros. \ TEKKEN TAG TOURNAMENT Series \ The King of Fighters EX Series \ The Last Blade Series
+Fiction-Based Isekai Stories | Blue Canna's Art \ Chae Yoohwa's Works \ Dalseul's Works \ Do Tol Hwang's Works \ Geulingilin's Art \ HameFura Series \ Haron Lee's Works \ Jishou Akuyaku Reijou Series \ Mokgamgi's Works \ Moon Sihyun's Works \ Yoon Hawol's Works
+Fighting Games | 2D Fighting Games \ 3D Fighting Games \ Airdashers \ Akatsuki/En-Eins \ Arcana Heart \ Arcana Heart 3 Series \ Arena Fighters \ Art of Fighting Series \ Bloody Roar \ Capcom Fighting Collection 2 \ ClayFighter Series \ Custom Robo \ Darkstalkers Series \ Def Jam Games \ Dissidia Final Fantasy Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Budokai Tenkaichi Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Shin Budokai Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Supersonic Warriors Series \ Examu \ Fatal Fury \ Fighting Layer Series \ French-Bread \ Injustice Series \ KOF: Maximum Impact Series \ Lethal League Series \ Marvel vs. Capcom \ NetherRealm Studios \ Nickelodeon All-Star Brawl Series \ Rivals of Aether Series \ Super Smash Bros. \ TEKKEN TAG TOURNAMENT Series \ The King of Fighters EX Series \ The Last Blade Series \ X-Men: Mutant Academy Series
 Figure Skating | Pretty Rhythm
-Final Fantasy | Dissidia Final Fantasy Series \ Fabula Nova Crystallis: Final Fantasy \ Final Fantasy Crystal Chronicles Series \ Final Fantasy Pixel Remaster Series \ Final Fantasy Tactics Series \ Final Fantasy VII Series \ Final Fantasy X Series \ Final Fantasy XIII Trilogy \ Ivalice Alliance
-Finnish Media | Alan Wake Series \ Angry Birds Trilogy \ Fear & Hunger Series \ Lucius Series \ Marko Raassina's Works \ Nemlei's Games \ Remedy Entertainment \ System Erasure
+Filipino Media | Dicesuki \ Yangyang Mobile
+Final Fantasy | Dissidia Final Fantasy Series \ Fabula Nova Crystallis: Final Fantasy \ Final Fantasy Crystal Chronicles Series \ Final Fantasy Pixel Remaster Series \ Final Fantasy Tactics Series \ Final Fantasy VII Series \ Final Fantasy X Series \ Final Fantasy XII Series \ Final Fantasy XIII Trilogy \ Ivalice Alliance
+Finnish Media | Alan Wake Series \ Angry Birds Trilogy \ Baba Series \ Fear & Hunger Series \ Lakeview Series \ Lucius Series \ Marko Raassina's Works \ Nemlei's Games \ Remedy Connected Universe \ Remedy Entertainment \ System Erasure
 Fire Emblem | Archanea \ Elibe Series \ Fire Emblem Warriors Series \ Fódlan Series \ Jugdral Series \ Tellius Series \ Valentia Series \ Wada Sachiko's Art
-First-person Shooter Games | Ace Combat \ BioShock Series \ Boomer Shooters \ Call of Duty \ Dead Island Series \ Destiny \ Deus Ex Universe \ Dishonored Series \ FARCRY Series \ Fatal Frame \ GoldSrc Engine Games \ Half-Life Fanworks \ Half-Life Series \ Halo: The Master Chief Collection \ Left 4 Dead Series \ Metro Series \ Metroid Prime Series \ Metroid Prime: Trilogy \ Modern Warfare Series \ Nightdive Studios \ Pokémon Snap Series \ Quake Series \ Resistance Series \ S.T.A.L.K.E.R. Series \ Slime Rancher Series \ Sniper Ghost Warrior Series \ Star Wars: Battlefront Series \ Stress Level Zero \ Team Fortress Series \ The Orange Box \ Time Crisis Series \ TimeSplitters Series \ Titanfall Series \ Turtle Rock Studios \ Unreal Engine 1 Games \ Wolfenstein Series
-Fishing Media | Fishing Games
-Five Nights at Freddy's Franchise | Five Nights at Candy's \ Five Nights at Freddy's Series \ Mainline FNaF Games \ POPGOES Series \ Steel Wool Studios \ The Candy and Popgoes Universe \ The Fazbear Fanverse Initiative
-Five Nights at Freddy's Series | Mainline FNaF Games \ Steel Wool Studios
-Flash Games | 2DPlay \ AdventureQuest Series \ Armor Games \ Artix Entertainment \ Cactus McCoy Series \ Dragon Boy Series \ Epic Battle Fantasy Series \ Godlimations \ goodbeans \ JSK Studio \ Meet And Fuck Games \ Not Doppler \ Papa Louie Platformers \ Riddle School Series
+First-person Shooter Games | Ace Combat \ BioShock Series \ Boomer Shooters \ Call of Duty \ Crysis Series \ David Szymanski's Works \ Dead Island Series \ Destiny \ Dishonored Series \ FARCRY Series \ Fatal Frame \ GoldSrc Engine Games \ Half-Life Fanworks \ Half-Life Series \ Halo: The Master Chief Collection \ Ion Storm \ Killzone Series \ Left 4 Dead Series \ Looking Glass Studios \ Metro Series \ Metroid Prime: Trilogy \ Modern Warfare Series \ Nightdive Studios \ Pokémon Snap Series \ PowerWash Simulator Series \ Quake Series \ Resistance Series \ S.T.A.L.K.E.R. Series \ Slime Rancher Series \ Sniper Ghost Warrior Series \ Star Wars: Battlefront Series \ Star Wars: Jedi Knight \ Stress Level Zero \ Team Fortress Series \ The Orange Box \ Thief Series \ Time Crisis Series \ TimeSplitters Series \ Titanfall Series \ Turtle Rock Studios \ Unreal Engine 1 Games \ Wolfenstein Series
+Fishing Media | Fishing Games \ Umihara Kawase Series
+Fitness Media | Fitness Boxing Series \ Wii Fit Series
+Five Nights at Freddy's Franchise | Five Nights at Candy's \ Five Nights at Freddy's Movie Series \ Five Nights at Freddy's Series \ Mainline FNaF Games \ POPGOES Series \ Steel Wool Studios \ The Candy and Popgoes Universe \ The Fazbear Fanverse Initiative
+Five Nights at Freddy's Series | Five Nights at Freddy's Movie Series \ Mainline FNaF Games \ Steel Wool Studios
+Flash Games | 2DPlay \ AdventureQuest Series \ Age of Defense Series \ Armor Games \ Artix Entertainment \ Belugerin \ Cactus McCoy Series \ Dragon Boy Series \ Epic Battle Fantasy Series \ Godlimations \ goodbeans \ JSK Studio \ Meet And Fuck Games \ Not Doppler \ Papa Louie Platformers \ Red Ball Series \ Riddle School Series
 Flipline Studios | Cactus McCoy Series \ Papa Louie Platformers \ Papa Louie Series \ Papa's Gamerias
 FLOS COMIC | Arian Rose
+Flyhigh Works | SKIPMORE
 Flying Bark Productions | Rise of the Teenage Mutant Ninja Turtles Series
 FNA Framework | Axiom Verge Series
 Focus Entertainment | A Plague Tale Series
-Fox Broadcasting Company | Family Guy Series
-Fox Entertainment Group | Carlos Saldanha's Works \ Family Guy Series \ Ice Age Series \ Original X-Men Cinematic Universe \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ The Age of the Old Republic
+Fox Entertainment Group | Carlos Saldanha's Works \ Family Guy Series \ Ice Age Series \ Original X-Men Cinematic Universe \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games \ Plants vs. Zombies Series \ Resident Evil: Revelations Series \ SAMURAI vs ZOMBIES DEFENSE Series \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ The Age of the Old Republic \ The Last of Us Series \ The Typing of the Dead Series \ Zombie Land Saga Series
 Fox's X-Men Cinematic Universe | Original X-Men Cinematic Universe \ Revised X-Men Cinematic Universe
 Frederator Studios | Castlevania Netflix Series
-French Media | A Plague Tale Series \ Ankama \ Arkane Studios \ Banijay Kids & Family \ Baroque Decay Games \ Beemoov \ Canal+ \ Daft Punk Series \ Delcourt \ Dishonored Series \ DON'T NOD \ Donkey Kong Country TV Series \ Evoland Series \ Inspector Gadget Series \ Kinkoid \ Krosmoz \ Mario + Rabbids \ Marsupilami Series \ Michel Ocelot's Works \ Mudae Cinematic Universe \ My Candy Love Series \ Quantic Dream \ Rabbids Series \ Syberia Franchise \ The Game Bakers
+French Media | A Plague Tale Series \ Ankama \ Arkane Studios \ Astérix Series \ Banijay Kids & Family \ Baroque Decay Games \ Beemoov \ Blacksad Series \ Canal+ \ Daft Punk Series \ Delcourt \ Dishonored Series \ DON'T NOD \ Donkey Kong Country TV Series \ Evoland Series \ Inspector Gadget Series \ Kinkoid \ Krosmoz \ Mario + Rabbids \ Marsupilami Series \ Michel Ocelot's Works \ Miraculous Series \ Motion Twin \ Mudae Cinematic Universe \ My Candy Love Series \ Quantic Dream \ Rabbids Series \ Syberia Franchise \ The Game Bakers \ Valiant Hearts Series
 Fresh TV Inc. | Total Drama
 Frictional Games | Amnesia Series
 FromSoftware | Armored Core \ Lost Kingdoms Series
@@ -448,29 +474,33 @@ Frontwing | Grisaia \ Makai Tenshi Jibril Series
 Fruitbat Factory | Orange_Juice \ QP Series \ SUGURI Series
 Fuji TV | Dragon Ball Original Manga Run \ Ranma ½ Series
 Fujimi Fantasia Bunko | Hajime Kanzaka's Works \ High School DxD Series \ Kouhei Azano's Works \ Myojin Kato's Works \ Piero Karasu's Works \ Seiji Ebisu's Works \ Taro Hitsuji's Works
-Fujimi Shobo | Dragon Book \ Dragon Novels \ Fujimi L Bunko \ Hajime Kanzaka's Works \ High School DxD Series \ Kouhei Azano's Works \ Myojin Kato's Works \ Piero Karasu's Works \ Seiji Ebisu's Works \ Sumeragi's Art \ Taro Hitsuji's Works \ Yuzuriha's Art
+Fujimi Shobo | Dragon Book \ Dragon Novels \ Fujimi L Bunko \ Hajime Kanzaka's Works \ High School DxD Series \ Kouhei Azano's Works \ Myojin Kato's Works \ Piero Karasu's Works \ Seiji Ebisu's Works \ Shunpei Morita's Works \ Sumeragi's Art \ Taro Hitsuji's Works \ Yuzuriha's Art
 Funcom | The Longest Journey Series
 Furry | Adastra Series \ Anti_Dev's Works \ Corruption of Champions Series \ Dr. Doe's Lab Series \ Echo Project \ Echo Series \ HAZUKASHII ♥ TEAM \ Jasonafex's Works \ KAIJYU-09 \ Klace's Works \ Nanoff's Art \ Powfooo's Works \ RedRusker's Works \ shirokoi's Works \ Sollyz Sundyz' Art \ Studio Klondike \ Tokifuji Comics \ Zourik's Works
 FuRyu | The Caligula Effect Series
 Futabasha | Comic High! \ Manga Action \ Web Action
 Futanari | BUZAMA Series \ Majalis' Works
+FuturLab | PowerWash Simulator Series
+FVP Games | Irotoridori no Sekai Series
 G Yuusuke's Art | Dies irae Series
 GA Bunko | Majo no Tabitabi Series
-Gacha Games | Become a Star Series \ Brown Dust Series \ Com2uS \ EROLABS \ f4samurai \ Gachas with PC Clients \ Imaginary Tree \ Kingdom Hearts Union χ Dark Road \ KMS GAMES \ Kou Nakamura's Works \ Kuro Games \ Lilith Games \ PINKCORE \ Seasun Games \ Studio FgG \ WonderPlanet Inc. \ xDNA \ XFLAG Studio
-Gachas with PC Clients | Com2uS \ Kuro Games
+Gacha Games | Become a Star Series \ Brown Dust Series \ China Locked Games \ Com2uS \ EROLABS \ f4samurai \ Gachas with PC Clients \ Imaginary Tree \ Kingdom Hearts Union χ Dark Road \ KMS GAMES \ Kou Nakamura's Works \ Kuro Games \ Lilith Games \ PINKCORE \ Seasun Games \ Studio FgG \ WonderPlanet Inc. \ xDNA \ XFLAG Studio
+Gachas with PC Clients | Kuro Games
 Gaehoju's Works | Mx2J's Art
-Gainax | Princess Maker Series \ Top wo Nerae! Series
+Gaia Interactive | Gaia Online Series
+Gaia Online Series | Gaia Interactive
+Gainax | Top wo Nerae! Series
 Galactic Patrol Series | Katsura Akira
 Galette | Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series
 Game Arts | Grandia Series \ Lunar Series
-Game Boy | Dragon Ball Z: Goku Series \ Mega Man World \ Pokémon Trading Card Game (GBC) Series \ Puzzle Bobble Series \ Super Mario Land Series
-Game Boy Advance | Crash Handheld Series \ Dragon Ball Z: The Legacy of Goku Series \ Elibe Series \ Mega Man Battle Network Legacy Collection \ Mega Man Zero Series \ Phoenix Wright: Ace Attorney Trilogy \ Sonic Advance Series \ Super Mario Advance Series \ The King of Fighters EX Series \ Wada Sachiko's Art
+Game Boy | Donkey Kong Land Series \ Dragon Ball Z: Goku Series \ Mega Man World \ Pokémon Trading Card Game (GBC) Series \ Super Mario Land Series
+Game Boy Advance | Boktai Series \ Crash Handheld Series \ Dragon Ball Z: The Legacy of Goku Series \ Elibe Series \ Mega Man Battle Network Legacy Collection \ Mega Man Zero Series \ Phoenix Wright: Ace Attorney Trilogy \ Sonic Advance Series \ Super Mario Advance Series \ The King of Fighters EX Series \ Wada Sachiko's Art
 Game Development | 16bit Sensation Series
-GAME FREAK | Pokémon Black/White Series \ Pokémon Core Games
+GAME FREAK | Pokémon Black/White Series \ Pokémon Core Games \ Pokémon Legends
 Game Mods | SureAI
 Game Republic | Dragon Ball Origins Series
 Gamebryo | KingsIsle Entertainment
-GameMaker Games | A Shell in the Pit \ Greg Lobanov's Works \ Momodora Series \ Sucker for Love \ Toby Fox's Games
+GameMaker Games | A Shell in the Pit \ Greg Lobanov's Works \ Momodora Series \ Sucker for Love \ Toby Fox's Games \ UFO 50 Games \ Wishes Ultd.
 Games Like Monster Hunter | Toukiden Series
 Games Like Wario Land | Wario Land
 Gangan Comics | Aguri Igarashi's Art \ Akame ga Kill Series \ Cocoa Fujiwara's Works \ Esora Amaichi's Art \ Gangan Joker \ Gangan Online \ Gangan pixiv \ Gangan Powered \ Gangan Wing \ Gekkan Shoujo Nozaki-kun Series \ Gingitsune Ezo's Works \ Goblin Slayer Series \ Hi Score Girl Series \ Imari Arita's Works \ Jun Mochizuki's Works \ Kakegurui Series \ Kakito Katou's Art \ Karino Takatsu's Works \ Mizuki Nomura's Works \ Saki Series \ Seiichi Shiki's Works \ Shinkoshoto's Works \ Shinta Fujimoto's Art \ Shounen Gangan \ Soul Eater Series \ Young Gangan
@@ -484,11 +514,14 @@ Genderbender | Jirou Saku's Works \ Ranma ½ Series \ SapphireFoxx's Animations 
 Genius Sonority | Pokémon Colosseum Series
 Genki | Grimms Franchise
 Gentosha | Sarazanmai Series
-German Media | coldmirror's Works \ Crytek \ Deck13 Interactive \ goodbeans \ Gothic Series \ Piranha Bytes \ Radical Fish Games \ SureAI \ The Dark Eye Series \ Woodwalkers Series
+Gerard Way's Works | My Chemical Romance's Works
+German Media | coldmirror's Works \ Crysis Series \ Crytek \ Deck13 Interactive \ goodbeans \ Gothic Series \ Piranha Bytes \ Radical Fish Games \ SureAI \ The Dark Eye Series \ Woodwalkers Series
 Geronimo Stilton Series | Elisabetta Dami's Works
+Gessan | Yuu Saitou's Works
 GFantasy | Esora Amaichi's Art
-Ghost Media | Extreme Ghostbusters Series \ Fatal Frame \ Ghostbusters Franchise \ Light & Shadow Production \ Luigi's Mansion Series \ OXENFREE Series \ PAC-MAN MUSEUM+ \ The Real Ghostbusters Series
+Ghost Media | Extreme Ghostbusters Series \ Fatal Frame \ Frankelda Series \ Light & Shadow Production \ Luigi's Mansion Series \ OXENFREE Series \ PAC-MAN MUSEUM+ \ The Real Ghostbusters Series
 GHOST's Works | Team 6x111
+Ghostbusters Franchise | Extreme Ghostbusters Series \ Light & Shadow Production \ The Real Ghostbusters Series
 Giga | Baldr Series \ Team Baldrhead
 Gijinka | Hataraku Saibou Series \ Hatoful Boyfriend Series \ Kemono Friends Series \ Touken Ranbu Series
 Glu Mobile | SAMURAI vs ZOMBIES DEFENSE Series
@@ -497,30 +530,31 @@ God of War Series | God of War: Origins Collection
 Godlimations | Dragon Boy Series
 Godzilla Franchise | Godzilla: Heisei Continuity \ Godzilla: Millennium Era
 Golem Factory | Cheongcho's Works \ SWAN's Works
-Golf | Everybody's Golf Series
+Golf | Everybody's Golf Series \ PangYa Series
 Gonzo | Gate Keepers Series \ Last Exile Series
 GOT Corporation | Akira Hizuki's Works \ Comic Medu
 Gothic Series | Piranha Bytes
-Grand Theft Auto | Grand Theft Auto: The Trilogy
+Grand Theft Auto | Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy
 Grand Theft Auto 3D Universe | Grand Theft Auto: The Trilogy
 Graphinica | Kouta Hirano's Works
 Grasshopper Manufacture | Kill the Past \ No More Heroes Series
 Greek Mythology Media | God of War: Origins Collection \ Hades Series \ Kid Icarus Series \ Saint Seiya Series \ The Percy Jackson Series
 Greg Lobanov's Works | A Shell in the Pit
 Grimoire of Zero Series | Kakeru Kobashiri's Works
-Groupe Canal+ | Canal+ \ Three Flavours Cornetto Trilogy
+Groupe Canal+ | Three Flavours Cornetto Trilogy
 Guardians of the Galaxy Franchise | MCU Guardians of the Galaxy Series
-Guerrilla Games | Horizon
+Guerrilla Games | Horizon \ Killzone Series
 Guillermo del Toro's Works | Tales of Arcadia
 gumi Inc. | Studio FgG
 Gundam | Gundam Build \ Gundam's Universal Century
 GungHo Online Entertainment | Grandia Series \ Puzzle & Dragons Series \ Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition
 Gust Co. Ltd. | Arland Series \ Atelier \ Atelier Iris Series \ Atelier Ryza Series \ Dusk Series \ Gramnad Series \ Mana Khemia Series \ Mysterious Series \ Nights of Azure Series \ Salburg Series
 HACCAN's Art | Collection of Mana
-Hack 'n Slash Games | Bayonetta Series \ BUZAMA Series \ Drakan Series \ Fire Emblem Warriors Series \ GetsuFumaDen Series \ God of War: Origins Collection \ Hyrule Warriors Series \ MediEvil Series \ Ninja Gaiden Master Collection \ No More Heroes Series \ Onimusha \ Samurai Warriors Series \ Star Wars: The Force Unleashed Series
+Hachipisuwan's Art | Jishou Akuyaku Reijou Series
+Hack 'n Slash Games | Blasphemous Series \ BUZAMA Series \ Dragon Quest Heroes Series \ Drakan Series \ Fire Emblem Warriors Series \ GetsuFumaDen Series \ God of War: Origins Collection \ Hyrule Warriors Series \ MediEvil Series \ Ninja Gaiden Master Collection \ No More Heroes Series \ Onimusha \ Samurai Warriors Series \ Star Wars: The Force Unleashed Series
 HÆON's Works | Neptune
 Haksan | Booking \ Chance (Publisher) \ Haejin's Works
-Hakusensha | Ane LaLa \ Bessatsu Hana to Yume \ Fruits Basket Series \ Hana to Yume \ Hiro Fujiwara's Works \ Kaori Yuki's Works \ LaLa \ Mitsubachi Miyuki's Works \ Mizuho Kusanagi's Works \ Suzuki Julietta's Works \ Uran's Art \ Yoshiki Nakamura's Works \ Young Animal \ Yuki Midorikawa's Works
+Hakusensha | Ane LaLa \ Bessatsu Hana to Yume \ Fruits Basket Series \ Hana to Yume \ Hiro Fujiwara's Works \ Kaori Yuki's Works \ Kyuu Takahata's Works \ LaLa \ Mitsubachi Miyuki's Works \ Mizuho Kusanagi's Works \ Suzuki Julietta's Works \ Uran's Art \ Yoshiki Nakamura's Works \ Young Animal \ Yuki Midorikawa's Works \ Yuuji Kaba's Art
 HAL Laboratory | Balloon Fight Series \ Dark Matter Trilogy \ Kirby of the Stars Series \ Kirby's Dream Collection \ Kirby's Dream Land Series \ Kirby's Star Stacker Series
 Half-Life and Portal Universe | Half-Life Series \ Portal Series
 Halfbrick Studios | Barry Steakfries Series
@@ -533,117 +567,119 @@ Haoliners Animation League | To Be Hero Series
 Happinet | Green Bunny
 Hardcore Leveling Warrior Series | Kim Sehoon's Works
 Hardlight | Sonic Dash Series
-Harem | 6ho's Works \ Arian Rose \ Butterfly Valley's Works \ Camja's Art \ Cheongnyang's Art \ Choi Sung-wan's Art \ Dolkong's Works \ ERO404's Works \ Flower Storm's Works \ HameFura Series \ HIMA's Art \ HJ Novels \ Hoero's Works \ Hyungjakga's Art \ Ichiri's Art \ Jake's Art \ Jayeon PPang's Art \ Ju-Won Lee's Art \ keepout's Art \ Kenji Saitou's Works \ Kinkoid \ MJJ's Works \ Mokbegae's Works \ Omina Tachibana's Works \ PD Kim's Art \ Red City's Art \ Rifujin na Magonote's Works \ Rosario to Vampire Series \ Rui Tsukiyo's Works \ Seok-Ji's Art \ Seongchi Lee's Works \ Ssaneung's Works \ Studio Jilpung \ Sungmin's Works \ Sungwon's Art \ Tae-Young Choi's Art \ Taishi Tsutsui's Works \ To LOVE-Ru Series \ Touzai's Art \ Toy Car's Works \ Tsukasa Fushimi's Works \ Yagyung's Works \ Yomu Mishima's Works \ Yusaku Sakaishi's Works
-Hasbro | Cluedo Series \ Energon Universe \ Littlest Pet Shop Franchise
+Harem | 6ho's Works \ Arian Rose \ Basasak's Works \ Butterfly Valley's Works \ Camja's Art \ Cheongnyang's Art \ Cheori19's Works \ Choi Sung-wan's Art \ Do-Ya's Art \ Dolkong's Works \ Elyseesin's Art \ ERO404's Works \ Flower Storm's Works \ GEN's Art \ guunhanchi's Art \ HameFura Series \ HIMA's Art \ HJ Novels \ Hoero's Works \ Hyungjakga's Art \ Ichiri's Art \ Jake's Art \ Jayeon PPang's Art \ Ju-Won Lee's Art \ keepout's Art \ Kenji Saitou's Works \ Kinkoid \ Kuro Kitsune's Art \ Lee Wan's Art \ MJJ's Works \ Mokbegae's Works \ OB's Works \ Omina Tachibana's Works \ PD Kim's Art \ Red City's Art \ Rifujin na Magonote's Works \ Rosario to Vampire Series \ Rui Tsukiyo's Works \ Seok-Ji's Art \ Seongchi Lee's Works \ Ssaneung's Works \ Studio Jilpung \ Sungmin's Works \ Sungwon's Art \ Supana Onikage's Works \ Tae-Young Choi's Art \ Taishi Tsutsui's Works \ To LOVE-Ru Series \ Touzai's Art \ Toy Car's Works \ Tsukasa Fushimi's Works \ Tting Jini's Works \ Yomu Mishima's Works \ Yusaku Sakaishi's Works
+Hasbro | Energon Universe \ Jem and The Holograms Franchise \ Littlest Pet Shop Franchise
 Hayakawa Publishing | Seikai Series
 Heisei Kamen Rider | Heisei Kamen Rider Phase 1 \ Heisei Kamen Rider Phase 2
-Hentai | 3D Adult Animations \ 3D Adult Comics \ 6ho's Works \ Above a Damage Tile \ aburasobabiyori \ Abyo4's Works \ Acerola \ Active Software \ Active Volcano's Works \ Adastra Series \ Aibeya Series \ Aiue Oka's Works \ Akatsuki Myuuto's Works \ Alien's Works \ Ammolite \ Among's Art \ Amuse Craft Erotica \ Ananas's Works \ Andrew's Art \ Angel Blade Series \ ANIM \ Animan Studios \ Anime Antenna Iinkai \ Antechinus \ Anti_Dev's Works \ Aomizuan's Works \ Appetite (Company) \ Artist CG \ Atelier Kaguya \ Atelier Sakura \ AVANTGARDE \ b-qoon \ BABEL \ Baegji's Art \ Baerona93's Works \ Baku Ane Series \ BBQLiuhun's Works \ Beat Series \ Beibi's Works \ Bestiality Fetish Focused Series \ Binto's Works \ Bishop \ BlackMonkey-Pro \ Blast Shuppan \ Blue Gale \ Bolp.'s Art \ BOMB! CUTE! BOMB! \ Bosei Kanojo Series \ BreakBottle \ Bug Fetish Focused Series \ Bunny Black Series \ Bunnywalker \ Butcha-U's Art \ BUZAMA Series \ Camja's Art \ Caribdis Games \ Chada's Works \ Cheongnyang's Art \ Cherry Kiss Games \ ChiChi No Ya \ Chinjao Girl \ Chippai \ Chirumakuro's Works \ Choi Sung-wan's Art \ Ciel \ CLOCKUP \ Collaboration Works \ Comic Anthurium \ Comic Aun \ Comic Bevel \ Comic Grape \ Comic Kairakuten \ Comic Megastore \ Comic MILF \ Comic Mugen Tensei \ Comic Mujin \ Comic Shingeki \ Comic Tenma \ Comic Unreal \ Comic X-Eros \ Corruption of Champions Series \ Courreges Ace \ Dabble's Works \ Danimaru's Works \ Dark One! \ Date's Works \ Derpixon's Works \ Dieselmine \ Digital Cute \ Discovery \ DISTANCE's Works \ Dolkong's Works \ DOLL PLAY \ Dong-Heon Lee's Works \ DrPinkCake's Works \ EDGE \ Edge Edge's Art \ Elven Conquest Series \ Empress \ Erectlip \ ERO404's Works \ EROLABS \ Evenicle Series \ Fanno-Hitori's Art \ Flower Storm's Works \ Fukudahda's Works \ G.J? \ Gaehoju's Works \ GaeTi's Art \ Galette \ Gats' Art \ Get Married! Series \ Goban's Works \ Goblin Burrow Series \ GOSONJAK's Works \ Green Bunny \ Grid17's Art \ Gujira's Works \ Gyou's Art \ Gyulpi's Works \ Hadashi Shoujo \ HAESIN's Works \ Haji's Works \ Hal's Works \ HAMHAM-SOFT \ HANABi's Works \ Haron's Works \ Harusari's Works \ Herio's Art \ HiRoB's Art \ Hirotaka Kagami's Art \ Hit Shuppansha \ Hobikore \ Hoero's Works \ Holic Series \ Honoo no Haramase Franchise \ Hot Bear \ How I Made Sex Friends Series \ Huracan's Art \ Husky Team's Works \ Hyungjakga's Art \ Idol Hands Series \ Ikusa Megami Series \ Image House \ Immoral Study Scenario Series \ Imouto Paradise! Series \ InCase's Works \ Inu's Works \ Inusuku \ Iris (Company) \ Ishikei's Art \ Jairou's Works \ Jake's Art \ Jasonafex's Works \ Jayeon PPang's Art \ Jitaku Keibiin Series \ Jjang-yi's Art \ JOY RIDE's Works \ JSK Studio \ Ju-Won Lee's Art \ Juicy Mango \ Juku Mesu - Erotic Mature Women \ Jukujo Paradise \ Jun's Works \ Juna Juna Juice's Works \ Kaizuka's Works \ Kampiseu's Works \ Kamuo \ Kang-Cheol Wang's Works \ Kangoku Senkan Series \ Kawaisaw's Art \ Kenshirou Minori's Works \ Kimmundo's Works \ Kinkoid \ KMS GAMES \ Kogi Jun's Works \ Koikatsu CG \ Kongbbaemi's Works \ KooooN Soft \ Korotsuke's Works \ Kuroe Shuppan \ Kuroinu Series \ Kuromoto-kun's Works \ Kururi Active \ Kyockcho's Works \ Kyonyuu Fantasy Series \ Kyun's Art \ Langmaor \ Lewd Formosa \ Lightning Warrior Raidy Series \ LiLiM DARKNESS \ Liquid \ LObeam's Works \ Locon's Works \ Luna Soft \ Lune \ Lune Soft \ Majeungji's Works \ Majin \ Makai Tenshi Jibril Series \ Mangmungming's Works \ MANKAI ZENSEKI \ Marine \ Maron☆Maron \ Marshmallow Soft \ Mary Jane \ Matgini's Works \ MAYO's Art \ Mayonaka Love Alliance \ Meet And Fuck Games \ Meguru Hinohara's Works \ Melkor Mancin's Works \ Miel \ mignon's Art \ Mikemono Yuu's Works \ Minamoto's Art \ Mingwa's Works \ Mink \ Misa Ikezaki's Works \ Mizuryu Kei's Art \ MJJ's Works \ Mokbegae's Works \ Monster Girl Encyclopedia Series \ Monster Girl Quest Series \ Morak's Works \ Moscareto's Works \ Mousou Senka \ MS Pictures \ Muchakai's Works \ Mujin Comics \ Muldeok's Works \ Mx2J's Art \ Nagi Ichi's Works \ Nakamura Regura's Works \ Nakano Sora's Art \ Nanao's Works \ Nanoff's Art \ Naru's Art \ Neromashin's Art \ New Generation \ Nihikime no Dozeu \ NOAH's Works \ NOKO's Art \ Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series \ Nur \ Nuwaru's Works \ Ocean (Adult) \ Office Takeout \ Omina Tachibana's Works \ On-Jeom's Works \ One Dollar's Works \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Onono Imoko's Art \ ORCSOFT \ Ota Guchi Field \ OTAKU Plan \ over.J's Works \ Park Min's Works \ PashminaA \ Paya8's Art \ PD Kim's Art \ Peak Hunt \ PICOPICOSOFT \ Pin-Point \ Pink Tea Games \ PINKCORE \ Pizza Takeout Obscenity Series \ POISON \ Ponchi's Works \ PoRO \ Potion's Art \ Powfooo's Works \ Prekano \ Psyche Delico's Works \ Puddinga's Art \ Puu no Puupuupuu's Works \ Qruppo \ Queen Bee (Studio) \ Raidon's Art \ Rance \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Real Eroge Situation Series \ Rebootlove's Works \ Red City's Art \ red-A's Works \ RedRusker's Works \ Remtairy \ Rodong's Art \ Rororogi Mogera's Works \ Rozer's Art \ Rubung's Works \ Sagold's Works \ Saimin \ Saimin Seishidou Series \ Salto's Art \ Samosa's Works \ Sana's Works \ SapphireFoxx's Comics \ Satou Kuuki's Works \ Scat Fetish Focused Series \ SDbigpie's Art \ Sei Yariman Gakuen Series \ Sejul's Art \ Selfish \ Seok-Ji's Art \ Seongchi Lee's Works \ SEQUEL \ Seran Kim's Works \ Serei Teru's Works \ SERIOUS's Works \ Seto Ryouko's Works \ Shady Corner \ Shanghai Hanten's Works \ ShindoL's Works \ shirokoi's Works \ Shiwasu no Okina's Works \ Shoshinsha Josou Danshi Series \ Showten \ Silky's \ Sipmanwon's Works \ sisei's Works \ Sollyz Sundyz' Art \ Spiral Clicker Series \ SSAEM's Works \ Ssaneung's Works \ Ssari's Art \ Starless Series \ Studio 1st \ Studio 9 Maiami \ Studio Eromatick \ Studio G-1 Neo \ studio HOKIBOSHI \ Studio M \ Studio Pork \ Studio Ten Carat \ Sungmin's Works \ Sungwon's Art \ Suyohara's Works \ Suzuki Mirano \ Swanis Works \ Synapse Series \ T-Rex \ Tae-Young Choi's Art \ Talyeong's Art \ Tama's Works \ Tamano Kedama's Art \ Tanuki Soft \ Tatsumi Group \ Tawara Hiryuu's Works \ Team Biyam's Works \ Team Gaji's Works \ Tenioha! Series \ Tharchog's Works \ TinkerBell \ Tokifuji Comics \ tokinokogiri \ Towako \ TR's Works \ Tsukinomizu Project \ TUFOS \ UMEMARO 3D \ VENOM \ VictimGirlsR Series \ Viper Series \ Waffle \ Wani Magazine \ White Eared's Works \ xDNA \ Y Press Games \ Yagyung's Works \ Yamatogawa's Works \ Yansae's Works \ Yoru no Hitsuji \ Youtoku Tatsunami's Works \ Yuruyakatou's Works \ Yuuki Seto's Works \ Yuwol's Works \ Yuzuki N's Works \ Zeta Kim's Art \ Zimtigee's Art \ Zourik's Works \ ZyX \ ωstar
+Hentai | 3D Adult Comics \ 6ho's Works \ Above a Damage Tile \ aburasobabiyori \ Abyo4's Works \ Acerola \ Active Software \ Active Volcano's Works \ Adastra Series \ Aibeya Series \ Aiue Oka's Works \ Akatsuki Myuuto's Works \ Alien's Works \ Ammolite \ Among's Art \ Amuse Craft Erotica \ Ananas's Works \ Andrew's Art \ Angel Blade Series \ ANIM \ Animan Studios \ Anime Antenna Iinkai \ Antechinus \ Anti_Dev's Works \ Aomizuan's Works \ Appetite (Company) \ Atelier Kaguya \ Atelier Sakura \ AVANTGARDE \ b-qoon \ BABEL \ Baegji's Art \ Baengkki's Art \ Baerona93's Works \ Baku Ane Series \ BanameiR \ Basasak's Works \ BBQLiuhun's Works \ Beat Series \ Beibi's Works \ Bestiality Fetish Focused Series \ Binto's Works \ Bishop \ BlackMonkey-Pro \ Blast Shuppan \ Blue Gale \ Bolp.'s Art \ BOMB! CUTE! BOMB! \ Bosei Kanojo Series \ BreakBottle \ Bug Fetish Focused Series \ Bunny Black Series \ Bunnywalker \ Butcha-U's Art \ BUZAMA Series \ Camja's Art \ Caribdis Games \ Chada's Works \ Cheongnyang's Art \ Cheori19's Works \ Cherry Kiss Games \ ChiChi No Ya \ Chinjao Girl \ Chippai \ Chirumakuro's Works \ Choi Sung-wan's Art \ Ciel \ CLOCKUP \ Collaboration Works \ Comic Anthurium \ Comic Aun \ Comic Bevel \ Comic Grape \ Comic Kairakuten \ Comic Megastore \ Comic MILF \ Comic Mugen Tensei \ Comic Mujin \ Comic Shingeki \ Comic Tenma \ Comic Unreal \ Comic X-Eros \ Corruption of Champions Series \ Courreges Ace \ Dabble's Works \ Danimaru's Works \ Dark One! \ Date's Works \ Derpixon's Works \ Dieselmine \ Digital Cute \ Discovery \ DISTANCE's Works \ Do-Ya's Art \ Dokta's Art \ Dolkong's Works \ DOLL PLAY \ Dong-Heon Lee's Works \ DrPinkCake's Works \ EDGE \ Edge Edge's Art \ Elven Conquest Series \ Elyseesin's Art \ Empress \ Erectlip \ ERO404's Works \ EROLABS \ Evenicle Series \ Fanno-Hitori's Art \ Flower Storm's Works \ Frate's Works \ Fukudahda's Works \ G.J? \ Gaehoju's Works \ GaeTi's Art \ Galette \ Gats' Art \ Get Married! Series \ Goban's Works \ Goblin Burrow Series \ GOSONJAK's Works \ Green Bunny \ Grid17's Art \ Grilled Mero's Art \ Gujira's Works \ guunhanchi's Art \ Gwinong's Works \ Gyou's Art \ Gyulpi's Works \ Hadashi Shoujo \ HAESIN's Works \ Haji's Works \ Hal's Works \ HAMHAM-SOFT \ HANABi's Works \ Haron's Works \ Harusari's Works \ Herio's Art \ HiRoB's Art \ Hirotaka Kagami's Art \ Hit Shuppansha \ Hobikore \ Hoero's Works \ Holic Series \ Honoo no Haramase Franchise \ Hot Bear \ How I Made Sex Friends Series \ Huracan's Art \ Husky Team's Works \ Hyungjakga's Art \ Idol Hands Series \ Ikezaki Misa's Works \ Ikusa Megami Series \ Image House \ Immoral Study Scenario Series \ Imouto Paradise! Series \ InCase's Works \ Inu's Works \ Inusuku \ Iris (Company) \ Ishikei's Art \ Jairou's Works \ Jake's Art \ Jasonafex's Works \ Jayeon PPang's Art \ Jitaku Keibiin Series \ Jjang-yi's Art \ JOY RIDE's Works \ JSK Studio \ Ju-Won Lee's Art \ Juicy Mango \ Juku Mesu - Erotic Mature Women \ Jukujo Paradise \ Jun's Works \ Juna Juna Juice's Works \ Kaizuka's Works \ Kampiseu's Works \ Kamuo \ Kang-Cheol Wang's Works \ Kangoku Senkan Series \ Kawaisaw's Art \ Kenshirou Minori's Works \ Kimmundo's Works \ Kinkoid \ KMS GAMES \ Kogi Jun's Works \ Koikatsu CG \ Kongbbaemi's Works \ KooooN Soft \ Korotsuke's Works \ kozi's Works \ Kozue's Strange Journey Series \ Kuro Kitsune's Art \ Kuroe Shuppan \ Kuroinu Series \ Kuromoto-kun's Works \ Kururi Active \ Kyockcho's Works \ Kyonyuu Fantasy Series \ Kyun's Art \ Langmaor \ Lee Wan's Art \ Lewd Formosa \ Lightning Warrior Raidy Series \ LiLiM DARKNESS \ Liquid \ LObeam's Works \ Locon's Works \ Luna Soft \ Lune \ Lune Soft \ MAD's Art \ Majeungji's Works \ Majin \ Makai Tenshi Jibril Series \ Mangmungming's Works \ MANKAI ZENSEKI \ Marine \ Maron☆Maron \ Marshmallow Soft \ Mary Jane \ Matgini's Works \ MAYO's Art \ Mayonaka Love Alliance \ Meet And Fuck Games \ Meguru Hinohara's Works \ Melkor Mancin's Works \ Miel \ mignon's Art \ Mikemono Yuu's Works \ Minamoto's Art \ Mingwa's Works \ Mink \ Misa Ikezaki's Works \ Mizuryu Kei's Art \ MJJ's Works \ Mokbegae's Works \ Monster Girl Encyclopedia Series \ Monster Girl Quest Series \ Morak's Works \ Moscareto's Works \ Mousou Senka \ MS Pictures \ Mujin Comics \ Muldeok's Works \ Mx2J's Art \ Nagi Ichi's Works \ Nakamura Regura's Works \ Nakano Sora's Art \ Nanao's Works \ Nanoff's Art \ Naru's Art \ Neromashin's Art \ New Generation \ Nihikime no Dozeu \ NOAH's Works \ NOKO's Art \ Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series \ Nur \ Nuwaru's Works \ OB's Works \ Ocean (Adult) \ Office Takeout \ Omina Tachibana's Works \ On-Jeom's Works \ One Dollar's Works \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Onono Imoko's Art \ ORCSOFT \ Ota Guchi Field \ OTAKU Plan \ over.J's Works \ Park Min's Works \ PashminaA \ Paya8's Art \ PD Kim's Art \ Peak Hunt \ PICOPICOSOFT \ Pin-Point \ Pink Tea Games \ PINKCORE \ Pizza Takeout Obscenity Series \ POISON \ Ponchi's Works \ PoRO \ Potion's Art \ Powfooo's Works \ Prekano \ Psyche Delico's Works \ Puddinga's Art \ Puu no Puupuupuu's Works \ Qruppo \ Queen Bee (Studio) \ Raidon's Art \ Rance \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Rangrarii's Works \ Real Eroge Situation Series \ Rebootlove's Works \ Red City's Art \ red-A's Works \ RedRusker's Works \ Remtairy \ Robot Kim's Art \ Rodong's Art \ Rororogi Mogera's Works \ Rozer's Art \ Rubung's Works \ Sagold's Works \ Saimin \ Saimin Seishidou Series \ Salto's Art \ Samosa's Works \ Sana's Works \ SapphireFoxx's Comics \ Satou Kuuki's Works \ Scat Fetish Focused Series \ SDbigpie's Art \ Sei Yariman Gakuen Series \ Sejul's Art \ Selfish \ Seok-Ji's Art \ Seongchi Lee's Works \ SEQUEL \ Seran Kim's Works \ Serei Teru's Works \ SERIOUS's Works \ Seto Ryouko's Works \ Shady Corner \ Shanghai Hanten's Works \ ShindoL's Works \ shirokoi's Works \ Shiwasu no Okina's Works \ Shoshinsha Josou Danshi Series \ Showten \ Silky's \ Sipmanwon's Works \ sisei's Works \ Sollyz Sundyz' Art \ Spiral Clicker Series \ SSAEM's Works \ Ssaneung's Works \ Ssari's Art \ Starless Series \ Studio 1st \ Studio 9 Maiami \ Studio Eromatick \ Studio G-1 Neo \ studio HOKIBOSHI \ Studio M \ Studio Pork \ Studio Ten Carat \ Sua Im's Works \ Sungmin's Works \ Sungwon's Art \ Suyohara's Works \ Suzuki Mirano \ Swanis Works \ Synapse Series \ T-Rex \ Tae-Young Choi's Art \ Talyeong's Art \ Tama's Works \ Tamano Kedama's Art \ Tanuki Soft \ Tatsumi Group \ Tawara Hiryuu's Works \ Team Biyam's Works \ Team Gaji's Works \ Tenioha! Series \ Tharchog's Works \ TinkerBell \ Tokifuji Comics \ tokinokogiri \ Towako \ TR's Works \ Tsukinomizu Project \ Tting Jini's Works \ TTWOOK's Art \ TUFOS \ UMEMARO 3D \ VENOM \ VictimGirlsR Series \ Viper Series \ Waffle \ Wani Magazine \ White Eared's Works \ xDNA \ Y Press Games \ Yagyung's Works \ Yamatogawa's Works \ Yangyang's Art \ Yansae's Works \ Yoru no Hitsuji \ Youtoku Tatsunami's Works \ Yuruyakatou's Works \ Yuuki Seto's Works \ Yuwol's Works \ Zeta Kim's Art \ Zimtigee's Art \ Zourik's Works \ ZyX \ ωstar
 Hero Shooter Games | Paladins Series \ Team Fortress Series
 Hi-Rez Studios | Paladins Series
 Hibiki Works | Cation Series
 Hidari's Art | Dusk Series \ Toukiden Series \ Valentia Series
-Hidden Role Games | Cluedo Series \ Town of Salem Series
-Hideki Kamiya's Works | Bayonetta Series
+Hidden Role Games | Town of Salem Series
 Hideo Minaba's Art | Granblue Fantasy Series
 Hifumi Shobo | Brave Novel \ Polca Comics \ Saga Forest
 Higurashi no Naku Koro Ni Main Story Arcs | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro ni Question Arcs
 Higurashi no Naku Koro Ni Story Arcs | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs
 Higurashi Series | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs
-HIKARI FIELD | Lose \ Monobeno Series
+HIKARI FIELD | Lose \ Monobeno Series \ Tsuki ni Yorisou Otome no Sahou Series
 Hitman Series | Hitman: World of Assassination
 Hobby Japan | Comic Fire \ HJ Bunko \ HJ Novels
 Homestuck Fanworks | Vast Error Universe
 Honey Select CG | Caribdis Games
 honeybee | Kazuaki's Art \ Shinigami Kareshi Series
-HORNETS | Overlap Novels f
-Horror Games | A Plague Tale Series \ Action Horror Games \ Alan Wake Series \ American McGee's Alice Series \ Amnesia Series \ AstralShift \ Asymmetrical Horror Games \ Baldi's Basics Series \ Baroque Decay Games \ Bendy \ Bloober Team \ BloodRayne Series \ Buriki Clock \ Climax Graphics \ Clock Tower Series \ Corpse Party Series \ Dead by Daylight Series \ Dead Island Series \ Dead Rising \ Dead Space Series \ Devil Came Through Here Trilogy \ Dying Light Series \ Echo Series \ Endnight Games \ Fatal Frame \ Fear & Hunger Series \ Frictional Games \ Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ ImCyan \ KeroQ \ Killmonday Games \ L-I-B Works \ Left 4 Dead Series \ Little Nightmares Series \ Lucius Series \ Luigi's Mansion Series \ Mainline FNaF Games \ MazM \ Metro Series \ MOB Entertainment \ Outlast Series \ OXENFREE Series \ Paper Lily Series \ Parasite Eve Series \ Purgatory Series \ Resident Evil: Revelations Series \ S.T.A.L.K.E.R. Series \ Scopophobia Studios \ Sen's Works \ Silent Hill \ Steel Wool Studios \ Team Silent \ The Dark Pictures Anthology \ The Evil Within Series \ The Forest Series \ The Typing of the Dead Series \ Yai Gameworks \ Yomawari
-Horror Genre | A Nightmare on Elm Street Series \ A Plague Tale Series \ Action Horror Games \ Alan Wake Series \ American McGee's Alice Series \ Amnesia Series \ Analog Horror \ anwitacitriya's Works \ AstralShift \ Asymmetrical Horror Games \ Baldi's Basics Series \ Baroque Decay Games \ Bendy \ Bloober Team \ Blood Series \ BloodRayne Series \ Boogiepop Series \ Buriki Clock \ Child's Play Series \ Climax Graphics \ Clive Barker's Works \ Clock Tower Series \ Corpse Party Series \ Dead by Daylight Series \ Dead Island Series \ Dead Rising \ Dead Space Series \ Devil Came Through Here Trilogy \ Devilman Series \ Dying Light Series \ Echo Series \ Endnight Games \ Fatal Frame \ Fear & Hunger Series \ Frankenstein Series \ Frictional Games \ Friday the 13th Series \ Goosebumps Series \ Halloween Series \ Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ Horror Comedy \ Horror Games \ ImCyan \ Joe Hill's Works \ Jordan Peele's Works \ Junji Ito: Short Story Collection \ Kamisama no Iutoori Series \ KeroQ \ Killmonday Games \ L-I-B Works \ Left 4 Dead Series \ Little Nightmares Series \ Live-Action Horror \ Lucius Series \ Luigi's Mansion Series \ Mainline FNaF Games \ MazM \ Metro Series \ MOB Entertainment \ Outlast Series \ OXENFREE Series \ Paper Lily Series \ Parasite Eve Series \ Psycho Universe \ Purgatory Series \ R.L. Stine's Works \ Resident Evil: Revelations Series \ S.T.A.L.K.E.R. Series \ Saw Franchise \ Scopophobia Studios \ SCP \ Scream Series \ Sen's Works \ Silent Hill \ Slasher Genre \ Steel Wool Studios \ Team Silent \ The Addams Family Series \ The Conjuring Universe \ The Dark Pictures Anthology \ The Evil Within Series \ The Forest Series \ The Last of Us Series \ The Mummy Series \ The Texas Chainsaw Massacre Series \ The Typing of the Dead Series \ The Walking Dead Series \ Universal Classic Monsters \ Yai Gameworks \ Yomawari \ Youngchan Hwang's Art
+Horror Games | A Plague Tale Series \ AIHASTO \ Alisa Series \ Amanda the Adventurer Series \ American McGee's Alice Series \ Amnesia Series \ Baldi's Basics Series \ Baroque Decay Games \ Bendy \ Bloober Team \ BloodRayne Series \ Buriki Clock \ Climax Graphics \ Clock Tower Series \ Corpse Party Series \ Dead by Daylight Series \ Dead Island Series \ Dead Rising \ Dead Space Series \ Devil Came Through Here Trilogy \ Dying Light Series \ Echo Series \ Endnight Games \ Fatal Frame \ Fear & Hunger Series \ Frictional Games \ Granny Series \ Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ ImCyan \ KeroQ \ Killmonday Games \ L-I-B Works \ Lakeview Series \ Left 4 Dead Series \ Little Nightmares Series \ Lucius Series \ Luigi's Mansion Series \ Mainline FNaF Games \ MazM \ Metro Series \ MOB Entertainment \ NeoBards Entertainment \ Outlast Series \ OXENFREE Series \ Paper Lily Series \ Parasite Eve Series \ Purgatory Series \ Resident Evil: Revelations Series \ S.T.A.L.K.E.R. Series \ Scopophobia Studios \ Sen's Works \ Silent Hill \ Steel Wool Studios \ Team Silent \ The Dark Pictures Anthology \ The Evil Within Series \ The Forest Series \ The Typing of the Dead Series \ WonderEnd Series \ Yai Gameworks \ Yomawari
+Horror Genre | A Nightmare on Elm Street Series \ A Plague Tale Series \ Action Horror Games \ AIHASTO \ Alan Wake Series \ Alisa Series \ Amanda the Adventurer Series \ American McGee's Alice Series \ Amnesia Series \ anwitacitriya's Works \ Baldi's Basics Series \ Baroque Decay Games \ Bendy \ Black Tabby Games \ Bloober Team \ Blood Series \ BloodRayne Series \ Boogiepop Series \ Buriki Clock \ Child's Play Series \ Climax Graphics \ Clive Barker's Works \ Clock Tower Series \ Corpse Party Series \ Dead by Daylight Series \ Dead Island Series \ Dead Rising \ Dead Space Series \ Devil Came Through Here Trilogy \ Devilman Series \ Dying Light Series \ Echo Series \ Endnight Games \ Fatal Frame \ Fear & Hunger Series \ Five Nights at Freddy's Movie Series \ Frankenstein Series \ Frictional Games \ Friday the 13th Series \ Goosebumps Series \ Granny Series \ Halloween Series \ Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ Horror Comedy \ Horror Games \ I Know What You Did Last Summer Series \ ImCyan \ Joe Hill's Works \ Jordan Peele's Works \ Junji Ito: Short Story Collection \ Kamisama no Iutoori Series \ KeroQ \ Killmonday Games \ L-I-B Works \ Lakeview Series \ Left 4 Dead Series \ Leprechaun Series \ Little Nightmares Series \ Live-Action Horror \ Lucius Series \ Luigi's Mansion Series \ Mainline FNaF Games \ MazM \ Metro Series \ MOB Entertainment \ MΞGAN Series \ NeoBards Entertainment \ Outlast Series \ OXENFREE Series \ Paper Lily Series \ Parasite Eve Series \ Psycho Universe \ Purgatory Series \ R.L. Stine's Works \ Resident Evil: Revelations Series \ S.T.A.L.K.E.R. Series \ Saw Franchise \ Scopophobia Studios \ SCP \ Scream Series \ Sen's Works \ Silent Hill \ Slasher Genre \ Smile Series \ Steel Wool Studios \ taskey \ Team Silent \ The Addams Family Series \ The Conjuring Universe \ The Dark Pictures Anthology \ The Evil Within Series \ The Forest Series \ The Last of Us Series \ The Mummy Series \ The Strangers Series \ The Texas Chainsaw Massacre Series \ The Typing of the Dead Series \ The Walking Dead Series \ Universal Classic Monsters \ WonderEnd Series \ Yai Gameworks \ Yomawari \ Youngchan Hwang's Art
 Horse Media | Uma Musume Series
-Houbunsha | Hamiyumiba Sou's Works \ Hanaoto \ K-ON! Series \ Manga Time Kirara \ Manga Time Original \ Sakuragi Ren's Works \ Shoutarou Tokunou's Works \ Yui Hara's Works
+Houbunsha | Afro's Works \ Hamiyumiba Sou's Works \ Hanaoto \ K-ON! Series \ Manga Time Kirara \ Manga Time Original \ Sakuragi Ren's Works \ Shoutarou Tokunou's Works \ Yui Hara's Works
 HoYoverse | Imaginary Tree
-Hudson Soft | Bloody Roar \ Pokémon Trading Card Game (GBC) Series
+Hudson Soft | Bloody Roar \ Bonk Series \ Pokémon Trading Card Game (GBC) Series
 Hulk Franchise | Hulk vs.
 Humongous Entertainment | Spy Fox Series
 HYBE | BigHit Music \ DARK MOON Series \ PLEDIS Entertainment
 Ian Flynn's Works | Archie Mega Man Series \ Rivals of Aether Series \ Sonic & Mega Man
 id Software | Quake Series
-id Tech | MachineGames \ Quake Series \ The Evil Within Series
-Idea Factory | Code: Realize Series \ Collar×Malice Series \ Cupid Parasite Series \ Fairy Fencer F Series \ Genkai Tokki \ Hakuouki Series \ Hanamura Mai's Art \ Hiiro no Kakera Series \ Kinami Yuki's Art \ Kuroyuki's Art \ Mary Skelter Series \ Miko's Art \ Mugen Souls Series \ Nagaoka's Art \ Record of Agarest War Series \ Yuuya's Art
+id Tech | Heretic Series \ MachineGames \ Quake Series \ The Evil Within Series
+Idea Factory | Code: Realize Series \ Collar×Malice Series \ Cupid Parasite Series \ Death end re;Quest Series \ Fairy Fencer F Series \ Genkai Tokki \ Hakuouki Series \ Hanamura Mai's Art \ Hiiro no Kakera Series \ Kinami Yuki's Art \ Kuroyuki's Art \ Mary Skelter Series \ Miko's Art \ Mugen Souls Series \ Nagaoka's Art \ Record of Agarest War Series \ Yuuya's Art
 Idle Games | Hit-Point
-Idols | Aikatsu! Series \ AKB48 Group \ Idol Hands Series \ Kou Nakamura's Works \ Pretty Rhythm \ Pretty Series \ PriPara Series \ THE iDOLM@STER Series \ Tsukino Talent Production
+Idols | Aikatsu! Series \ AKB48 Group \ Idol Hands Series \ Kou Nakamura's Works \ Pretty Rhythm \ Pretty Series \ PriPara Series \ Project SEKAI Series \ Shine Post Series \ THE iDOLM@STER Series \ Tsukino Talent Production
 IDW Publishing | Energon Universe \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series
 IDW Sonic the Hedgehog Series | IDW Sonic the Hedgehog Miniseries
 IG Port | Kemuri Karakara's Works \ Miyagi Yousuke's Works \ ni Warau Series \ Zoids Series
 Ikémen Series | Shiro Yamada's Art
+Ikezaki Misa's Works | Misa Ikezaki's Works
 Illumination | Sing Series
 Image Comics | Energon Universe \ Invincible Universe
 Imageepoch | Luminous Arc Trilogy
 Imagineer | Fitness Boxing Series
 iMel Inc. | NinNinDays Series
-Immersive Sims | Deus Ex Universe \ Dishonored Series
+Immersive Sims | Dishonored Series \ Ion Storm \ Looking Glass Studios \ Thief Series
 Inazuma Eleven Series | Inazuma Eleven Go! Series
-Incest & NBR | Baku Ane Series \ Blood-Related Incest \ Chinjao Girl \ G.J? \ Image House \ Imouto Paradise! Series \ NBR \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Radish Series \ Tinkle Position \ Tsukasa Fushimi's Works \ Yuzuki N's Works
-Independent Animations | Animation vs. Series \ coldmirror's Works \ Glitch Productions \ Gooseworx's Works \ Max Gilardi's Works \ Michael Swain's Works \ Object Shows \ Sana's Works \ SapphireFoxx's Animations \ VIVINOS \ Worthikids's Works
+Incest & NBR | Baku Ane Series \ Blood-Related Incest \ Chinjao Girl \ G.J? \ Image House \ Imouto Paradise! Series \ NBR \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Radish Series \ Tinkle Position \ Tsukasa Fushimi's Works
+Independent Animations | BAKUI's Works \ coldmirror's Works \ Glitch Productions \ Gooseworx's Works \ Max Gilardi's Works \ Michael Swain's Works \ Sana's Works \ SapphireFoxx's Animations \ VIVINOS \ Worthikids's Works
 Indiana Jones Series | LEGO Indiana Jones Video Games
-Indie Games | 11 bit studios \ 1bitHeart Series \ 7th Beat Games \ 90% Studios \ A Shell in the Pit \ Acerola \ Adastra Series \ Aether Studios \ Aggro Crab \ AkaBaka \ Akatsuki/En-Eins \ Akupara Games \ Alec Holowka's Works \ Alliance Arts \ Amanita Design \ Amnesia Series \ Annapurna Interactive \ AQLoop \ AsicxArt \ AstralShift \ Axiom Verge Series \ Baldi's Basics Series \ Baroque Decay Games \ BBQLiuhun's Works \ Bendy \ Bennett Foddy's Works \ Bithell Games \ BlackMonkey-Pro \ Bloodstained Series \ Bombservice \ Bossa Studios \ Brianna Lei's Works \ Buriki Clock \ Burrito Bison Series \ BUZAMA Series \ Bytten Studio \ Cactus McCoy Series \ CaptainGerBear's Art \ Caribdis Games \ Carpe Fulgur LLC \ CE-Asia \ CHARON's Works \ Chucklefish Games \ Class of '09 Series \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Climbing Games \ Coffee Stain Studios \ Commodorette's Works \ Copper Odyssey Series \ Corruption of Champions Series \ Creatalsoftware Games \ Croteam \ Crypt of the Necrodancer Series \ Cyberpunk Bartender Action \ Danganronpa Another Series \ Daniel Mullins' Games \ Dark Marchen \ Darkest Dungeon Series \ Daz 3D CG \ Derek Yu's Works \ DEVGRU-P \ Devil Came Through Here Trilogy \ Dharker Studios \ dino999z \ Dragon Boy Series \ DreadXP \ DrinkBox Studios \ DrPinkCake's Works \ Dulcet Games \ EasyGameStation \ ebi-hime's Works \ Echo Project \ Echo Series \ Elven Conquest Series \ Endnight Games \ Epic Battle Fantasy Series \ etherane's Works \ Evoland Series \ eXceed Series \ Fear & Hunger Series \ Finji \ Flipline Studios \ Freedom Planet Series \ Frictional Games \ FuturLab \ Gacha Life Series \ GameMaker Games \ Garenburg Franchise \ Garten of Banban Series \ Ghostrunner Series \ GoatBread \ Godlimations \ Godot Engine Games \ goodbeans \ Greg Lobanov's Works \ Guinxu's Games \ Hades Series \ Hatoful Boyfriend Series \ HAZUKASHII ♥ TEAM \ Headup Games \ Henry Stickmin Series \ Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ HIKEGAMES \ Hollow Knight Series \ holo Indie \ Honey Select CG \ Hotline Miami Series \ HuniePot \ Hylics Series \ Idol Hands Series \ illuCalab's Works \ Image & Form \ Infinity Blade Series \ inkle Studios \ Inma Ruiz's Art \ Inusuku \ Ironhide Game Studio \ Jonochrome's Games \ KAIJYU-09 \ Kamuo \ Killmonday Games \ Kindergarten Series \ Kingdom Rush Series \ Kitfox Games \ Klace's Works \ Klei Entertainment \ Koikatsu CG \ Kopianget's Art \ L-I-B Works \ La-Mulana Series \ Lab Zero \ Lethal League Series \ Lewd Formosa \ LimboLane \ LISA \ Love Conquers All Games \ Lucas Pope's Works \ Lucius Series \ Lunaris Games \ Luni's Works \ Lunime \ Maddy Thorson's Works \ Mainline FNaF Games \ Majorariatto \ Mascot Horror Games \ Mazu Umami's Games \ Mediatonic \ Messhof's Works \ Metoko \ Middens Series \ mino_dev \ MOB Entertainment \ Momodora Series \ Monument Valley Series \ Mudae Cinematic Universe \ Mutant Mudds Series \ My Singing Monsters Series \ My Time Series \ NEEDY GIRL OVERDOSE Series \ Nemlei's Games \ Night School Studio \ Nix Hydra \ Nomada Studio \ NomnomNami's Works \ nostalgia \ NOVECT \ Ocean (Adult) \ Orange_Juice \ Ori \ Ota Guchi Field \ Our Life Series \ Outlast Series \ Owlchemy Labs \ OXENFREE Series \ Papa Louie Platformers \ Papa Louie Series \ Papa's Gamerias \ Paper Lily Series \ Pillow Fight \ Pink Tea Games \ PixelFade \ Pizza Takeout Obscenity Series \ Playdead \ Playtonic Games \ Postal Series \ Prison Princess Series \ Purgatory Series \ Push! Soft \ QP Series \ Radical Fish Games \ Raw Fury \ Rebootlove's Works \ RebRank \ RedCandleGames \ Reverse Bullet Hell \ Riddle School Series \ Rinnedou \ Risk of Rain Series \ Rivals of Aether Series \ RIVER CROW STUDIOS \ Robot Gentleman \ room6 \ Rosenkreuzstilette Series \ RPG Maker 2003 Games \ RPG Maker XP Games \ Sabotage Studio \ Sad Panda Studios \ Scopophobia Studios \ Segawa \ Seihou Project \ Sen's Works \ SEQUEL \ Serenity Forge \ Shady Corner \ Shantae Series \ shirokoi's Works \ Sierra Lee's Works \ Slime Rancher Series \ SnaccPop Studios \ Soviet Games \ Spacelight Studio \ Spelunky Series \ Spiral Clicker Series \ Square Enix Collective \ Stargroove \ Steel Wool Studios \ Story of Eroolia \ Stress Level Zero \ Studio Élan \ STUDIO INVESTIGRAVE \ Studio Pixel \ Subnautica Series \ Sucker for Love \ SUGURI Series \ SUKEBAN GAMES \ Super Meat Boy Series \ Supergiant Games \ SureAI \ Syberia Franchise \ System Erasure \ Tako Boy Studios \ Team Elegant Impermanence of Sakura \ Team Ladybug \ Team Reptile \ temmie's art \ thatgamecompany \ The Behemoth \ The Desolate Series \ The Forest Series \ The Game Bakers \ The House in Fata Morgana Series \ The Strange Men Series \ The Talos Principle Series \ thecatamites's Works \ Thunder Lotus Games \ tinyBuild \ Toby Fox's Games \ Tom Fulp's Works \ Tommydashen's Art \ Touhou Bunkachou \ Touhou Project (PC-98 Canon) \ Touhou Windows 1st Generation \ Touhou Windows 3rd Generation \ Town of Salem Series \ Tsukinomizu Project \ UFO 50 Games \ vanripper's Works \ Vlambeer \ Wadjet Eye Games \ Waku Waku Games \ Wanaca's Art \ WhisperGames \ White Owls Inc. \ Winged Cloud \ Worst Girls Games \ WSS playground \ Y Press Games \ Yacht Club Games \ Yai Gameworks \ Yangyang Mobile \ Young Horses
+Indie Games | 11 bit studios \ 1bitHeart Series \ 2D Boy \ 7th Beat Games \ 90% Studios \ A Shell in the Pit \ Acerola \ Adastra Series \ Aether Studios \ Age of Defense Series \ Aggro Crab \ AIHASTO \ AkaBaka \ Akatsuki/En-Eins \ Akupara Games \ Alec Holowka's Works \ Alisa Series \ Alliance Arts \ Amanda the Adventurer Series \ Amanita Design \ Amnesia Series \ Annapurna Interactive \ AQLoop \ AsicxArt \ AstralShift \ Axiom Verge Series \ Baba Series \ Baldi's Basics Series \ Baroque Decay Games \ BBQLiuhun's Works \ Belugerin \ Bendy \ Bennett Foddy's Works \ Bithell Games \ Black Tabby Games \ BlackMonkey-Pro \ Blasphemous Series \ Bloodstained Series \ Bombservice \ Bossa Studios \ Brianna Lei's Works \ Buriki Clock \ Burrito Bison Series \ BUZAMA Series \ Bytten Studio \ Cactus McCoy Series \ CaptainGerBear's Art \ Caribdis Games \ Carpe Fulgur LLC \ CE-Asia \ CHARON's Works \ Chucklefish Games \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Climbing Games \ Coffee Stain Studios \ Commodorette's Works \ Copper Odyssey Series \ Corruption of Champions Series \ Creatalsoftware Games \ Croteam \ Crypt of the Necrodancer Series \ Cyan Inc. \ Cyberpunk Bartender Action \ Dadish Series \ Danganronpa Another Series \ Daniel Mullins' Games \ Dark Marchen \ Darkest Dungeon Series \ David Szymanski's Works \ Daz 3D CG \ Deep Rock Galactic Series \ Derek Yu's Works \ DEVGRU-P \ Devil Came Through Here Trilogy \ Dharker Studios \ dino999z \ Dragon Boy Series \ DreadXP \ DrinkBox Studios \ DrPinkCake's Works \ Dulcet Games \ Dumativa \ EasyGameStation \ ebi-hime's Works \ Echo Project \ Echo Series \ Elven Conquest Series \ Emily is Away Series \ Endnight Games \ Epic Battle Fantasy Series \ etherane's Works \ Evoland Series \ eXceed Series \ Fear & Hunger Series \ Finji \ Flipline Studios \ Freedom Planet Series \ Frictional Games \ Frogun Series \ FuturLab \ Gacha Life Series \ GameMaker Games \ Garenburg Franchise \ Ghostrunner Series \ GoatBread \ Godlimations \ Godot Engine Games \ goodbeans \ Granny Series \ Greg Lobanov's Works \ Guinxu's Games \ Gungeon Series \ Hades Series \ Hanako Games \ Hatoful Boyfriend Series \ HAZUKASHII ♥ TEAM \ Headup Games \ Henry Stickmin Series \ Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ HIKEGAMES \ Hollow Knight Series \ holo Indie \ Honey Select CG \ Hotline Miami Series \ HuniePot \ Hylics Series \ Hyper Light Series \ Idol Hands Series \ illuCalab's Works \ Image & Form \ Infinity Blade Series \ inkle Studios \ Inma Ruiz's Art \ Inusuku \ Ironhide Game Studio \ Jonochrome's Games \ KAIJYU-09 \ Kamuo \ Kay Yu's Works \ Killmonday Games \ Kindergarten Series \ Kingdom Come: Deliverance Series \ Kingdom Rush Series \ Kitfox Games \ Klace's Works \ Klei Entertainment \ Koikatsu CG \ Kopianget's Art \ Kozue's Strange Journey Series \ L-I-B Works \ La-Mulana Series \ Lab Zero \ Lakeview Series \ Lethal League Series \ Lewd Formosa \ LimboLane \ LISA \ Love Conquers All Games \ Lucas Pope's Works \ Lucius Series \ Lucky's Tale Series \ Lunaris Games \ Luni's Works \ Maddy Thorson's Works \ Mainline FNaF Games \ Majorariatto \ Mascot Horror Games \ Mazu Umami's Games \ McPig's Works \ Mediatonic \ Messhof's Works \ Metoko \ Middens Series \ mino_dev \ MOB Entertainment \ Momodora Series \ Monument Valley Series \ Motion Twin \ Mudae Cinematic Universe \ Mutant Mudds Series \ My Singing Monsters Series \ My Time Series \ N Series \ NEEDY GIRL OVERDOSE Series \ Nemlei's Games \ Night School Studio \ Nix Hydra \ Nomada Studio \ NomnomNami's Works \ nostalgia \ NOVECT \ Ocean (Adult) \ Orange_Juice \ Ori \ Ota Guchi Field \ Our Life Series \ Outlast Series \ Owlchemy Labs \ OXENFREE Series \ Papa Louie Platformers \ Papa Louie Series \ Papa's Gamerias \ Paper Lily Series \ Pillow Fight \ Pink Tea Games \ PixelFade \ Pizza Takeout Obscenity Series \ Playdead \ Playtonic Games \ Postal Series \ PowerWash Simulator Series \ Prison Princess Series \ Purgatory Series \ Push! Soft \ QP Series \ Radical Fish Games \ Raw Fury \ Rebootlove's Works \ RebRank \ RedCandleGames \ Reverse Bullet Hell \ Riddle School Series \ Rinnedou \ Risk of Rain Series \ Rivals of Aether Series \ RIVER CROW STUDIOS \ Robot Gentleman \ room6 \ Rosenkreuzstilette Series \ RPG Maker 2003 Games \ RPG Maker XP Games \ Sabotage Studio \ Sad Panda Studios \ Scopophobia Studios \ Segawa \ Seihou Project \ semiwork \ Sen's Works \ SEQUEL \ Serenity Forge \ Shady Corner \ Shantae Series \ shirokoi's Works \ Sierra Lee's Works \ SKIPMORE \ Slime Rancher Series \ SnaccPop Studios \ Social Horror Games \ Soviet Games \ Spacelight Studio \ Spelunky Series \ Spiral Clicker Series \ Square Enix Collective \ Stargroove \ Steel Wool Studios \ Story of Eroolia \ Stress Level Zero \ Studio Élan \ STUDIO INVESTIGRAVE \ Studio Pixel \ Subnautica Series \ Sucker for Love \ SUGURI Series \ SUKEBAN GAMES \ Super Meat Boy Series \ Supergiant Games \ SureAI \ Syberia Franchise \ System Erasure \ Tako Boy Studios \ Team Elegant Impermanence of Sakura \ Team Ladybug \ Team Reptile \ temmie's art \ Terry Cavanagh's Works \ thatgamecompany \ The Behemoth \ The Desolate Series \ The Forest Series \ The Game Bakers \ The House in Fata Morgana Series \ The Strange Men Series \ The Talos Principle Series \ thecatamites's Works \ Those Awesome Guys \ Thunder Lotus Games \ tinyBuild \ Toby Fox's Games \ Tom Fulp's Works \ Tommydashen's Art \ Tomorrow Corporation \ Top Hat Studios \ Toree Series \ Touhou Bunkachou \ Touhou Project (PC-98 Canon) \ Touhou Windows 1st Generation \ Touhou Windows 3rd Generation \ Town of Salem Series \ Tsukinomizu Project \ Turnip Boy Series \ UFO 50 Games \ Umineko Series \ vanripper's Works \ Vlambeer \ Wadjet Eye Games \ Waku Waku Games \ Wanaca's Art \ WhisperGames \ White Owls Inc. \ Winged Cloud \ Wishes Ultd. \ World of Goo Series \ Worst Girls Games \ WSS playground \ Y Press Games \ Yacht Club Games \ Yai Gameworks \ Yangyang Mobile \ Young Horses
+indieszero | Theatrhythm
+Indonesian Media | Age of Defense Series \ Belugerin
 INKR Comics | Nakayoshi Lovely
 InnerSloth | Among Us Franchise \ Henry Stickmin Series
 Innocent Grey | Kara no Shoujo Series
 Insomniac Games | Insomniac's Marvel Universe \ Ratchet & Clank Collection \ Resistance Series \ Spyro Reignited Trilogy
-Intelligent Systems | Advance Wars Series \ Archanea \ Elibe Series \ Fire Emblem \ Fire Emblem Warriors Series \ Fódlan Series \ Jugdral Series \ Tellius Series \ Valentia Series \ Wada Sachiko's Art \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series
-Interactive Films | Life is Strange Series \ Quantic Dream \ The Dark Pictures Anthology
-Interplay Entertainment | Mario Teaches Typing Series
-Inti Creates | Blaster Master Zero Series \ Bloodstained Series \ Gal*Gun Series \ Mega Man Zero Series \ Mega Man Zero/ZX Legacy Collection \ Mega Man ZX Series
+Intelligent Systems | Advance Wars Series \ Archanea \ Elibe Series \ Fire Emblem \ Fire Emblem Warriors Series \ Fódlan Series \ Jugdral Series \ Tellius Series \ Valentia Series \ Wada Sachiko's Art \ Wario's Woods Series \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series
+Interactive Films | Life is Strange Series \ Quantic Dream \ ReadySoft \ The Dark Pictures Anthology
+Interplay Entertainment | ClayFighter Series \ Mario Teaches Typing Series \ The Lost Vikings Series
+Inti Creates | Blaster Master Zero Series \ Bloodstained Series \ Gal Guardians Series \ Gal\*Gun Series \ Mega Man Zero Series \ Mega Man Zero/ZX Legacy Collection \ Mega Man ZX Series
 InuYasha Series | InuYasha Movies
-IO Interactive | Hitman Series \ Hitman: World of Assassination
+IO Interactive | Hitman Series \ Hitman: World of Assassination \ Kane & Lynch Series
+Irish Media | Cartoon Saloon \ Terry Cavanagh's Works \ The Fowl Adventures \ thecatamites's Works \ Tomm Moore's Works
 Iron Man Franchise | MCU Iron Man Series
 Ironhide Game Studio | Kingdom Rush Series
-Isekai | Aneko Yusagi's Works \ Blue Canna's Art \ Captain N and the New Super Mario World \ Chae Yoohwa's Works \ Dalseul's Works \ Digimon World Series \ Farnar's Works \ Geulingilin's Art \ HameFura Series \ Haron Lee's Works \ keepout's Art \ Manhuatai \ Mario + Rabbids \ Mario All Stars \ Mokgamgi's Works \ Moon Sihyun's Works \ Puni-chan's Works \ Sonic Storybook Series \ Super Mario Bros. Cartoons \ Taeson's Works \ Taiki Akitoki's Art \ Touzai's Art \ Yamakawa's Art
+Isekai | Alice in Wonderland Series \ Aneko Yusagi's Works \ Blue Canna's Art \ Captain N and the New Super Mario World \ Chae Yoohwa's Works \ Dalseul's Works \ Digimon World Series \ Farnar's Works \ Firehead's Works \ GEN's Art \ Geulingilin's Art \ HameFura Series \ Haron Lee's Works \ Jishou Akuyaku Reijou Series \ keepout's Art \ Manhuatai \ Mario + Rabbids \ Mario All Stars \ Mokgamgi's Works \ Moon Sihyun's Works \ Puni-chan's Works \ Sonic Storybook Series \ Supana Onikage's Works \ Super Mario Bros. Cartoons \ Taeson's Works \ Taiki Akitoki's Art \ Touzai's Art \ Yamakawa's Art
 Itaru Hinoue's Art | H.I design office \ Pre-Key Tactics \ Rewrite Series
 ITV | CITV
-Ivalice Alliance | Final Fantasy Tactics Series
+Ivalice Alliance | Final Fantasy Tactics Series \ Final Fantasy XII Series
+Izumi Toudou | Delicious Party♡Precure Series \ Futari wa PreCure Series \ Glitter Force Series \ Mahoutsukai PreCure! Series \ PreCure \ PreCure All Stars \ PreCure Movies \ Smile PreCure! Series \ Wonderful PreCure Series \ Yes! PreCure 5 Series
 Izumi Tsubaki's Works | Gekkan Shoujo Nozaki-kun Series
 J Legend Retsuden | Dragon Ball Z: Super Saiya Densetsu
-J-Novel Club | Arian Rose \ Arifureta Series \ COMTA's Art \ Gin's Art
+J-Novel Club | Arian Rose \ Arifureta Series \ COMTA's Art \ Firehead's Works \ Gin's Art \ Supana Onikage's Works
 J-Pop | AKB48 Group
-J.C.Staff | selector WIXOSS \ WIXOSS \ Yasu's Art
+J.C.Staff | selector WIXOSS \ WIXOSS
 Jaedam Media | Kang Ki's Art
-James Gunn's Works | DC Universe
-Japan Studio | Knack Series \ Patapon Series
+Japan Studio | Knack Series \ LocoRoco Series \ Patapon 1+2 Replay \ Patapon Series
 JAST USA | Demonbane Series \ JAST Blue \ JAST USA Memorial Collection \ Langmaor \ Lightning Warrior Raidy Series \ Mamono Musume Series
 Jesulink's Works | Mundo Elemental
 Jhonen Vasquez's Works | Invader Zim Series
 jjwxc | Bei Nan's Works \ Fei Tian Ye Xiang's Works \ Jiang Zi Bei's Works \ Man Man He Qi Duo's Works \ Meatbun Doesn't Eat Meat's Works \ Meng Xi Shi's Works \ Mo Xiang Tong Xiu's Works \ Mu Su Li's Works \ Po Yun Series \ Priest's Works \ Tang Jiuqing's Works \ Wu Zhe's Works \ Zhichu's Works
 Joara | Cheongcho's Works
 Joel Guerra's Works | ENA Series
+Jonochrome's Games | Riddle School Series
 Joseimuke | Destiny Ninja Series \ Fuji Mitsuya's Art \ Shall we date? \ Tsukino Talent Production \ Yume Series
 Juicy Mango | Marine
-Jump Magazines | Akamaru Jump \ Akira Amano's Works \ Akira Sugito's Works \ Business Jump \ Dr. STONE Series \ Dragon Ball Original Manga Run \ Eiichiro Oda's Works \ Galactic Patrol Series \ Hiroshi Shiibashi's Works \ Jump Kai \ Katsura Akira \ Kinnikuman Series \ Komi Naoshi's Works \ Kouji Miura's Works \ Masahiro Hirakata's Works \ Matsuura Kento's Art \ Mizuki Yoda's Art \ Monthly Young Jump \ Naoshi Komi's Works \ Naoya Matsumoto's Works \ Ryuuhei Tamura's Works \ Saikyou Jump \ Shaman King Series \ Shin-ichi Sakamoto's Works \ Shiro Moriya's Works \ Sho Aimoto's Works \ Shounen Jump GIGA \ Shounen Jump Rookie \ Soumatou's Works \ Tadahiro Miura's Works \ Tadatoshi Fujimaki's Works \ Taishi Tsutsui's Works \ Takeshi Obata's Art \ To LOVE-Ru Series \ Tonari no Young Jump \ Toshio Sako's Works \ Tsugumi Ohba's Works \ Ultra Jump \ Ultra Jump Egg \ Umaru-chan Universe \ Weekly Shounen Jump \ Weekly Young Jump \ Yuki Tabata's Works \ Yusei Matsui's Works \ Yuuji Kaku's Works
+Jump Magazines | Akamaru Jump \ Akira Amano's Works \ Akira Sugito's Works \ Business Jump \ Dr. STONE Series \ Dragon Ball Original Manga Run \ Eiichiro Oda's Works \ Galactic Patrol Series \ Hiroshi Shiibashi's Works \ Jump Kai \ Katsura Akira \ Kinnikuman Series \ Komi Naoshi's Works \ Kouji Miura's Works \ Masahiro Hirakata's Works \ Matsuura Kento's Art \ Mizuki Yoda's Art \ Monthly Young Jump \ Naoshi Komi's Works \ Naoya Matsumoto's Works \ Ryuuhei Tamura's Works \ Saikyou Jump \ Shaman King Series \ Shin-ichi Sakamoto's Works \ Shiro Moriya's Works \ Sho Aimoto's Works \ Shounen Jump GIGA \ Shounen Jump Rookie \ Soumatou's Works \ Tadahiro Miura's Works \ Tadatoshi Fujimaki's Works \ Taishi Tsutsui's Works \ Takeshi Obata's Art \ To LOVE-Ru Series \ Toshio Sako's Works \ Tsugumi Ohba's Works \ Ultra Jump Egg \ Umaru-chan Universe \ Yuki Tabata's Works \ Yusei Matsui's Works \ Yuuji Kaku's Works
 Junji Gotou's Art | School Days Series
 Junji Ito's Works | Junji Ito: Short Story Collection \ Junji Ito: Stand-alone Works
 Jurassic Park Franchise | Jurassic Park Series \ Jurassic World Series
 JYP Entertainment | Stray Kids' Works
 K-Drama | LEE Hye's Works
-K-Pop | BigHit Music \ Cube Entertainment \ Fantagio \ HYBE Labels Japan \ KQ Entertainment \ Mystic Story \ PLEDIS Entertainment \ Produce 101 \ Rainbow Bridge World \ Starship Entertainment \ YG Entertainment
+K-Pop | BigHit Music \ Cube Entertainment \ Fantagio \ HYBE Labels Japan \ KQ Entertainment \ Mystic Story \ PLEDIS Entertainment \ Produce 101 \ Rainbow Bridge World \ Starship Entertainment \ WAKEONE Entertainment \ YG Entertainment
 Kadokawa Bunko | Mamoru Hosoda's Works \ Studio Chizu
-Kadokawa Corporation | @vitamin \ Akaza Samamiya's Works \ Aneko Yusagi's Works \ Aoikishi Comics \ Arian Rose \ Asuka \ Asuka Comics CL-DX \ Aya Shouoto's Works \ B's-LOG Bunko \ B's-LOG COMIC \ Beam Comics \ Beans Ace \ Beans Bunko \ Blood Series \ Bokuto Uno's Works \ Boogiepop Series \ Chiri's Art \ Comfort \ Comic Alive \ COMIC BRIDGE \ Comic Cune \ Comic Flapper \ Comic Gene \ COMIC it \ Comp Ace \ Comptiq \ Conception Series \ Dengeki Bunko \ Dengeki Comic Regulus \ Dengeki Daioh-g \ Dengeki G's Comic \ Dengeki G's magazine \ Dengeki Maoh \ Dengeki Moeoh \ Dengeki no Shin Bungei \ Dra-Dra Sharp# \ Dragami Games \ Dragon Book \ Dragon Comics Age \ Dragon Novels \ Eureka Seven Series \ Famitsu Bunko \ Fleur Comics \ FLOS COMIC \ Fujimi Fantasia Bunko \ Fujimi L Bunko \ Fujimi Shobo \ Gakuto Mikumo's Works \ GC Novels \ Gene pixiv \ Hajime Kamoshida's Works \ Hajime Kanzaka's Works \ Hajime Segawa's Works \ Hanama Tomo's Works \ Harta Comics \ Haruhi Suzumiya Series \ Hidan no Aria Series \ High School DxD Series \ HIMA's Art \ Hisaya Amagishi's Works \ Hitoma Iruma's Works \ Inumajin's Works \ KadoComi \ Kadokawa BOOKS \ Kadokawa Bunko \ Kadokawa Horror Bunko \ Kaoru Mori's Works \ Karaoke Iko! Series \ Kasu Komeshiro's Art \ Kiddy \ Kobuichi's Art \ Kouhei Azano's Works \ Last Exile Series \ Lunar Series \ Mahouka Koukou no Rettousei Series \ Mamare Touno's Works \ Mamoru Hosoda's Works \ Masaki Tsuzuki's Works \ Masamune Kuji's Works \ MediaWorks Bunko \ Mei Fujimatsu's Works \ MF Books \ MF Bunko J \ Momoco's Art \ Mondaiji-tachi Series \ Munyu's Art \ Myojin Kato's Works \ Nami Sano's Works \ namo's Works \ Natsume Akatsuki's Works \ No Game No Life Series \ NOVEL 0 \ Ochau's Art \ Onegai Teacher Series \ Pepu's Art \ Persona 2 Series \ Persona Q Series \ Piero Karasu's Works \ Princess Soft \ Puni-chan's Works \ Rakuda's Works \ Rifujin na Magonote's Works \ Rimukoro's Works \ Sahara Gensei's Art \ Sakae Esuno's Works \ Satoshi Wagahara's Works \ Satoyasu's Art \ Seiji Ebisu's Works \ Seikai Series \ Shounen Ace \ Shounen Ace Plus \ Shungiku Nakamura's Works \ Sneaker Bunko \ Studio Chizu \ Sumeragi's Art \ sune's Art \ Sylph Comics \ Tamamusi's Works \ Taro Hitsuji's Works \ TearRing Saga \ Tetsukazu's Works \ Top wo Nerae! Series \ Tsukasa Fushimi's Works \ Umineko no Naku Koro ni Series \ Vamp Comics \ WebComic Apanta \ World Witches \ Yoichi Abe's Works \ Young Ace \ Young Ace UP \ Yui Haga's Art \ Yuu Kamiya's Art \ Yuuichirou Higashide's Works \ Yuyuko Takemiya's Works \ Yuzuriha's Art \ Zero Escape \ Zero no Tsukaima Series
+Kadokawa Corporation | @vitamin \ Akaza Samamiya's Works \ Aneko Yusagi's Works \ Aoikishi Comics \ Arian Rose \ Asuka \ Asuka Comics CL-DX \ Aya Shouoto's Works \ B's-LOG Bunko \ B's-LOG COMIC \ Beans Bunko \ Blood Series \ Bokuto Uno's Works \ Boogiepop Series \ Chiri's Art \ Comfort \ Comic Alive \ COMIC BRIDGE \ Comic Cune \ Comic Flapper \ Comic Gene \ COMIC it \ Comp Ace \ Comptiq \ Conception Series \ Dengeki Bunko \ Dengeki Comic Regulus \ Dengeki Daioh-g \ Dengeki G's Comic \ Dengeki G's magazine \ Dengeki Maoh \ Dengeki Moeoh \ Dengeki no Shin Bungei \ Dra-Dra Sharp# \ Dragami Games \ Dragon Book \ Dragon Comics Age \ Dragon Novels \ Eureka Seven Series \ Famitsu Bunko \ Fleur Comics \ FLOS COMIC \ Fujimi Fantasia Bunko \ Fujimi L Bunko \ Fujimi Shobo \ Gakuto Mikumo's Works \ GC Novels \ Gene pixiv \ Hajime Kamoshida's Works \ Hajime Kanzaka's Works \ Hajime Segawa's Works \ Hanama Tomo's Works \ Harta Comics \ Haruhi Suzumiya Series \ Hidan no Aria Series \ High School DxD Series \ HIMA's Art \ Hisaya Amagishi's Works \ Hitoma Iruma's Works \ Inumajin's Works \ KadoComi \ Kadokawa BOOKS \ Kadokawa Bunko \ Kadokawa Horror Bunko \ Kaoru Mori's Works \ Karaoke Iko! Series \ Kasu Komeshiro's Art \ Kiddy \ Kobuichi's Art \ Kouhei Azano's Works \ Last Exile Series \ Lodoss-tou Senki Series \ Lunar Series \ Mahouka Koukou no Rettousei Series \ Mamare Touno's Works \ Mamoru Hosoda's Works \ Masaki Tsuzuki's Works \ Masamune Kuji's Works \ MediaWorks Bunko \ Mei Fujimatsu's Works \ MF Books \ MF Bunko J \ Momoco's Art \ Mondaiji-tachi Series \ Munyu's Art \ Myojin Kato's Works \ Nami Sano's Works \ namo's Works \ Natsume Akatsuki's Works \ No Game No Life Series \ NOVEL 0 \ Ochau's Art \ Onegai Teacher Series \ Pepu's Art \ Persona 2 Series \ Persona Q Series \ Piero Karasu's Works \ Princess Soft \ Puni-chan's Works \ Rakuda's Works \ Rifujin na Magonote's Works \ Rimukoro's Works \ Rocket Shokai's Works \ Roron Oohara's Works \ Sahara Gensei's Art \ Sakae Esuno's Works \ Satoshi Wagahara's Works \ Satoyasu's Art \ Seiji Ebisu's Works \ Seikai Series \ Shounen Ace \ Shounen Ace Plus \ Shungiku Nakamura's Works \ Shunpei Morita's Works \ Sneaker Bunko \ Studio Chizu \ Sumeragi's Art \ sune's Art \ Sylph Comics \ Tamamusi's Works \ Taro Hitsuji's Works \ TearRing Saga \ Tetsukazu's Works \ Top wo Nerae! Series \ Tsukasa Fushimi's Works \ Umineko Series \ Vamp Comics \ WebComic Apanta \ World Witches \ Yoichi Abe's Works \ Young Ace \ Young Ace UP \ Yui Haga's Art \ Yuu Kamiya's Art \ Yuuichirou Higashide's Works \ Yuyuko Takemiya's Works \ Yuzuriha's Art \ Zero Escape \ Zero no Tsukaima Series
 Kadokawa Games | Yume Nikki Series
-Kadokawa Shoten | Akaza Samamiya's Works \ Asuka \ Asuka Comics CL-DX \ Aya Shouoto's Works \ Beans Ace \ Beans Bunko \ Blood Series \ Eureka Seven Series \ Hajime Segawa's Works \ Haruhi Suzumiya Series \ Kadokawa Bunko \ Kadokawa Horror Bunko \ Kerokero Ace \ Kiddy \ Last Exile Series \ Lunar Series \ Mamoru Hosoda's Works \ Masaki Tsuzuki's Works \ Mondaiji-tachi Series \ Natsume Akatsuki's Works \ Rimukoro's Works \ Sakae Esuno's Works \ Shounen Ace \ Shounen Ace Plus \ Shungiku Nakamura's Works \ Sneaker Bunko \ Studio Chizu \ Umineko no Naku Koro ni Series \ Young Ace \ Young Ace UP \ Yuzuriha's Art
-Kagura Games | Acerola
+Kadokawa Shoten | Akaza Samamiya's Works \ Asuka \ Asuka Comics CL-DX \ Aya Shouoto's Works \ Beans Ace \ Beans Bunko \ Blood Series \ Eureka Seven Series \ Hajime Segawa's Works \ Haruhi Suzumiya Series \ Kadokawa Bunko \ Kadokawa Horror Bunko \ Kerokero Ace \ Kiddy \ Last Exile Series \ Lodoss-tou Senki Series \ Lunar Series \ Mamoru Hosoda's Works \ Masaki Tsuzuki's Works \ Mondaiji-tachi Series \ Natsume Akatsuki's Works \ Rimukoro's Works \ Sakae Esuno's Works \ Shounen Ace \ Shounen Ace Plus \ Shungiku Nakamura's Works \ Sneaker Bunko \ Studio Chizu \ Umineko Series \ Young Ace \ Young Ace UP \ Yuzuriha's Art
+Kagura Games | Acerola \ Kozue's Strange Journey Series
 Kagyu Kumo's Works | Goblin Slayer Series
-Kaiju | Godzilla: Heisei Continuity \ Godzilla: Millennium Era \ Godzilla: Shōwa Continuity \ GRIDMΛN UNIVERSE \ King Kong Franchise \ MonsterVerse \ Mothra Franchise \ Rampage Series \ Shinkansen Henkei Robo Shinkalion Series
+Kaiju | Godzilla: Heisei Continuity \ Godzilla: Millennium Era \ Godzilla: Shōwa Continuity \ GRIDMΛN UNIVERSE \ MonsterVerse \ Mothra Franchise \ Shinkansen Henkei Robo Shinkalion Series
 Kaiousha | Yukue Moegi's Works
-KakaoPage | Black Ajin's Works \ Blue Canna's Art \ Breathe \ Cassiopeia's Works \ Chae Yoohwa's Works \ Cheongcho's Works \ Contents Lab. Blue \ Dream Creative Communication \ Ellian Yang's Works \ Epyrus \ Eun-chae Go's Works \ Eunhyang Ja's Works \ Eunyoul's Works \ Farnar's Works \ Finger Story \ GLEE's Art \ Golem Factory \ GongDeunTop's Works \ Gwon Gyeoeul's Works \ HÆON's Works \ Haeyoon's Works \ Haron Lee's Works \ Hee-jin Bae's Works \ In-Time Network \ Irinbi's Works \ Joara \ JS Content \ Juhong's Art \ Kang Ki's Art \ KENAZ \ Kiarne's Works \ Kim Myeongmi's Art \ Kin's Works \ Lim Seo-rim's Works \ Lisabel's Works \ Moon Sihyun's Works \ NARAK's Art \ Neptune \ Plutus's Works \ Portofino's Works \ Radish \ RinA's Works \ Ro Yu-jin's Works \ Saedeul's Art \ Samyang \ Siya's Works \ Skye's Works \ Sol Leesu's Works \ Spice&Kitty's Works \ Studio Jilpung \ Supercomix Studio \ Surim Lee's Works \ SWAN's Works \ Taeson's Works \ Tess' Art \ todac_s's Art \ Ultramarinesilk's Works \ Woo-gak's Works \ Yeowool's Works \ Yoon Hawol's Works \ Yuin's Works \ Yumyum's Art
+KakaoPage | Black Ajin's Works \ Blue Canna's Art \ Breathe \ Cassiopeia's Works \ Chae Yoohwa's Works \ Cheongcho's Works \ Contents Lab. Blue \ Dream Creative Communication \ Ellian Yang's Works \ Epyrus \ Eun-chae Go's Works \ Eunhyang Ja's Works \ Eunyoul's Works \ Farnar's Works \ Finger Story \ GLEE's Art \ Golem Factory \ GongDeunTop's Works \ Gwon Gyeoeul's Works \ HÆON's Works \ Haeyoon's Works \ Haron Lee's Works \ Hee-jin Bae's Works \ In-Time Network \ Irinbi's Works \ Joara \ JS Content \ Juhong's Art \ Kang Ki's Art \ KENAZ \ Kiarne's Works \ Kim Myeongmi's Art \ Kin's Works \ Lim Seo-rim's Works \ Lisabel's Works \ Moon Sihyun's Works \ NARAK's Art \ Neptune \ Plutus's Works \ Portofino's Works \ Radish \ RinA's Works \ Ro Yu-jin's Works \ Saedeul's Art \ Samyang \ Siya's Works \ Skye's Works \ Sol Leesu's Works \ Spice&Kitty's Works \ Spoon's Art \ Studio Jilpung \ Supercomix Studio \ Surim Lee's Works \ SWAN's Works \ Taeson's Works \ Tess' Art \ todac_s's Art \ Ultramarinesilk's Works \ Woo-gak's Works \ Wookjakga's Art \ Yeowool's Works \ Yoon Hawol's Works \ Yuin's Works \ Yumyum's Art
 Kakeru Kobashiri's Works | Grimoire of Zero Series
-Kakuyomu | Arian Rose \ Hanekoto's Art \ keepout's Art \ Overlap Novels f \ Rifujin na Magonote's Works \ Yusaku Sakaishi's Works
+Kakuyomu | Arian Rose \ Hanekoto's Art \ keepout's Art \ Rifujin na Magonote's Works \ Rocket Shokai's Works \ Yusaku Sakaishi's Works
 Kamen Rider Series | Heisei Kamen Rider \ Heisei Kamen Rider Phase 1 \ Heisei Kamen Rider Phase 2 \ Kamen Rider American Adaptations \ Reiwa Kamen Rider \ Showa Kamen Rider
-Karate | The Karate Kid Series
-Kart Racer Games | Crash Bandicoot Racing Series \ Crash Nitro Kart Series \ Crazy Frog Racer Series \ Mario Kart \ Mario Kart Arcade GP Series \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series
+Kart Racer Games | Crash Bandicoot Racing Series \ Crash Nitro Kart Series \ Crazy Frog Racer Series \ Mario Kart Arcade GP Series \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series
 Kawamoto Homura's Works | Kakegurui Series
 Kazuasa Sumita's Art | Killing Bites Series
 Kazuki Nakashima's Works | Kill la Kill Series
 Kazuki Yone's Art | Hakuouki Series \ Hiiro no Kakera Series
-KEMCO | Asdivine Series
+KEMCO | Asdivine Series \ Crazy Castle \ Kid Klown Series
 Kemuri Karakara's Works | ni Warau Series
 Ken Akamatsu's Works | Negima! Series
 Kentaro Yabuki's Art | To LOVE-Ru Series
@@ -651,36 +687,37 @@ Kentarou Miura's Works | Berserk Series
 Kevin Smith's Works | Clerks Series \ Jay & Silent Bob Series
 Key | CLANNAD Series \ Kaginado \ Key 10th Memorial BOX \ Little Busters! Series \ Na-Ga's Art \ planetarian Series \ Rewrite Series
 KID | Infinity Series
-Kids' Anime | Beyblade Series \ Cocotama \ Delicious Party♡Precure Series \ Futari wa PreCure Series \ Glitter Force Series \ Jewelpet Series \ PreCure All Stars \ PreCure Movies \ PriPara Series \ Smile PreCure! Series \ Wonderful PreCure Series \ Yes! PreCure 5 Series
+Kids' Anime | Beyblade Series \ Cocotama \ Delicious Party♡Precure Series \ Futari wa PreCure Series \ Glitter Force Series \ Jewelpet Series \ PreCure All Stars \ PreCure Movies \ Smile PreCure! Series \ Wonderful PreCure Series \ Yes! PreCure 5 Series
 Kill the Past | No More Heroes Series
 Kill Time Communication | Comic Valkyrie \ VENOM
 Kim Sehoon's Works | Hardcore Leveling Warrior Series
-Kinetic Novels | Aibeya Series \ Aikagi Series \ KineticNovel \ planetarian Series \ Prekano \ Stage-nana's Works \ Studio Pork \ Yoru no Hitsuji
+Kinetic Novels | Aibeya Series \ Aikagi Series \ H.I design office \ KineticNovel \ planetarian Series \ Prekano \ Stage-nana's Works \ Studio Pork \ Yoru no Hitsuji
 KineticNovel | planetarian Series
-King of Fighters Universe | Art of Fighting Series \ Fatal Fury \ Samurai Shodown \ The King of Fighters EX Series
-KING RECORDS | Akifumi Kaneko's Works \ Hypnosis Mic -Division Rap Battle- Series
+King of Fighters Universe | Art of Fighting Series \ Fatal Fury \ KOF: Maximum Impact Series \ The King of Fighters EX Series
+KING RECORDS | Akifumi Kaneko's Works \ Hypnosis Mic -Division Rap Battle- Series \ Unison
 Kingdom Hearts Series | Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts HD 2.8 Final Chapter Prologue \ Kingdom Hearts Union χ Dark Road \ Kingdom Hearts χ Series
 Kingdom Hearts χ Series | Kingdom Hearts Union χ Dark Road
 Kingdom Rush Series | Ironhide Game Studio
+Kinoko Nasu's Works | Tsukihime Remake Series
 Kirby | Dark Matter Trilogy \ Kirby of the Stars Series \ Kirby's Dream Collection \ Kirby's Dream Land Series \ Kirby's Star Stacker Series
 Kirby of the Stars Series | Dark Matter Trilogy \ Kirby's Dream Collection \ Kirby's Dream Land Series
 Kirby's Dream Collection | Dark Matter Trilogy \ Kirby's Dream Land Series
-KiriKiri Games | AKABEiSOFT3 \ Akatsuki Works \ ALcot \ Applique \ Asa Project \ Courreges Ace \ Hulotte \ Kalmia8 \ Kangoku Senkan Series \ Lass \ Oozora Itsuki's Art \ Seiiki Series \ Smile \ Studio Pork \ Tenioha! Series \ The House in Fata Morgana Series \ Tinkle Position \ Uguisu Kagura \ Yoru no Hitsuji
-Kishida Mel's Art | Arland Series
+KiriKiri Games | AKABEiSOFT3 \ Akatsuki Works \ ALcot \ Applique \ Asa Project \ Courreges Ace \ Hulotte \ Kalmia8 \ Kangoku Senkan Series \ Lass \ Oozora Itsuki's Art \ Seiiki Series \ Smile \ Studio Pork \ Tenioha! Series \ The House in Fata Morgana Series \ Tinkle Position \ Uguisu Kagura
+Kishida Mel's Art | Arland Series \ BLUE REFLECTION Series
 Kita Senri's Art | Tellius Series
 Kitty Films | Ranma ½ Series \ Urusei Yatsura Series
 Kiyohiko Azuma's Works | Yotsuba to! Series
 Klasky Csupo | Rugrats Series
 Klonoa | Klonoa Phantasy Reverie Series
 Kobuichi's Art | Hidan no Aria Series
-Kodansha | Afternoon \ Akeji Fujimura's Art \ Akira Hiramoto's Works \ Anashin's Works \ Asuka Konishi's Works \ Atsushi Uchiyama's Works \ Attack on Titan Series \ Azu's Works \ Be Love \ Bessatsu Friend \ Bessatsu Shounen Magazine \ Comic Days \ Comic Pool \ Comic REX \ Comic Yuri-Hime. \ Dessert \ Ema Tooyama's Works \ Evening \ FLCL Series \ George Morikawa's Works \ Glitter Force Series \ GTO Series \ Harold Sakuishi's Works \ Hataraku Saibou Series \ Hitoshi Iwaki's Works \ Hypnosis Mic -Division Rap Battle- Series \ Initial D Series \ Kaiji Series \ Kamisama no Iutoori Series \ Ken Akamatsu's Works \ Kengo Matsumoto's Works \ Kiss Comic \ Kodansha Lanove Bunko \ Kouji Seo's Works \ Magazine Pocket \ Makoto Yukimura's Works \ Masakuni Igarashi's Works \ Mermaid Melody Pichi Pichi Pitch Series \ Miki Yoshikawa's Works \ Monthly Shounen Magazine \ Morning \ Morning Two \ Motoi Yoshida's Works \ Mr. Magazine \ Musawo's Works \ Nakayoshi Lovely \ Namori's Works \ Naoshi Arakawa's Works \ Negi Haruba's Works \ Negima! Series \ Night Head Series \ Noise's Works \ Nomura Yusuke's Art \ Ren Kawahara's Works \ Riichi Ueshiba's Works \ Rin Mikimoto's Works \ Robico's Works \ Saburouta's Art \ Seikaisha \ Shin Kibayashi's Works \ Shizumu Watanabe's Works \ Shounen Magazine Edge \ Shounen Sirius \ Suiyoubi no Sirius \ Taguchi Hoshino's Works \ Takahiro Oba's Art \ Tokyo卍Revengers Series \ Tomonori Inoue's Art \ Touya Mikanagi's Works \ Tsuina Miura's Works \ Tsutomu Nihei's Works \ WAaI! \ Waki Yamato's Works \ Yamada Kintetsu's Works \ Yasuda Tsuyoshi's Works \ Yoshinobu Yamada's Works \ Yoshitoki Ooima's Works \ Young Magazine \ Young Magazine Web \ Yousuke Kaneda's Works \ Yuru Yuri Series \ Yuu Aikawa's Works \ Zaregoto Franchise \ Zero-Sum Online
-Koei Tecmo | Angelique Series \ Arland Series \ Atelier Iris Series \ Atelier Ryza Series \ Dead or Alive Series \ Dusk Series \ EXA_PICO \ Fatal Frame \ Fire Emblem Warriors Series \ Gramnad Series \ Hyrule Warriors Series \ Mysterious Series \ Nights of Azure Series \ Ninja Gaiden Master Collection \ Ninja Gaiden Series \ Salburg Series \ Samurai Warriors Series \ Tecmo's Deception \ Toukiden Series \ Warriors Orochi Series
+Kodansha | Afternoon \ Akeji Fujimura's Art \ Anashin's Works \ Asuka Konishi's Works \ Atsushi Uchiyama's Works \ Attack on Titan Series \ Azu's Works \ Be Love \ Bessatsu Friend \ Bessatsu Shounen Magazine \ Comic Days \ Comic Pool \ Comic REX \ Comic Yuri-Hime. \ Dessert \ Ema Tooyama's Works \ Evening \ FLCL Series \ George Morikawa's Works \ Glitter Force Series \ GTO Series \ Harold Sakuishi's Works \ Hataraku Saibou Series \ Hitoshi Iwaki's Works \ Hypnosis Mic -Division Rap Battle- Series \ Initial D Series \ Kaiji Series \ Kamisama no Iutoori Series \ Kashikaze's Works \ Ken Akamatsu's Works \ Kengo Matsumoto's Works \ Kiss Comic \ Kodansha Lanove Bunko \ Kouji Seo's Works \ Magazine Pocket \ Makoto Yukimura's Works \ Mermaid Melody Pichi Pichi Pitch Series \ Miki Yoshikawa's Works \ Monthly Shounen Magazine \ Morning \ Morning Two \ Motoi Yoshida's Works \ Mr. Magazine \ Musawo's Works \ Nakayoshi Lovely \ Namori's Works \ Naoshi Arakawa's Works \ Negi Haruba's Works \ Negima! Series \ Night Head Series \ Noise's Works \ Nomura Yusuke's Art \ Ren Kawahara's Works \ Riichi Ueshiba's Works \ Rin Mikimoto's Works \ Robico's Works \ Saburouta's Art \ Seikaisha \ Shin Kibayashi's Works \ Shizumu Watanabe's Works \ Shounen Magazine Edge \ Shounen Sirius \ Suiyoubi no Sirius \ Taguchi Hoshino's Works \ Takahiro Oba's Art \ Tokyo卍Revengers Series \ Tomonori Inoue's Art \ Touya Mikanagi's Works \ Tsuina Miura's Works \ Tsutomu Nihei's Works \ WAaI! \ Waki Yamato's Works \ Yamada Kintetsu's Works \ Yasuda Tsuyoshi's Works \ Yoshinobu Yamada's Works \ Yoshitoki Ooima's Works \ Young Magazine \ Young Magazine Web \ Yousuke Kaneda's Works \ Yuru Yuri Series \ Yuu Aikawa's Works \ Zaregoto Franchise \ Zero-Sum Online
+Koei Tecmo | Angelique Series \ Arland Series \ Atelier Iris Series \ Atelier Ryza Series \ Dragon Quest Heroes Series \ Dusk Series \ EXA_PICO \ Fatal Frame \ Fire Emblem Warriors Series \ Gramnad Series \ Hyrule Warriors Series \ Mysterious Series \ Nights of Azure Series \ Ninja Gaiden Master Collection \ Ninja Gaiden Series \ Salburg Series \ Samurai Warriors Series \ Tecmo's Deception \ Toukiden Series \ Warriors Orochi Series
 Koikatsu CG | Rebootlove's Works
 Kojima Productions | Metal Gear Series
-Komodo Games | KOGADO STUDIO
-KONAMI | Castlevania Advance Collection \ Castlevania Anniversary Collection \ Castlevania Dominus Collection \ Castlevania Requiem \ Contra Series \ DanceDance Revolution Series \ Elebits Series \ GetsuFumaDen Series \ Gradius Series \ HinaBitter♪ Project \ Metal Gear Series \ Silent Hill \ Suikoden Series \ Team Silent \ Tokimeki Memorial Girl's Side \ Tokimeki Memorial Series \ TwinBee Series \ Yu-Gi-Oh! \ Yu-Gi-Oh! Tag Force Series \ Yu-Gi-Oh! Video Games \ Zone of the Enders Series
-Kongregate | Burrito Bison Series \ Cactus McCoy Series \ Dragon Boy Series \ Epic Battle Fantasy Series \ Godlimations \ Papa Louie Platformers
-Korean Games | Become a Star Series \ Brown Dust Series \ Buff Studio \ Com2uS \ DJMAX Series \ Mabinogi Franchise \ MercTrans \ Neowiz MUCA \ PrettyBusy \ SHIFT UP \ STORYTACO
+Komodo Games | KOGADO STUDIO \ Umihara Kawase Series
+KONAMI | Boktai Series \ Castlevania Advance Collection \ Castlevania Anniversary Collection \ Castlevania Dominus Collection \ Castlevania Requiem \ Contra Series \ DanceDance Revolution Series \ Elebits Series \ GetsuFumaDen Series \ Gradius Series \ HinaBitter♪ Project \ Metal Gear Series \ Silent Hill \ Suikoden Series \ Team Silent \ Tokimeki Memorial Girl's Side \ Tokimeki Memorial Series \ TwinBee Series \ Yu-Gi-Oh! \ Yu-Gi-Oh! Tag Force Series \ Yu-Gi-Oh! Video Games \ Zone of the Enders Series
+Kongregate | Age of Defense Series \ Belugerin \ Burrito Bison Series \ Cactus McCoy Series \ Dragon Boy Series \ Epic Battle Fantasy Series \ Godlimations \ Papa Louie Platformers \ Red Ball Series
+Korean Games | Become a Star Series \ Brown Dust Series \ Buff Studio \ Com2uS \ Danganronpa Another Series \ DJMAX Series \ DNF Universe \ Mabinogi Franchise \ MercTrans \ Neowiz MUCA \ PangYa Series \ PrettyBusy \ SHIFT UP \ STORYTACO
 Kuaikan Manhua | Ju Zhi's Art
 Kung Fu Panda Series | Kung Fu Panda Movies
 Kurayukaba Series | Team OneOne
@@ -688,6 +725,7 @@ Kuroe Shuppan | Comic Shingeki
 Kururi Active | Active Software
 KW Books | Butterfly Valley's Works \ Plutus's Works \ Spice&Kitty's Works
 Kyoto Animation | Hibike! Euphonium Series \ KA Esuma Bunko
+Kyuu Takahata's Works | Yuuji Kaba's Art
 LAM's Art | Chronos Series \ MyDearest Inc
 Lantis | Hibike! Euphonium Series \ Luck & Logic Series \ Sakae Esuno's Works
 Larian Studios | Divinity
@@ -696,69 +734,71 @@ LCD Games | Game & Watch Games
 Leaf | Leaf Visual Novel Series \ Tears to Tiara Series \ WHITE ALBUM Series
 Leaf Geometry | SEQUEL
 Legendary Entertainment | MonsterVerse
-LEGO | BIONICLE Movies \ LEGO Batman \ LEGO City \ LEGO DC Video Games \ LEGO Friends Series \ LEGO Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars \ LEGO Star Wars Video Games \ Ninjago \ The LEGO Movie Series
+LEGO | BIONICLE Franchise \ BIONICLE Movies \ Legends of Chima Series \ LEGO Batman \ LEGO City \ LEGO DC Video Games \ LEGO Friends Series \ LEGO Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars \ LEGO Star Wars Video Games \ Ninjago \ The LEGO Movie Series
 LEGO Games | LEGO DC Video Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars Video Games
 LEGO Star Wars | LEGO Star Wars Video Games
 Leigh Bardugo's Works | The Grishaverse
 Lev Gleason Publications | Chapterverse
 Level Creator Games | Super Mario Maker Series
-Level-5 | Dark Cloud Series \ Inazuma Eleven Go! Series \ Inazuma Eleven Series \ Ni no Kuni Series
-Lezhin Comics | Ananas's Works \ Chada's Works \ Chungnyun's Art \ Face Park's Works \ Fujoking's Works \ Gaehoju's Works \ Gpiee Lee's Works \ gusao's Works \ Haejin's Works \ HAESIN's Works \ Haeyoon's Works \ Haribo's Works \ Jeong Seok-Chan's Works \ Ji-Yeon Park's Works \ Juns's Works \ Kampiseu's Works \ Kang Ki's Art \ Majeungji's Works \ MasterGin's Works \ Mingwa's Works \ Morak's Works \ Moscareto's Works \ Mum's Art \ Mx2J's Art \ Oryu's Works \ over.J's Works \ Park Dam's Art \ Potion's Art \ Puddinga's Art \ Rozer's Art \ Saedeul's Art \ Sagold's Works \ Salto's Art \ SAMK's works \ Samosa's Works \ Sejul's Art \ Ssari's Art \ SWAN's Works \ Tae-Young Choi's Art \ Tank Guy's Works \ Team Gaji's Works \ TR's Works \ WAJE's Art \ White Eared's Works \ Yeongha's Works \ Yunji Lee's Works \ ZIG's Works \ Zimtigee's Art
+Level-5 | Dark Cloud Series \ Fantasy Life Series \ Inazuma Eleven Go! Series \ Inazuma Eleven Series \ Ni no Kuni Series \ Professor Layton Series
+Lezhin Comics | Ananas's Works \ Chada's Works \ Chungnyun's Art \ Face Park's Works \ Fujoking's Works \ Gpiee Lee's Works \ gusao's Works \ Haejin's Works \ HAESIN's Works \ Haeyoon's Works \ Haribo's Works \ Jeong Seok-Chan's Works \ Ji-Yeon Park's Works \ Juns's Works \ Kampiseu's Works \ Kang Ki's Art \ Love is an Illusion! Series \ Majeungji's Works \ MasterGin's Works \ Mingwa's Works \ Morak's Works \ Moscareto's Works \ Mum's Art \ Mx2J's Art \ Oryu's Works \ over.J's Works \ Park Dam's Art \ Potion's Art \ Puddinga's Art \ Rangrarii's Works \ Rozer's Art \ Saedeul's Art \ Sagold's Works \ Salto's Art \ SAMK's works \ Samosa's Works \ Sejul's Art \ Ssari's Art \ SWAN's Works \ Tae-Young Choi's Art \ Tank Guy's Works \ Team Gaji's Works \ TR's Works \ WAJE's Art \ White Eared's Works \ Yeongha's Works \ Yunji Lee's Works \ ZIG's Works \ Zimtigee's Art
 LGBT+ Themes | Alec's Works \ Alice Oseman's Works \ FukaBoku Series \ Lebre e Coelho Series \ Our Life Series \ Worst Girls Games
 Libre Shuppan | BE･BOY GOLD
-Licensed Games | Batman Games \ Batman: Arkham \ Cars Video Games \ Castle of Illusion Series \ Crazy Castle \ Crazy Frog Racer Series \ Dragon Ball Games \ Dragon Ball Origins Series \ Dragon Ball Xenoverse Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Budokai Tenkaichi Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Goku Series \ Dragon Ball Z: Shin Budokai Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: Super Saiya Densetsu \ Dragon Ball Z: Supersonic Warriors Series \ Dragon Ball Z: The Legacy of Goku Series \ Dragon Ball: Shenlong no Nazo Series \ Epic Mickey Series \ Fitness Boxing Series \ Heavy Iron Studios \ ImCyan \ Injustice Series \ Insomniac's Marvel Universe \ J Legend Retsuden \ LEGO DC Video Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars Video Games \ Light & Shadow Production \ Marvel: Ultimate Alliance Series \ Nickelodeon All-Star Brawl Series \ Nicktoons Unite Series \ Portkey Games \ Rocksteady Studios \ Shadow of Middle-earth \ Spider-Man Games \ Spot Series \ Star Wars: Battlefront Series \ Star Wars: Knights of the Old Republic Series \ The Dark Eye Series \ The Disney Afternoon Collection \ The Simpsons Video Games \ TinyCo \ TMNT Games \ Warhammer 40,000: Space Marine Series \ WB Games Montréal
-Life Simulation Games | Jewelpet Series \ MySims: Cozy Bundle \ Our Life Series \ Princess Maker Series
+Licensed Games | Batman Games \ Batman: Arkham \ Camouflaj \ Cars Video Games \ Castle of Illusion Series \ Crazy Castle \ Crazy Frog Racer Series \ Dragon Ball Games \ Dragon Ball Origins Series \ Dragon Ball Xenoverse Series \ Dragon Ball Z Arcade Series \ Dragon Ball Z: Budokai HD Collection \ Dragon Ball Z: Budokai Series \ Dragon Ball Z: Budokai Tenkaichi Series \ Dragon Ball Z: Butoden Series \ Dragon Ball Z: Goku Series \ Dragon Ball Z: Shin Budokai Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: Super Saiya Densetsu \ Dragon Ball Z: Supersonic Warriors Series \ Dragon Ball Z: The Legacy of Goku Series \ Dragon Ball: Shenlong no Nazo Series \ Epic Mickey Series \ Fitness Boxing Series \ Heavy Iron Studios \ ImCyan \ Injustice Series \ Insomniac's Marvel Universe \ J Legend Retsuden \ LEGO DC Video Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars Video Games \ Light & Shadow Production \ Marvel: Ultimate Alliance Series \ Nickelodeon All-Star Brawl Series \ Nicktoons Unite Series \ Portkey Games \ Rocksteady Studios \ Shadow of Middle-earth \ Spider-Man Games \ Spot Series \ Star Wars: Battlefront Series \ Star Wars: Jedi Knight \ Star Wars: Knights of the Old Republic Series \ The Dark Eye Series \ The Disney Afternoon Collection \ The Lord of the Rings: The Battle for Middle-earth Series \ The Simpsons Video Games \ TinyCo \ TMNT Games \ Warhammer 40,000: Space Marine Series \ WB Games Montréal \ X-Men: Mutant Academy Series
+Life Simulation Games | Fantasy Life Series \ Hanako Games \ Jewelpet Series \ MySims: Cozy Bundle \ Our Life Series \ Princess Maker Series
 light | Dies irae Series
 Light Chaser Animation Studios | White Snake Series
-Light Gun Games | The House of the Dead Series \ Time Crisis Series
+Light Gun Games | Time Crisis Series
 Lilith Soft | Kangoku Senkan Series
-LINE Corporation | Ah Hyun's Art \ Alphatart's Works \ Ann's Works \ anwitacitriya's Works \ Arechan's Works \ Backkyung Moon's Works \ Bam U's Works \ Barun Flower's Art \ Bulsa's Works \ Carnby Kim's Works \ Cheongcho's Works \ Chihiro Howe's Works \ Dimang's Art \ Do Tol Hwang's Works \ EmiMG's Works \ Eon's Works \ Finger Story \ GAHA WEBTOON \ Geulingilin's Art \ Gimm-Young Publishers \ Haeyoon's Works \ Han Dong-Woo's Works \ HAN Ga Ram's Art \ Han Kyoung-chal's Art \ Hanza Art's Works \ Hardcore Leveling Warrior Series \ Haron Lee's Works \ Hiseki's Works \ Holly Dittus's Works \ Im Jin-gook's Art \ instantmiso's Works \ Jaerim's Art \ Jagyum's Works \ Jakga Company \ Jeong Ji-Hun's Works \ Jeongseo's Works \ JHS Studio \ Jiya's Works \ Jung-Hyun Kim \ KAKON's Art \ Kang Ki's Art \ Kim Sehoon's Works \ Lee Gwang-Su's Art \ LEE Hye's Works \ Lee Yeon's Works \ Lina Lim's Art \ LINE FRIENDS \ LuckS's Works \ Maenggi Ki's Works \ Marko Raassina's Works \ Min Song Ah's Works \ Miwaku's Works \ Munhakdongne Publishing Corp. \ Plutus's Works \ PTJ COMICS \ RS Media \ RYU HEON's Works \ Saedeul's Art \ Sakurada Yana's Works \ Seok Woo's Works \ Seyoon \ Sing-Shong's Works \ Snailords' Works \ Son Jae-Ho's Works \ Soonkki \ Soran Books \ Soy Media \ Spice&Kitty's Works \ StorySoop \ Super String \ Swingbat \ Tae Jun Park's Works \ UMKY's Art \ Walkingnorth's Works \ YOUNG COM \ Youngchan Hwang's Art \ Yu Jin Sung's Works \ Zhena's Art
+LINE Corporation | Ah Hyun's Art \ Alphatart's Works \ Ann's Works \ anwitacitriya's Works \ Arechan's Works \ Backkyung Moon's Works \ Bam U's Works \ Barun Flower's Art \ Bulsa's Works \ Carnby Kim's Works \ Cheongcho's Works \ Chihiro Howe's Works \ Dimang's Art \ Do Tol Hwang's Works \ EmiMG's Works \ Eon's Works \ Finger Story \ GAHA WEBTOON \ Geulingilin's Art \ Gimm-Young Publishers \ Haeyoon's Works \ Han Dong-Woo's Works \ HAN Ga Ram's Art \ Han Kyoung-chal's Art \ Hanza Art's Works \ Hardcore Leveling Warrior Series \ Haron Lee's Works \ Hiseki's Works \ Holly Dittus's Works \ Im Jin-gook's Art \ instantmiso's Works \ Jaerim's Art \ Jagyum's Works \ Jakga Company \ Jeong Ji-Hun's Works \ Jeongseo's Works \ JHS Studio \ Jiya's Works \ Jung-Hyun Kim \ KAKON's Art \ Kang Ki's Art \ Kim Sehoon's Works \ Lee Gwang-Su's Art \ LEE Hye's Works \ Lee Yeon's Works \ Lina Lim's Art \ LINE FRIENDS \ LuckS's Works \ Maenggi Ki's Works \ Marko Raassina's Works \ Min Song Ah's Works \ Miwaku's Works \ Moosopp's Works \ Munhakdongne Publishing Corp. \ Nano Machine Series \ Plutus's Works \ PTJ COMICS \ RS Media \ RYU HEON's Works \ Saedeul's Art \ Sakurada Yana's Works \ Seok Woo's Works \ Seyoon \ Sing-Shong's Works \ Snailords' Works \ Son Jae-Ho's Works \ Soonkki \ Soran Books \ Soy Media \ Spice&Kitty's Works \ StorySoop \ Super String \ Swingbat \ Tae Jun Park's Works \ UMKY's Art \ Walkingnorth's Works \ YOUNG COM \ Youngchan Hwang's Art \ Yu Jin Sung's Works \ Zhena's Art
 Lionhead Studios | Fable Series
-Lionsgate Films | Saw Franchise \ Suzanne Collins's Works
+Lionsgate | Hulk vs. \ Marvel Animated Features Collection \ Saw Franchise \ Suzanne Collins's Works
 Liquid | Kuroinu Series
-Literature | A. E. van Vogt's Works \ Agatha Christie's Works \ Analog Science Fiction and Fact \ Baen Books \ Bridgerton Series \ Chronicles of the Avatar \ CITV \ Cormac McCarthy's Works \ Cthulhu Mythos \ Dav Pilkey's Works \ Elisabetta Dami's Works \ Erin Hunter's Works \ Geronimo Stilton Series \ Goosebumps Series \ H. G. Wells' Works \ J.R.R. Tolkien's Works \ Jane Austen's Work \ Jon Scieszka's Works \ Jonathan Stroud's Works \ Leigh Bardugo's Works \ Lemony Snicket's Works \ Mistborn Series \ Mo Xiang Tong Xiu's Works \ Old Literature \ Patricia Highsmith's Works \ R.L. Stine's Works \ Rainbow Rowell \ Rick Riordan's Works \ Rudyard Kipling's Works \ Sarah J. Maas's Works \ Shadowhunters \ Spider Robinson's Works \ Stephen King's Works \ Street & Smith \ Suzanne Collins's Works \ Terry Pratchett's Works \ The Fowl Adventures \ The Grishaverse \ The Jungle Book Anthology \ The Percy Jackson Series \ Victor Hugo's Works \ Warrior Cats Series \ Woodwalkers Series \ Xiran Jay Zhao's Works
+Literature | A. E. van Vogt's Works \ Agatha Christie's Works \ Analog Science Fiction and Fact \ Baen Books \ Bridgerton Series \ Chronicles of the Avatar \ CITV \ Cormac McCarthy's Works \ Dav Pilkey's Works \ Elisabetta Dami's Works \ Erin Hunter's Works \ Geronimo Stilton Series \ Goosebumps Series \ H. G. Wells' Works \ J.R.R. Tolkien's Works \ Jane Austen's Works \ Jon Scieszka's Works \ Jonathan Stroud's Works \ Leigh Bardugo's Works \ Lemony Snicket's Works \ Lucy Maud Montgomery's Works \ Mistborn Series \ Mo Xiang Tong Xiu's Works \ Mordecai Richler's Works \ Patricia Highsmith's Works \ R.L. Stine's Works \ Rainbow Rowell \ Rick Riordan's Works \ Rudyard Kipling's Works \ Sarah J. Maas's Works \ Shadowhunters \ Spider Robinson's Works \ Stephanie Garber's Works \ Stephen King's Works \ Street & Smith \ Suzanne Collins's Works \ Terry Pratchett's Works \ The Fowl Adventures \ The Grishaverse \ The Jungle Book Anthology \ The Percy Jackson Series \ Victor Hugo's Works \ Warrior Cats Series \ William Shakespeare's Works \ Woodwalkers Series \ Xiran Jay Zhao's Works
 Littlest Pet Shop Media | Littlest Pet Shop Franchise
-Live-Action | A Knives Out Mystery \ Alfred Hitchcock's Works \ Ari Aster's Works \ Austin Powers Series \ Bad Wolf Ltd \ Bayformers \ Black-ish Series \ Blade Trilogy \ Blue's Clues Series \ Blumhouse Productions \ Bong Joon-ho's Works \ Brian De Palma's Works \ Bridgerton Series \ Charlie Chaplin's Works \ Chespirito \ Child's Play Series \ Christopher Nolan's Works \ Chuck Lorre's Works \ Coen Brothers' Works \ CSI Series \ Dan Schneider's Works \ Daredevil Franchise \ David Fincher's Works \ David Leitch's Works \ David Lynch's Works \ DC Extended Universe \ Doctor Who \ Fast & Furious Series \ Fox's X-Men Cinematic Universe \ Frank Miller's Works \ Frankenstein Series \ Fred Series \ Global TV \ Godzilla: Heisei Continuity \ Godzilla: Millennium Era \ Godzilla: Shōwa Continuity \ H. G. Wells' Works \ Heisei Kamen Rider \ Heisei Kamen Rider Phase 1 \ Heisei Kamen Rider Phase 2 \ Henry Danger Series \ iCarly Series \ James Cameron's Works \ Jane Austen's Work \ Joe Dante's Works \ Joe Hill's Works \ John Carpenter's Works \ Jon Favreau's Works \ Jordan Peele's Works \ Jumanji Series \ Kamen Rider American Adaptations \ Kenny Ortega's Works \ King Kong Franchise \ Kratt Brothers Company \ La trilogía del ruiseñor \ Legendary Entertainment \ Live-Action Horror \ M. Night Shyamalan's Works \ Martin Scorsese's Works \ Marvel's Netflix Television Series \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Michael Schur's Works \ MonsterVerse \ Mothra Franchise \ Murdoch Mysteries Universe \ Neill Blomkamp's Works \ Norman Lear's Works \ Original X-Men Cinematic Universe \ Paul Verhoeven's Works \ Pirates of the Caribbean Series \ Psycho Universe \ Quentin Tarantino's Works \ Raimi Spider-Man Trilogy \ Reiwa Kamen Rider \ Revised X-Men Cinematic Universe \ Richard Kelly's Works \ Robert Rodriguez's Works \ Rocky Series \ Ruben Fleischer's Works \ Sam Raimi's Works \ Saw Franchise \ Scream Series \ Showa Kamen Rider \ Sony's Spider-Man Universe \ Space Jam Series \ Stanley Kubrick's Works \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Star Wars: The Skywalker Saga \ Stargate \ STARZ \ Steven Spielberg's Works \ Super Hero Time \ Super Sentai \ Superman Movies \ Suzanne Collins's Works \ Takashi Miike's Works \ Ted Series \ Telenovelas \ Terminator Series \ That's So Raven Series \ The Addams Family Series \ The Amazing Spider-Man Movie Series \ The Batman Universe \ The Big Bang Theory Series \ The Conjuring Universe \ The Dark Knight Trilogy \ The Karate Kid Series \ The Sopranos Series \ The Vampire Diaries Series \ Three Flavours Cornetto Trilogy \ Top Gun Series \ truTV \ Universal Classic Monsters \ VICTORiOUS Series \ Wes Craven's Works
+Live-Action | A Knives Out Mystery \ Alfred Hitchcock's Works \ Ari Aster's Works \ Atomic Monster \ Austin Powers Series \ Bad Wolf Ltd \ Black-ish Series \ Blade Trilogy \ Blue's Clues Series \ Blumhouse Productions \ Bong Joon-ho's Works \ Brian De Palma's Works \ Bridgerton Series \ Charlie Chaplin's Works \ Chespirito \ Child's Play Series \ Christopher Nolan's Works \ Chuck Lorre's Works \ Coen Brothers' Works \ CSI Series \ Dan Schneider's Works \ Daredevil Franchise \ David Chase's Works \ David Fincher's Works \ David Leitch's Works \ David Lynch's Works \ DC Extended Universe \ Doctor Who \ Fast & Furious Series \ Five Nights at Freddy's Movie Series \ Flash Franchise \ Fox's X-Men Cinematic Universe \ Frank Miller's Works \ Frankenstein Series \ Fred Series \ Global TV \ Godzilla: Heisei Continuity \ Godzilla: Millennium Era \ Godzilla: Shōwa Continuity \ H. G. Wells' Works \ Harmony Korine's Works \ Heisei Kamen Rider \ Heisei Kamen Rider Phase 1 \ Heisei Kamen Rider Phase 2 \ Henry Danger Series \ Highlander Franchise \ I Know What You Did Last Summer Series \ iCarly Series \ James Cameron's Works \ Jane Austen's Works \ Jared Hess' Works \ Joe Dante's Works \ Joe Hill's Works \ John Carpenter's Works \ Jon Favreau's Works \ Jordan Peele's Works \ Jumanji Series \ Kamen Rider American Adaptations \ Kenny Ortega's Works \ Kratt Brothers Company \ La trilogía del ruiseñor \ Law & Order Series \ LEE Hye's Works \ Legendary Entertainment \ Leprechaun Series \ Live-Action Horror \ Lucy Maud Montgomery's Works \ M. Night Shyamalan's Works \ Martin Scorsese's Works \ Marvel's Netflix Television Series \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Michael Schur's Works \ MonsterVerse \ Mothra Franchise \ Murdoch Mysteries Universe \ MΞGAN Series \ Neill Blomkamp's Works \ Norman Lear's Works \ Original X-Men Cinematic Universe \ Paul Verhoeven's Works \ Psycho Universe \ Quentin Tarantino's Works \ Raimi Spider-Man Trilogy \ Reiwa Kamen Rider \ Revised X-Men Cinematic Universe \ Richard Kelly's Works \ Robert Rodriguez's Works \ Ruben Fleischer's Works \ Sam Raimi's Works \ Saw Franchise \ Scream Series \ Sergio Leone's Works \ Showa Kamen Rider \ Smile Series \ Sony's Spider-Man Universe \ Space Jam Series \ Stanley Kubrick's Works \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Star Wars: The Skywalker Saga \ Stargate \ STARZ \ Super Hero Time \ Super Sentai \ Superman Movies \ Suzanne Collins's Works \ Takashi Miike's Works \ Ted Series \ Telenovelas \ Terminator Series \ That's So Raven Series \ The Addams Family Series \ The Amazing Spider-Man Movie Series \ The Batman Universe \ The Big Bang Theory Series \ The Conjuring Universe \ The Dark Knight Trilogy \ The Equalizer Series \ The Sopranos Series \ The Strangers Series \ The Vampire Diaries Series \ Three Flavours Cornetto Trilogy \ Top Gun Series \ truTV \ VICTORiOUS Series \ Wes Craven's Works \ Wonder Woman Franchise
 Live-Action Animation Hybrids | Space Jam Series \ Ted Series
-Live-Action Horror | Child's Play Series \ Frankenstein Series \ Joe Hill's Works \ Jordan Peele's Works \ Psycho Universe \ Saw Franchise \ Scream Series \ The Addams Family Series \ The Conjuring Universe \ Universal Classic Monsters
+Live-Action Horror | Child's Play Series \ Five Nights at Freddy's Movie Series \ Frankenstein Series \ I Know What You Did Last Summer Series \ Joe Hill's Works \ Jordan Peele's Works \ Leprechaun Series \ MΞGAN Series \ Psycho Universe \ Saw Franchise \ Scream Series \ Smile Series \ The Addams Family Series \ The Conjuring Universe \ The Strangers Series
 Lolicon | Ammolite \ BABEL \ Galette \ HAMHAM-SOFT \ HiRoB's Art \ Iris (Company) \ Kenshirou Minori's Works \ Kuromoto-kun's Works \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Tamano Kedama's Art \ Tinkle Position \ Towako \ Yoru no Hitsuji
 Looney Tunes Series | Space Jam Series
 Looter Shooter Games | Destiny \ Snowdrop Engine Games
 Lose | Monobeno Series
-LucasArts | LEGO Indiana Jones Video Games \ Monkey Island \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ The Age of the Old Republic
+LucasArts | LEGO Indiana Jones Video Games \ Monkey Island \ Star Wars: Jedi Knight \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ The Age of the Old Republic
 Lucasfilm | Dave Filoni's Works \ Star Wars: The Skywalker Saga \ The Age of the High Republic
 Luigi Series | Luigi's Mansion Series
 Luminous Arc Series | Luminous Arc Trilogy
 Lump of Sugar | Tayutama Series
 Lune | Huracan's Art \ Juicy Mango \ Marine
-Lune Soft | Antechinus \ Chinjao Girl \ Huracan's Art \ JOY RIDE's Works \ Juicy Mango \ Lune \ Marine \ Muchakai's Works
-Luni's Works | Gacha Life Series \ Lunime
-Lunime | Gacha Life Series
+Lune Soft | Antechinus \ Chinjao Girl \ Huracan's Art \ JOY RIDE's Works \ Juicy Mango \ Lune \ Marine
+Luni's Works | Gacha Life Series
+Lunime | Gacha Life Series \ WonderEnd Series
 M's TOY BOX | Dark One!
 M2 Co., Ltd. | Fossil Fighters Series
+MAD's Art | Yangyang's Art
 Madagascar Series | The Penguins of Madagascar Series
 Madhouse | Boogiepop Series \ Cardcaptor Sakura Series \ Hunter x Hunter Series \ Mr. Magazine \ No Game No Life Series \ Satoshi Kon's Works
 Madou Monogatari Franchise | Madou Monogatari
-Mafia Media | Bungou Stray Dogs Series \ The Sopranos Series
+Mafia Media | David Chase's Works \ Mafia Series \ The Sopranos Series
 Mag Garden | Comic Avarus \ Comic Blade \ Comic Garden \ Kemuri Karakara's Works \ MAGCOMI \ ni Warau Series \ Shiho Sugiura's Works
 Magazine Pocket | Takahiro Oba's Art
 MAGES. Inc. | Famicom Detective Club Series \ Steins;Gate Series
 Magic Capsule | To LOVE-Ru Series
 Mahjong | Saki Series
-Mahou Shoujo | Akifumi Kaneko's Works \ Cardcaptor Sakura Series \ Cutie Honey Series \ Delicious Party♡Precure Series \ Futari wa PreCure Series \ Glitter Force Series \ Kill la Kill Series \ Mahou Shoujo Site Series \ Mahoutsukai PreCure! Series \ Makai Tenshi Jibril Series \ PreCure \ PreCure All Stars \ PreCure Movies \ Satou Kentarou's Works \ Senki Zesshou Symphogear Series \ Smile PreCure! Series \ Studio Pierrot Magical Girls \ Wonderful PreCure Series \ Yes! PreCure 5 Series
+Mahou Shoujo | Akifumi Kaneko's Works \ Cardcaptor Sakura Series \ Cutie Honey Series \ Delicious Party♡Precure Series \ Futari wa PreCure Series \ Glitter Force Series \ Kill la Kill Series \ Mahou Shoujo Site Series \ Mahoutsukai PreCure! Series \ Makai Tenshi Jibril Series \ PreCure All Stars \ PreCure Movies \ Satou Kentarou's Works \ Senki Zesshou Symphogear Series \ Smile PreCure! Series \ Studio Pierrot Magical Girls \ Wonderful PreCure Series \ Yes! PreCure 5 Series
+Mainframe Studios | ReBoot Series
 Majiro Games | ChuableSoft \ Tigre Soft
 Makai Series | Disgaea Series \ Prinny Series
 Mamoru Hosoda's Works | Studio Chizu
 Man of Action | Generator Rex Series
 Mana | Collection of Mana
 Manga Planet | mellow kiss \ Minta Suzumara's Works
-Manga Time Kirara | Hamiyumiba Sou's Works \ K-ON! Series
-MangaGamer | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Imouto Paradise! Series \ Kalmia8 \ minori \ Musica Games \ parade. \ The House in Fata Morgana Series \ Umineko no Naku Koro ni Series
+Manga Time Kirara | Afro's Works \ Hamiyumiba Sou's Works \ K-ON! Series \ Sakuragi Ren's Works
+MangaGamer | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Imouto Paradise! Series \ Kalmia8 \ minori \ Musica Games \ parade. \ The House in Fata Morgana Series \ Umineko Series
 MangaToon | Samanhua
 Mangmungming's Works | MAYO's Art
 Mango Party | Idol Hands Series
-Manhua | Bei Nan's Works \ Ci Wei Mao's Art \ D. Jun's Works \ Dongman Manhua \ Foch Films \ iQIYI \ Ju Jishe's Art \ Ju Zhi's Art \ Kuaikan Manhua \ Man kezhan \ Man Man He Qi Duo's Works \ Manhuatai \ ManmanAPP \ Migudm \ Mo Xiang Tong Xiu's Works \ Samanhua \ Shi Yi Er's Works \ Soul Land Series \ Tang Jia San Shao's Works \ Tencent Manhua \ Tian Can Tu Dou's Works \ U17 \ Vivibear's Works \ Xia Da's Works \ Xiyuer's Works \ Zymk
-Manhwa | 3B2S \ 6ho's Works \ Abyo4's Works \ Active Volcano's Works \ Ah Hyun's Art \ Alien's Works \ Alphatart's Works \ Among's Art \ Ananas's Works \ Andrew's Art \ Ant Studio \ arlg's Art \ Atempo Media \ Backkyung Moon's Works \ Baegji's Art \ Baerona93's Works \ bakSSdam's Art \ Bam U's Works \ Barun Flower's Art \ Beibi's Works \ Beyond \ Black Ajin's Works \ Blue Canna's Art \ Bluepic Studio \ Bolp.'s Art \ Booking \ Breathe \ Brothers Without A Tomorrow's Works \ Bulsa's Works \ Camja's Art \ Carnby Kim's Works \ Cassiopeia's Works \ Chada's Works \ Chae Yoohwa's Works \ Chaepali's Works \ Chance (Publisher) \ Chaos Chronicle Series \ Cheongcho's Works \ Cheongnyang's Art \ CHIMA's Works \ Choi Sung-wan's Art \ Chungeoram \ Chungnyun's Art \ CNC Revolution \ Contents Lab. Blue \ COPIN \ Crack Entertainment \ Creek & River Entertainment \ Cyungchan Noh's Works \ D&C Media \ Dabble's Works \ Daily Books \ Dalseul's Works \ Damcho's Art \ Daon Creative \ Dasan Comics \ Day Comics \ Dimang's Art \ Do Tol Hwang's Works \ Dolkong's Works \ Dong-Heon Lee's Works \ Dream Creative Communication \ eComiX \ Edge Edge's Art \ Ellian Yang's Works \ Eon's Works \ Epyrus \ ERO404's Works \ Eromanhwa \ Eun-chae Go's Works \ Euneunun's Works \ Eunhyang Ja's Works \ Eunyoul's Works \ Face Park's Works \ Farnar's Works \ Feelyeon \ Finger Story \ Flower Storm's Works \ FoxToon \ Fujoking's Works \ Gaehoju's Works \ GaeTi's Art \ GAHA WEBTOON \ Geulingilin's Art \ GLEE's Art \ GLLIMTOON \ Golem Factory \ GongDeunTop's Works \ GOSONJAK's Works \ Gpiee Lee's Works \ Grid17's Art \ gusao's Works \ Gwon Gyeoeul's Works \ GyaGa's Works \ Gyou's Art \ Gyulpi's Works \ Haejin's Works \ HÆON's Works \ HAESIN's Works \ Haeyoon's Works \ Haksan \ Hal's Works \ Han Dong-Woo's Works \ HAN Ga Ram's Art \ Han Kyoung-chal's Art \ Hardcore Leveling Warrior Series \ Haribo's Works \ Haron Lee's Works \ Haron's Works \ Harusari's Works \ Hee-jin Bae's Works \ Hoero's Works \ Horizon (Publisher) \ Husky Team's Works \ Hwan Daeng's Works \ Hyungjakga's Art \ Im Ae-Ju's Art \ Im Jin-gook's Art \ Irinbi's Works \ IZE Press \ J Plus \ Jaedam Media \ Jaerim's Art \ Jagae's Art \ Jagyum's Works \ Jake's Art \ Jakga Company \ Jayeon PPang's Art \ Jeong Ji-Hun's Works \ Jeong Seok-Chan's Works \ Jeong Yeon's Art \ Jeongseo's Works \ JHS Studio \ Ji-Yeon Park's Works \ Jin-Hwan Park's Art \ Jiya's Works \ Jjang-yi's Art \ JQ's Works \ JS Content \ Ju-Won Lee's Art \ Juder's Art \ Juhong's Art \ Jung-Hyun Kim \ Juns's Works \ JusToon \ KAKON's Art \ Kampiseu's Works \ Kang Ki's Art \ Kang Pucon's Art \ Kang-Cheol Wang's Works \ KENAZ \ Kiarne's Works \ Kidari Studio \ Kim Myeongmi's Art \ Kim Sehoon's Works \ Kimmundo's Works \ Kin's Works \ Kogi Jun's Works \ Kongbbaemi's Works \ Kyun's Art \ L7 \ Lee Gwang-Su's Art \ LEE Hye's Works \ Lee Yeon's Works \ Lero's Art \ Life of Ruin's Works \ Lim Seo-rim's Works \ Lina Lim's Art \ Lisabel's Works \ LObeam's Works \ LuckS's Works \ Maenggi Ki's Works \ Majeungji's Works \ Mangmungming's Works \ Maru Comics \ MasterGin's Works \ Matgini's Works \ MAYO's Art \ Min Song Ah's Works \ Mingwa's Works \ MJJ's Works \ Mokbegae's Works \ Mokgamgi's Works \ Mokma's Art \ Moon Sihyun's Works \ Morak's Works \ Moscareto's Works \ MstoryHub \ Muldeok's Works \ Mum's Art \ Munhakdongne Publishing Corp. \ Mx2J's Art \ NARAK's Art \ Naru's Art \ Nate \ Neptune \ NOAH's Works \ NOKO's Art \ Nuwaru's Works \ Olleh \ On-Jeom's Works \ One Dollar's Works \ OneStory \ orangeD \ Oryu's Works \ over.J's Works \ Park Dam's Art \ Park Gee's Works \ Park Min's Works \ Paya8's Art \ PD Kim's Art \ Peanutoon \ PingPu \ Plutus's Works \ Polar Fox \ Portofino's Works \ Potion's Art \ PTJ COMICS \ Puddinga's Art \ Radish \ Red City's Art \ red-A's Works \ REDICE STUDIO \ RinA's Works \ Ro Yu-jin's Works \ Rodong's Art \ Rok Media \ Rozer's Art \ RS Media \ Rubung's Works \ RYU HEON's Works \ Sadistic Beauty Series \ Saedeul's Art \ Sagold's Works \ Salto's Art \ SAMK's works \ Samosa's Works \ Samyang \ SDbigpie's Art \ Sejul's Art \ Seok Woo's Works \ Seok-Ji's Art \ Seongchi Lee's Works \ Seoul Cultural \ Seoul Media Comics \ Seran Kim's Works \ SERIOUS's Works \ Seyoon \ Shinyoung Media \ Sing-Shong's Works \ Sipmanwon's Works \ Siya's Works \ Skye's Works \ Sol Leesu's Works \ Son Jae-Ho's Works \ Soo-ji Kim's Works \ Soonkki \ Soran Books \ Soy Media \ Spice&Kitty's Works \ SSAEM's Works \ Ssaneung's Works \ Ssari's Art \ Storigin Webtoon \ StorySoop \ storywiz \ Studio Jilpung \ Studio M \ Sungmin's Works \ Sungwon's Art \ Super String \ Supercomix Studio \ Surim Lee's Works \ Surreuk Comics \ SWAN's Works \ Swanis Works \ Swingbat \ Tae Jun Park's Works \ Tae-Young Choi's Art \ Taeson's Works \ Talyeong's Art \ Tama's Works \ Tank Guy's Works \ Team Biyam's Works \ Team Gaji's Works \ Tess' Art \ Tharchog's Works \ The Cl Book \ todac_s's Art \ Today Spring's Works \ Tooneed Entertainment \ Toptoon \ TR's Works \ U-Jewel Media \ Ultra Media \ Ultramarinesilk's Works \ UMKY's Art \ Viewcommz \ WAJE's Art \ Wann's Art \ Wasak Basak's Art \ White Eared's Works \ Wisdom House \ Woo Yeon-hui's Works \ Woo-gak's Works \ Yagyung's Works \ Yansae's Works \ Yehwon's Works \ Yeo Kanghyun's Art \ Yeongha's Works \ Yeowool's Works \ YJ Comics \ YLAB \ YONDER \ Yong Yong's Works \ Yoon Hawol's Works \ Young Champ \ YOUNG COM \ Youngchan Hwang's Art \ Yu Jin Sung's Works \ Yuin's Works \ Yumyum's Art \ Yunji Lee's Works \ Yunsul's Works \ Yuwol's Works \ Zeta Kim's Art \ Zhena's Art \ ZIG's Works \ Zimtigee's Art
+Manhua | Bei Nan's Works \ Ci Wei Mao's Art \ D. Jun's Works \ Dongman Manhua \ Foch Films \ iQIYI \ Ju Jishe's Art \ Ju Zhi's Art \ Kuaikan Manhua \ Man kezhan \ Man Man He Qi Duo's Works \ Manhuatai \ ManmanAPP \ Migudm \ Mo Xiang Tong Xiu's Works \ Samanhua \ Shi Yi Er's Works \ Soul Land Series \ Tang Jia San Shao's Works \ Tencent Manhua \ The Legend of Luoxiaohei Series \ Tian Can Tu Dou's Works \ U17 \ Vivibear's Works \ Xia Da's Works \ Xiyuer's Works \ Zymk
+Manhwa | 3B2S \ 6ho's Works \ Abyo4's Works \ Active Volcano's Works \ Ah Hyun's Art \ Alien's Works \ Alphatart's Works \ Among's Art \ Ananas's Works \ Andrew's Art \ Ant Studio \ arlg's Art \ Atempo Media \ Backkyung Moon's Works \ Baegji's Art \ Baengkki's Art \ Baerona93's Works \ bakSSdam's Art \ Bam U's Works \ Barun Flower's Art \ Basasak's Works \ Beibi's Works \ Beyond \ Black Ajin's Works \ Blue Canna's Art \ Bluepic Studio \ Bolp.'s Art \ Booking \ Breathe \ Brothers Without A Tomorrow's Works \ Bulsa's Works \ Camja's Art \ Carnby Kim's Works \ Cassiopeia's Works \ Chada's Works \ Chae Yoohwa's Works \ Chaepali's Works \ Chance (Publisher) \ Chaos Chronicle Series \ Cheongcho's Works \ Cheongnyang's Art \ Cheori19's Works \ CHIMA's Works \ Choi Sung-wan's Art \ Chungeoram \ Chungnyun's Art \ CNC Revolution \ Contents Lab. Blue \ COPIN \ Crack Entertainment \ Creek & River Entertainment \ Cyungchan Noh's Works \ D&C Media \ Dabble's Works \ Daily Books \ Dalseul's Works \ Damcho's Art \ Daon Creative \ Dasan Comics \ Day Comics \ Dimang's Art \ Do Tol Hwang's Works \ Do-Ya's Art \ Dokta's Art \ Dolkong's Works \ Dong-Heon Lee's Works \ Dream Creative Communication \ eComiX \ Edge Edge's Art \ Ellian Yang's Works \ Elyseesin's Art \ Eon's Works \ Epyrus \ ERO404's Works \ Eromanhwa \ Eun-chae Go's Works \ Euneunun's Works \ Eunhyang Ja's Works \ Eunyoul's Works \ Face Park's Works \ Farnar's Works \ Feelyeon \ Finger Story \ Flower Storm's Works \ FoxToon \ Frate's Works \ Fujoking's Works \ Gaehoju's Works \ GaeTi's Art \ GAHA WEBTOON \ Geulingilin's Art \ GLEE's Art \ GLLIMTOON \ Golem Factory \ GongDeunTop's Works \ GOSONJAK's Works \ Gpiee Lee's Works \ Grid17's Art \ Grilled Mero's Art \ gusao's Works \ guunhanchi's Art \ Gwinong's Works \ Gwon Gyeoeul's Works \ GyaGa's Works \ Gyou's Art \ Gyulpi's Works \ Haejin's Works \ HÆON's Works \ HAESIN's Works \ Haeyoon's Works \ Haksan \ Hal's Works \ Han Dong-Woo's Works \ HAN Ga Ram's Art \ Han Kyoung-chal's Art \ Hardcore Leveling Warrior Series \ Haribo's Works \ Haron Lee's Works \ Haron's Works \ Harusari's Works \ Hee-jin Bae's Works \ Hoero's Works \ Horizon (Publisher) \ Husky Team's Works \ Hwan Daeng's Works \ Hyungjakga's Art \ Im Ae-Ju's Art \ Im Jin-gook's Art \ Irinbi's Works \ IZE Press \ J Plus \ Jaedam Media \ Jaerim's Art \ Jagae's Art \ Jagyum's Works \ Jake's Art \ Jakga Company \ Jayeon PPang's Art \ Jeong Ji-Hun's Works \ Jeong Seok-Chan's Works \ Jeong Yeon's Art \ Jeongseo's Works \ JHS Studio \ Ji-Yeon Park's Works \ Jin-Hwan Park's Art \ Jiya's Works \ Jjang-yi's Art \ JQ's Works \ JS Content \ Ju-Won Lee's Art \ Juder's Art \ Juhong's Art \ Jung-Hyun Kim \ Juns's Works \ JusToon \ KAKON's Art \ Kampiseu's Works \ Kang Ki's Art \ Kang Pucon's Art \ Kang-Cheol Wang's Works \ KENAZ \ Kiarne's Works \ Kidari Studio \ Kim Myeongmi's Art \ Kim Sehoon's Works \ Kimmundo's Works \ Kin's Works \ Kogi Jun's Works \ Kongbbaemi's Works \ Kuro Kitsune's Art \ Kyun's Art \ L7 \ Lee Gwang-Su's Art \ LEE Hye's Works \ Lee Wan's Art \ Lee Yeon's Works \ Lero's Art \ Life of Ruin's Works \ Lim Seo-rim's Works \ Lina Lim's Art \ Lisabel's Works \ LObeam's Works \ Love is an Illusion! Series \ LuckS's Works \ MAD's Art \ Maenggi Ki's Works \ Majeungji's Works \ Malchocochip's Works \ Mangmungming's Works \ Maru Comics \ MasterGin's Works \ Matgini's Works \ MAYO's Art \ Min Song Ah's Works \ Mingwa's Works \ MJJ's Works \ Mokbegae's Works \ Mokgamgi's Works \ Mokma's Art \ Moon Sihyun's Works \ Morak's Works \ Moscareto's Works \ MstoryHub \ Muldeok's Works \ Mum's Art \ Munhakdongne Publishing Corp. \ Mx2J's Art \ Nano Machine Series \ NARAK's Art \ Naru's Art \ Nate \ Neptune \ NOAH's Works \ NOKO's Art \ Nuwaru's Works \ OB's Works \ Olleh \ On-Jeom's Works \ One Dollar's Works \ OneStory \ orangeD \ Oryu's Works \ over.J's Works \ Park Dam's Art \ Park Gee's Works \ Park Min's Works \ Paya8's Art \ PD Kim's Art \ Peanutoon \ PingPu \ Plutus's Works \ Polar Fox \ Portofino's Works \ Potion's Art \ PTJ COMICS \ Puddinga's Art \ Radish \ Rangrarii's Works \ Red City's Art \ red-A's Works \ REDICE STUDIO \ RinA's Works \ Ro Yu-jin's Works \ Robot Kim's Art \ Rodong's Art \ Rok Media \ Rozer's Art \ RS Media \ Rubung's Works \ RYU HEON's Works \ Sadistic Beauty Series \ Saedeul's Art \ Sagold's Works \ Salto's Art \ SAMK's works \ Samosa's Works \ Samyang \ SDbigpie's Art \ Sejul's Art \ Seok Woo's Works \ Seok-Ji's Art \ Seongchi Lee's Works \ Seoul Cultural \ Seoul Media Comics \ Seran Kim's Works \ SERIOUS's Works \ Seyoon \ Shinyoung Media \ Sing-Shong's Works \ Sipmanwon's Works \ Siya's Works \ Skye's Works \ Sol Leesu's Works \ Son Jae-Ho's Works \ Soo-ji Kim's Works \ Soonkki \ Soran Books \ Soy Media \ Spice&Kitty's Works \ Spoon's Art \ SSAEM's Works \ Ssaneung's Works \ Ssari's Art \ Storigin Webtoon \ StorySoop \ storywiz \ Studio Jilpung \ Studio M \ Sua Im's Works \ Sungmin's Works \ Sungwon's Art \ Super String \ Supercomix Studio \ Surim Lee's Works \ Surreuk Comics \ SWAN's Works \ Swanis Works \ Swingbat \ Tae Jun Park's Works \ Tae-Young Choi's Art \ Taeson's Works \ Talyeong's Art \ Tama's Works \ Tank Guy's Works \ Team Biyam's Works \ Team Gaji's Works \ Tess' Art \ Tharchog's Works \ The Cl Book \ todac_s's Art \ Today Spring's Works \ Tooneed Entertainment \ Toptoon \ TR's Works \ Tting Jini's Works \ TTWOOK's Art \ U-Jewel Media \ Ultra Media \ Ultramarinesilk's Works \ UMKY's Art \ Viewcommz \ WAJE's Art \ Wann's Art \ Wasak Basak's Art \ White Eared's Works \ Wisdom House \ Woo Yeon-hui's Works \ Woo-gak's Works \ Wookjakga's Art \ Yagyung's Works \ Yangyang's Art \ Yansae's Works \ Yehwon's Works \ Yeo Kanghyun's Art \ Yeongha's Works \ Yeowool's Works \ YJ Comics \ YLAB \ YONDER \ Yong Yong's Works \ Yoon Hawol's Works \ Young Champ \ YOUNG COM \ Youngchan Hwang's Art \ Yu Jin Sung's Works \ Yuin's Works \ Yumyum's Art \ Yunji Lee's Works \ Yunsul's Works \ Yuwol's Works \ Zeta Kim's Art \ Zhena's Art \ ZIG's Works \ Zimtigee's Art
 Manta Comics | Moscareto's Works \ Surreuk Comics \ SWAN's Works
 MAPPA | Shingeki no Bahamut Series
 Margaret | Hiro Chihiro's Works \ Miyoshi Toumori's Art
@@ -773,14 +813,15 @@ Mario Franchise Multimedia | Donkey Kong Country TV Series \ Mario All Stars \ S
 Mario Kart | Mario Kart Arcade GP Series
 Mario Party | CAProduction \ Super Mario Party Series
 Mario Sports | Mario Hoops Series \ Mario Strikers
-Martial Arts | Double Dragon Series \ Karate \ Kung Fu Panda Movies \ Kung Fu Panda Series \ Ranma ½ Series \ TEKKEN \ TEKKEN Hybrid \ TEKKEN TAG TOURNAMENT Series \ The Karate Kid Series
+Marmalade | Study § Steady Series
+Martial Arts | Double Dragon Series \ Karate \ Kung Fu Panda Movies \ Kung Fu Panda Series \ Ranma ½ Series \ TEKKEN Hybrid \ TEKKEN TAG TOURNAMENT Series \ The Karate Kid Series
 Marvel Animated Features Collection | Hulk vs.
-Marvel Animation | Big Hero 6 Series \ Grantray-Lawrence Animation \ Hulk vs. \ Marvel Earth-8096 \ Spider-Man Animation \ Spider-Verse Saga
-Marvel Cinematic Universe | MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series
+Marvel Animation | Big Hero 6 Series \ Grantray-Lawrence Animation \ Hulk vs. \ Marvel Animated Features Collection \ Marvel Earth-8096 \ Spider-Man Animation \ Spider-Verse Saga
+Marvel Cinematic Universe | Marvel's Netflix Television Series \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series
 Marvel Earth-8096 | Hulk vs.
-Marvel Games | Insomniac's Marvel Universe \ LEGO Marvel Video Games \ Marvel vs. Capcom \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Marvel: Ultimate Alliance Series \ Spider-Man Games
-Marvel Movies | Blade Trilogy \ Fox's X-Men Cinematic Universe \ Hulk vs. \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Original X-Men Cinematic Universe \ Raimi Spider-Man Trilogy \ Revised X-Men Cinematic Universe \ Sony's Spider-Man Universe \ Spider-Man Movies \ Spider-Verse Saga \ The Amazing Spider-Man Movie Series \ Thor Franchise
-Marvel Multiverse | Avengers Franchise \ Big Hero 6 Series \ Blade Trilogy \ Captain America Franchise \ Daredevil Franchise \ Deadpool Franchise \ Fantastic Four Franchise \ Fox's X-Men Cinematic Universe \ Grantray-Lawrence Animation \ Guardians of the Galaxy Franchise \ Hulk Franchise \ Hulk vs. \ Insomniac's Marvel Universe \ Iron Man Franchise \ LEGO Marvel Video Games \ Marvel Animated Features Collection \ Marvel Animation \ Marvel Cinematic Universe \ Marvel Earth-8096 \ Marvel Games \ Marvel Movies \ Marvel TV Shows \ Marvel vs. Capcom \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Marvel: Ultimate Alliance Series \ Marvel's Netflix Television Series \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Original X-Men Cinematic Universe \ Punisher Franchise \ Raimi Spider-Man Trilogy \ Revised X-Men Cinematic Universe \ Sony's Spider-Man Universe \ Spider-Man Animation \ Spider-Man Franchise \ Spider-Man Games \ Spider-Man Movies \ Spider-Verse Saga \ The Amazing Spider-Man Movie Series \ Thor Franchise \ Wolverine Franchise \ X-Men Franchise
+Marvel Games | Insomniac's Marvel Universe \ LEGO Marvel Video Games \ Marvel vs. Capcom \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Marvel: Ultimate Alliance Series \ Spider-Man Games \ X-Men: Mutant Academy Series
+Marvel Movies | Blade Trilogy \ Doctor Strange Franchise \ Fox's X-Men Cinematic Universe \ Hulk vs. \ Marvel Animated Features Collection \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Original X-Men Cinematic Universe \ Raimi Spider-Man Trilogy \ Revised X-Men Cinematic Universe \ Sony's Spider-Man Universe \ Spider-Man Movies \ Spider-Verse Saga \ The Amazing Spider-Man Movie Series \ Thor Franchise
+Marvel Multiverse | Avengers Franchise \ Big Hero 6 Series \ Black Panther Franchise \ Blade Trilogy \ Captain America Franchise \ Daredevil Franchise \ Deadpool Franchise \ Doctor Strange Franchise \ Fantastic Four Franchise \ Fox's X-Men Cinematic Universe \ Grantray-Lawrence Animation \ Guardians of the Galaxy Franchise \ Hulk Franchise \ Hulk vs. \ Insomniac's Marvel Universe \ Iron Man Franchise \ LEGO Marvel Video Games \ Marvel Animated Features Collection \ Marvel Animation \ Marvel Cinematic Universe \ Marvel Earth-8096 \ Marvel Games \ Marvel Movies \ Marvel TV Shows \ Marvel vs. Capcom \ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics \ Marvel: Ultimate Alliance Series \ Marvel's Netflix Television Series \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Original X-Men Cinematic Universe \ Punisher Franchise \ Raimi Spider-Man Trilogy \ Revised X-Men Cinematic Universe \ Sony's Spider-Man Universe \ Spider-Man Animation \ Spider-Man Franchise \ Spider-Man Games \ Spider-Man Movies \ Spider-Verse Saga \ The Amazing Spider-Man Movie Series \ Thor Franchise \ Wolverine Franchise \ X-Men Franchise \ X-Men: Mutant Academy Series
 Marvel TV Shows | Grantray-Lawrence Animation \ Marvel's Netflix Television Series
 Marvelous | Honey∞Parade Games \ Koihime†Musou Series \ Luminous Arc Series \ Luminous Arc Trilogy \ No More Heroes Series \ Rune Factory Series \ The King of Fighters EX Series
 Marza Animation Planet | Phantasy Star Portable Series \ Sonic Riders Series \ Sonic Unleashed Series
@@ -790,17 +831,19 @@ Masakazu Katsura's Art | Katsura Akira
 Masaki Takei's Art | Doukyuusei Series
 Masato Hiruta's Works | AI5 Games \ Doukyuusei Series \ Masaki Takei's Art
 Masaya Games | Langrisser
-Mascot Horror Games | Bendy \ MOB Entertainment \ Steel Wool Studios
+Mascot Horror Games | Amanda the Adventurer Series \ Bendy \ Mainline FNaF Games \ MOB Entertainment \ Steel Wool Studios
 Mascots | San-X \ Sanrio Mascots \ ShowBiz Pizza Time Incorporated \ Sports Mascots
 Mass Effect Series | Mass Effect Trilogy
 MasterGin's Works | Chungnyun's Art
-Masters of the Universe-Like Series | Axel Giménez' Art \ Formo Toys
-Match 3 Games | Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Nintendo Puzzle Collection \ Puzzle & Dragons Series \ Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition \ Puzzle Bobble Series \ Tetris Series
+Masters of the Universe-Like Series | Axel Giménez' Art \ Formo Toys \ Masters of the Universe
+Match 3 Games | Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Magical Drop Series \ Nintendo Puzzle Collection \ Puzzle & Dragons Series \ Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition \ Puzzle Bobble Series \ Zuma Series
+Mathematics | Baldi's Basics Series
 Mathers Numakichi's Works | 0verflow \ Junji Gotou's Art \ Radish Series \ School Days Series
 Matrix Software | Omega Labyrinth Series
 Mattel | Monster High Franchise \ Princess of Power Franchise
-Mecha | Armored Core \ Baldr Series \ Danball Senki Series \ Demonbane Series \ Eureka Seven Series \ FLCL Series \ Front Mission Series \ Gate Keepers Series \ Giant Robo Series \ GRIDMΛN UNIVERSE \ Gundam Build \ Gundam's Universal Century \ Macross \ Mazinger \ Mega Man Legends Series \ Muv-Luv Alternative Series \ Muv-Luv Unlimited Series \ Nadesico \ Robotech \ Samurai Pizza Cats Series \ Shinkansen Henkei Robo Shinkalion Series \ Soukyuu no Fafner Series \ Super Dimension Series \ Team Baldrhead \ Top wo Nerae! Series \ Voltes V Series \ Zoids Series
-Media Factory | Aneko Yusagi's Works \ Comic Alive \ Comic Cune \ Comic Flapper \ Fleur Comics \ Gene pixiv \ Hanama Tomo's Works \ Hidan no Aria Series \ Hisaya Amagishi's Works \ MF Books \ MF Bunko J \ NOVEL 0 \ Sahara Gensei's Art \ sune's Art \ Tamamusi's Works \ WebComic Apanta \ Zero no Tsukaima Series
+Maxis | Will Wright's Works
+Mecha | Armored Core \ Baldr Series \ Danball Senki Series \ Demonbane Series \ Eureka Seven Series \ FLCL Series \ Front Mission Series \ Gate Keepers Series \ Giant Robo Series \ GRIDMΛN UNIVERSE \ Gundam Build \ Gundam's Universal Century \ Iron Saga Series \ Macross \ Mazinger \ Mega Man Legends Series \ Muv-Luv Alternative Series \ Muv-Luv Unlimited Series \ Nadesico \ Robotech \ Samurai Pizza Cats Series \ Shinkansen Henkei Robo Shinkalion Series \ Soukyuu no Fafner Series \ Super Dimension Series \ Team Baldrhead \ Top wo Nerae! Series \ Voltes V Series \ Zoids Series
+Media Factory | Aneko Yusagi's Works \ Comic Alive \ Comic Cune \ Comic Flapper \ Fleur Comics \ Gene pixiv \ Hanama Tomo's Works \ Hidan no Aria Series \ Hisaya Amagishi's Works \ MF Books \ MF Bunko J \ NOVEL 0 \ Roron Oohara's Works \ Sahara Gensei's Art \ sune's Art \ Tamamusi's Works \ WebComic Apanta \ Zero no Tsukaima Series
 Media.Vision | Chaos Rings Series \ Wild ARMs Series
 Medical Genre | Black Jack Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Hataraku Saibou Series \ Trauma Center Series
 Mega Man Anniversary Collection | Mega Man Legacy Collection
@@ -814,34 +857,35 @@ Megami Tensei | Devil Summoner \ Devil Survivor Series \ Digital Devil Story \ M
 mellow kiss | Minta Suzumara's Works
 Memes | Animan Studios \ Animation Magic
 MercTrans | Buff Studio
-Metro-Goldwyn-Mayer | Pink Panther Series \ Rocky Series \ Stargate \ The Addams Family Series
+Metro-Goldwyn-Mayer | Pink Panther Series \ Stargate \ The Addams Family Series
 Metroid Prime Series | Metroid Prime: Trilogy
 Metroid Series | Metroid II Series \ Metroid Prime Series \ Metroid Prime: Trilogy
-Metroidvania | Axiom Verge Series \ Blaster Master Zero Series \ Castlevania Dominus Collection \ Hollow Knight Series \ La-Mulana Series \ Metroid II Series \ Ori
-Mexican Media | Ánima Estudios \ Chespirito \ El Chavo Series \ Odd Nation Cartoons Series \ Sr Pelo's Works \ Televisa
+Metroidvania | Axiom Verge Series \ Blasphemous Series \ Blaster Master Zero Series \ Castlevania Dominus Collection \ Gal Guardians Series \ Hollow Knight Series \ La-Mulana Series \ Metroid II Series \ Ori \ Team Ladybug
+Mexican Media | Ánima Estudios \ Chespirito \ El Chavo Series \ Frankelda Series \ Odd Nation Cartoons Series \ Sr Pelo's Works \ Televisa
 MF Books | Aneko Yusagi's Works \ Hisaya Amagishi's Works
 MF Bunko J | Hanama Tomo's Works \ sune's Art \ Zero no Tsukaima Series
-Mickey Mouse Franchise | A Goofy Bundle \ Donald Duck Universe \ DuckTales Series \ Epic Mickey Series
+Mickey Mouse Franchise | A Goofy Bundle \ Castle of Illusion Series \ Darkwing Duck Series \ Donald Duck Franchise \ DuckTales Series \ Epic Mickey Series \ Mickey Mouse Series
 Mickey Mouse Series | Castle of Illusion Series
-Micro Magazine | GC Novels
+Micro Magazine | GC Novels \ GCN Bunko
 Microgames | WarioWare, Inc. Series \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series
-Microsoft | [PROTOTYPE] Series \ 343 Industries \ Banjo-Kazooie Series \ Crash Bandicoot N. Sane Trilogy \ Diablo Series \ Dishonored Series \ Double Fine \ Fable Series \ Gears of War Series \ Halo Wars Series \ Halo: The Master Chief Collection \ Lionhead Studios \ Ori \ Overwatch Series \ Psychonauts Series \ Skylanders \ Spyro Reignited Trilogy \ Tango Gameworks \ The Coalition \ The Evil Within Series \ Warcraft Universe
-Microsoft (Publisher) | 343 Industries \ Banjo-Kazooie Series \ Ensemble Studios \ Fable Series \ Gears of War Series \ Halo Wars Series \ Halo: The Master Chief Collection \ Lionhead Studios \ Ori \ Psychonauts Series \ The Coalition
-Middle-earth | J.R.R. Tolkien's Works \ Shadow of Middle-earth
-Midway Games | Rampage Series
+Microsoft | [PROTOTYPE] Series \ 343 Industries \ Crash Bandicoot N. Sane Trilogy \ Diablo Series \ Dishonored Series \ Double Fine \ Fable Series \ Gears of War Series \ Halo Wars Series \ Halo: The Master Chief Collection \ Lionhead Studios \ Ori \ Overwatch Series \ Psychonauts Series \ Skylanders \ Spyro Reignited Trilogy \ Tango Gameworks \ The Coalition \ The Evil Within Series \ Warcraft Universe
+Microsoft (Publisher) | Ensemble Studios \ Fable Series \ Gears of War Series \ Halo Wars Series \ Halo: The Master Chief Collection \ Lionhead Studios \ Ori \ Pillars of Eternity Series \ Psychonauts Series \ The Coalition
+Middle-earth | J.R.R. Tolkien's Works \ Shadow of Middle-earth \ The Lord of the Rings: The Battle for Middle-earth Series
+Midway Games | X-Men: Mutant Academy Series
 Miko's Art | Code: Realize Series
-Military Media | 343 Industries \ Ace Combat \ Advance Wars Series \ Front Mission Series \ Fullmetal Alchemist Series \ Halo Series \ Halo Wars Series \ Halo: The Master Chief Collection \ Modern Warfare Series \ Muv-Luv Alternative Series \ Muv-Luv Unlimited Series \ Starship Troopers Series \ Wolfenstein Series
+Military Media | 343 Industries \ Ace Combat \ Advance Wars Series \ Crysis Series \ Front Mission Series \ Fullmetal Alchemist Series \ Halo Series \ Halo Wars Series \ Halo: The Master Chief Collection \ Modern Warfare Series \ Muv-Luv Alternative Series \ Muv-Luv Unlimited Series \ Starship Troopers Series \ Wolfenstein Series
 minori | Musica Games
-Miscellaneous Eastern | anwitacitriya's Works \ BoBoiBoy Series \ CreSpirit \ Cytus Series \ DEEMO Series \ E.Q. Plus \ Hanza Art's Works \ Lewd Formosa \ Narrator \ PeaCh88's Works \ Punica \ Rayark Inc. \ Read Comics Publishing \ RedCandleGames \ Sinran's Works \ Sollyz Sundyz' Art \ Yangyang Mobile
+Misa Ikezaki's Works | Ikezaki Misa's Works
+Miscellaneous Eastern | Age of Defense Series \ anwitacitriya's Works \ Belugerin \ BoBoiBoy Series \ CreSpirit \ Cytus Series \ DEEMO Series \ Dicesuki \ E.Q. Plus \ Filipino Media \ Hanza Art's Works \ Lewd Formosa \ Narrator \ PeaCh88's Works \ Punica \ Rayark Inc. \ Read Comics Publishing \ RedCandleGames \ Sinran's Works \ Sollyz Sundyz' Art \ Yangyang Mobile
 Mistwalker | Blue Dragon Series
 Mitsuteru Yokoyama's Works | Giant Robo Series
 Miwashiba's Works | 1bitHeart Series
 MMORPG | Guild Wars Series \ KingsIsle Entertainment \ KOG Games \ Krosmoz
 MMORPG Media | .hack
-Mobile Games | Angry Birds Trilogy \ Ateam Inc. \ Barry Steakfries Series \ Be My Princess Series \ Become a Star Series \ Beemoov \ BF (Beta) Series \ Blockchain Games \ Brown Dust Series \ Buff Studio \ Chaos Rings Series \ China Locked Games \ Ciagram Co, Ltd \ Com2uS \ Cookie Run Series \ CYBIRD \ Cytus Series \ Day7 Inc. \ Dead Ahead Series \ DEEMO Series \ Destiny Ninja Series \ Entabridge \ EROLABS \ Gacha Life Series \ Gamefam \ Gaudium \ gumi Inc. \ Halfbrick Studios \ Hit-Point \ HoYoverse \ Hypergryph \ Ikémen Series \ Imaginary Tree \ Infinity Blade Series \ Ironhide Game Studio \ King (Company) \ Kingdom Hearts Union χ Dark Road \ Kingdom Rush Series \ Kong Studios \ Kou Nakamura's Works \ Kuro Games \ Level Infinite \ Lifewonders \ Lilith Games \ Lunime \ MazM \ MercTrans \ Mobile Legends \ Mobile Visual Novels \ Mobirate \ Monument Valley Series \ My Candy Love Series \ Nekki \ Nix Hydra \ PINKCORE \ Plants vs. Zombies 2 Series \ PONOS \ PrettyBusy \ Puzzle Fighter Series \ SAMURAI vs ZOMBIES DEFENSE Series \ Seasun Games \ SELECT BUTTON inc. \ Shall we date? \ Shiro Yamada's Art \ Sonic Runners Series \ Sonic the Hedgehog 4 \ STORYTACO \ Studio FgG \ Studio Genius Japan Inc. \ STUDIO WASABI \ Team Tapas \ Techcross \ TinyCo \ Visuki \ WonderPlanet Inc. \ XFLAG Studio \ Yostar Games \ Yume Series \ ZLONGAME \ Zynga
+Mobile Games | Angry Birds Trilogy \ Ateam Inc. \ Barry Steakfries Series \ Be My Princess Series \ Become a Star Series \ Beemoov \ BF (Beta) Series \ Blockchain Games \ Brown Dust Series \ Buff Studio \ Chaos Rings Series \ China Locked Games \ Ciagram Co, Ltd \ Com2uS \ Cookie Run Series \ CYBIRD \ Cytus Series \ Dadish Series \ Day7 Inc. \ Dead Ahead Series \ DEEMO Series \ Destiny Ninja Series \ Entabridge \ EROLABS \ Gacha Life Series \ Gamefam \ Gaudium \ Granny Series \ gumi Inc. \ Halfbrick Studios \ Hit-Point \ HoYoverse \ Hypergryph \ Ikémen Series \ Imaginary Tree \ Infinity Blade Series \ Ironhide Game Studio \ King (Company) \ Kingdom Hearts Union χ Dark Road \ Kingdom Rush Series \ Kong Studios \ Kou Nakamura's Works \ Kuro Games \ Level Infinite \ Lifewonders \ Lilith Games \ MazM \ MercTrans \ Mobile Legends \ Mobile Visual Novels \ Mobirate \ Monument Valley Series \ My Candy Love Series \ Nekki \ Nix Hydra \ PINKCORE \ Plants vs. Zombies 2 Series \ PONOS \ PrettyBusy \ Puzzle Fighter Series \ SAMURAI vs ZOMBIES DEFENSE Series \ Seasun Games \ SELECT BUTTON inc. \ Shall we date? \ Shiro Yamada's Art \ Sonic Dash Series \ Sonic Runners Series \ Sonic the Hedgehog 4 \ STORYTACO \ Studio FgG \ Studio Genius Japan Inc. \ STUDIO WASABI \ Team Tapas \ Techcross \ TinyCo \ Visuki \ WonderPlanet Inc. \ XFLAG Studio \ Yostar Games \ Yume Series \ ZLONGAME \ Zynga
 Mobile Visual Novels | Be My Princess Series \ Beemoov \ Buff Studio \ Ciagram Co, Ltd \ Destiny Ninja Series \ Entabridge \ Ikémen Series \ MazM \ MercTrans \ My Candy Love Series \ Nix Hydra \ Shall we date? \ Shiro Yamada's Art \ Studio Genius Japan Inc. \ Visuki
 Mobirate | Dead Ahead Series
-Moe App | SAGA PLANETS \ SukeraSparo
+Moe App | SukeraSparo
 Mokbegae's Works | Ju-Won Lee's Art
 MonoGame Framework | Axiom Verge Series
 Monolith Productions | Shadow of Middle-earth
@@ -849,10 +893,12 @@ Monolith Soft | Baten Kaitos \ Project X Zone Series \ Xenoblade
 Monster Girls | Killing Bites Series \ Majalis' Works \ Monster Girl Encyclopedia Series \ Monster Girl Quest Series \ Monster Musume no Iru Nichijou Series \ Sucker for Love
 Monster Hunter | Monster Hunter Games \ Monster Hunter Manga Spin-offs \ Monster Hunter Stories Series
 Monster Hunter Games | Monster Hunter Stories Series
+Monthly Hero's | Killing Bites Series
 Monthly Shounen Magazine | Harold Sakuishi's Works \ Naoshi Arakawa's Works
 MOONSTONE | Imouto Paradise! Series
 Morning | Yamada Kintetsu's Works
 MOTHER | MOTHER 1 + 2
+Mount & Blade Series | TaleWorlds Entertainment
 Mr. Blue | Bam U's Works \ CHIMA's Works \ Kang Ki's Art
 MS Pictures | Ciel \ G.J? \ Image House
 MSX | Dragon Slayer Chronicle
@@ -860,19 +906,20 @@ MTV | Beavis and Butt-Head Franchise
 Mujin Comics | Akatsuki Myuuto's Works \ Comic Mujin
 Munpia | Geulingilin's Art \ Gimm-Young Publishers \ Sing-Shong's Works
 Music Albums | Sound Horizon
-Music Games | 7th Beat Games \ BF (Beta) Series \ Crypt of the Necrodancer Series \ Cytus Series \ DanceDance Revolution Series \ DEEMO Series \ DJ Media \ DJMAX Series \ Donkey Konga Series \ Geki!Chumai \ iNiS Corporation \ Just Dance Series \ Kou Nakamura's Works \ Patapon Series \ Persona Dancing \ Pretty Rhythm \ PriPara Series \ Rhythm Heaven \ Space Channel 5 Series
-Music Genre | Aikatsu! Series \ Akifumi Kaneko's Works \ BanG Dream! Franchise \ Hibike! Euphonium Series \ Hypnosis Mic -Division Rap Battle- Series \ Karaoke Iko! Series \ Love Live! \ Pretty Rhythm \ Pretty Series \ PriPara Series \ Senki Zesshou Symphogear Series \ Shoujo☆Kageki Revue Starlight Series \ THE iDOLM@STER Series
-Music Groups | AKB48 Group \ BigHit Music \ Cube Entertainment \ Fantagio \ HYBE Labels Japan \ J-Pop \ J-Rock \ KQ Entertainment \ Mystic Story \ PLEDIS Entertainment \ Produce 101 \ Rainbow Bridge World \ Starship Entertainment \ YG Entertainment
-Music Videos | Ado \ GHOST's Works \ Harumaki Gohan \ inabakumori Series \ Kirai Hiiragi's Works \ Knights of the Light Table \ Lotte Campaigns \ manbo-p \ Niru Kajitsu \ PinocchioP's Works \ SIAMÉƧ's Works \ Team 6x111 \ Traffic Light \ TUYU Series \ VIVINOS \ WOOMA
+Music Games | 7th Beat Games \ BF (Beta) Series \ Crypt of the Necrodancer Series \ Cytus Series \ DanceDance Revolution Series \ DEEMO Series \ DJ Media \ DJMAX Series \ Donkey Konga Series \ Geki!Chumai \ Guitar Hero Series \ Harmonix \ iNiS Corporation \ Kou Nakamura's Works \ Patapon 1+2 Replay \ Patapon Series \ Persona Dancing \ Pretty Rhythm \ Rhythm Heaven \ Space Channel 5 Series
+Music Genre | Aikatsu! Series \ Akifumi Kaneko's Works \ BanG Dream! Franchise \ Hibike! Euphonium Series \ Hypnosis Mic -Division Rap Battle- Series \ Karaoke Iko! Series \ Love Live! \ Pretty Rhythm \ Project SEKAI Series \ Senki Zesshou Symphogear Series \ Shine Post Series \ Shoujo☆Kageki Revue Starlight Series \ Unison
+Music Groups | AKB48 Group \ BigHit Music \ Cube Entertainment \ Damon Albarn's Works \ Fantagio \ HYBE Labels Japan \ J-Pop \ J-Rock \ KQ Entertainment \ Mystic Story \ PLEDIS Entertainment \ Produce 101 \ Rainbow Bridge World \ Starship Entertainment \ WAKEONE Entertainment \ YG Entertainment
+Music Videos | Ado \ BAKUI's Works \ GHOST's Works \ Harumaki Gohan \ inabakumori Series \ Kirai Hiiragi's Works \ Knights of the Light Table \ Lotte Campaigns \ manbo-p \ Niru Kajitsu \ SIAMÉƧ's Works \ syudou's Works \ Team 6x111 \ Traffic Light \ TUYU Series \ VIVINOS \ WOOMA \ Yasutatsu's Art
 Musica Games | minori
-Musical Films & TV Shows | Beauty and the Beast Series \ Craig Gerber's Works \ Darrell Rooney's Works \ Descendants Series \ Fantasia Series \ Frozen Series \ Hellaverse \ La trilogía del ruiseñor \ Lady and the Tramp Series \ Moana Series \ Mulan Series \ Phineas and Ferb Series \ Pocahontas Series \ Sing Series \ Steven Universe Series \ Tangled Series \ The Hunchback of Notre Dame Series
-Musicals | Beauty and the Beast Series \ Craig Gerber's Works \ Darrell Rooney's Works \ Descendants Series \ Fantasia Series \ Frozen Series \ Hellaverse \ La trilogía del ruiseñor \ Lady and the Tramp Series \ Moana Series \ Mulan Series \ Phineas and Ferb Series \ Pocahontas Series \ Sing Series \ StarKid Productions \ Steven Universe Series \ Tangled Series \ The Hunchback of Notre Dame Series \ Victor Hugo's Works
-Musicians | AKB48 Group \ BigHit Music \ C-Pop \ Cube Entertainment \ Fantagio \ HYBE Labels Japan \ J-Pop \ J-Rock \ KQ Entertainment \ Mystic Story \ PLEDIS Entertainment \ Produce 101 \ Rainbow Bridge World \ Rap Groups \ RK Music \ Solo Musicians \ Starship Entertainment \ YG Entertainment
-Musou Games | Fire Emblem Warriors Series \ Hyrule Warriors Series \ Samurai Warriors Series
+Musical Films & TV Shows | Beauty and the Beast Series \ Craig Gerber's Works \ Darrell Rooney's Works \ Descendants Series \ Fantasia Series \ Frozen Series \ Hellaverse \ La trilogía del ruiseñor \ Lady and the Tramp Series \ Moana Series \ Mulan Series \ Phineas and Ferb Series \ Pocahontas Series \ Sing Series \ Tangled Series \ The Hunchback of Notre Dame Series \ Victor Hugo's Works
+Musicals | Beauty and the Beast Series \ Craig Gerber's Works \ Darrell Rooney's Works \ Descendants Series \ Fantasia Series \ Frozen Series \ Hellaverse \ La trilogía del ruiseñor \ Lady and the Tramp Series \ Moana Series \ Mulan Series \ Phineas and Ferb Series \ Pocahontas Series \ Sing Series \ Tangled Series \ The Hunchback of Notre Dame Series \ Victor Hugo's Works
+Musicians | AKB48 Group \ BigHit Music \ C-Pop \ Cube Entertainment \ Damon Albarn's Works \ Fantagio \ HYBE Labels Japan \ J-Pop \ J-Rock \ KQ Entertainment \ Mystic Story \ PLEDIS Entertainment \ Produce 101 \ Rainbow Bridge World \ Rap Groups \ RK Music \ Solo Musicians \ Starship Entertainment \ WAKEONE Entertainment \ YG Entertainment
+Musou Games | Dragon Quest Heroes Series \ Fire Emblem Warriors Series \ Hyrule Warriors Series \ Samurai Warriors Series
 Muv-Luv Series | Muv-Luv Alternative Series \ Muv-Luv Unlimited Series
 My Little Pony | My Little Pony: Friendship Is Magic Series
 MyDearest Inc | Chronos Series
 MySims Series | MySims: Cozy Bundle
+Myst Series | Cyan Inc.
 Mystery Dungeon Series | Chocobo Series \ Pokémon Mystery Dungeon \ Shiren the Wanderer Series
 Nakahiro's Works | Seiiki Series
 Nakayoshi | Glitter Force Series \ Mermaid Melody Pichi Pichi Pitch Series \ Nakayoshi Lovely
@@ -883,90 +930,93 @@ NanaOn-Sha | Vib-Ribbon Series
 Nate | Baegji's Art
 Naughty Dog | Crash Bandicoot N. Sane Trilogy \ The Last of Us Series
 Navel | Tsuki ni Yorisou Otome no Sahou Series
-NBC | Michael Schur's Works
-NBCUniversal | Back to the Future Series \ E.T. Series \ Frankenstein Series \ Illumination \ Jaws Series \ Jimmy Fallon Series \ Joe Oriolo's Works \ Jurassic Park Series \ Kung Fu Panda Movies \ Michael Schur's Works \ Shrek Series \ Sing Series \ Tales of Arcadia \ Ted Series \ The Bad Guys Series \ The Mummy Series \ The Penguins of Madagascar Series \ The Secret Life of Pets Series \ Three Flavours Cornetto Trilogy \ Universal Classic Monsters \ Universal Epic Universe \ Universal Islands of Adventure \ Universal Orlando Resort \ Universal Parks \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Hollywood \ Universal Studios Japan \ Universal Studios Singapore
+NBC | Law & Order Series \ Michael Schur's Works
+NBCUniversal | Back to the Future Series \ Five Nights at Freddy's Movie Series \ Frankenstein Series \ Illumination \ Jaws Series \ Jimmy Fallon Series \ Joe Oriolo's Works \ Jurassic Park Series \ Kung Fu Panda Movies \ Law & Order Series \ Michael Schur's Works \ MΞGAN Series \ Sing Series \ Tales of Arcadia \ Ted Series \ The Bad Guys Series \ The Mummy Series \ The Penguins of Madagascar Series \ The Secret Life of Pets Series \ Three Flavours Cornetto Trilogy \ Universal Classic Monsters \ Universal Epic Universe \ Universal Islands of Adventure \ Universal Orlando Resort \ Universal Parks \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Hollywood \ Universal Studios Japan \ Universal Studios Singapore
 NCSoft | Guild Wars Series
-NEKO WORKs | Nekopara Series
 NekoNyan | Asa Project \ Tinkle Position
 Neoromance | Angelique Series
 NEOWIZ | Brown Dust Series \ DJMAX Series \ Neowiz MUCA
 Neowiz MUCA | DJMAX Series
 NETCOMICS | Wann's Art
-Netflix Originals | Bridgerton Series \ Castlevania Netflix Series \ Glitter Force Series \ Marvel's Netflix Television Series \ Tales of Arcadia \ Tsuina Miura's Works
+NetEase Games | Identity V Series
+Netflix Originals | Adi Shankar's Works \ Bridgerton Series \ Castlevania Netflix Series \ Glitter Force Series \ Marvel's Netflix Television Series \ Tales of Arcadia \ Tsuina Miura's Works
 NetherRealm Studios | Injustice Series
 Netmarble | Seven Knights Series
 Neversoft | Tony Hawk's Underground Series
 New Line Cinema | Austin Powers Series \ Blade Trilogy \ The Conjuring Universe
 New World Animation Ltd. | Energon Universe
-Newgrounds | 2DPlay \ Cactus McCoy Series \ Derpixon's Works \ Dragon Boy Series \ Elven Conquest Series \ Epic Battle Fantasy Series \ Godlimations \ Madness Series \ Michael Swain's Works \ Papa Louie Platformers \ Riddle School Series
+New Zealander Media | Bloons Tower Defense Series \ Ninja Kiwi
+Newgrounds | 2DPlay \ Age of Defense Series \ Belugerin \ Cactus McCoy Series \ Derpixon's Works \ Dragon Boy Series \ Epic Battle Fantasy Series \ Godlimations \ Madness Series \ Michael Swain's Works \ Papa Louie Platformers \ Riddle School Series
 NeXAS Games | Baldr Series
 NEXON | Mabinogi Franchise
 Next Level Games | Mario Strikers
 Nexton | Aibeya Series \ Aikagi Series \ Dark One! \ Kouyoku Senki ExS-Tia Series \ Kuroinu Series \ Liquid \ M's TOY BOX \ Mayfar Soft \ ONE Series \ Pre-Key Tactics \ Tactics \ Variety Tactics! Series
 Nick Jr. | Blue's Clues Series \ PAW Patrol Series
-Nickelodeon | Barnyard Series \ Blue's Clues Series \ Butch Hartman's Works \ Dan Schneider's Works \ Henry Danger Series \ iCarly Series \ Jimmy Neutron Series \ Nick Jr. \ Nickelodeon All-Star Brawl Series \ Nicktoons Unite Series \ O Entertainment \ PAW Patrol Series \ Rise of the Teenage Mutant Ninja Turtles Series \ Rugrats Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ The Fairly OddParents Series \ The Loud House Series \ VICTORiOUS Series
+Nickelodeon | Barnyard Series \ Blue's Clues Series \ Butch Hartman's Works \ Dan Schneider's Works \ Henry Danger Series \ iCarly Series \ Jimmy Neutron Series \ Nick Jr. \ Nickelodeon All-Star Brawl Series \ Nicktoons Unite Series \ PAW Patrol Series \ Rise of the Teenage Mutant Ninja Turtles Series \ Rugrats Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ The Fairly OddParents Series \ The Loud House Series \ VICTORiOUS Series
 Nickelodeon Animation Studio | Barnyard Series \ Invader Zim Series \ Rise of the Teenage Mutant Ninja Turtles Series \ Rugrats Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ The Loud House Series
 Night School Studio | OXENFREE Series
 Nihon Falcom | Dragon Slayer Chronicle \ Vantage Master Series \ Xanadu Series \ Ys Series \ Zwei Series
 Ninja Gaiden Series | Ninja Gaiden Master Collection
 Ninja Kiwi | Bloons Tower Defense Series
-Ninja Media | Destiny Ninja Series \ Ninjago \ NinNinDays Series \ Rise of the Teenage Mutant Ninja Turtles Series \ Taimanin \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ TMNT Movies
+Ninja Media | Destiny Ninja Series \ N Series \ Ninjago \ NinNinDays Series \ Rise of the Teenage Mutant Ninja Turtles Series \ Taimanin \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ TMNT Movies
 Ninja Theory | Senua's Saga
-Nintendo | Advance Wars Series \ AlphaDream \ Animal Crossing \ Archanea \ Art Applications \ Balloon Fight Series \ Big Brain Academy Series \ Bowser's Minions Series \ Brain Age \ Camelot Software Planning \ CAProduction \ Captain N and the New Super Mario World \ Creatures Inc. \ Custom Robo \ Dark Matter Trilogy \ Detective Pikachu Series \ Donkey Kong Jr. Series \ Donkey Kong Land Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Elibe Series \ Excite Series \ F-Zero Series \ Famicom Detective Club Series \ Famicom Grand Prix \ Fire Emblem \ Fire Emblem Warriors Series \ Fódlan Series \ Fossil Fighters Series \ Game & Watch Gallery Series \ Game System Applications \ Golden Sun Series \ Good-Feel \ Hyrule Warriors Series \ Intelligent Systems \ Jugdral Series \ Kid Icarus Series \ Kirby of the Stars Series \ Kirby's Dream Collection \ Kirby's Dream Land Series \ Kirby's Star Stacker Series \ Luigi's Mansion Series \ Mario & Luigi \ Mario & Luigi: Bowser's Inside Story Series \ Mario & Luigi: Superstar Saga Series \ Mario All Stars \ Mario Baseball Series \ Mario Bros. Series \ Mario Golf \ Mario Hoops Series \ Mario Party \ Mario Sports \ Mario Strikers \ Mario Tennis \ Masahiro Sakurai's Games \ Metroid II Series \ Metroid Prime Series \ Metroid Prime: Trilogy \ Metroid Series \ MOTHER \ MOTHER 1 + 2 \ New Super Mario Bros. Series \ Nintendo Cube \ Nintendo EAD Group No. 1 \ Nintendo EAD Group No. 2 \ Nintendo EAD Group No. 3 \ Nintendo EAD Group No. 4 \ Nintendo EAD Production Group Tokyo \ Nintendo Puzzle Collection \ Nintendo R&D2 \ Nintendo SDD \ Nintendo SPD Group No.1 \ Operation Rainfall \ Paper Mario Series \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Legends \ Pokémon Mystery Dungeon \ Pokémon Snap Series \ Pokémon Trading Card Game (GBC) Series \ Princess Peach Series \ Puzzle League Series \ Retro Studios \ Rhythm Heaven \ Sin & Punishment Series \ Splatoon Series \ StreetPass Mii Plaza Games \ Super Mario 3D All-Stars \ Super Mario 3D Platformers \ Super Mario 3D Series \ Super Mario 3D World + Bowser's Fury \ Super Mario Advance Series \ Super Mario All-Stars \ Super Mario Bros. 2 Series \ Super Mario Bros. 3 Series \ Super Mario Bros. Cartoons \ Super Mario Galaxy Series \ Super Mario Land Series \ Super Mario Main Series \ Super Mario Maker Series \ Super Mario Party Series \ Super Smash Bros. \ Tellius Series \ The Legend of Zelda \ The Legend of Zelda 2D Games \ The Legend of Zelda 3D Games \ The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: A Link to the Past Series \ The Legend of Zelda: Breath of the Wild Series \ The Legend of Zelda: Collector's Edition \ The Legend of Zelda: Four Swords Series \ The Legend of Zelda: Twilight Princess Series \ The Legendary Starfy Series \ Touch! Generations \ Valentia Series \ Vanpool \ Wada Sachiko's Art \ Wario Land \ Wario's Woods Series \ WarioWare \ WarioWare, Inc. Series \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series \ Wii Party Series \ Wii Series \ Wii Sports Series \ Xenoblade \ Yoshi Series \ Yoshi's Island Series
-Nintendo (Publisher) | Advance Wars Series \ AlphaDream \ Animal Crossing \ Archanea \ Art Applications \ Balloon Fight Series \ Banjo-Kazooie Series \ Bayonetta Series \ Big Brain Academy Series \ Bowser's Minions Series \ Brain Age \ Camelot Software Planning \ CAProduction \ Captain N and the New Super Mario World \ Custom Robo \ Dark Matter Trilogy \ Donkey Kong 3 Series \ Donkey Kong Country Series \ Donkey Kong Jr. Series \ Donkey Kong Land Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Elibe Series \ Excite Series \ F-Zero Series \ Famicom Detective Club Series \ Famicom Grand Prix \ Fire Emblem \ Fire Emblem Warriors Series \ Fitness Boxing Series \ Fódlan Series \ Fossil Fighters Series \ Game & Watch Gallery Series \ Game System Applications \ Golden Sun Series \ GREZZO \ Hyrule Warriors Series \ Intelligent Systems \ Itadaki Street Series \ Jugdral Series \ Kid Icarus Series \ Kirby \ Kirby of the Stars Series \ Kirby's Dream Collection \ Kirby's Dream Land Series \ Kirby's Star Stacker Series \ Luigi Series \ Luigi's Mansion Series \ Magical Vacation Series \ Mario & Luigi \ Mario & Luigi: Bowser's Inside Story Series \ Mario & Luigi: Superstar Saga Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario + Rabbids \ Mario All Stars \ Mario Baseball Series \ Mario Bros. Series \ Mario Discovery Series \ Mario Golf \ Mario Hoops Series \ Mario Kart \ Mario Kart Arcade GP Series \ Mario Party \ Mario Sports \ Mario Strikers \ Mario Teaches Typing Series \ Mario Tennis \ Masahiro Sakurai's Games \ Metroid II Series \ Metroid Prime Series \ Metroid Prime: Trilogy \ MOTHER \ MOTHER 1 + 2 \ New Super Mario Bros. Series \ Next Level Games \ Nintendo Cube \ Nintendo EAD Group No. 1 \ Nintendo EAD Group No. 2 \ Nintendo EAD Group No. 3 \ Nintendo EAD Group No. 4 \ Nintendo EAD Production Group Tokyo \ Nintendo EPD Group No. 4 \ Nintendo Power \ Nintendo Puzzle Collection \ Nintendo R&D2 \ Nintendo SDD \ Nintendo SPD Group No.1 \ Nintendo SPD Group No.2 \ Operation Rainfall \ Paper Mario Series \ Pikmin \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Generation 3 \ Pokémon Generation 6 \ Pokémon Generation 7 \ Pokémon Legends \ Pokémon Mystery Dungeon \ Pokémon Ranger Series \ Pokémon Snap Series \ Pokémon Storage Software \ Princess Peach Series \ Punch-Out!! Series \ Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition \ Puzzle League Series \ Retro Studios \ Rhythm Heaven \ Sin & Punishment Series \ Splatoon Series \ Star Fox Series \ StreetPass Mii Plaza Games \ Super Mario 3D All-Stars \ Super Mario 3D Platformers \ Super Mario 3D Series \ Super Mario 3D World + Bowser's Fury \ Super Mario Advance Series \ Super Mario All-Stars \ Super Mario Bros. 2 Series \ Super Mario Bros. 3 Series \ Super Mario Bros. Cartoons \ Super Mario Bros. Series \ Super Mario Galaxy Series \ Super Mario Land Series \ Super Mario Main Series \ Super Mario Maker Series \ Super Mario Party Series \ Super Mario World Series \ Super Smash Bros. \ Tellius Series \ The Legend of Zelda \ The Legend of Zelda 2D Games \ The Legend of Zelda 3D Games \ The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: A Link to the Past Series \ The Legend of Zelda: Breath of the Wild Series \ The Legend of Zelda: Collector's Edition \ The Legend of Zelda: Four Swords Series \ The Legend of Zelda: Twilight Princess Series \ The Legendary Starfy Series \ The Software Toolworks \ Touch! Generations \ Valentia Series \ Vanpool \ Wada Sachiko's Art \ Wario Land \ Wario Series \ Wario's Woods Series \ WarioWare \ WarioWare, Inc. Series \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series \ Wii Party Series \ Wii Series \ Wii Sports Series \ Xenoblade \ Yoshi Series \ Yoshi's Island Series
-Nintendo 3DS | Bowser's Minions Series \ Inazuma Eleven Go! Series \ Mario & Luigi: Bowser's Inside Story Series \ Mario & Luigi: Superstar Saga Series \ Mutant Mudds Series \ Persona Q Series \ Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition \ StreetPass Mii Plaza Games \ The Great Ace Attorney \ Valentia Series
-Nintendo 64 | Banjo-Kazooie Series
-Nintendo DS | Castlevania Dominus Collection \ Devil Survivor Series \ Dragon Ball Origins Series \ Fossil Fighters Series \ Mega Man Star Force Series \ Phoenix Wright: Ace Attorney Trilogy \ Pokémon Black/White Series \ Sonic Rush Series \ Star Wars: The Force Unleashed Series \ Tokimeki Memorial Girl's Side
+Nintendo | Advance Wars Series \ AlphaDream \ Animal Crossing \ Archanea \ Balloon Fight Series \ Big Brain Academy Series \ Bowser's Minions Series \ Brain Age \ Camelot Software Planning \ CAProduction \ Captain N and the New Super Mario World \ Creatures Inc. \ Custom Robo \ Dark Matter Trilogy \ Detective Pikachu Series \ Donkey Kong Jr. Series \ Donkey Kong Land Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Elibe Series \ Endless Ocean Series \ Excite Series \ F-Zero Series \ Famicom Detective Club Series \ Famicom Grand Prix \ Fire Emblem \ Fire Emblem Warriors Series \ Fódlan Series \ Fossil Fighters Series \ Fuse Games \ Game & Watch Gallery Series \ Game System Applications \ Golden Sun Series \ Good-Feel \ Hyrule Warriors Series \ Intelligent Systems \ Jugdral Series \ Kid Icarus Series \ Kirby of the Stars Series \ Kirby's Dream Collection \ Kirby's Dream Land Series \ Kirby's Star Stacker Series \ Luigi's Mansion Series \ Mario & Luigi \ Mario & Luigi: Bowser's Inside Story Series \ Mario & Luigi: Superstar Saga Series \ Mario All Stars \ Mario Baseball Series \ Mario Bros. Series \ Mario Golf \ Mario Hoops Series \ Mario Party \ Mario Sports \ Mario Strikers \ Mario Tennis \ Masahiro Sakurai's Games \ Metroid II Series \ Metroid Prime Series \ Metroid Prime: Trilogy \ Metroid Series \ MOTHER \ MOTHER 1 + 2 \ New Super Mario Bros. Series \ Nintendo Cube \ Nintendo EAD Group No. 1 \ Nintendo EAD Group No. 2 \ Nintendo EAD Group No. 3 \ Nintendo EAD Group No. 4 \ Nintendo EAD Production Group Tokyo \ Nintendo Puzzle Collection \ Nintendo R&D2 \ Nintendo SDD \ Nintendo SPD Group No.1 \ Operation Rainfall \ Paper Mario Series \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Legends \ Pokémon Mystery Dungeon \ Pokémon Snap Series \ Pokémon Trading Card Game (GBC) Series \ Princess Peach Series \ Puzzle League Series \ Retro Studios \ Rhythm Heaven \ Sin & Punishment Series \ Splatoon Series \ StreetPass Mii Plaza Games \ Super Mario 3D All-Stars \ Super Mario 3D Platformers \ Super Mario 3D Series \ Super Mario 3D World + Bowser's Fury \ Super Mario Advance Series \ Super Mario All-Stars \ Super Mario Bros. 2 Series \ Super Mario Bros. 3 Series \ Super Mario Bros. Cartoons \ Super Mario Galaxy Series \ Super Mario Land Series \ Super Mario Main Series \ Super Mario Maker Series \ Super Mario Party Series \ Super Smash Bros. \ Tellius Series \ The Legend of Zelda \ The Legend of Zelda 2D Games \ The Legend of Zelda 3D Games \ The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: A Link to the Past Series \ The Legend of Zelda: Breath of the Wild Series \ The Legend of Zelda: Collector's Edition \ The Legend of Zelda: Four Swords Series \ The Legend of Zelda: Twilight Princess Series \ The Legendary Starfy Series \ Touch! Generations \ Valentia Series \ Vanpool \ Wada Sachiko's Art \ Wario Land \ Wario's Woods Series \ WarioWare \ WarioWare, Inc. Series \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series \ Wii Fit Series \ Wii Party Series \ Wii Series \ Wii Sports Series \ Xenoblade \ Yoshi's Island Series \ Zelda CD-i Series
+Nintendo (Publisher) | Advance Wars Series \ AlphaDream \ Animal Crossing \ Archanea \ Balloon Fight Series \ Bayonetta Series \ Big Brain Academy Series \ Bowser's Minions Series \ Brain Age \ Camelot Software Planning \ CAProduction \ Captain N and the New Super Mario World \ Creatures Inc. \ Custom Robo \ Dark Matter Trilogy \ Detective Pikachu Series \ Donkey Kong 3 Series \ Donkey Kong Country Series \ Donkey Kong Jr. Series \ Donkey Kong Land Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Elibe Series \ Endless Ocean Series \ Excite Series \ F-Zero Series \ Famicom Detective Club Series \ Famicom Grand Prix \ Fire Emblem \ Fire Emblem Warriors Series \ Fitness Boxing Series \ Fódlan Series \ Fossil Fighters Series \ Fuse Games \ Game & Watch Gallery Series \ Game System Applications \ Golden Sun Series \ Good-Feel \ GREZZO \ Hyrule Warriors Series \ Intelligent Systems \ Itadaki Street Series \ Jugdral Series \ Kid Icarus Series \ Kirby \ Kirby of the Stars Series \ Kirby's Dream Collection \ Kirby's Dream Land Series \ Kirby's Star Stacker Series \ Luigi Series \ Luigi's Mansion Series \ Magical Vacation Series \ Mario & Luigi \ Mario & Luigi: Bowser's Inside Story Series \ Mario & Luigi: Superstar Saga Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario + Rabbids \ Mario All Stars \ Mario Baseball Series \ Mario Discovery Series \ Mario Golf \ Mario Hoops Series \ Mario Kart \ Mario Kart Arcade GP Series \ Mario Party \ Mario Sports \ Mario Strikers \ Mario Teaches Typing Series \ Mario Tennis \ Masahiro Sakurai's Games \ Metroid II Series \ Metroid Prime Series \ Metroid Prime: Trilogy \ MOTHER \ MOTHER 1 + 2 \ New Super Mario Bros. Series \ Next Level Games \ Nintendo Cube \ Nintendo EAD Group No. 1 \ Nintendo EAD Group No. 2 \ Nintendo EAD Group No. 3 \ Nintendo EAD Group No. 4 \ Nintendo EAD Production Group Tokyo \ Nintendo EPD Group No. 4 \ Nintendo Power \ Nintendo Puzzle Collection \ Nintendo R&D2 \ Nintendo SDD \ Nintendo SPD Group No.1 \ Nintendo SPD Group No.2 \ Operation Rainfall \ Paper Mario Series \ Pikmin \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Games \ Pokémon Generation 2 \ Pokémon Generation 3 \ Pokémon Generation 6 \ Pokémon Generation 7 \ Pokémon Legends \ Pokémon Mystery Dungeon \ Pokémon Ranger Series \ Pokémon Snap Series \ Pokémon Storage Software \ Pokémon Trading Card Game (GBC) Series \ Princess Peach Series \ Punch-Out!! Series \ Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition \ Puzzle League Series \ Retro Studios \ Rhythm Heaven \ Sin & Punishment Series \ Splatoon Series \ Star Fox Series \ StreetPass Mii Plaza Games \ Super Mario 3D All-Stars \ Super Mario 3D Platformers \ Super Mario 3D Series \ Super Mario 3D World + Bowser's Fury \ Super Mario Advance Series \ Super Mario All-Stars \ Super Mario Bros. 2 Series \ Super Mario Bros. 3 Series \ Super Mario Bros. Cartoons \ Super Mario Bros. Series \ Super Mario Galaxy Series \ Super Mario Land Series \ Super Mario Main Series \ Super Mario Maker Series \ Super Mario Party Series \ Super Mario World Series \ Super Smash Bros. \ Tellius Series \ The Legend of Zelda \ The Legend of Zelda 2D Games \ The Legend of Zelda 3D Games \ The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: A Link to the Past Series \ The Legend of Zelda: Breath of the Wild Series \ The Legend of Zelda: Collector's Edition \ The Legend of Zelda: Four Swords Series \ The Legend of Zelda: Twilight Princess Series \ The Legendary Starfy Series \ The Software Toolworks \ Touch! Generations \ Valentia Series \ Vanpool \ Wada Sachiko's Art \ Wario Land \ Wario Series \ Wario's Woods Series \ WarioWare \ WarioWare, Inc. Series \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series \ Wii Fit Series \ Wii Party Series \ Wii Series \ Wii Sports Series \ Xenoblade \ Yoshi Series \ Yoshi's Island Series \ Zelda CD-i Series
+Nintendo 3DS | Bowser's Minions Series \ Inazuma Eleven Go! Series \ Mario & Luigi: Bowser's Inside Story Series \ Mario & Luigi: Superstar Saga Series \ Mutant Mudds Series \ Persona Q Series \ Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition \ Shin Megami Tensei IV Series \ StreetPass Mii Plaza Games \ The Great Ace Attorney \ Valentia Series
+Nintendo DS | Castlevania Dominus Collection \ Devil Survivor Series \ Dragon Ball Origins Series \ Fossil Fighters Series \ Mega Man Star Force Series \ Mega Man ZX Series \ Phoenix Wright: Ace Attorney Trilogy \ Pokémon Black/White Series \ Sonic Rush Series \ Star Wars: The Force Unleashed Series \ Tokimeki Memorial Girl's Side
 Nintendo EAD | Famicom Grand Prix \ Super Mario All-Stars \ The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: Collector's Edition
 Nintendo EAD Group No. 2 | Wii Sports Series
 Nintendo EAD Group No. 4 | New Super Mario Bros. Series \ Super Mario Maker Series
 Nintendo EAD Production Group Tokyo | Super Mario 3D Series \ Super Mario Galaxy Series
-Nintendo Entertainment System | Digital Devil Story \ Donkey Kong Jr. Series \ Dragon Ball Z: Gokuden Series \ Dragon Ball Z: Super Saiya Densetsu \ Dragon Ball: Shenlong no Nazo Series \ Famicom Grand Prix \ Mario Discovery Series \ Mega Man Legacy Collection \ NES Classic Edition \ Super Mario Bros. 2 Series \ The Software Toolworks
-Nintendo GameCube | Baten Kaitos \ Capcom Five \ Donkey Konga Series \ Pokémon Colosseum Series \ Sonic Adventure Series \ Super Monkey Ball Deluxe \ Tony Hawk's Underground Series
+Nintendo Entertainment System | Digital Devil Story \ Donkey Kong Jr. Series \ Dragon Ball Z: Gokuden Series \ Dragon Ball Z: Super Saiya Densetsu \ Dragon Ball: Shenlong no Nazo Series \ Famicom Grand Prix \ Mario Discovery Series \ Mega Man Legacy Collection \ NES Classic Edition \ Super Mario Bros. 2 Series \ The Disney Afternoon Collection \ The Software Toolworks
+Nintendo GameCube | Baten Kaitos \ Capcom Five \ Def Jam Games \ Donkey Konga Series \ Pokémon Colosseum Series \ Sonic Adventure Series \ Super Monkey Ball Deluxe \ Tony Hawk's Underground Series
 Nintendo R&D1 | Game & Watch Games \ Mario Bros. Series \ Super Mario Land Series \ WarioWare, Inc. Series \ Wrecking Crew Series
 Nintendo R&D2 | Donkey Kong Jr. Series
 Nintendo SPD Group No.1 | Rhythm Heaven \ WarioWare: D.I.Y. Series
-Nintendo SPD Group No.2 | Dr. Mario & Bacteria Extermination Series \ Fossil Fighters Series \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Tellius Series
-Nintendo SPD Group No.3 | Custom Robo \ Luigi's Mansion Series \ Mario Strikers \ Metroid Prime: Trilogy \ Next Level Games
+Nintendo SPD Group No.2 | Dr. Mario & Bacteria Extermination Series \ Endless Ocean Series \ Fossil Fighters Series \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Tellius Series
+Nintendo SPD Group No.3 | Custom Robo \ Mario Strikers \ Metroid Prime: Trilogy \ Next Level Games
 Nintendo SPD Group No.4 | Bowser's Minions Series \ DK Climber Series \ Mario & Luigi: Bowser's Inside Story Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Hoops Series
-Nintendo Switch | Bloodstained Series \ Brownies Inc. \ Cupid Parasite Series \ Famicom Detective Club Series \ Fire Emblem Warriors Series \ Fitness Boxing Series \ Fódlan Series \ Hyrule Warriors Series \ Mario + Rabbids \ Nickelodeon All-Star Brawl Series \ Pokémon Legends \ Prison Princess Series \ RedCandleGames \ Shin Megami Tensei V Series \ Super Mario Party Series \ The Legend of Zelda: Breath of the Wild Series \ Xenoblade \ Yuuya's Art
-Nintendo Switch Online | Dark Matter Trilogy \ Donkey Kong Jr. Series \ Elibe Series \ Kirby's Dream Land Series \ Mega Man World \ Super Mario Advance Series \ Super Mario All-Stars \ The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: Collector's Edition \ Wrecking Crew Series
+Nintendo Switch | A Shell in the Pit \ ANIPLEX.EXE \ Atelier Ryza Series \ Axiom Verge Series \ Blasphemous Series \ Blaster Master Zero Series \ Bloodstained Series \ Brownies Inc. \ Christian Whitehead's Works \ Cupid Parasite Series \ Dadish Series \ Dragon Quest Heroes Series \ Famicom Detective Club Series \ Fire Emblem Warriors Series \ Fitness Boxing Series \ Fódlan Series \ Frogun Series \ Gal Guardians Series \ Greg Lobanov's Works \ HYDE, Inc. \ illuCalab's Works \ Mario + Rabbids \ Nickelodeon All-Star Brawl Series \ Nomada Studio \ OXENFREE Series \ Pokémon Legends \ Prison Princess Series \ RedCandleGames \ Resident Evil: Revelations Series \ Shin Megami Tensei V Series \ Spirit Hunter Series \ Super Mario Party Series \ Toree Series \ Turnip Boy Series \ Valiant Hearts Series \ Voice of Cards \ WhisperGames \ Xenoblade \ Yuuya's Art
+Nintendo Switch Online | Dark Matter Trilogy \ Donkey Kong Jr. Series \ Elibe Series \ Kirby's Dream Land Series \ Mega Man World \ Super Mario Advance Series \ Super Mario All-Stars \ The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: Collector's Edition \ Wada Sachiko's Art \ Wrecking Crew Series
 Nintendo Video | FilmCow
-Nippon Ichi Software | Criminal Girls Series \ Disgaea Series \ Guided Fate Series \ Labyrinth Series \ Makai Series \ Mana Khemia Series \ Marl Kingdom Universe \ Prinny Series \ The Witch and the Hundred Knight Multiverse \ The Witch and The Hundred Knight Series \ Yomawari \ Z/X -Zillions of enemy X-
+Nippon Ichi Software | Criminal Girls Series \ Disgaea Series \ Guided Fate Series \ Labyrinth Series \ Makai Series \ Mana Khemia Series \ Marl Kingdom Universe \ Phantom Brave Series \ Prinny Series \ The Witch and the Hundred Knight Multiverse \ The Witch and The Hundred Knight Series \ Yomawari \ Z/X -Zillions of enemy X-
 Nippon TV | Macross
-Niru Kajitsu | Traffic Light
-NIS America | Arcana Heart 3 Series \ Atelier Iris Series \ Disgaea Series \ La-Mulana Series \ Labyrinth Series \ Mana Khemia Series \ Marl Kingdom Universe \ Mugen Souls Series \ Prinny Series \ The Caligula Effect Series \ Yomawari
+Niru Kajitsu | BAKUI's Works \ Traffic Light
+NIS America | Arcana Heart 3 Series \ Atelier Iris Series \ Disgaea Series \ La-Mulana Series \ Labyrinth Series \ Mana Khemia Series \ Marl Kingdom Universe \ Mugen Souls Series \ Phantom Brave Series \ Prinny Series \ The Caligula Effect Series \ Yomawari
 Nisio Isin's Works | Zaregoto Franchise
-nitroplus | Demonbane Series \ Luck & Logic Series \ Nitro+CHiRAL \ Shin'ya Oosaki's Art \ Steins;Gate Series \ Super Sonico \ Tsuji Santa's Art
+Nitro+CHiRAL | Slow Damage Series
+nitroplus | Demonbane Series \ Luck & Logic Series \ Shin'ya Oosaki's Art \ Steins;Gate Series \ Super Sonico \ Tsuji Santa's Art
 Niθ's Art | sin Franchise
 Nobuyuki Fukumoto's Works | Kaiji Series \ Ten Series
 Noizi Itou's Art | Guided Fate Series
 Norse Mythology Media | MCU Thor Series \ Senua's Saga
+Norwegian Media | The Longest Journey Series
 Not Doppler | Cactus McCoy Series
 NOVECT | The House in Fata Morgana Series
 NScripter Games | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs
 NTR | Atelier Sakura \ BBQLiuhun's Works \ LiLiM DARKNESS \ Saimin Seishidou Series
-Nutaku | HuniePot \ Kinkoid \ NEKO-NIN exHeart Series \ Nutaku Publishing \ xDNA
+Nutaku | HuniePot \ Kinkoid \ Kopianget's Art \ NEKO-NIN exHeart Series \ Nutaku Publishing \ xDNA
 Nutaku Publishing | xDNA
 Nuwaru's Works | GOSONJAK's Works
-O Entertainment | Barnyard Series \ Jimmy Neutron Series
+O Entertainment | Barnyard Series
+Obsidian Entertainment | Pillars of Eternity Series
 Ohta Shuppan | Manga Erotics F
 Ohtaka Shinobu's Works | Magi Series
-Old Literature | H. G. Wells' Works \ Jane Austen's Work \ Rudyard Kipling's Works \ The Jungle Book Anthology \ Victor Hugo's Works
+Old Literature | H. G. Wells' Works \ Jane Austen's Works \ Lucy Maud Montgomery's Works \ Rudyard Kipling's Works \ The Jungle Book Anthology \ Victor Hugo's Works \ William Shakespeare's Works
 OLM | Cocotama \ Inazuma Eleven Go! Series \ OLM Team Yoshioka \ Shinkansen Henkei Robo Shinkalion Series
 Olympics | Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series
-Omegaverse | Today Spring's Works
+Omegaverse | Love is an Illusion! Series \ Today Spring's Works
 One Piece Series | One Piece Movies
 One Thousand and One Nights Media | Magi Series
 OneStory | Baegji's Art \ Nate
-Open World Games | [PROTOTYPE] Series \ Avalanche Studios \ Dead Rising \ Dying Light Series \ Grand Theft Auto \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ Gravity Rush Series \ inFAMOUS Series \ Just Cause Series \ LEGO Marvel Video Games \ Need for Speed \ Rockstar Advanced Game Engine \ S.T.A.L.K.E.R. Series \ Shadow of Middle-earth \ Shenmue \ Slime Rancher Series \ Snowdrop Engine Games \ Subnautica Series \ SureAI \ WATCH_DOGS Series \ WB Games Montréal \ Xenoblade
+Open World Games | [PROTOTYPE] Series \ Avalanche Studios \ Dead Rising \ Dying Light Series \ Grand Theft Auto \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ Gravity Rush Series \ Grow Home Series \ inFAMOUS Series \ Just Cause Series \ Kingdom Come: Deliverance Series \ LEGO Marvel Video Games \ Mafia Series \ Mount & Blade Series \ Need for Speed \ Rockstar Advanced Game Engine \ S.T.A.L.K.E.R. Series \ Shadow of Middle-earth \ Shenmue \ Slime Rancher Series \ Snowdrop Engine Games \ Subnautica Series \ SureAI \ TaleWorlds Entertainment \ WATCH_DOGS Series \ WB Games Montréal \ Xenoblade
 Orange_Juice | QP Series \ SUGURI Series
 ORCSOFT | Sei Yariman Gakuen Series
 Original Xbox | Destroy All Humans! Series \ Grand Theft Auto: The Trilogy \ Pandemic Studios \ Star Wars: Knights of the Old Republic Series \ Super Monkey Ball Deluxe \ Tony Hawk's Underground Series
 Oryou's Art | Aibeya Series
 Otomate | Code: Realize Series \ Collar×Malice Series \ Cupid Parasite Series \ Hakuouki Series \ Hanamura Mai's Art \ Hiiro no Kakera Series \ Kinami Yuki's Art \ Kuni no Alice Series \ Kuroyuki's Art \ Miko's Art \ Nagaoka's Art \ Usuba Kagerou's Art \ Wand of Fortune Series \ Yuuya's Art
-Otome Games | Angelique Series \ Be My Princess Series \ Beemoov \ BF (Beta) Series \ Cheritz \ Ciagram Co, Ltd \ Code: Realize Series \ Collar×Malice Series \ Cupid Parasite Series \ Destiny Ninja Series \ Dulcet Games \ Hakuouki Series \ Hanamura Mai's Art \ Hiiro no Kakera Series \ honeybee \ Kalmia8 \ Kazuaki's Art \ Ken ga Kimi Franchise \ Kuni no Alice Series \ Kuroyuki's Art \ Miko's Art \ My Candy Love Series \ Neoromance \ RiRi's Art \ Shall we date? \ Shinigami Kareshi Series \ Shiro Yamada's Art \ Story of Eroolia \ Teita's Art \ Tokimeki Memorial Girl's Side \ Usuba Kagerou's Art \ Visuki \ Wand of Fortune Series \ Yuuya's Art \ Yuzuki Karu's Art
-Otome-Based Series | Blue Canna's Art \ Dalseul's Works \ Eun-chae Go's Works \ HameFura Series \ Haron Lee's Works \ Hee-jin Bae's Works \ Jagae's Art \ Jagyum's Works \ KAKON's Art \ Lisabel's Works \ Mokgamgi's Works \ Overlap Novels f \ Plutus's Works \ RinA's Works \ RYU HEON's Works \ Spice&Kitty's Works \ Viewcommz
+Otome Games | Angelique Series \ Be My Princess Series \ Beemoov \ BF (Beta) Series \ Cheritz \ Ciagram Co, Ltd \ Code: Realize Series \ Collar×Malice Series \ Cupid Parasite Series \ Destiny Ninja Series \ Dulcet Games \ Hakuouki Series \ Hanamura Mai's Art \ Hiiro no Kakera Series \ honeybee \ Kalmia8 \ Kazuaki's Art \ Ken ga Kimi Franchise \ Kuni no Alice Series \ Kuroyuki's Art \ Miko's Art \ My Candy Love Series \ Neoromance \ RiRi's Art \ Shinigami Kareshi Series \ Shiro Yamada's Art \ Story of Eroolia \ Teita's Art \ Tokimeki Memorial Girl's Side \ Usuba Kagerou's Art \ Visuki \ Wand of Fortune Series \ Yuuya's Art \ Yuzuki Karu's Art
+Otome-Based Series | Blue Canna's Art \ Dalseul's Works \ Eun-chae Go's Works \ Hachipisuwan's Art \ HameFura Series \ Haron Lee's Works \ Hee-jin Bae's Works \ Jagae's Art \ Jagyum's Works \ Jishou Akuyaku Reijou Series \ KAKON's Art \ Lisabel's Works \ Mokgamgi's Works \ Plutus's Works \ RinA's Works \ RYU HEON's Works \ Spice&Kitty's Works
 over.J's Works | Tae-Young Choi's Art
 OVERLAP | Arifureta Series \ Overlap Bunko \ Overlap Novels \ Overlap Novels f
 Overlap Bunko | Arifureta Series
@@ -976,24 +1026,28 @@ Pandemic Studios | Destroy All Humans! Series
 Paon DP | DK Climber Series
 Papa Louie Series | Papa Louie Platformers \ Papa's Gamerias
 Papergames | Nikki UP2U Series
-Paramount Global | Barnyard Series \ Bayformers \ Blue's Clues Series \ Butch Hartman's Works \ CSI Series \ Dan Schneider's Works \ Dora & Diego \ Henry Danger Series \ iCarly Series \ Invader Zim Series \ Jimmy Neutron Series \ O Entertainment \ Rise of the Teenage Mutant Ninja Turtles Series \ Rugrats Series \ South Park Series \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ The Fairly OddParents Series \ The Loud House Series \ Top Gun Series \ VICTORiOUS Series
-Paramount Pictures | Bayformers \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Top Gun Series
+Paramount Global | Barnyard Series \ Bayformers \ Blue's Clues Series \ Butch Hartman's Works \ CSI Series \ Dan Schneider's Works \ Dora & Diego \ Henry Danger Series \ iCarly Series \ Invader Zim Series \ Jimmy Neutron Series \ O Entertainment \ Rise of the Teenage Mutant Ninja Turtles Series \ Rugrats Series \ Smile Series \ South Park Series \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ The Fairly OddParents Series \ The Loud House Series \ Top Gun Series \ VICTORiOUS Series
+Paramount Pictures | Smile Series \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Top Gun Series
 Park Dam's Art | Yeongha's Works
-Parkour | Dying Light Series
+Parkour | Dying Light Series \ Ghostrunner Series
 Parodies | Austin Powers Series
 Party Games | CAProduction \ Crash Bandicoot Party Series \ EyeToy Games \ Itadaki Street Series \ Jackbox Games Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Party \ Super Mario Party Series \ Super Monkey Ball Deluxe \ Super Smash Bros. \ WarioWare: Smooth Moves Series \ Wii Party Series
+Patapon Series | Patapon 1+2 Replay
 PBS Kids | Clifford the Big Red Dog Series \ Kratt Brothers Company
 PC-88 | Dragon Slayer Chronicle
 PC-98 | AI5 Games \ Doukyuusei Series \ Dragon Slayer Chronicle \ Immoral Study Scenario Series \ JAST USA Memorial Collection \ Touhou Project (PC-98 Canon) \ Viper Series
 Peanutoon | Haeyoon's Works \ Kang Ki's Art
 Persona | Modern Persona \ Persona 2 Series \ Persona 3 Series \ Persona 4 Series \ Persona 5 Series \ Persona Dancing \ Persona Q Series
-Phantasy Star Series | Phantasy Star Online Series \ Phantasy Star Portable Series \ Phantasy Star Universe Series
+Peruvian Media | 7th Beat Games \ ENA Series \ Joel Guerra's Works
+Phantasy Star Online Series | Phantasy Star Online 2 Series
+Phantasy Star Series | Phantasy Star Online 2 Series \ Phantasy Star Online Series \ Phantasy Star Portable Series \ Phantasy Star Universe Series
 Phantasy Star Universe Series | Phantasy Star Portable Series
 Phil Lord and Christopher Miller's Works | Cloudy with a Chance of Meatballs Series \ Spider-Verse Saga
+Philips CD-i | Zelda CD-i Series
 Photography Games | Fatal Frame \ Pokémon Snap Series
 Piacci | fairys
 Pillow Fight | Worst Girls Games
-Pinball | Sonic Pinball Series
+Pinball | Fuse Games \ Sonic Pinball Series
 Pine Jam | Kiseki Himura's Art
 Pink Pineapple | Baku Ane Series \ Comic Anthurium \ Nanao's Works \ Real Eroge Situation Series
 Pink Tea Games | Elven Conquest Series
@@ -1004,112 +1058,117 @@ Pixar Animation Studios | Cars Movies \ Cars Series \ Cars Video Games \ Domee S
 pixiv Media | Comic Pool \ Gangan pixiv
 Plants vs. Zombies Series | Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games
 Platform Fighters | Nickelodeon All-Star Brawl Series \ Rivals of Aether Series \ Super Smash Bros.
-Platformer Games | 2D Platformers \ 3D Platformers \ American McGee's Alice Series \ Assassin's Creed Chronicles \ Backbone Entertainment \ Banjo-Kazooie Series \ Blaster Master Series \ Blaster Master Zero Series \ Bonk Series \ Bossa Studios \ Cactus McCoy Series \ Castle of Illusion Series \ Castlevania Advance Collection \ Castlevania Anniversary Collection \ Castlevania Dominus Collection \ Castlevania Requiem \ Chibi-Robo Series \ Christian Whitehead's Works \ Cinematic Platformers \ Collect-a-thon Platformers \ Contra Series \ Core Design \ Crash Bandicoot Main Series \ Crash Bandicoot N. Sane Trilogy \ Crash Handheld Series \ Crash Mutants Series \ Croc Series \ Dark Matter Trilogy \ Donkey Kong Land Series \ Drawn to Life Series \ Epic Mickey Series \ Freedom Planet Series \ Games Like Wario Land \ Gex Series \ Ghostrunner Series \ Hollow Knight Series \ Image & Form \ Jet Set Radio Series \ Kao the Kangaroo Series \ Kirby of the Stars Series \ Kirby's Dream Collection \ Kirby's Dream Land Series \ Klonoa Phantasy Reverie Series \ Knack Series \ La-Mulana Series \ Little Nightmares Series \ Maddy Thorson's Works \ Mario Bros. Series \ Media Molecule \ Mega Man 1 Series \ Mega Man Legacy Collection \ Mega Man Legacy Collection 2 \ Mega Man World \ Mega Man X Legacy Collection \ Mega Man X Legacy Collection 2 \ Mega Man Zero Series \ Mega Man Zero/ZX Legacy Collection \ Mega Man ZX Series \ Metroid II Series \ Metroid Prime Series \ Metroid Prime: Trilogy \ Mirror's Edge Series \ Momodora Series \ Mutant Mudds Series \ New Super Mario Bros. Series \ Nomada Studio \ Ori \ Papa Louie Platformers \ Playdead \ Playtonic Games \ Prince of Persia Series \ Prinny Series \ Ratchet & Clank Collection \ Ratchet & Clank Series \ Rosenkreuzstilette Series \ Shantae Series \ Skylanders \ Sly Cooper \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Colors Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 4 \ Spark the Electric Jester Series \ Spelunky Series \ Spyro Reignited Trilogy \ Strider Series \ Studio Pixel \ Super Mario 3D All-Stars \ Super Mario 3D World + Bowser's Fury \ Super Mario Advance Series \ Super Mario All-Stars \ Super Mario Bros. 2 Series \ Super Mario Bros. Series \ Super Mario Galaxy Series \ Super Mario Land Series \ Super Mario Maker Series \ Super Meat Boy Series \ Team Ladybug \ The Legendary Starfy Series \ The Lost Vikings Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ Wario Land \ Wrecking Crew Series \ Yacht Club Games \ Yoshi's Island Series
+Platformer Games | 3D Platformers \ American McGee's Alice Series \ Assassin's Creed Chronicles \ Blasphemous Series \ Blaster Master Series \ Blaster Master Zero Series \ Bonk Series \ Bossa Studios \ Cactus McCoy Series \ Castle of Illusion Series \ Castlevania Advance Collection \ Castlevania Anniversary Collection \ Castlevania Dominus Collection \ Castlevania Requiem \ Chibi-Robo Series \ Christian Whitehead's Works \ Cinematic Platformers \ Collect-a-thon Platformers \ Contra Series \ Core Design \ Crash Bandicoot Main Series \ Crash Bandicoot N. Sane Trilogy \ Crash Handheld Series \ Crash Mutants Series \ Croc Series \ Dadish Series \ Dark Matter Trilogy \ Donkey Kong Land Series \ Drawn to Life Series \ Epic Mickey Series \ Freedom Planet Series \ Frogun Series \ Gal Guardians Series \ Games Like Wario Land \ Gex Series \ Ghostrunner Series \ Grow Home Series \ Hollow Knight Series \ Image & Form \ Jet Set Radio Series \ Kao the Kangaroo Series \ Kirby of the Stars Series \ Kirby's Dream Collection \ Kirby's Dream Land Series \ Klonoa Phantasy Reverie Series \ Knack Series \ La-Mulana Series \ Little Nightmares Series \ LocoRoco Series \ Lucky's Tale Series \ Maddy Thorson's Works \ Mario Bros. Series \ Media Molecule \ Mega Man 1 Series \ Mega Man Legacy Collection \ Mega Man Legacy Collection 2 \ Mega Man World \ Mega Man X Legacy Collection \ Mega Man X Legacy Collection 2 \ Mega Man Zero Series \ Mega Man Zero/ZX Legacy Collection \ Mega Man ZX Series \ Metroid II Series \ Metroid Prime: Trilogy \ Mirror's Edge Series \ Momodora Series \ Mutant Mudds Series \ N Series \ New Super Mario Bros. Series \ Nomada Studio \ Ori \ Papa Louie Platformers \ Playdead \ Playtonic Games \ Prince of Persia Series \ Prinny Series \ Ratchet & Clank Collection \ Ratchet & Clank Series \ Red Ball Series \ Rosenkreuzstilette Series \ Sanzaru Games \ Shantae Series \ Skylanders \ Sly Cooper \ Snow Bros. Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Colors Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 4 \ Spark the Electric Jester Series \ Spelunky Series \ Spyro Reignited Trilogy \ Strider Series \ Studio Pixel \ Super Mario 3D All-Stars \ Super Mario 3D World + Bowser's Fury \ Super Mario Advance Series \ Super Mario All-Stars \ Super Mario Bros. 2 Series \ Super Mario Bros. Series \ Super Mario Galaxy Series \ Super Mario Land Series \ Super Mario Main Series \ Super Mario Maker Series \ Super Meat Boy Series \ Team Ladybug \ The Legendary Starfy Series \ The Lost Vikings Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ Toree Series \ Umihara Kawase Series \ Vectorman Series \ Wario Land \ Wrecking Crew Series \ Yacht Club Games \ Yoshi's Island Series
 PlatinumGames | Bayonetta Series \ MadWorld Series
 PLAYISM | La-Mulana Series \ Rosenkreuzstilette Series \ Sen's Works \ The Strange Men Series \ Yume Nikki Series
-PlayStation 1 | Chrono \ Crash Bandicoot N. Sane Trilogy \ Croc Series \ Entertainment Software Publishing \ Gex Series \ Lunar Series \ MediEvil Series \ Persona 2 Series \ Puzzle Bobble Series \ Spyro Reignited Trilogy \ Tomb Raider I•II•III Remastered
-PlayStation 2 | Atelier Iris Series \ Capcom Five \ Clover Studio \ Crazy Frog Racer Series \ Dark Cloud Series \ Destroy All Humans! Series \ Dragon Ball Z: Budokai HD Collection \ EyeToy Games \ Final Fantasy X Series \ Gramnad Series \ Grand Theft Auto 3D Universe \ Grand Theft Auto: The Trilogy \ Mana Khemia Series \ Nicktoons Unite Series \ Onimusha \ Pandemic Studios \ Punchline Company \ Ratchet & Clank Collection \ SEGA Superstars Series \ Super Monkey Ball Deluxe \ TimeSplitters Series \ Tony Hawk's Underground Series
-PlayStation 3 | BioShock Series \ Dusk Series \ Final Fantasy XIII Trilogy \ LEGO Indiana Jones Video Games \ Mugen Souls Series \ Mutant Mudds Series \ Resistance Series \ Skylanders \ Sonic & SEGA All-Stars Racing Series \ Sonic the Hedgehog 4 \ Star Wars: The Force Unleashed Series \ Tales of Xillia Series
-PlayStation 4 | Bloodstained Series \ Dragon Ball Xenoverse Series \ Fortnite Series \ Hitman: World of Assassination \ Knack Series \ LEGO Marvel Video Games \ Mutant Mudds Series \ Nickelodeon All-Star Brawl Series \ RedCandleGames \ Sniper Ghost Warrior Series \ Star Wars Jedi Series
-PlayStation 5 | Fortnite Series \ Nickelodeon All-Star Brawl Series \ Star Wars Jedi Series
-PlayStation Portable | Backbone Entertainment \ Dragon Ball Z: Shin Budokai Series \ Dungeon Travelers Series \ God of War: Origins Collection \ Half-Minute Hero Series \ LEGO Indiana Jones Video Games \ Patapon Series \ Persona 2 Series \ Phantasy Star Portable Series \ Prinny Series \ Sonic Rivals Series \ Tales of the World: Radiant Mythology Series \ Yu-Gi-Oh! Tag Force Series
-PlayStation Vita | Bullet Girls Series \ Code: Realize Series \ Collar×Malice Series \ Mutant Mudds Series \ Toukiden Series
-Podcasts | Not Another D&D Podcast \ Rusty Quill \ The Adventure Zone \ The McElroy Family's Works
-Point-and-click Adventure Games | Amanita Design \ Devil Came Through Here Trilogy \ Henry Stickmin Series \ Killmonday Games \ MazM \ Monkey Island \ Nancy Drew Series \ Prison Princess Series \ Riddle School Series \ Spy Fox Series \ Syberia Franchise \ The Dark Eye Series \ Wadjet Eye Games
-Pokémon | Creatures Inc. \ Detective Pikachu Series \ Pokémon Anime \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Games \ Pokémon Generation 1 \ Pokémon Generation 2 \ Pokémon Generation 3 \ Pokémon Generation 4 \ Pokémon Generation 5 \ Pokémon Generation 6 \ Pokémon Generation 7 \ Pokémon Generation 8 \ Pokémon Generation 9 \ Pokémon Manga \ Pokémon Movies \ Pokémon Mystery Dungeon \ Pokémon Ranger Series \ Pokémon Snap Series \ Pokémon Storage Software \ Pokémon Trading Card Game (GBC) Series
+PlayStation 1 | Chrono \ Crash Bandicoot N. Sane Trilogy \ Croc Series \ Dino Crisis Series \ Entertainment Software Publishing \ Exact \ Gex Series \ Lunar Series \ MediEvil Series \ Persona 2 Series \ PlayStation Classic \ SingleTrac \ Spyro Reignited Trilogy \ Tomb Raider I•II•III Remastered
+PlayStation 2 | Atelier Iris Series \ Capcom Five \ Clover Studio \ Crazy Frog Racer Series \ Dark Cloud Series \ Def Jam Games \ Destroy All Humans! Series \ Dragon Ball Z: Budokai HD Collection \ EyeToy Games \ Final Fantasy X Series \ Gramnad Series \ Grand Theft Auto 3D Universe \ Grand Theft Auto: The Trilogy \ KOF: Maximum Impact Series \ Mana Khemia Series \ Nicktoons Unite Series \ Onimusha \ Pandemic Studios \ Punchline Company \ Ratchet & Clank Collection \ SEGA Superstars Series \ Super Monkey Ball Deluxe \ TimeSplitters Series \ Tony Hawk's Underground Series
+PlayStation 3 | [PROTOTYPE] Series \ BioShock Series \ Dragon Quest Heroes Series \ Dusk Series \ Final Fantasy XIII Trilogy \ Kane & Lynch Series \ Killzone Series \ LEGO Indiana Jones Video Games \ Mugen Souls Series \ Mutant Mudds Series \ Resident Evil: Revelations Series \ Resistance Series \ Skylanders \ Sonic & SEGA All-Stars Racing Series \ Sonic the Hedgehog 4 \ Star Wars: The Force Unleashed Series \ Tales of Xillia Series
+PlayStation 4 | A Shell in the Pit \ Assassin's Creed Chronicles \ Atelier Ryza Series \ Axiom Verge Series \ Blasphemous Series \ Blaster Master Zero Series \ Bloodstained Series \ Death end re;Quest Series \ Deck13 Interactive \ Dragon Ball Xenoverse Series \ Dragon Quest Heroes Series \ Dying Light Series \ Fortnite Series \ Frogun Series \ Gal Guardians Series \ Greg Lobanov's Works \ Grow Home Series \ Hitman: World of Assassination \ Knack Series \ LEGO Marvel Video Games \ Lucky's Tale Series \ Mutant Mudds Series \ Mysterious Series \ Nickelodeon All-Star Brawl Series \ Nomada Studio \ OXENFREE Series \ RedCandleGames \ Resident Evil: Revelations Series \ Sniper Ghost Warrior Series \ Snowdrop Engine Games \ Spirit Hunter Series \ Star Wars Jedi Series \ Terry Cavanagh's Works \ The Evil Within Series \ Valiant Hearts Series \ Voice of Cards
+PlayStation 5 | A Plague Tale Series \ Fortnite Series \ Frogun Series \ Gal Guardians Series \ Judgment Series \ Nickelodeon All-Star Brawl Series \ Nomada Studio \ PowerWash Simulator Series \ Star Wars Jedi Series
+PlayStation Portable | Dragon Ball Z: Shin Budokai Series \ Dungeon Travelers Series \ God of War: Origins Collection \ Half-Minute Hero Series \ Kurohyou Series \ LEGO Indiana Jones Video Games \ Patapon 1+2 Replay \ Patapon Series \ Persona 2 Series \ Phantasy Star Portable Series \ Prinny Series \ Sonic Rivals Series \ Tales of the World: Radiant Mythology Series \ Yu-Gi-Oh! Tag Force Series
+PlayStation Vita | Assassin's Creed Chronicles \ Bullet Girls Series \ Code: Realize Series \ Collar×Malice Series \ Daitoshokan no Hitsujikai Series \ Mutant Mudds Series \ Spirit Hunter Series \ Toukiden Series
+Podcasts | Legends of Avantris Campaigns \ Not Another D&D Podcast \ Rusty Quill \ The Adventure Zone \ The McElroy Family's Works
+Point-and-click Adventure Games | Amanita Design \ Cyan Inc. \ Devil Came Through Here Trilogy \ Henry Stickmin Series \ Killmonday Games \ Laura Bow Series \ MazM \ Monkey Island \ Myst Series \ Nancy Drew Series \ Prison Princess Series \ Riddle School Series \ Spy Fox Series \ Syberia Franchise \ The Dark Eye Series \ Wadjet Eye Games
+Pokémon | Creatures Inc. \ Detective Pikachu Series \ Pokémon Anime \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Games \ Pokémon Generation 1 \ Pokémon Generation 2 \ Pokémon Generation 3 \ Pokémon Generation 4 \ Pokémon Generation 5 \ Pokémon Generation 6 \ Pokémon Generation 7 \ Pokémon Generation 8 \ Pokémon Generation 9 \ Pokémon Legends \ Pokémon Manga \ Pokémon Movies \ Pokémon Mystery Dungeon \ Pokémon Ranger Series \ Pokémon Snap Series \ Pokémon Storage Software \ Pokémon Trading Card Game (GBC) Series
 Pokémon Anime | Pokémon Movies
-Pokémon Core Games | Pokémon Black/White Series
-Pokémon Games | Creatures Inc. \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Mystery Dungeon \ Pokémon Snap Series \ Pokémon Trading Card Game (GBC) Series
+Pokémon Core Games | Pokémon Black/White Series \ Pokémon Legends
+Pokémon Games | Creatures Inc. \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Legends \ Pokémon Mystery Dungeon \ Pokémon Snap Series \ Pokémon Trading Card Game (GBC) Series
 Pokémon Generation 3 | Pokémon Colosseum Series
 Pokémon Generation 5 | Pokémon Black/White Series
 Poker Games | Poker Night Series
 Polar Fox | Haron Lee's Works \ Ji-Yeon Park's Works
 Polish Media | Bloober Team \ Devil Came Through Here Trilogy \ Dying Light Series \ Ghostrunner Series \ Kao the Kangaroo Series \ Robot Gentleman \ Sniper Ghost Warrior Series \ Studio Filmów Rysunkowych \ Techland \ vanripper's Works
 Politics | Civilization \ Microprose
-PopCap Games | Peggle Series \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games \ Plants vs. Zombies Series
+PopCap Games | Bookworm Series \ Peggle Series \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games \ Plants vs. Zombies Series \ Zuma Series
 PoRO | LiLiM DARKNESS \ Oni Chichi Series
 Portal Fantasy | Half-Life Series \ Kingdom Hearts Union χ Dark Road \ Papa Louie Platformers \ Stargate \ Tsubasa Chronicle Series
-PQube | Gal*Gun Series
+Post Apocalyptic Genre | The Last of Us Series
+PQube | Gal\*Gun Series
 PreCure | Delicious Party♡Precure Series \ Futari wa PreCure Series \ Glitter Force Series \ Mahoutsukai PreCure! Series \ PreCure All Stars \ PreCure Movies \ Smile PreCure! Series \ Wonderful PreCure Series \ Yes! PreCure 5 Series
 Predator Series | Alien vs. Predator Series
-Pretty Series | Pretty Rhythm \ PriPara Series
+Pretty Series | Pretty Rhythm
 Primate Media | Ape Escape Series \ Donkey Kong 3 Series \ Donkey Kong Country TV Series \ Donkey Kong Jr. Series \ Super Monkey Ball Deluxe
 Princess | Requiem of the Rose King Series
+Produce 101 | WAKEONE Entertainment
 Production I.G | Blood Series
 Production Reed | Cutie Honey Series
 propeller's Works | Stuff Script Engine Games
 PROTOTYPE Ltd. | Rewrite Series
-PTJ COMICS | Tae Jun Park's Works
 Puppetry | The Dark Crystal Series
 Purple software | CMVS Games
 Puzzle & Dragons Series | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition
-Puzzle Games | Angry Birds Trilogy \ Big Brain Academy Series \ Bookworm Series \ Crazy Castle \ DK Climber Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Get Married! Series \ I Expect You To Die Series \ Keita Takahashi's Works \ Kindergarten Series \ Kirby's Star Stacker Series \ LimboLane \ Little Nightmares Series \ Monument Valley Series \ Nancy Drew Series \ Nintendo Puzzle Collection \ Paper Lily Series \ Peggle Series \ Playdead \ Prison Princess Series \ Puzzle Bobble Series \ Puzzle Fighter Series \ Puzzle League Series \ Riddle School Series \ Syberia Franchise \ Tetris Series \ The Lost Vikings Series \ The Talos Principle Series \ Wario's Woods Series \ WonderPlanet Inc. \ Zero Escape \ Zuma Series
-Puzzle Platformers | Playdead \ Wrecking Crew Series
+Puzzle Games | 2D Boy \ Amanda the Adventurer Series \ Angry Birds Trilogy \ Baba Series \ Big Brain Academy Series \ Bookworm Series \ Crazy Castle \ Cyan Inc. \ DK Climber Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Get Married! Series \ I Expect You To Die Series \ Keita Takahashi's Works \ Kindergarten Series \ Kirby's Star Stacker Series \ LimboLane \ Little Nightmares Series \ Magical Drop Series \ Monument Valley Series \ Myst Series \ N Series \ Nancy Drew Series \ Nintendo Puzzle Collection \ Paper Lily Series \ Peggle Series \ Playdead \ Prison Princess Series \ Puzzle Bobble Series \ Puzzle Fighter Series \ Puzzle League Series \ Riddle School Series \ Syberia Franchise \ Tetris Series \ The Lost Vikings Series \ The Talos Principle Series \ Tomorrow Corporation \ Valiant Hearts Series \ Wario's Woods Series \ WonderPlanet Inc. \ World of Goo Series \ Zero Escape \ Zuma Series
+Puzzle Platformers | LocoRoco Series \ N Series \ Playdead \ Wrecking Crew Series
 Qidian | Lord of Mysteries Series
 QLIE Games | Tsuki ni Yorisou Otome no Sahou Series
 Qruppo | Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series
 qureate | NinNinDays Series \ Prison Princess Series
 R.L. Stine's Works | Goosebumps Series
 Rabbids Series | Mario + Rabbids
-Racing | Backbone Entertainment \ Bakusou Kyoudai Let's & Go Series \ Car Racing \ Cars Movies \ Cars Series \ Cars Video Games \ Crash Bandicoot Racing Series \ Crash Nitro Kart Series \ Crazy Frog Racer Series \ Excite Series \ Famicom Grand Prix \ Hot Wheels \ Initial D Series \ Mario Kart \ Mario Kart Arcade GP Series \ Need for Speed \ Ridge Racer Series \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series
-Racing Games | Backbone Entertainment \ Cars Video Games \ Crash Bandicoot Racing Series \ Crash Nitro Kart Series \ Crazy Frog Racer Series \ Excite Series \ Famicom Grand Prix \ Mario Kart \ Mario Kart Arcade GP Series \ Need for Speed \ Ridge Racer Series \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series
+Racing | Bakusou Kyoudai Let's & Go Series \ Car Racing \ Cars Movies \ Cars Series \ Cars Video Games \ Crash Bandicoot Racing Series \ Crash Nitro Kart Series \ Crazy Frog Racer Series \ Excite Series \ Famicom Grand Prix \ Hot Wheels \ Initial D Series \ Mario Kart Arcade GP Series \ Need for Speed \ Ridge Racer Series \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series \ Turbo Series
+Racing Games | Cars Video Games \ Crash Bandicoot Racing Series \ Crash Nitro Kart Series \ Crazy Frog Racer Series \ Excite Series \ Famicom Grand Prix \ Mario Kart Arcade GP Series \ Need for Speed \ Ridge Racer Series \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series \ Sonic Racing Games \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series
 Radical Entertainment | [PROTOTYPE] Series
 Radish | Kin's Works
-Rail Shooter Games | Sin & Punishment Series \ The House of the Dead Series \ Time Crisis Series
-Raising Sims | Digimon World Series \ Princess Maker Series
+Rail Shooter Games | Sin & Punishment Series \ Time Crisis Series
+Raising Sims | Digimon World Series \ Hanako Games \ Princess Maker Series
 Rance | Rance 1 Series \ Rance 2 Series \ Rance 3 Series
-Rare | Banjo-Kazooie Series \ Conker Series \ Donkey Kong Land Series \ Rare Replay
-Rare Replay | Banjo-Kazooie Series
+Rare | Banjo-Kazooie Series \ Conker Series \ Donkey Kong Land Series \ Perfect Dark Series \ Rare Replay
 Ratchet & Clank Series | Ratchet & Clank Collection
+Raven Software | Heretic Series
 Rayark Inc. | Cytus Series \ DEEMO Series
-Real Life People | AKB48 Group \ Authors & Autobiographies \ BigHit Music \ Brain Age \ C-Pop \ Cube Entertainment \ Dream SMP \ Fantagio \ Food Network \ Fortnite Streamers \ IRL Sports \ J-Pop \ J-Rock \ Jimmy Fallon Series \ KQ Entertainment \ Minecraft YouTubers \ Mystic Story \ NormalBoots \ OfflineTV & Friends \ PLEDIS Entertainment \ Produce 101 \ Rainbow Bridge World \ Starship Entertainment \ Trash Taste \ truTV \ YG Entertainment
+Ready at Dawn | God of War: Origins Collection
+Real Life People | AKB48 Group \ BigHit Music \ Brain Age \ C-Pop \ Cube Entertainment \ Discovery Channel \ Dream SMP \ Fantagio \ Food Network \ Fortnite Streamers \ IRL Sports \ J-Pop \ J-Rock \ Jimmy Fallon Series \ KQ Entertainment \ Minecraft YouTubers \ Mystic Story \ NormalBoots \ OfflineTV & Friends \ PLEDIS Entertainment \ Produce 101 \ Rainbow Bridge World \ Starship Entertainment \ truTV \ WAKEONE Entertainment \ YG Entertainment
 Reality TV | Food Network
-RealLive Games | Key 10th Memorial BOX
+RealLive Games | Hadashi Shoujo \ Key 10th Memorial BOX
 red-A's Works | Jake's Art
-REDICE STUDIO | 3B2S \ Sing-Shong's Works \ Swingbat
+REDICE STUDIO | 3B2S \ Nano Machine Series \ Sing-Shong's Works \ Swingbat
 Regista | Daitoshokan no Hitsujikai Series \ Infinity Series
 Rejet | Fuji Mitsuya's Art \ Ken ga Kimi Franchise
 Reki Kawahara's Works | Accel World Series
-Remedy Entertainment | Alan Wake Series
-Ren'Py Games | 90% Studios \ Adastra Series \ Caribdis Games \ Dharker Studios \ Dicesuki \ DrPinkCake's Works \ Echo Project \ Echo Series \ HAZUKASHII ♥ TEAM \ Inma Ruiz's Art \ Kamuo \ LYCORIS \ Our Life Series \ Rebootlove's Works \ shirokoi's Works \ Wanaca's Art \ Winged Cloud
-RenderWare | Grand Theft Auto: The Trilogy
+Remedy Connected Universe | Alan Wake Series
+Remedy Entertainment | Alan Wake Series \ Remedy Connected Universe
+Ren'Py Games | 90% Studios \ Adastra Series \ Black Tabby Games \ Caribdis Games \ Dharker Studios \ Dicesuki \ DrPinkCake's Works \ Echo Project \ Echo Series \ HAZUKASHII ♥ TEAM \ Inma Ruiz's Art \ Kamuo \ LYCORIS \ Our Life Series \ Rebootlove's Works \ shirokoi's Works \ Wanaca's Art \ Winged Cloud
+RenderWare | Grand Theft Auto: The Trilogy \ KOF: Maximum Impact Series
 Resident Evil Series | Resident Evil: Revelations Series
 Respawn Entertainment | Star Wars Jedi Series \ Titanfall Series
 Retro Studios | Metroid Prime: Trilogy
-Rhythm Games | 7th Beat Games \ BF (Beta) Series \ Crypt of the Necrodancer Series \ Cytus Series \ DanceDance Revolution Series \ DEEMO Series \ DJ Media \ DJMAX Series \ Donkey Konga Series \ Geki!Chumai \ Harmonix \ iNiS Corporation \ Kou Nakamura's Works \ Patapon Series \ Persona Dancing \ Pretty Rhythm \ PriPara Series \ Rhythm Heaven \ Space Channel 5 Series
+Rhythm Games | 7th Beat Games \ BF (Beta) Series \ Crypt of the Necrodancer Series \ Cytus Series \ DanceDance Revolution Series \ DEEMO Series \ DJ Media \ DJMAX Series \ Donkey Konga Series \ Geki!Chumai \ Harmonix \ iNiS Corporation \ Kou Nakamura's Works \ Patapon 1+2 Replay \ Patapon Series \ Persona Dancing \ Pretty Rhythm \ Rhythm Heaven \ Space Channel 5 Series \ Theatrhythm
 Ribon | Mayu Sakai's Works \ Wataru Yoshimizu's Works
 Rich Moore's Works | Wreck-It Ralph Series
 Rick Riordan's Works | The Percy Jackson Series
-RidiBooks | Chaepali's Works \ Cheongcho's Works \ Finger Story \ Haejin's Works \ Harusari's Works \ Horizon (Publisher) \ Juns's Works \ Kang Ki's Art \ Kang Pucon's Art \ Moscareto's Works \ orangeD \ Plutus's Works \ Spice&Kitty's Works \ Surreuk Comics \ ZIG's Works
+RidiBooks | Chaepali's Works \ Cheongcho's Works \ Finger Story \ Haejin's Works \ Harusari's Works \ Horizon (Publisher) \ Juns's Works \ Kang Ki's Art \ Kang Pucon's Art \ Moscareto's Works \ orangeD \ Plutus's Works \ Spice&Kitty's Works \ Surreuk Comics
 Rieko Kodama's Works | 7th Dragon Series
 Riichiro Inagaki's Works | Dr. STONE Series
 Riot Games | League of Legends Series
 Roblox Games | Gamefam
 Robotech | Super Dimension Series
-Rockstar Games | Grand Theft Auto \ Grand Theft Auto 3D Universe \ Grand Theft Auto: The Trilogy \ Red Dead Redemption Series \ Rockstar Advanced Game Engine
-Roguelike Games | Chocobo Series \ Darkest Dungeon Series \ Hades Series \ Omega Labyrinth Series \ Pokémon Mystery Dungeon \ Risk of Rain Series \ Roguelike Deckbuilder Games \ Shiren the Wanderer Series \ Spelunky Series
+Rockstar Games | Grand Theft Auto \ Grand Theft Auto 3D Universe \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ Max Payne Series \ Red Dead Redemption Series \ Rockstar Advanced Game Engine
+Rockstar North | Grand Theft Auto 3D Universe \ Grand Theft Auto: The Trilogy
+Roguelike Games | Chocobo Series \ Darkest Dungeon Series \ Gungeon Series \ Hades Series \ Omega Labyrinth Series \ Pokémon Mystery Dungeon \ Risk of Rain Series \ Roguelike Deckbuilder Games \ Shiren the Wanderer Series \ Spelunky Series
 Romance of the Three Kingdoms Media | Dynasty Warriors \ Koihime†Musou Series
 Rovio Entertainment | Angry Birds Trilogy
 RPG Maker 2000 Games | Segawa
-RPG Maker Games | 1bitHeart Series \ aburasobabiyori \ AVANTGARDE \ Buriki Clock \ Commodorette's Works \ Copper Odyssey Series \ Danganronpa Another Series \ Fear & Hunger Series \ Kanawo \ Leaf Geometry \ LISA \ Metoko \ Middens Series \ Ota Guchi Field \ OTAKU Plan \ Purgatory Series \ Rinnedou \ RPG Maker 2000 Games \ RPG Maker 2003 Games \ RPG Maker MV Games \ RPG Maker MZ Games \ RPG Maker VX Ace Games \ RPG Maker VX Games \ RPG Maker XP Games \ Segawa \ Sen's Works \ SEQUEL \ STUDIO INVESTIGRAVE \ The Strange Men Series \ Yai Gameworks \ Yume Nikki Fangames
+RPG Maker Games | 1bitHeart Series \ aburasobabiyori \ AVANTGARDE \ BanameiR \ Buriki Clock \ Commodorette's Works \ Copper Odyssey Series \ Danganronpa Another Series \ Fear & Hunger Series \ Gotcha Gotcha Games \ Kanawo \ Leaf Geometry \ LISA \ Metoko \ Middens Series \ Ota Guchi Field \ OTAKU Plan \ Purgatory Series \ Rinnedou \ RPG Maker 2000 Games \ RPG Maker 2003 Games \ RPG Maker MV Games \ RPG Maker MZ Games \ RPG Maker VX Ace Games \ RPG Maker VX Games \ RPG Maker XP Games \ Segawa \ Sen's Works \ SEQUEL \ STUDIO INVESTIGRAVE \ The Strange Men Series \ Yai Gameworks \ Yume Nikki Fangames
 RPG Maker MV Games | AVANTGARDE \ Fear & Hunger Series \ STUDIO INVESTIGRAVE
 RPG Maker VX Games | Buriki Clock
 Rudyard Kipling's Works | The Jungle Book Anthology
 Rui Komatsuzaki's Art | TRIBE NINE Series
-Run & Gun Games | Contra Series \ Rosenkreuzstilette Series
-Russian Media | HAZUKASHII ♥ TEAM \ Metro Series \ Nekki \ Owlcat Games \ Soviet Games \ Soyuzmultfilm
-Ryona | Kenshirou Minori's Works \ SiNiSistar Series \ Synapse Series
+Run & Gun Games | Contra Series \ Rosenkreuzstilette Series \ Vectorman Series
+Russian Media | AIHASTO \ HAZUKASHII ♥ TEAM \ Metro Series \ Nekki \ Owlcat Games \ Soviet Games \ Soyuzmultfilm
+Ryo Mizuno's Works | Lodoss-tou Senki Series
+Ryona | Foxtail \ Kenshirou Minori's Works \ SiNiSistar Series \ Synapse Series
 Ryou Akizuki's Art | Kill la Kill Series
-Ryu Ga Gotoku Studio | Judgment Series \ Super Monkey Ball Deluxe
+Ryu Ga Gotoku Studio | Judgment Series \ Kurohyou Series \ Super Monkey Ball Deluxe
 Ryukishi07's Works | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs
 Sacnoth | Shadow Hearts Series
 Saimin | Aiue Oka's Works \ Huracan's Art \ MANKAI ZENSEKI \ Saimin Seishidou Series \ Spiral Clicker Series
 SakuraGame | AsicxArt
 Sam & Max Series | Sam & Max Games
 Sam Raimi's Works | Raimi Spider-Man Trilogy
-Samurai Media | Hakuouki Series \ Ken ga Kimi Franchise \ Samurai Shodown \ SAMURAI vs ZOMBIES DEFENSE Series \ Samurai Warriors Series \ Touken Ranbu Series
+Samurai Media | Hakuouki Series \ Ken ga Kimi Franchise \ Samurai Pizza Cats Series \ Samurai Shodown \ SAMURAI vs ZOMBIES DEFENSE Series \ Samurai Warriors Series \ Touken Ranbu Series
 Samyang | Kiarne's Works
-Sandbox Games | Super Mario Maker Series
+Sandbox Games | Mount & Blade Series \ Super Mario Maker Series \ TaleWorlds Entertainment
 Sanrio | Sanrio Mascots
 SapphireFoxx's Works | SapphireFoxx's Animations \ SapphireFoxx's Comics
 Satelight | Aquarion Series \ Sousei no Aquarion Series \ The Caligula Effect Series
@@ -1121,22 +1180,23 @@ SB Creative Corp. | GA Bunko \ GA Comics \ GA Novel \ Goblin Slayer Series \ Maj
 Scat Warning | Scat Fetish Focused Series
 Scholastic Corporation | Clifford the Big Red Dog Series \ Dav Pilkey's Works \ Elisabetta Dami's Works \ Geronimo Stilton Series \ Goosebumps Series
 Science Adventure | Steins;Gate Series
-Scott Cawthon's Works | Mainline FNaF Games \ The Desolate Series
+Scott Cawthon's Works | Five Nights at Freddy's Movie Series \ Mainline FNaF Games \ The Desolate Series
+Scottish Media | Grand Theft Auto 3D Universe \ Grand Theft Auto: The Trilogy \ Rockstar North
 Screamo | Blast Shuppan
-Scuba Diving | Subnautica Series
+Scuba Diving | Endless Ocean Series \ Subnautica Series
 SEEC | ESC-APE
-SEGA | 7th Dragon Series \ Adventures of Sonic the Hedgehog Series \ Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ Aspect \ Backbone Entertainment \ Castle of Illusion Series \ Crazy Taxi Series \ Devil Survivor Series \ DIC Sonic the Hedgehog Cartoons \ Digital Devil Story \ Ecco the Dolphin Series \ Etrian Odyssey Series \ Geki!Chumai \ Golden Axe Series \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Jet Set Radio Series \ Judgment Series \ Knuckles Series \ MadWorld Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Modern Persona \ Mushiking \ Persona 2 Series \ Persona 3 Series \ Persona 5 Series \ Persona Dancing \ Persona Q Series \ Phantasy Star Online Series \ Phantasy Star Portable Series \ Phantasy Star Series \ Phantasy Star Universe Series \ Rieko Kodama's Works \ Ryu Ga Gotoku Studio \ Samba de Amigo Series \ SEGA AM1 \ SEGA Superstars Series \ SegaSonic the Hedgehog Series \ Shin Megami Tensei IV Series \ Shin Megami Tensei V Series \ Shining Force Series \ Shining Series \ Sonic & Mega Man \ Sonic & SEGA All-Stars Racing Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Colors Series \ Sonic Gems Collection \ Sonic Mania Series \ Sonic Racing Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 4 \ Sonic the Hedgehog Boost Games \ Sonic the Hedgehog Movie Franchise \ Sonic Unleashed Series \ Sonic X Series \ Soul Hackers Series \ Space Channel 5 Series \ Streets of Rage \ Summon Night: Swordcraft Story Series \ Super Monkey Ball Deluxe \ Super Monkey Ball Series \ The House of the Dead Series \ The Typing of the Dead Series \ Trauma Center Series \ Valkyria Chronicles Series \ Waku Waku Children's Arcade Rides \ Wonder Boy Series \ Yakuza Series
+SEGA | 7th Dragon Series \ Adventures of Sonic the Hedgehog Series \ Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ Aspect \ Castle of Illusion Series \ Crazy Taxi Series \ Devil Survivor Series \ DIC Sonic the Hedgehog Cartoons \ Digital Devil Story \ Ecco the Dolphin Series \ Etrian Odyssey Series \ Fantasy Zone Series \ Geki!Chumai \ Golden Axe Series \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Jet Set Radio Series \ Judgment Series \ Knuckles Series \ Kurohyou Series \ MadWorld Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Modern Persona \ Mushiking \ Persona 2 Series \ Persona 3 Series \ Persona 5 Series \ Persona Dancing \ Persona Q Series \ Phantasy Star Online 2 Series \ Phantasy Star Online Series \ Phantasy Star Portable Series \ Phantasy Star Series \ Phantasy Star Universe Series \ Project SEKAI Series \ Rieko Kodama's Works \ Ryu Ga Gotoku Studio \ Samba de Amigo Series \ SEGA AM1 \ SEGA Superstars Series \ SegaSonic the Hedgehog Series \ Shin Megami Tensei IV Series \ Shin Megami Tensei V Series \ Shining Force Series \ Shining Series \ Sonic & Mega Man \ Sonic & SEGA All-Stars Racing Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Colors Series \ Sonic Forces Series \ Sonic Gems Collection \ Sonic Mania Series \ Sonic Racing Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 4 \ Sonic the Hedgehog Boost Games \ Sonic the Hedgehog Movie Franchise \ Sonic Unleashed Series \ Sonic X Series \ Soul Hackers Series \ Space Channel 5 Series \ Streets of Rage \ Summon Night: Swordcraft Story Series \ Super Monkey Ball Deluxe \ Super Monkey Ball Series \ The House of the Dead Series \ The Typing of the Dead Series \ Trauma Center Series \ Valkyria Chronicles Series \ Vectorman Series \ Waku Waku Children's Arcade Rides \ Wonder Boy Series \ Yakuza Series
 SEGA AM1 | Waku Waku Children's Arcade Rides
 SEGA Game Gear | Sonic & Tails Series \ Sonic Drift Series
-SEGA Genesis | Castle of Illusion Series \ Lunar Series \ Sonic 3 & Knuckles
+SEGA Genesis | Castle of Illusion Series \ Lunar Series \ Sonic 3 & Knuckles \ Vectorman Series
 SEGA Genesis Mini 2 | Lunar Series
 SEGA Saturn | Entertainment Software Publishing \ Lunar Series
-Sekai Project | illuCalab's Works \ LYCORIS \ NEKO-NIN exHeart Series \ nostalgia \ Re;Lord Series \ Rewrite Series \ Seiiki Series \ Stage-nana's Works
+Sekai Project | feng \ illuCalab's Works \ LYCORIS \ NEKO-NIN exHeart Series \ nostalgia \ Re;Lord Series \ Rewrite Series \ Seiiki Series \ Stage-nana's Works
 Sengoku Media | Samurai Warriors Series \ Sengoku Ace Series
 Serenity Forge | LISA
-Seth MacFarlane's Works | Family Guy Series \ Ted Series
+Seth MacFarlane's Works | Ted Series
 Seven Arcs | Masaki Tsuzuki's Works
-Seven Seas Entertainment | Boogiepop Series \ CLAP \ Meatbun Doesn't Eat Meat's Works \ Mo Xiang Tong Xiu's Works \ Overlap Novels f \ Sarazanmai Series \ Yoru Sumino's Works
+Seven Seas Entertainment | Boogiepop Series \ CLAP \ Meatbun Doesn't Eat Meat's Works \ Mo Xiang Tong Xiu's Works \ Sarazanmai Series \ Yoru Sumino's Works
 Shadow Hearts Series | Sacnoth
 Shall we date? | Destiny Ninja Series
 Sharp X1 Games | Dragon Slayer Chronicle
@@ -1148,115 +1208,119 @@ Shin'ichiro Otsuka's Art | Conception Series \ Summon Night: Swordcraft Story Se
 Shinchosha | Comic@Bunch \ Kurage Bunch \ Weekly Comic Bunch
 Shinichiro Watanabe's Works | Cowboy Bebop Series
 Shining Series | Shining Force Series
-Shinshokan | Cheri+ \ Meguru Hinohara's Works \ Scarlet Beriko's Works \ Wings \ Yuu Minazuki's Works
+Shinshokan | Cheri+ \ Meguru Hinohara's Works \ Scarlet Beriko's Works \ Yuu Minazuki's Works
 Shinta Kameoka's Art | Magical Vacation Series
 Shinya Murata's Works | Killing Bites Series
 Shinza Bansho | Dies irae Series
 Shiravune | Dark One! \ Dungeon Travelers Series \ Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series \ Qruppo
 Shodensha | Feel Young \ on BLUE
-Shogakukan | Adachi Mitsuru \ Akimi Yoshida's Works \ Bakusou Kyoudai Let's & Go Series \ Betsucomi \ Big Comic Spirits \ Big Comic Superior \ Cheese! \ Ciao \ Comiplex \ Gekkan Flowers \ Gekkan! Spirits \ Gessan \ Helck Series \ Hideki Arai's Works \ Hideo Yamamoto's Works \ Hiromu Shinozuka's Works \ Hiroshi Fukuda's Works \ Hiroyuki Nishimori's Works \ Inazuma Eleven Go! Series \ Kazami Sawatari's Works \ Kazuhiro Fujita's Works \ Kenji Taguchi's Works \ Kotoyama's Works \ Magi Series \ Major Series \ Mega Man Battle Network Legacy Collection \ Mega Man NT Warrior Series \ Monthly Hero's \ Moto Hagio's Works \ Motomi Kyousuke's Works \ Petit Comic \ Petit Flower \ Pokémon Manga \ Q Hayashida's Works \ Rei Hiroe's Works \ Rumiko Takahashi's Works \ Sho-Comi \ Sunday GX \ Sunday Webry \ Syun Matsuena's Works \ Takagi-san Series \ Tetsuhiro Koshita's Works \ Ura Sunday \ Weekly Shounen Sunday \ Yawaraka Spirits \ Young Sunday \ Yumi Tamura's Works \ Yuu Watase's Works \ Zoids Series
-Shoot 'em Ups | Aleste Series \ AQLoop \ Contra Series \ Cotton Series \ Cute 'em ups \ Darius Series \ Deathsmiles Series \ DonPachi Series \ eXceed Series \ Gradius Series \ Henteko Doujin \ Hotline Miami Series \ Mushihime-sama Series \ QP Series \ Qute \ Seihou Project \ Sengoku Ace Series \ Sin & Punishment Series \ Team Elegant Impermanence of Sakura \ Touhou Bunkachou
-Shooter Games | Ace Combat \ Alan Wake Series \ Armored Core \ Avalanche Studios \ Bionic Commando Series \ BioShock Series \ Bombshell Series \ Bullet Girls Series \ Bungie \ Call of Duty \ Core Design \ Dead Island Series \ Dead Space Series \ Destiny \ Destroy All Humans! Series \ Deus Ex Universe \ Digital Extremes \ Dishonored Series \ Donkey Kong 3 Series \ Eidos-Montréal \ FARCRY Series \ Fatal Frame \ Fortnite Series \ FuturLab \ GoldSrc Engine Games \ Grand Theft Auto \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ Half-Life Fanworks \ Half-Life Series \ Halo: The Master Chief Collection \ HELLDIVERS Series \ Hitman Series \ Hitman: World of Assassination \ Hotline Miami Series \ Just Cause Series \ Left 4 Dead Series \ Light Gun Games \ Looter Shooter Games \ Lost Planet Series \ Max Payne Series \ Mega Man Legends Series \ Metro Series \ Metroid Prime Series \ Metroid Prime: Trilogy \ Modern Warfare Series \ Mushihime-sama Series \ n-Space \ Nightdive Studios \ Paladins Series \ Pandemic Studios \ Pokémon Snap Series \ Postal Series \ Quake Series \ Ratchet & Clank Collection \ Red Dead Redemption Series \ Remedy Entertainment \ Resident Evil: Revelations Series \ Resistance Series \ Risk of Rain Series \ Rockstar Advanced Game Engine \ S.T.A.L.K.E.R. Series \ Saints Row Series \ Seasun Games \ Sengoku Ace Series \ Sin & Punishment Series \ Slime Rancher Series \ Sniper Ghost Warrior Series \ Snowdrop Engine Games \ Star Wars: Battlefront Series \ Stress Level Zero \ Tactical Shooter Games \ Team Fortress Series \ The Evil Within Series \ The House of the Dead Series \ The Orange Box \ Time Crisis Series \ TimeSplitters Series \ Titanfall Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ Turtle Rock Studios \ Unreal Engine 1 Games \ Volition \ Warhammer 40,000: Space Marine Series \ WATCH_DOGS Series \ Wolfenstein Series
-Short Films | Animan Studios \ Kunio Kato's Works \ Pixar Short Films
-Shotacon | HANABi's Works \ Jairou's Works \ Mikemono Yuu's Works \ Misa Ikezaki's Works
-Shotacon and Lolicon | BABEL \ HAMHAM-SOFT \ HANABi's Works \ HiRoB's Art \ Jairou's Works \ Kenshirou Minori's Works \ Kuromoto-kun's Works \ Mikemono Yuu's Works \ Misa Ikezaki's Works \ Shotacon \ Tamano Kedama's Art \ Towako \ Yoru no Hitsuji
+Shogakukan | Adachi Mitsuru \ Akimi Yoshida's Works \ Aya Hirakawa's Works \ Bakusou Kyoudai Let's & Go Series \ Betsucomi \ Big Comic Spirits \ Big Comic Superior \ Cheese! \ Ciao \ Comiplex \ Gekkan Flowers \ Gekkan! Spirits \ Gessan \ Helck Series \ Hideki Arai's Works \ Hidenori Yamaji's Works \ Hideo Yamamoto's Works \ Hiromu Shinozuka's Works \ Hiroshi Fukuda's Works \ Hiroyuki Nishimori's Works \ Inazuma Eleven Go! Series \ Kazami Sawatari's Works \ Kazuhiro Fujita's Works \ Kenji Taguchi's Works \ Kotoyama's Works \ Magi Series \ Major Series \ Mega Man Battle Network Legacy Collection \ Mega Man NT Warrior Series \ Moto Hagio's Works \ Motomi Kyousuke's Works \ Petit Comic \ Petit Flower \ Pokémon Manga \ Q Hayashida's Works \ Rei Hiroe's Works \ Rumiko Takahashi's Works \ Sho-Comi \ Sunday GX \ Sunday Webry \ Syun Matsuena's Works \ Takagi-san Series \ Tetsuhiro Koshita's Works \ Ura Sunday \ Weekly Shounen Sunday \ Yawaraka Spirits \ Young Sunday \ Yumi Tamura's Works \ Yuu Saitou's Works \ Yuu Watase's Works \ Zoids Series
+Shoot 'em Ups | Aleste Series \ AQLoop \ Contra Series \ Cotton Series \ Cute 'em ups \ Darius Series \ Deathsmiles Series \ DonPachi Series \ eXceed Series \ Gradius Series \ Gungeon Series \ Henteko Doujin \ Hotline Miami Series \ QP Series \ Qute \ Seihou Project \ Sengoku Ace Series \ Sin & Punishment Series \ Team Elegant Impermanence of Sakura \ Touhou Bunkachou \ Vectorman Series
+Shooter Games | Ace Combat \ Alan Wake Series \ Armored Core \ Avalanche Studios \ Bionic Commando Series \ BioShock Series \ Bombshell Series \ Bullet Girls Series \ Bungie \ Call of Duty \ Core Design \ Crysis Series \ David Szymanski's Works \ Dead Island Series \ Dead Space Series \ Deep Rock Galactic Series \ Destiny \ Destroy All Humans! Series \ Digital Extremes \ Dishonored Series \ Donkey Kong 3 Series \ Eidos-Montréal \ FARCRY Series \ Fatal Frame \ Fortnite Series \ FuturLab \ GoldSrc Engine Games \ Grand Theft Auto \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ Half-Life Fanworks \ Half-Life Series \ Halo: The Master Chief Collection \ HELLDIVERS Series \ Heretic Series \ Hitman Series \ Hitman: World of Assassination \ Hotline Miami Series \ Ion Storm \ Just Cause Series \ Kane & Lynch Series \ Killzone Series \ Left 4 Dead Series \ Looking Glass Studios \ Looter Shooter Games \ Lost Planet Series \ Mafia Series \ Max Payne Series \ Mega Man Legends Series \ Metro Series \ Metroid Prime: Trilogy \ Modern Warfare Series \ n-Space \ Nightdive Studios \ Paladins Series \ Pandemic Studios \ Pokémon Snap Series \ Postal Series \ PowerWash Simulator Series \ Quake Series \ Ratchet & Clank Collection \ Red Dead Redemption Series \ Remedy Connected Universe \ Remedy Entertainment \ Resident Evil: Revelations Series \ Resistance Series \ Risk of Rain Series \ Rockstar Advanced Game Engine \ S.T.A.L.K.E.R. Series \ Saints Row Series \ Seasun Games \ Sengoku Ace Series \ Sin & Punishment Series \ SingleTrac \ Slime Rancher Series \ Sniper Ghost Warrior Series \ Snowdrop Engine Games \ Star Wars: Battlefront Series \ Star Wars: Jedi Knight \ Stress Level Zero \ Tactical Shooter Games \ Team Fortress Series \ The Evil Within Series \ The Orange Box \ Thief Series \ Time Crisis Series \ TimeSplitters Series \ Titanfall Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ Turtle Rock Studios \ Unreal Engine 1 Games \ Volition \ Warhammer 40,000: Space Marine Series \ WATCH_DOGS Series \ Wolfenstein Series
+Short Films | Animan Studios \ Kunio Kato's Works \ Pixar Short Films \ Student Films
+Shotacon | HANABi's Works \ Ikezaki Misa's Works \ Jairou's Works \ Mikemono Yuu's Works \ Misa Ikezaki's Works
+Shotacon and Lolicon | Ammolite \ BABEL \ HAMHAM-SOFT \ HANABi's Works \ HiRoB's Art \ Ikezaki Misa's Works \ Iris (Company) \ Jairou's Works \ Kenshirou Minori's Works \ Kuromoto-kun's Works \ Mikemono Yuu's Works \ Misa Ikezaki's Works \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Tamano Kedama's Art \ Tinkle Position \ Towako \ Yoru no Hitsuji
 Shounen Ace | Sakae Esuno's Works
 Shounen Gahousha | Kouta Hirano's Works \ Young King \ Young King OURS \ Young King OURS GH
 Shounen Gangan | Imari Arita's Works \ Soul Eater Series
 Shounen Jump+ | Naoya Matsumoto's Works \ Shiro Moriya's Works
 Shouzou Kaga's Works | Jugdral Series \ TearRing Saga
 Shrek Franchise | Puss in Boots Series \ Shrek Series
-Shueisha | .Bloom \ Ai Yazawa's Works \ Akamaru Jump \ Akira Amano's Works \ Akira Sugito's Works \ Ane LaLa \ Arina Tanemura's Works \ Aya Nakahara's Works \ Bessatsu Hana to Yume \ Bessatsu Margaret \ Business Jump \ Cocohana \ Cookie \ Dash X \ Dr. STONE Series \ Dragon Ball Original Manga Run \ Eiichiro Oda's Works \ Fruits Basket Series \ Galactic Patrol Series \ Gekkan Shounen Jump \ Grand Jump \ Hana to Yume \ Hiro Chihiro's Works \ Hiro Fujiwara's Works \ Hiroshi Shiibashi's Works \ Homesha \ Io Sakisaka's Works \ Jump Kai \ Jump Square \ Kaori Yuki's Works \ Katsura Akira \ Kenta Shinohara's Art \ Kentaro Yabuki's Art \ Kinnikuman Series \ Komi Naoshi's Works \ Koucha Agasawa's Works \ Kouhei Horikoshi's Works \ Kouji Miura's Works \ LaLa \ Margaret \ Masahiro Hirakata's Works \ Matsuura Kento's Art \ Mayu Sakai's Works \ mellow kiss \ Minta Suzumara's Works \ Mitsubachi Miyuki's Works \ Miyoshi Toumori's Art \ Mizuho Kusanagi's Works \ Mizuki Yoda's Art \ Monthly Young Jump \ Naoshi Komi's Works \ Naoya Matsumoto's Works \ Ribon \ Ryuuhei Tamura's Works \ Saikyou Jump \ Shaman King Series \ Shin-ichi Sakamoto's Works \ Shiro Moriya's Works \ Sho Aimoto's Works \ Shounen Jump GIGA \ Shounen Jump Rookie \ Soumatou's Works \ Super Jump \ Suzuki Julietta's Works \ Tadahiro Miura's Works \ Tadatoshi Fujimaki's Works \ Taishi Tsutsui's Works \ Takeshi Obata's Art \ Tatsuki Fujimoto's Works \ Tatsuya Endo's Works \ The Margaret \ To LOVE-Ru Series \ Tomohiro Matsu's Works \ Tonari no Young Jump \ Toshio Sako's Works \ Tsugumi Ohba's Works \ Ultra Jump \ Ultra Jump Egg \ Umaru-chan Universe \ Uran's Art \ V Jump \ Wataru Yoshimizu's Works \ Weekly Playboy \ Weekly Young Jump \ Yasuhiro Kano's Works \ Yasuki Tanaka's Works \ Yoko Kamio's Works \ Yoshiki Nakamura's Works \ YOU (Magazine) \ Yuki Midorikawa's Works \ Yuki Tabata's Works \ Yusei Matsui's Works \ Yuuji Kaku's Works
+Shueisha | .Bloom \ Ai Yazawa's Works \ Akamaru Jump \ Akira Amano's Works \ Akira Sugito's Works \ Ane LaLa \ Arina Tanemura's Works \ Aya Nakahara's Works \ Bessatsu Hana to Yume \ Bessatsu Margaret \ Business Jump \ Cocohana \ Cookie \ Dash X \ Dr. STONE Series \ Dragon Ball Original Manga Run \ Eiichiro Oda's Works \ Fruits Basket Series \ Galactic Patrol Series \ Gekkan Shounen Jump \ Grand Jump \ Hana to Yume \ Hiro Chihiro's Works \ Hiro Fujiwara's Works \ Hiroshi Shiibashi's Works \ Homesha \ Io Sakisaka's Works \ Jump Kai \ Jump Square \ Kaori Yuki's Works \ Katsura Akira \ Kenta Shinohara's Art \ Kentaro Yabuki's Art \ Kinnikuman Series \ Komi Naoshi's Works \ Koucha Agasawa's Works \ Kouhei Horikoshi's Works \ Kouji Miura's Works \ Kyuu Takahata's Works \ LaLa \ Margaret \ Masahiro Hirakata's Works \ Matsuura Kento's Art \ Mayu Sakai's Works \ mellow kiss \ Minta Suzumara's Works \ Mitsubachi Miyuki's Works \ Miyoshi Toumori's Art \ Mizuho Kusanagi's Works \ Mizuki Yoda's Art \ Monthly Young Jump \ Naoshi Komi's Works \ Naoya Matsumoto's Works \ Ribon \ Ryuuhei Tamura's Works \ Saikyou Jump \ Shaman King Series \ Shin-ichi Sakamoto's Works \ Shiro Moriya's Works \ Sho Aimoto's Works \ Shounen Jump GIGA \ Shounen Jump Rookie \ Soumatou's Works \ Super Jump \ Suzuki Julietta's Works \ Tadahiro Miura's Works \ Tadatoshi Fujimaki's Works \ Taishi Tsutsui's Works \ Takeshi Obata's Art \ Tatsuki Fujimoto's Works \ Tatsuya Endo's Works \ The Margaret \ To LOVE-Ru Series \ Tomohiro Matsu's Works \ Toshio Sako's Works \ Tsugumi Ohba's Works \ Ultra Jump \ Ultra Jump Egg \ Umaru-chan Universe \ Uran's Art \ V Jump \ Wataru Yoshimizu's Works \ Weekly Playboy \ Weekly Young Jump \ Yasuhiro Kano's Works \ Yasuki Tanaka's Works \ Yoko Kamio's Works \ Yoshiki Nakamura's Works \ YOU (Magazine) \ Yuki Midorikawa's Works \ Yuki Tabata's Works \ Yusei Matsui's Works \ Yuuji Kaba's Art \ Yuuji Kaku's Works
 Side-scrolling Games | Alec Holowka's Works \ Assassin's Creed Chronicles \ Balloon Fight Series \ Blaster Master Series \ Blaster Master Zero Series \ Bonk Series \ Castlevania Advance Collection \ Castlevania Dominus Collection \ Castlevania Requiem \ Contra Series \ Dark Matter Trilogy \ Derek Yu's Works \ Donkey Kong Land Series \ GetsuFumaDen Series \ Image & Form \ Kirby's Dream Collection \ Kirby's Dream Land Series \ KooooN Soft \ La-Mulana Series \ LISA \ Mega Man 1 Series \ Mega Man Legacy Collection \ Mega Man Legacy Collection 2 \ Mega Man World \ Mega Man X Legacy Collection \ Mega Man X Legacy Collection 2 \ Mega Man Zero Series \ Mega Man Zero/ZX Legacy Collection \ Mega Man ZX Series \ Metroid II Series \ Momodora Series \ New Super Mario Bros. Series \ Nomada Studio \ Ori \ OXENFREE Series \ RedCandleGames \ Rosenkreuzstilette Series \ Shantae Series \ SiNiSistar Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Colors Series \ Sonic Runners Series \ Sonic Rush Series \ Spelunky Series \ Streets of Rage \ Studio Pixel \ Super Mario Advance Series \ Super Mario All-Stars \ Super Mario Bros. 2 Series \ Super Mario Bros. Series \ Super Mario Land Series \ Super Mario Maker Series \ The Disney Afternoon Collection \ The Lost Vikings Series \ Wario Land \ Yacht Club Games \ Yoshi's Island Series
-Sierra Entertainment | Leisure Suit Larry \ The Legend of Spyro Series
-SiglusEngine Games | H.I design office \ HAMHAM-SOFT \ Iris (Company) \ Rewrite Series \ SAGA PLANETS \ tone work's
+Sierra Entertainment | Laura Bow Series \ The Legend of Spyro Series
+SiglusEngine Games | H.I design office \ HAMHAM-SOFT \ Iris (Company) \ Rewrite Series \ tone work's
 Silent Hill | Team Silent
 Silky's Plus | Silky Engine Games
 Sims Series | MySims Series \ MySims: Cozy Bundle
-Simulation Games | Brownies Inc. \ Civilization \ Destiny Ninja Series \ Digimon World Series \ Diner Dash Series \ Dulcet Games \ Endnight Games \ Farming Simulator Games \ GoatBread \ Harvest Moon Series \ HuniePot \ Idol Hands Series \ Jewelpet Series \ Kitfox Games \ Lunaris Games \ Maxis \ Microprose \ My Candy Love Series \ My Time Series \ MySims: Cozy Bundle \ Nix Hydra \ Our Life Series \ Owlchemy Labs \ Pokémon Snap Series \ Princess Maker Series \ Rune Factory Series \ Sad Panda Studios \ Slime Rancher Series \ SnaccPop Studios \ Studio Genius Japan Inc. \ Sucker for Love \ The Forest Series \ Tokimeki Memorial Girl's Side \ Trauma Center Series \ Wii Sports Series
-Sitcoms | Beavis and Butt-Head Franchise \ Family Guy Series \ iCarly Series \ Matt Groening's Works \ Michael Schur's Works \ Norman Lear's Works \ VICTORiOUS Series
+Simulation Games | Brownies Inc. \ Civilization \ Destiny Ninja Series \ Digimon World Series \ Diner Dash Series \ Dulcet Games \ Emily is Away Series \ Endnight Games \ Fantasy Life Series \ Farming Simulator Games \ GoatBread \ Hanako Games \ Harvest Moon Series \ HuniePot \ Idol Hands Series \ Jewelpet Series \ Kitfox Games \ Lunaris Games \ Maxis \ Microprose \ Mount & Blade Series \ My Candy Love Series \ My Time Series \ MySims: Cozy Bundle \ Nix Hydra \ Our Life Series \ Owlchemy Labs \ PangYa Series \ Pokémon Snap Series \ PowerWash Simulator Series \ Princess Maker Series \ Rune Factory Series \ Sad Panda Studios \ Slime Rancher Series \ SnaccPop Studios \ Studio Genius Japan Inc. \ Sucker for Love \ TaleWorlds Entertainment \ The Forest Series \ Tokimeki Memorial Girl's Side \ Trauma Center Series \ Wii Sports Series \ Will Wright's Works
+Sitcoms | Beavis and Butt-Head Franchise \ iCarly Series \ Michael Schur's Works \ Norman Lear's Works \ VICTORiOUS Series
 Skateboarding | Tony Hawk Series \ Tony Hawk's Pro Skater Series \ Tony Hawk's Underground Series
 Skip Ltd. | Chibi-Robo Series
 Slapstick Comedy | Joe Dante's Works \ Space Jam Series
-Slasher Genre | A Nightmare on Elm Street Series \ Child's Play Series \ Friday the 13th Series \ Scream Series
+Slasher Genre | Child's Play Series \ I Know What You Did Last Summer Series \ Scream Series
 Sneaker Bunko | Mondaiji-tachi Series
-SNK | Art of Fighting Series \ Athena Series \ Fatal Fury \ King of Fighters Universe \ Nazca Corporation \ Samurai Shodown \ The King of Fighters EX Series \ The Last Blade Series
-SNK Neo Geo | Art of Fighting Series \ Nazca Corporation \ The Last Blade Series
+SNK | Art of Fighting Series \ Athena Series \ Fatal Fury \ King of Fighters Universe \ KOF: Maximum Impact Series \ Nazca Corporation \ Samurai Shodown \ SNK Neo Geo Pocket \ The King of Fighters EX Series \ The Last Blade Series
+SNK Neo Geo | Art of Fighting Series \ Nazca Corporation
 SofthouseChara | Bunny Black Series
 Sol Press | Panty Press
 Sonic Generations Series | Sonic X Shadow Generations
 Sonic Mega Collection | Sonic 3 & Knuckles \ Sonic Drift Series
 Sonic Origins | Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Drift Series
-Sonic Racing Games | Backbone Entertainment \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series \ Sonic Riders Series \ Sonic Rivals Series
+Sonic Racing Games | Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series \ Sonic Riders Series \ Sonic Rivals Series
 Sonic Racing Series | Sonic & SEGA All-Stars Racing Series
-Sonic Rivals Series | Backbone Entertainment
 Sonic Team | Sonic 3 & Knuckles \ Sonic Adventure Series \ Sonic Colors Series \ Sonic Storybook Series
-Sonic the Hedgehog 2D Platformers | Backbone Entertainment \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Colors Series \ Sonic Rivals Series \ Sonic Rush Series \ Sonic the Hedgehog 4
+Sonic the Hedgehog 2D Platformers | Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Colors Series \ Sonic Rivals Series \ Sonic Rush Series \ Sonic the Hedgehog 4
 Sonic the Hedgehog 3D Platformers | Sonic Adventure Series \ Sonic Storybook Series
 Sonic the Hedgehog Boost Games | Sonic Rush Series
 Sonic the Hedgehog Comics | Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Sonic & Mega Man
-Sonic the Hedgehog Games | Aspect \ Backbone Entertainment \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ SEGA AM1 \ SEGA Pico \ SegaSonic the Hedgehog Series \ Sonic & SEGA All-Stars Racing Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Pinball Series \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 4 \ Waku Waku Children's Arcade Rides
+Sonic the Hedgehog Games | Aspect \ Hardlight \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ SEGA AM1 \ SegaSonic the Hedgehog Series \ Sonic & SEGA All-Stars Racing Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Dash Series \ Sonic Forces Series \ Sonic Pinball Series \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 4 \ Waku Waku Children's Arcade Rides
 Sonic the Hedgehog Multimedia | Archie Sonic Miniseries \ DIC Sonic the Hedgehog Cartoons \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Sonic & Mega Man \ Sonic the Hedgehog Movie Franchise \ Sonic the Hedgehog Shorts \ Sonic the Hedgehog Shows & Movies
-Sonic the Hedgehog Series | Adventures of Sonic the Hedgehog Series \ Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ Aspect \ Backbone Entertainment \ DIC Sonic the Hedgehog Cartoons \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Knuckles Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ SEGA AM1 \ SEGA Pico \ SegaSonic the Hedgehog Series \ Sonic & Mega Man \ Sonic & SEGA All-Stars Racing Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Boom Series \ Sonic Colors Series \ Sonic Drift Series \ Sonic Generations Series \ Sonic Mania Series \ Sonic Origins \ Sonic Pinball Series \ Sonic Prime Series \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 3D Platformers \ Sonic the Hedgehog Boost Games \ Sonic the Hedgehog Comics \ Sonic the Hedgehog Movie Franchise \ Sonic the Hedgehog Multimedia \ Sonic the Hedgehog Shorts \ Sonic the Hedgehog Shows & Movies \ Sonic Unleashed Series \ Sonic X Series \ Sonic X Shadow Generations \ Waku Waku Children's Arcade Rides
+Sonic the Hedgehog Series | Adventures of Sonic the Hedgehog Series \ Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ Aspect \ DIC Sonic the Hedgehog Cartoons \ Hardlight \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Knuckles Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ SEGA AM1 \ SegaSonic the Hedgehog Series \ Shadow the Hedgehog Series \ Sonic & Mega Man \ Sonic & SEGA All-Stars Racing Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Boom Series \ Sonic Colors Series \ Sonic Dash Series \ Sonic Drift Series \ Sonic Forces Series \ Sonic Generations Series \ Sonic Mania Series \ Sonic Origins \ Sonic Pinball Series \ Sonic Prime Series \ Sonic Racing Games \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 3D Platformers \ Sonic the Hedgehog Boost Games \ Sonic the Hedgehog Comics \ Sonic the Hedgehog Movie Franchise \ Sonic the Hedgehog Shorts \ Sonic the Hedgehog Shows & Movies \ Sonic Unleashed Series \ Sonic X Series \ Sonic X Shadow Generations \ Waku Waku Children's Arcade Rides
 Sonic the Hedgehog Shows & Movies | DIC Sonic the Hedgehog Cartoons
-Sonic the Hedgehog Universe | Adventures of Sonic the Hedgehog Series \ Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ Aspect \ Backbone Entertainment \ DIC Sonic the Hedgehog Cartoons \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Ken Penders's Works \ Knuckles Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ SEGA AM1 \ SEGA Pico \ SegaSonic the Hedgehog Series \ Sonic & Mega Man \ Sonic & SEGA All-Stars Racing Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Boom Series \ Sonic Colors Series \ Sonic Drift Series \ Sonic Generations Series \ Sonic Mania Series \ Sonic Origins \ Sonic Pinball Series \ Sonic Prime Series \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 3D Platformers \ Sonic the Hedgehog Boost Games \ Sonic the Hedgehog Comics \ Sonic the Hedgehog Fanworks \ Sonic the Hedgehog Movie Franchise \ Sonic the Hedgehog Shows & Movies \ Sonic Unleashed Series \ Sonic X Series \ Sonic X Shadow Generations \ Waku Waku Children's Arcade Rides
+Sonic the Hedgehog Universe | Adventures of Sonic the Hedgehog Series \ Archie Sonic Miniseries \ Archie Sonic the Hedgehog Series \ Aspect \ DIC Sonic the Hedgehog Cartoons \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Ken Penders's Works \ Knuckles Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ SEGA AM1 \ SegaSonic the Hedgehog Series \ Shadow the Hedgehog Series \ Sonic & Mega Man \ Sonic & SEGA All-Stars Racing Series \ Sonic & Tails Series \ Sonic 3 & Knuckles \ Sonic Advance Series \ Sonic Adventure Series \ Sonic Boom Series \ Sonic Colors Series \ Sonic Dash Series \ Sonic Drift Series \ Sonic Generations Series \ Sonic Mania Series \ Sonic Origins \ Sonic Pinball Series \ Sonic Prime Series \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series \ Sonic Runners Series \ Sonic Rush Series \ Sonic Storybook Series \ Sonic the Hedgehog 3D Platformers \ Sonic the Hedgehog Boost Games \ Sonic the Hedgehog Comics \ Sonic the Hedgehog Fanworks \ Sonic the Hedgehog Movie Franchise \ Sonic the Hedgehog Multimedia \ Sonic the Hedgehog Shorts \ Sonic the Hedgehog Shows & Movies \ Sonic Unleashed Series \ Sonic X Series \ Sonic X Shadow Generations \ Waku Waku Children's Arcade Rides
 Sonic X Shadow Generations | Sonic Generations Series
-Sony | Ape Escape Series \ Astro Bot Series \ Gravity Rush Series \ inFAMOUS Series \ Insomniac's Marvel Universe \ Jak and Daxter Series \ Light & Shadow Production \ MediEvil Series \ Ratchet & Clank Collection \ Sly Cooper \ Team ASOBI
-Sony Interactive Entertainment | Ape Escape Series \ Astro Bot Series \ Crash Bandicoot N. Sane Trilogy \ Dark Cloud Series \ Decima Engine \ Everybody's Golf Series \ God of War Series \ God of War: Origins Collection \ Gravity Rush Series \ Guerrilla Games \ HELLDIVERS Series \ Horizon \ inFAMOUS Series \ Insomniac's Marvel Universe \ Jak and Daxter Series \ Japan Studio \ Knack Series \ Legend of Legaia Series \ LittleBigPlanet Series \ Media Molecule \ MediEvil Series \ NanaOn-Sha \ Patapon Series \ Quantic Dream \ Ratchet & Clank Collection \ Ratchet & Clank Series \ Resistance Series \ Sly Cooper \ Spyro Reignited Trilogy \ Sucker Punch Productions \ Team ASOBI \ Team Ico \ Vib-Ribbon Series \ Wild ARMs Series
+Sony | Ape Escape Series \ Astro Bot Series \ Exact \ Gravity Rush Series \ inFAMOUS Series \ Insomniac's Marvel Universe \ Jak and Daxter Series \ Killzone Series \ Light & Shadow Production \ LocoRoco Series \ MediEvil Series \ PlayStation All-Stars \ Ratchet & Clank Collection \ SingleTrac \ Sly Cooper \ Team ASOBI
+Sony Interactive Entertainment | Ape Escape Series \ Astro Bot Series \ Crash Bandicoot N. Sane Trilogy \ Dark Cloud Series \ Decima Engine \ Everybody's Golf Series \ Exact \ God of War Series \ God of War: Origins Collection \ Gravity Rush Series \ Guerrilla Games \ HELLDIVERS Series \ Horizon \ inFAMOUS Series \ Insomniac's Marvel Universe \ Jak and Daxter Series \ Japan Studio \ Killzone Series \ Knack Series \ Legend of Legaia Series \ LittleBigPlanet Series \ LocoRoco Series \ Media Molecule \ MediEvil Series \ NanaOn-Sha \ Patapon 1+2 Replay \ Patapon Series \ PlayStation All-Stars \ Quantic Dream \ Ratchet & Clank Collection \ Ratchet & Clank Series \ Ready at Dawn \ Resistance Series \ SingleTrac \ Sly Cooper \ Spyro Reignited Trilogy \ Sucker Punch Productions \ Team ASOBI \ Team Ico \ Vib-Ribbon Series \ Wild ARMs Series
 Sony Pictures Animation | Cloudy with a Chance of Meatballs Series \ Spider-Verse Saga
 Sony Pictures Television | Stargate \ The Boys Series
 Souichirou Yamamoto's Works | Takagi-san Series
 Soulslike | Star Wars Jedi Series
 Source Engine Games | Left 4 Dead Series \ The Orange Box \ Titanfall Series
 South Korean Animation | VIVINOS
-Space Opera | 343 Industries \ Cowboy Bebop Series \ Gundam Build \ Gundam's Universal Century \ Halo Series \ Halo Wars Series \ Halo: The Master Chief Collection \ Kangoku Senkan Series \ LEGO Star Wars \ LEGO Star Wars Video Games \ Leiji Matsumoto's Works \ Mass Effect Series \ Mass Effect Trilogy \ Phantasy Star Online Series \ Seikai Series \ Star Ocean Series \ Star Trek \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Star Trek: Voyager Series \ Star Wars Jedi Series \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ Star Wars: The Skywalker Saga \ Stargate \ Super Mario Galaxy Series \ The Age of the Old Republic \ Top wo Nerae! Series
-Spanish Media | Ana C. Sánchez's Works \ Baroque Decay Games \ BRB Internacional \ Caribdis Games \ Editorial Bruguera \ Francisco Ibáñez's Works \ Guinxu's Games \ Jesulink's Works \ Majorariatto \ MercurySteam \ Mundo Elemental \ Nomada Studio \ Zeppelin TV
+Space Opera | 343 Industries \ Cowboy Bebop Series \ Gundam Build \ Gundam's Universal Century \ Halo Series \ Halo Wars Series \ Halo: The Master Chief Collection \ Kangoku Senkan Series \ LEGO Star Wars \ LEGO Star Wars Video Games \ Leiji Matsumoto's Works \ Mass Effect Trilogy \ Seikai Series \ Star Ocean Series \ Star Trek \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Star Trek: Voyager Series \ Star Wars Jedi Series \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ Star Wars: The Skywalker Saga \ Stargate \ Super Mario Galaxy Series \ The Age of the Old Republic \ Top wo Nerae! Series
+Spanish Media | Ana C. Sánchez's Works \ Baroque Decay Games \ Blacksad Series \ Blasphemous Series \ BRB Internacional \ Caribdis Games \ Editorial Bruguera \ Francisco Ibáñez's Works \ Guinxu's Games \ Invizimals Series \ Jesulink's Works \ La trilogía del ruiseñor \ Majorariatto \ MercurySteam \ Mundo Elemental \ Nomada Studio \ Zeppelin TV
 Spider-Man Animation | Spider-Verse Saga
 Spider-Man Franchise | Insomniac's Marvel Universe \ MCU Spider-Man Series \ Raimi Spider-Man Trilogy \ Sony's Spider-Man Universe \ Spider-Man Animation \ Spider-Man Games \ Spider-Man Movies \ Spider-Verse Saga \ The Amazing Spider-Man Movie Series
 Spider-Man Games | Insomniac's Marvel Universe
 Spider-Man Movies | MCU Spider-Man Series \ Raimi Spider-Man Trilogy \ Spider-Verse Saga \ The Amazing Spider-Man Movie Series
-Spike Chunsoft | AI: The Somnium Files Series \ Conception Series \ Pokémon Mystery Dungeon \ Shiren the Wanderer Series \ Zero Escape
+Spike Chunsoft | AI: THE SOMNIUM FILES Series \ Chime Corporation \ Conception Series \ Pokémon Mystery Dungeon \ Shiren the Wanderer Series \ Zero Escape
 Spinoff Animanga | Archie Sonic Miniseries \ IDW Sonic the Hedgehog Miniseries \ Puss in Boots Series \ Sumeragi's Art \ The Penguins of Madagascar Series
-Spinoff Games | CAProduction \ DK Climber Series \ Donkey Konga Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Itadaki Street Series \ Luigi's Mansion Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Discovery Series \ Mario Hoops Series \ Mario Kart \ Mario Kart Arcade GP Series \ Mario Party \ Mario Sports \ Mario Strikers \ Mario Teaches Typing Series \ Princess Peach Series \ Prinny Series \ SEGA AM1 \ SEGA Pico \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series \ Sonic Riders Series \ Sonic Storybook Series \ Super Mario Party Series \ The Software Toolworks \ The Typing of the Dead Series \ Touhou Bunkachou \ Touhou Spinoffs \ Typing Tutors \ Waku Waku Children's Arcade Rides \ Wario's Woods Series
-Spinoff Media | Archie Sonic Miniseries \ CAProduction \ DK Climber Series \ Donkey Konga Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ IDW Sonic the Hedgehog Miniseries \ Itadaki Street Series \ Luigi's Mansion Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Discovery Series \ Mario Hoops Series \ Mario Kart \ Mario Kart Arcade GP Series \ Mario Party \ Mario Sports \ Mario Strikers \ Mario Teaches Typing Series \ Princess Peach Series \ Prinny Series \ Puss in Boots Series \ SEGA AM1 \ SEGA Pico \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series \ Sonic Pinball Series \ Sonic Riders Series \ Sonic Storybook Series \ Sumeragi's Art \ Super Mario Party Series \ The Penguins of Madagascar Series \ The Software Toolworks \ The Typing of the Dead Series \ Touhou Bunkachou \ Touhou Spinoffs \ Typing Tutors \ Waku Waku Children's Arcade Rides \ Wario's Woods Series
+Spinoff Games | CAProduction \ DK Climber Series \ Donkey Konga Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Dragon Quest Heroes Series \ Fuse Games \ Itadaki Street Series \ Luigi's Mansion Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Discovery Series \ Mario Hoops Series \ Mario Kart Arcade GP Series \ Mario Party \ Mario Sports \ Mario Strikers \ Mario Teaches Typing Series \ Princess Peach Series \ Prinny Series \ SEGA AM1 \ Sonic & SEGA All-Stars Racing Series \ Sonic Dash Series \ Sonic Drift Series \ Sonic Riders Series \ Sonic Storybook Series \ Super Mario Party Series \ The Software Toolworks \ The Typing of the Dead Series \ Touhou Bunkachou \ Touhou Spinoffs \ Typing Tutors \ Waku Waku Children's Arcade Rides \ Wario's Woods Series
+Spinoff Media | Archie Sonic Miniseries \ CAProduction \ DK Climber Series \ Donkey Konga Series \ Dr. Mario & Bacteria Extermination Series \ Dr. Mario Series \ Dragon Quest Heroes Series \ Fuse Games \ IDW Sonic the Hedgehog Miniseries \ Itadaki Street Series \ Luigi's Mansion Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Discovery Series \ Mario Hoops Series \ Mario Kart Arcade GP Series \ Mario Party \ Mario Sports \ Mario Strikers \ Mario Teaches Typing Series \ Princess Peach Series \ Prinny Series \ Puss in Boots Series \ SEGA AM1 \ Sonic & SEGA All-Stars Racing Series \ Sonic Dash Series \ Sonic Drift Series \ Sonic Pinball Series \ Sonic Riders Series \ Sonic Storybook Series \ Sumeragi's Art \ Super Mario Party Series \ The Penguins of Madagascar Series \ The Software Toolworks \ The Typing of the Dead Series \ Touhou Bunkachou \ Touhou Spinoffs \ Typing Tutors \ Waku Waku Children's Arcade Rides \ Wario's Woods Series
 Splash Entertainment | Lalaloopsy Series
-Sports | Badminton \ Cars Movies \ Cheerleading \ Cycling \ Dodgeball \ EA Sports \ Everybody's Golf Series \ Fitness Boxing Series \ Girls und Panzer Series \ Hockey \ Hot Wheels \ Inazuma Eleven Go! Series \ Inazuma Eleven Series \ Initial D Series \ IRL Sports \ Jet Set Radio Series \ Major Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Hoops Series \ Mario Sports \ Mario Strikers \ Ping-Pong \ Punch-Out!! Series \ Rugby \ Saki Series \ Shoot! Series \ Snowboarding \ Space Jam Series \ Sports Mascots \ Swimming \ Tadatoshi Fujimaki's Works \ Tennis \ Tiger Mask Series \ Tony Hawk Series \ Tony Hawk's Pro Skater Series \ Tony Hawk's Underground Series \ TRIBE NINE Series \ Volleyball \ Wii Sports Series
-Sports Animanga | Badminton \ Cheerleading \ Cycling \ Girls und Panzer Series \ Hot Wheels \ Inazuma Eleven Go! Series \ Initial D Series \ Major Series \ Ping-Pong \ Rugby \ Saki Series \ Shoot! Series \ Swimming \ Tadatoshi Fujimaki's Works \ Tiger Mask Series
-Sports Games | EA Sports \ Everybody's Golf Series \ Fitness Boxing Series \ Inazuma Eleven Go! Series \ Jet Set Radio Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Hoops Series \ Mario Sports \ Mario Strikers \ Punch-Out!! Series \ Snowboarding \ Tony Hawk Series \ Tony Hawk's Pro Skater Series \ Tony Hawk's Underground Series \ Wii Sports Series
+Sports | Aguri Igarashi's Art \ Badminton \ Cars Movies \ Cheerleading \ Cycling \ Dodgeball \ EA Sports \ Everybody's Golf Series \ Fitness Boxing Series \ Girls und Panzer Series \ Hockey \ Hot Wheels \ Inazuma Eleven Go! Series \ Inazuma Eleven Series \ Initial D Series \ IRL Sports \ Jet Set Radio Series \ Major Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Hoops Series \ Mario Sports \ Mario Strikers \ PangYa Series \ Ping-Pong \ Punch-Out!! Series \ Rugby \ Saki Series \ Shoot! Series \ Snowboarding \ Space Jam Series \ Sports Mascots \ Swimming \ Tadatoshi Fujimaki's Works \ Tennis \ Tiger Mask Series \ Tony Hawk Series \ Tony Hawk's Pro Skater Series \ Tony Hawk's Underground Series \ TRIBE NINE Series \ Volleyball \ Wii Fit Series \ Wii Sports Series
+Sports Animanga | Aguri Igarashi's Art \ Badminton \ Cheerleading \ Cycling \ Girls und Panzer Series \ Hot Wheels \ Inazuma Eleven Go! Series \ Initial D Series \ Major Series \ Ping-Pong \ Rugby \ Saki Series \ Shoot! Series \ Swimming \ Tadatoshi Fujimaki's Works \ Tiger Mask Series
+Sports Games | EA Sports \ Everybody's Golf Series \ Fitness Boxing Series \ Inazuma Eleven Go! Series \ Jet Set Radio Series \ Mario & Sonic \ Mario & Sonic at the Olympic Games Series \ Mario & Sonic at the Olympic Winter Games Series \ Mario Hoops Series \ Mario Sports \ Mario Strikers \ PangYa Series \ Punch-Out!! Series \ Snowboarding \ Tony Hawk Series \ Tony Hawk's Pro Skater Series \ Tony Hawk's Underground Series \ Wii Fit Series \ Wii Sports Series
+Spring 1998 Anime | Lodoss-tou Senki Series
 Spring 2016 Anime | Magi Series
-Spy Media | Austin Powers Series \ I Expect You To Die Series \ Spy Fox Series
+Spring 2025 Anime | Makaria \ Unison
+Spy Media | Austin Powers Series \ I Expect You To Die Series \ Perfect Dark Series \ Spy Fox Series
 Spyro | Spyro Reignited Trilogy \ The Legend of Spyro Series
 Spyro Multiverse | Skylanders \ Spyro \ Spyro Reignited Trilogy \ The Legend of Spyro Series
 Square | Chrono \ Collection of Mana \ Final Fantasy Pixel Remaster Series \ Final Fantasy X Series \ Front Mission Series
-Square Enix | Bravely Series \ Chaos Rings Series \ Chocobo Series \ Chrono \ Collection of Mana \ Dissidia Final Fantasy Series \ Fabula Nova Crystallis: Final Fantasy \ Final Fantasy Crystal Chronicles Series \ Final Fantasy Pixel Remaster Series \ Final Fantasy Tactics Series \ Final Fantasy X Series \ Final Fantasy XIII Trilogy \ Front Mission Series \ Grandia Series \ Itadaki Street Series \ Ivalice Alliance \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts HD 2.8 Final Chapter Prologue \ Kingdom Hearts Series \ Kingdom Hearts Union χ Dark Road \ Kingdom Hearts χ Series \ Life is Strange Series \ Mana \ Mario Hoops Series \ Million Arthur \ Musashi \ Octopath Traveler Series \ Parasite Eve Series \ SaGa Series \ Square \ Star Ocean Series \ The World Ends with You Series \ Toji no Miko Series \ Valkyrie Profile Series \ Voice of Cards
-Square Enix Holdings | Aguri Igarashi's Art \ Akame ga Kill Series \ Big Gangan \ Bravely Series \ Chaos Rings Series \ Chocobo Series \ Chrono \ Cocoa Fujiwara's Works \ Collection of Mana \ Darius Series \ Deus Ex Universe \ Dissidia Final Fantasy Series \ Drakengard Series \ Eidos-Montréal \ Esora Amaichi's Art \ Fabula Nova Crystallis: Final Fantasy \ Final Fantasy Crystal Chronicles Series \ Final Fantasy Pixel Remaster Series \ Final Fantasy Tactics Series \ Final Fantasy X Series \ Final Fantasy XIII Trilogy \ Front Mission Series \ Gangan Joker \ Gangan Online \ Gangan Powered \ Gangan Wing \ Gekkan Shoujo Nozaki-kun Series \ GFantasy \ Gingitsune Ezo's Works \ Goblin Slayer Series \ Grandia Series \ Hi Score Girl Series \ Hitman Series \ Hitman: World of Assassination \ Imari Arita's Works \ IO Interactive \ Ivalice Alliance \ Jun Mochizuki's Works \ Just Cause Series \ Kakegurui Series \ Kakito Katou's Art \ Karino Takatsu's Works \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts Union χ Dark Road \ Life is Strange Series \ Manga UP! \ Million Arthur \ Mizuki Nomura's Works \ Musashi \ Octopath Traveler Series \ Project Engage \ SaGa Series \ Saki Series \ Seiichi Shiki's Works \ Shinkoshoto's Works \ Shinta Fujimoto's Art \ Shounen Gangan \ Soul Eater Series \ Square \ Star Ocean Series \ The World Ends with You Series \ Toji no Miko Series \ Valkyrie Profile Series \ Voice of Cards \ Young Gangan
+Square Enix | Bravely Series \ Chaos Rings Series \ Chocobo Series \ Chrono \ Collection of Mana \ Dissidia Final Fantasy Series \ Dragon Quest Heroes Series \ Fabula Nova Crystallis: Final Fantasy \ Final Fantasy Crystal Chronicles Series \ Final Fantasy Pixel Remaster Series \ Final Fantasy Tactics Series \ Final Fantasy X Series \ Final Fantasy XII Series \ Final Fantasy XIII Trilogy \ Front Mission Series \ Grandia Series \ Itadaki Street Series \ Ivalice Alliance \ Kane & Lynch Series \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts HD 2.8 Final Chapter Prologue \ Kingdom Hearts Series \ Kingdom Hearts Union χ Dark Road \ Kingdom Hearts χ Series \ Life is Strange Series \ Mana \ Mario Hoops Series \ Million Arthur \ Musashi \ Octopath Traveler Series \ Parasite Eve Series \ SaGa Series \ Square \ Star Ocean Series \ The World Ends with You Series \ Theatrhythm \ Toji no Miko Series \ Valkyrie Profile Series \ Voice of Cards
+Square Enix Holdings | Aguri Igarashi's Art \ Akame ga Kill Series \ Bravely Series \ Chaos Rings Series \ Chocobo Series \ Chrono \ Cocoa Fujiwara's Works \ Collection of Mana \ Darius Series \ Dissidia Final Fantasy Series \ Dragon Quest Heroes Series \ Drakengard Series \ Eidos-Montréal \ Esora Amaichi's Art \ Fabula Nova Crystallis: Final Fantasy \ Final Fantasy Crystal Chronicles Series \ Final Fantasy Pixel Remaster Series \ Final Fantasy Tactics Series \ Final Fantasy X Series \ Final Fantasy XII Series \ Final Fantasy XIII Trilogy \ Front Mission Series \ Gangan Joker \ Gangan Online \ Gangan Powered \ Gangan Wing \ Gekkan Shoujo Nozaki-kun Series \ GFantasy \ Gingitsune Ezo's Works \ Goblin Slayer Series \ Grandia Series \ Hi Score Girl Series \ Hitman Series \ Hitman: World of Assassination \ Imari Arita's Works \ IO Interactive \ Ivalice Alliance \ Jun Mochizuki's Works \ Just Cause Series \ Kakegurui Series \ Kakito Katou's Art \ Kane & Lynch Series \ Karino Takatsu's Works \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts Union χ Dark Road \ Life is Strange Series \ Million Arthur \ Mizuki Nomura's Works \ Musashi \ Octopath Traveler Series \ Project Engage \ SaGa Series \ Saki Series \ Seiichi Shiki's Works \ Shinkoshoto's Works \ Shinta Fujimoto's Art \ Shounen Gangan \ Soul Eater Series \ Square \ Star Ocean Series \ The World Ends with You Series \ Theatrhythm \ Toji no Miko Series \ Valkyrie Profile Series \ Voice of Cards \ Young Gangan
 STACK software | 0verflow \ Junji Gotou's Art \ Mathers Numakichi's Works \ Radish Series \ School Days Series
-Stage Musicals | StarKid Productions
-Stage Plays | StarKid Productions
+Stage Plays | William Shakespeare's Works
+Stan Lee's Works | Blade Trilogy \ MCU Iron Man Series \ Original X-Men Cinematic Universe \ Raimi Spider-Man Trilogy \ The Amazing Spider-Man Movie Series
 Star Trek | Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Star Trek: Voyager Series
 Star Trek Movies | Star Trek Kelvin Timeline \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies
-Star Wars | Dave Filoni's Works \ LEGO Star Wars \ LEGO Star Wars Video Games \ Star Wars Canon \ Star Wars Games \ Star Wars Jedi Series \ Star Wars: Battlefront Series \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ Star Wars: The Skywalker Saga \ The Age of the Empire \ The Age of the High Republic \ The Age of the New Republic \ The Age of the Old Republic \ The Age of the Republic
+Star Wars | Dave Filoni's Works \ LEGO Star Wars \ LEGO Star Wars Video Games \ Star Wars Canon \ Star Wars Games \ Star Wars Jedi Series \ Star Wars: Battlefront Series \ Star Wars: Jedi Knight \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ Star Wars: The Skywalker Saga \ The Age of the Empire \ The Age of the High Republic \ The Age of the New Republic \ The Age of the Old Republic \ The Age of the Republic
 Star Wars Canon | Dave Filoni's Works \ Star Wars Jedi Series \ Star Wars: The Skywalker Saga \ The Age of the High Republic
-Star Wars Games | LEGO Star Wars Video Games \ Star Wars Jedi Series \ Star Wars: Battlefront Series \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ The Age of the Old Republic
-Stealth Games | A Plague Tale Series \ Assassin's Creed Chronicles \ Deus Ex Universe \ Dishonored Series \ Hitman Series \ Hitman: World of Assassination \ Sly Cooper \ Tom Clancy's Splinter Cell Series
+Star Wars Games | LEGO Star Wars Video Games \ Star Wars Jedi Series \ Star Wars: Battlefront Series \ Star Wars: Jedi Knight \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ The Age of the Old Republic
+StarKid Productions | The Hatchetfield Series
+Stealth Games | A Plague Tale Series \ Assassin's Creed Chronicles \ Dishonored Series \ Hitman Series \ Hitman: World of Assassination \ Ion Storm \ Sly Cooper \ Thief Series \ Tom Clancy's Splinter Cell Series
+Steampunk Media | Dishonored Series \ Fullmetal Alchemist Series \ Image & Form \ Sakura Taisen Series \ Thief Series
 Stick Figure Series | Animation vs. Series \ Henry Stickmin Series
 STING | Dept. Heaven \ Dungeon Travelers Series \ To Heart Series
-Stopmotion | Henry Selick's Works \ Laika Studios \ Wallace & Gromit Franchise \ Wallace & Gromit Series
+Stone Age Media | Bonk Series
+Stopmotion | Frankelda Series \ Henry Selick's Works \ Laika Studios \ Misato Tomoki's Works \ Wallace & Gromit Franchise \ Wallace & Gromit Series
 Storia | Narrator
 StorySoop | Dimang's Art
-Strategy Games | Advance Wars Series \ Archanea \ Career Soft \ Civilization \ Command & Conquer Series \ Cooking Dash Series \ Devil Survivor Series \ Diner Dash Series \ Elibe Series \ Ensemble Studios \ Final Fantasy Tactics Series \ Growlanser \ Halo Wars Series \ Ironhide Game Studio \ Jugdral Series \ Kingdom Rush Series \ Krosmoz \ Luminous Arc Series \ Luminous Arc Trilogy \ Mario + Rabbids \ Microprose \ Mugen Souls Series \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games \ Record of Agarest War Series \ Robot Gentleman \ Shouzou Kaga's Works \ Summon Night Series \ Summon Night: Swordcraft Story Series \ SUNBORN Network Technology Co., Ltd. \ Super Robot Taisen \ TearRing Saga \ Tears to Tiara Series \ Tellius Series \ Valentia Series \ Vantage Master Series \ Wada Sachiko's Art \ ZLONGAME
-Strategy Role-Playing Games | Advance Wars Series \ Archanea \ Bowser's Minions Series \ Devil Survivor Series \ Elibe Series \ Final Fantasy Tactics Series \ Jugdral Series \ Krosmoz \ Luminous Arc Series \ Luminous Arc Trilogy \ Mario + Rabbids \ Mugen Souls Series \ Project X Zone Series \ Record of Agarest War Series \ Shouzou Kaga's Works \ Super Robot Taisen \ TearRing Saga \ Tears to Tiara Series \ Tellius Series \ Valentia Series \ Vantage Master Series \ Wada Sachiko's Art \ ZLONGAME
+Strategy Games | Advance Wars Series \ Archanea \ Career Soft \ Civilization \ Command & Conquer Series \ Cooking Dash Series \ Devil Survivor Series \ Diner Dash Series \ Elibe Series \ Ensemble Studios \ Final Fantasy Tactics Series \ Growlanser \ Halo Wars Series \ Ironhide Game Studio \ Jugdral Series \ Kingdom Rush Series \ Krosmoz \ Liquid Entertainment \ Luminous Arc Series \ Luminous Arc Trilogy \ Mario + Rabbids \ Microprose \ Might & Magic Series \ Mount & Blade Series \ Mugen Souls Series \ Phantom Brave Series \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games \ Record of Agarest War Series \ Robot Gentleman \ Shouzou Kaga's Works \ Summon Night Series \ Summon Night: Swordcraft Story Series \ SUNBORN Network Technology Co., Ltd. \ Super Robot Taisen \ TaleWorlds Entertainment \ TearRing Saga \ Tears to Tiara Series \ Tellius Series \ The Lord of the Rings: The Battle for Middle-earth Series \ Valentia Series \ Vantage Master Series \ Wada Sachiko's Art
+Strategy Role-Playing Games | Advance Wars Series \ Archanea \ Bowser's Minions Series \ Devil Survivor Series \ Elibe Series \ Final Fantasy Tactics Series \ Jugdral Series \ Krosmoz \ Luminous Arc Series \ Luminous Arc Trilogy \ Mario + Rabbids \ Mugen Souls Series \ Phantom Brave Series \ Project X Zone Series \ Record of Agarest War Series \ Shouzou Kaga's Works \ Super Robot Taisen \ TearRing Saga \ Tears to Tiara Series \ Tellius Series \ Valentia Series \ Vantage Master Series \ Wada Sachiko's Art
 Studio Chizu | Mamoru Hosoda's Works
 Studio Comet | Jewelpet Series
 Studio Deen | Ranma ½ Series
 Studio Fantasia | AIKa Series \ Project A-ko Series
 Studio G-1 Neo | Angel Blade Series
 Studio Ghibli | Gorō Miyazaki's Works
-Studio Kai | Overlap Novels f
 Studio Pierrot | Studio Pierrot Magical Girls \ Urusei Yatsura Series \ Yu Yu Hakusho Series
+Studio Saizensen | Umihara Kawase Series
 StudioCanal | Three Flavours Cornetto Trilogy
 Stuff Script Engine Games | propeller's Works
-Success | Infinity Series
+Success | Cotton Series \ Infinity Series
 Sucker Punch Productions | inFAMOUS Series
 Suiseisha | studio HOKIBOSHI
 Suiyoubi no Sirius | Kengo Matsumoto's Works
@@ -1277,52 +1341,54 @@ Super Monkey Ball Series | Super Monkey Ball Deluxe
 Super Nintendo Entertainment System | Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: Super Saiya Densetsu \ Jugdral Series \ Lufia Series \ Mario Discovery Series \ Super NES Classic Edition \ The Lost Vikings Series \ The Software Toolworks
 Supercell | Clash of Clans Series
 Supergiant Games | Hades Series
-Superheroes | Adrian Dingle's Works \ Avengers Franchise \ Batman Animation \ Batman Franchise \ Batman Games \ Batman Movies \ Batman: Arkham \ Bell Features \ Big Hero 6 Series \ Birdman Series \ Blade Trilogy \ BoBoiBoy Series \ Bruce Timm's Works \ Buffyverse \ Canadian Whites \ Captain America Franchise \ Chapterverse \ Darkwing Duck Series \ Dav Pilkey's Works \ DC Animated Universe \ DC Extended Universe \ DC Universe \ Deadpool Franchise \ Fantastic Four Franchise \ Fox's X-Men Cinematic Universe \ Grantray-Lawrence Animation \ Green Lantern Franchise \ Guardians of the Galaxy Franchise \ Heisei Kamen Rider \ Heisei Kamen Rider Phase 1 \ Heisei Kamen Rider Phase 2 \ Henry Danger Series \ Hulk Franchise \ Hulk vs. \ Injustice Series \ Insomniac's Marvel Universe \ Iron Man Franchise \ James Gunn's Works \ Justice League Franchise \ Kamen Rider American Adaptations \ LEGO Batman \ LEGO DC Video Games \ LEGO Marvel Video Games \ Lev Gleason Publications \ Marvel Animated Features Collection \ Marvel Animation \ Marvel Cinematic Universe \ Marvel Earth-8096 \ Marvel: Ultimate Alliance Series \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Megamind Series \ One Punch Man Series \ Original X-Men Cinematic Universe \ Power Rangers \ Princess of Power Franchise \ Raimi Spider-Man Trilogy \ Reiwa Kamen Rider \ Revised X-Men Cinematic Universe \ Rocksteady Studios \ Sony's Spider-Man Universe \ Spider-Man Animation \ Spider-Man Franchise \ Spider-Man Games \ Spider-Man Movies \ Spider-Verse Saga \ Street & Smith \ Super Hero Time \ Super Sentai \ Superman Franchise \ Superman Movies \ Superman TV Shows \ Teen Titans Series \ The Amazing Spider-Man Movie Series \ The Boys Series \ The Dark Knight Trilogy \ The Darkness Series \ Thor Franchise \ Turbo Kid Series \ WB Games Montréal \ Wolverine Franchise
+Superheroes | Adrian Dingle's Works \ Aquaman Franchise \ Avengers Franchise \ Batman Animation \ Batman Franchise \ Batman Games \ Batman Movies \ Batman: Arkham \ Bell Features \ Big Hero 6 Series \ Birdman Series \ Black Panther Franchise \ Blade Trilogy \ BoBoiBoy Series \ Bruce Timm's Works \ Buffyverse \ Camouflaj \ Canadian Whites \ Captain America Franchise \ Chapterverse \ Darkwing Duck Series \ Dav Pilkey's Works \ DC Animated Universe \ DC Extended Universe \ DC Universe \ Deadpool Franchise \ Doctor Strange Franchise \ Fantastic Four Franchise \ Flash Franchise \ Fox's X-Men Cinematic Universe \ Grantray-Lawrence Animation \ Green Lantern Franchise \ Guardians of the Galaxy Franchise \ Heisei Kamen Rider \ Heisei Kamen Rider Phase 1 \ Heisei Kamen Rider Phase 2 \ Henry Danger Series \ Hulk Franchise \ Hulk vs. \ Injustice Series \ Insomniac's Marvel Universe \ Iron Man Franchise \ Justice League Franchise \ Kamen Rider American Adaptations \ LEGO Batman \ LEGO DC Video Games \ LEGO Marvel Video Games \ Lev Gleason Publications \ Marvel Animated Features Collection \ Marvel Animation \ Marvel Earth-8096 \ Marvel: Ultimate Alliance Series \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Megamind Series \ One Punch Man Series \ Original X-Men Cinematic Universe \ Princess of Power Franchise \ Raimi Spider-Man Trilogy \ Reiwa Kamen Rider \ Revised X-Men Cinematic Universe \ Rocksteady Studios \ Shazam Franchise \ Sony's Spider-Man Universe \ Spider-Man Animation \ Spider-Man Franchise \ Spider-Man Games \ Spider-Man Movies \ Spider-Verse Saga \ Street & Smith \ Super Hero Time \ Super Sentai \ Superman Franchise \ Superman Movies \ Superman TV Shows \ Swamp Thing Franchise \ Teen Titans Series \ The Amazing Spider-Man Movie Series \ The Boys Series \ The Dark Knight Trilogy \ The Darkness Series \ Thor Franchise \ Turbo Kid Series \ WB Games Montréal \ Wolverine Franchise \ Wonder Woman Franchise \ X-Men: Mutant Academy Series
 Superman Franchise | Superman Movies \ Superman TV Shows
 Supermassive Games | The Dark Pictures Anthology
 SuperWhoLock | Doctor Who \ Doctor Who Branded Media \ The Wilderness Years
-Surrealist Media | American McGee's Alice Series \ Hylics Series \ Katamari \ KeroQ \ Yume Nikki Fangames \ Yume Nikki Series
+Surrealist Media | Alice in Wonderland Series \ American McGee's Alice Series \ ENA Series \ Hylics Series \ Katamari \ KeroQ \ Yume Nikki Fangames \ Yume Nikki Series
 Survival Games | Endnight Games \ Robot Gentleman \ The Forest Series
-Survival Horror Games | Amnesia Series \ Baroque Decay Games \ Clock Tower Series \ Dead Rising \ Dying Light Series \ Fatal Frame \ Fear & Hunger Series \ Frictional Games \ Outlast Series \ Resident Evil: Revelations Series \ Silent Hill \ Team Silent
+Survival Horror Games | Amnesia Series \ Baroque Decay Games \ Clock Tower Series \ Dead Rising \ Dying Light Series \ Fatal Frame \ Fear & Hunger Series \ Frictional Games \ Lakeview Series \ Outlast Series \ Resident Evil: Revelations Series \ Team Silent
 Suzuhito Yasuda's Art | Devil Survivor Series
 Suzuki Mirano | Jitaku Keibiin Series
 Swanis Works | Dong-Heon Lee's Works
-Swedish Media | Amnesia Series \ Frictional Games \ Hazelight Studios \ Hotline Miami Series \ Just Cause Series \ Killmonday Games \ Little Nightmares Series \ MachineGames \ Mirror's Edge Series
-SWERY's Works | The Last Blade Series \ White Owls Inc.
+Swedish Media | Amnesia Series \ Frictional Games \ Hazelight Studios \ Hotline Miami Series \ Just Cause Series \ Killmonday Games \ Little Nightmares Series \ MachineGames \ Mirror's Edge Series \ semiwork \ Zoink Games
+SWERY's Works | White Owls Inc.
 Sword and Sorcery | Formo Toys
 Sword Art Online Series | Sword Art Online Gameverse
 Sylph Comics | Pepu's Art
-syn Sophia | Pretty Rhythm \ Pretty Series \ PriPara Series
-Syosetsuka ni Narou | Arian Rose \ Fame's Art \ Hanekoto's Art \ keepout's Art \ Overlap Novels f \ Polca Comics \ Rifujin na Magonote's Works \ Touzai's Art \ Yusaku Sakaishi's Works
-T-Rex | Antechinus \ Bunnywalker \ Chinjao Girl \ How I Made Sex Friends Series \ Huracan's Art \ JOY RIDE's Works \ Juicy Mango \ Marine \ Muchakai's Works
-Tabletop Games | Cluedo Series \ Level 99 Games \ Miniature Wargames \ Tabletop Role-Playing Games \ Wizards of the Coast
+syn Sophia | Def Jam Games \ Kurohyou Series \ Pretty Rhythm \ Pretty Series
+Syosetsuka ni Narou | Arian Rose \ Fame's Art \ Hanekoto's Art \ keepout's Art \ Rifujin na Magonote's Works \ Satsuki Nakamura's Works \ Supana Onikage's Works \ Touzai's Art \ Yusaku Sakaishi's Works
+T-Rex | Antechinus \ Bunnywalker \ Chinjao Girl \ How I Made Sex Friends Series \ Huracan's Art \ JOY RIDE's Works \ Juicy Mango \ Marine
+Tabletop Games | Level 99 Games \ Miniature Wargames \ Tabletop Role-Playing Games
 Tactical Shooter Games | Sniper Ghost Warrior Series
 Tactics | Pre-Key Tactics \ Variety Tactics! Series
 Taimanin Universe | Taimanin
 Taito | Bubble Bobble Series \ Darius Series \ Puzzle Bobble Series
 Taiyo Tosho | Craft \ Enjo's Works \ ihr hertZ
 Takahiro's Works | Akame ga Kill Series
-Takara Tomy | Beyblade Series \ Pretty Rhythm \ Pretty Series \ PriPara Series \ selector WIXOSS \ Shinkansen Henkei Robo Shinkalion Series \ WIXOSS \ Zoids Series
-Take-Two Interactive | BioShock Series \ Borderlands Series \ Grand Theft Auto \ Grand Theft Auto: The Trilogy \ Red Dead Redemption Series \ Rockstar Advanced Game Engine \ Zynga
+Takara Tomy | Beyblade Series \ Pretty Rhythm \ Pretty Series \ selector WIXOSS \ Shinkansen Henkei Robo Shinkalion Series \ WIXOSS \ Zoids Series
+Take-Two Interactive | BioShock Series \ Borderlands Series \ Grand Theft Auto \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ Mafia Series \ Max Payne Series \ Red Dead Redemption Series \ Rockstar Advanced Game Engine \ Zynga
 take's Art | Zaregoto Franchise
-Takehito Harada's Art | Prinny Series \ The Witch and The Hundred Knight Series
+Takehito Harada's Art | Phantom Brave Series \ Prinny Series \ The Witch and The Hundred Knight Series
 Takeshi Obata's Art | Tsugumi Ohba's Works
 Takeshobo | Manga Life \ Manga Life MOMO \ Manga Life STORIA \ Manga Life STORIA Dash \ Mayonaka Love Alliance \ Ten Series \ WEB Comic Gamma Plus
 Tales of Series | Tales of Symphonia Chronicles \ Tales of the World: Radiant Mythology Series \ Tales of Xillia Series
+TaleWorlds Entertainment | Mount & Blade Series
 Tamiki Wakaki's Works | 16bit Sensation Series
 Tang Jia San Shao's Works | Soul Land Series
 Tango Gameworks | The Evil Within Series
-Tapas | Eun-chae Go's Works \ Eunhyang Ja's Works \ GongDeunTop's Works \ Haron Lee's Works \ Hee-jin Bae's Works \ Irinbi's Works \ Juhong's Art \ Kang Ki's Art \ Kiarne's Works \ Kin's Works \ Lisabel's Works \ Neptune \ Plutus's Works \ Portofino's Works \ RinA's Works \ Sinran's Works \ Siya's Works \ Sol Leesu's Works \ Spice&Kitty's Works \ SWAN's Works \ Tess' Art \ todac_s's Art \ Whispwill \ Yoon Hawol's Works
+Tapas | Eun-chae Go's Works \ Eunhyang Ja's Works \ GongDeunTop's Works \ Haron Lee's Works \ Hee-jin Bae's Works \ Irinbi's Works \ Juhong's Art \ Kang Ki's Art \ Kiarne's Works \ Kin's Works \ Lisabel's Works \ Neptune \ Plutus's Works \ Portofino's Works \ RinA's Works \ Sinran's Works \ Siya's Works \ Sol Leesu's Works \ Spice&Kitty's Works \ Spoon's Art \ SWAN's Works \ Tess' Art \ todac_s's Art \ Whispwill \ Wookjakga's Art \ Yoon Hawol's Works
 Tappytoon | CHIMA's Works \ Chungeoram \ Haejin's Works \ Haeyoon's Works \ Harusari's Works \ Jagae's Art \ Kim Myeongmi's Art \ Lim Seo-rim's Works \ SWAN's Works \ Woo-gak's Works \ Yeowool's Works \ Yunsul's Works
 Taraku Uon's Art | Onegai Teacher Series
-Tatsunoko Production | Gatchaman Series \ Pretty Rhythm \ PriPara Series \ Yatterman Series
+Tatsunoko Production | Gatchaman Series \ Pretty Rhythm \ Samurai Pizza Cats Series \ Yatterman Series
 Tatsurou Iwamoto's Art | Phoenix Wright: Ace Attorney Trilogy
 Tawara Hiryuu's Works | Juku Mesu - Erotic Mature Women
 Team ASOBI | Astro Bot Series
 Team Baldrhead | Baldr Series
-Team Ninja | Dead or Alive Series \ Ninja Gaiden Master Collection
+Team Ninja | Ninja Gaiden Master Collection
 Team OneOne | Kurayukaba Series
 Team Reptile | Lethal League Series
+Team17 | Blasphemous Series
 Techland | Dying Light Series
 Technos Japan Corp. | Kunio-Kun Franchise
 TEKKEN | TEKKEN Hybrid \ TEKKEN TAG TOURNAMENT Series
@@ -1332,10 +1398,10 @@ Telltale Games | Poker Night Series
 temmie's art | Toby Fox's Games
 Tencent Holdings Ltd. | Man kezhan
 Tencent Manhua | Man kezhan
-Tensei | Blue Canna's Art \ Dalseul's Works \ Epyrus \ HameFura Series \ Supercomix Studio \ Surim Lee's Works \ Taeson's Works \ Taiki Akitoki's Art \ Viewcommz \ Yumyum's Art
+Tensei | Blue Canna's Art \ Dalseul's Works \ Epyrus \ HameFura Series \ Supercomix Studio \ Surim Lee's Works \ Taeson's Works \ Taiki Akitoki's Art \ Yumyum's Art
 Tetsuhiro Koshita's Works | Bakusou Kyoudai Let's & Go Series
 Tezuka Productions | Black Jack Series
-The Age of the Empire | Star Wars Jedi Series \ Star Wars: The Force Unleashed Series
+The Age of the Empire | Star Wars Jedi Series \ Star Wars: Jedi Knight \ Star Wars: The Force Unleashed Series
 The Age of the Old Republic | Star Wars: Knights of the Old Republic Series
 The Big Bang Theory Series | Chuck Lorre's Works
 The Candy and Popgoes Universe | Five Nights at Candy's \ POPGOES Series
@@ -1343,29 +1409,35 @@ The Cl Book | Plutus's Works
 The Disney Afternoon | Jymn Magon's Works
 The Fazbear Fanverse Initiative | Five Nights at Candy's \ POPGOES Series
 The Forest Series | Endnight Games
-The Jim Henson Company | Jim Henson's Works \ The Dark Crystal Series \ The Muppets Franchise
+The House of the Dead Series | The Typing of the Dead Series
+The Jim Henson Company | Five Nights at Freddy's Movie Series \ Jim Henson's Works \ The Dark Crystal Series \ The Muppets Franchise
 The Jungle Book Anthology | Rudyard Kipling's Works
+The Jungle Book Series | TaleSpin Series
+The King of Fighters | KOF: Maximum Impact Series
 The Legend of Heroes | Erebonia Arc
-The Legend of Zelda | Hyrule Warriors Series \ Nintendo EAD Group No. 3 \ The Legend of Zelda 2D Games \ The Legend of Zelda 3D Games \ The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: A Link to the Past Series \ The Legend of Zelda: Breath of the Wild Series \ The Legend of Zelda: Collector's Edition \ The Legend of Zelda: Four Swords Series \ The Legend of Zelda: Twilight Princess Series
+The Legend of Zelda | Hyrule Warriors Series \ Nintendo EAD Group No. 3 \ The Legend of Zelda 2D Games \ The Legend of Zelda 3D Games \ The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: A Link to the Past Series \ The Legend of Zelda: Breath of the Wild Series \ The Legend of Zelda: Collector's Edition \ The Legend of Zelda: Four Swords Series \ The Legend of Zelda: Twilight Princess Series \ Zelda CD-i Series
 The Legend of Zelda 2D Games | The Legend of Zelda: A Link to the Past & Four Swords \ The Legend of Zelda: Four Swords Series
 The McElroy Family's Works | The Adventure Zone
 The Simpsons Series | The Simpsons Video Games
 The Software Toolworks | Mario Discovery Series
-The Walt Disney Company | 101 Dalmatians Series \ A Goofy Bundle \ Aladdin Series \ Atlantis Series \ Avengers Franchise \ Bambi Series \ Beauty and the Beast Series \ Big Hero 6 Series \ Blade Trilogy \ Bobs Gannaway's Works \ Brother Bear Series \ Byron Howard's Works \ Captain America Franchise \ Carlos Saldanha's Works \ Cars Movies \ Cars Series \ Cars Video Games \ Castle of Illusion Series \ Chicken Little Series \ Chip 'n Dale Series \ Cinderella Series \ Club Penguin Series \ Craig Gerber's Works \ Darkwing Duck Series \ Darrell Rooney's Works \ Dave Filoni's Works \ Deadpool Franchise \ Descendants Series \ Disney Channel Original Movies \ Disney Games \ Disney Parks \ Disney Princess Films \ Disneytoon Studios \ Domee Shi's Works \ Don Hall's Works \ Donald Duck Universe \ DuckTales Series \ Epic Mickey Series \ Fantasia Series \ Finding Nemo Series \ Frozen Series \ Gary Trousdale & Kirk Wise's Works \ George Lucas' Works \ Guardians of the Galaxy Franchise \ Hulk vs. \ Ice Age Series \ Indiana Jones Series \ Inside Out Series \ Insomniac's Marvel Universe \ Iron Man Franchise \ Jim Kammerud's Works \ John Lasseter's Works \ John Musker & Ron Clement's Works \ Jymn Magon's Works \ Kenny Ortega's Works \ Kevin Lima's Works \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts HD 2.8 Final Chapter Prologue \ Kingdom Hearts Series \ Kingdom Hearts Union χ Dark Road \ Kingdom Hearts χ Series \ Lady and the Tramp Series \ Lee Unkrich's Works \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars \ LEGO Star Wars Video Games \ Marvel Animated Features Collection \ Marvel Cinematic Universe \ Marvel Earth-8096 \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Mickey Mouse Franchise \ Moana Series \ Monsters, Inc. Series \ Mulan Series \ Pete Docter's Works \ Peter Pan Franchise \ Peter Sohn's Works \ Phineas and Ferb Series \ Pirates of the Caribbean Series \ Pixar Animation Studios \ Pixar Short Films \ Pocahontas Series \ Raimi Spider-Man Trilogy \ Rich Moore's Works \ Sony's Spider-Man Universe \ Spider-Man Movies \ Spider-Verse Saga \ Star Wars Canon \ Star Wars Jedi Series \ Star Wars: Battlefront Series \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ Star Wars: The Skywalker Saga \ Stitch Franchise \ Tad Stones's Works \ TaleSpin Series \ Tangled Series \ Tarzan Series \ That's So Raven Series \ The Adventures of Ichabod and Mr. Toad \ The Age of the Empire \ The Age of the High Republic \ The Age of the New Republic \ The Age of the Republic \ The Amazing Spider-Man Movie Series \ The Disney Afternoon \ The Disney Afternoon Collection \ The Emperor's New Groove Series \ The Fox and the Hound Series \ The Hunchback of Notre Dame Series \ The Incredibles Series \ The Jungle Book Series \ The Lion King Series \ The Little Mermaid Series \ The Muppets Franchise \ The Rescuers Series \ Thor Franchise \ TinyCo \ Toy Story Mainline Movies \ Toy Story Series \ Tri-State Area Series \ TRON Series \ Walt Disney Animation Studios \ Who Framed Roger Rabbit Series \ Winnie the Pooh Franchise \ Wolfgang Reitherman's Works \ Wreck-It Ralph Series \ Zootopia Series
+The Sopranos Series | David Chase's Works
+The Walt Disney Company | 101 Dalmatians Series \ A Goofy Bundle \ Aladdin Series \ Alice in Wonderland Series \ Atlantis Series \ Avengers Franchise \ Bambi Series \ Beauty and the Beast Series \ Big Hero 6 Series \ Black Panther Franchise \ Blade Trilogy \ Bobs Gannaway's Works \ Brother Bear Series \ Byron Howard's Works \ Captain America Franchise \ Carlos Saldanha's Works \ Cars Movies \ Cars Series \ Cars Video Games \ Castle of Illusion Series \ Chicken Little Series \ Chip 'n Dale Series \ Cinderella Series \ Club Penguin Series \ Craig Gerber's Works \ Darkwing Duck Series \ Darrell Rooney's Works \ Dave Filoni's Works \ Deadpool Franchise \ Descendants Series \ Disney Channel Original Movies \ Disney Games \ Disney Parks \ Disney Princess Films \ Disneytoon Studios \ Doctor Strange Franchise \ Domee Shi's Works \ Don Hall's Works \ Donald Duck Franchise \ DuckTales Series \ Epic Mickey Series \ Fantasia Series \ Finding Nemo Series \ Frozen Series \ Gary Trousdale & Kirk Wise's Works \ George Lucas' Works \ Guardians of the Galaxy Franchise \ Hulk vs. \ Ice Age Series \ Indiana Jones Series \ Inside Out Series \ Insomniac's Marvel Universe \ Iron Man Franchise \ Jim Kammerud's Works \ John Lasseter's Works \ John Musker & Ron Clement's Works \ Jymn Magon's Works \ Kenny Ortega's Works \ Kevin Lima's Works \ Kingdom Hearts Birth by Sleep Series \ Kingdom Hearts HD 1.5 ReMIX \ Kingdom Hearts HD 2.5 ReMIX \ Kingdom Hearts HD 2.8 Final Chapter Prologue \ Kingdom Hearts Series \ Kingdom Hearts Union χ Dark Road \ Kingdom Hearts χ Series \ Lady and the Tramp Series \ Lee Unkrich's Works \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars \ LEGO Star Wars Video Games \ Marvel Animated Features Collection \ Marvel Earth-8096 \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Moana Series \ Monsters, Inc. Series \ Mulan Series \ Pete Docter's Works \ Peter Pan Franchise \ Peter Sohn's Works \ Phineas and Ferb Series \ Pirates of the Caribbean Series \ Pixar Animation Studios \ Pixar Short Films \ Pocahontas Series \ Raimi Spider-Man Trilogy \ Rich Moore's Works \ Sony's Spider-Man Universe \ Spider-Man Movies \ Spider-Verse Saga \ Star Wars Canon \ Star Wars Jedi Series \ Star Wars: Battlefront Series \ Star Wars: Jedi Knight \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ Star Wars: The Skywalker Saga \ Stitch Franchise \ Tad Stones's Works \ TaleSpin Series \ Tangled Series \ Tarzan Series \ That's So Raven Series \ The Adventures of Ichabod and Mr. Toad \ The Age of the Empire \ The Age of the High Republic \ The Age of the New Republic \ The Age of the Republic \ The Amazing Spider-Man Movie Series \ The Disney Afternoon \ The Disney Afternoon Collection \ The Emperor's New Groove Series \ The Fox and the Hound Series \ The Hunchback of Notre Dame Series \ The Incredibles Series \ The Jungle Book Series \ The Lion King Series \ The Little Mermaid Series \ The Muppets Franchise \ The Rescuers Series \ Thor Franchise \ TinyCo \ Toy Story Mainline Movies \ Toy Story Series \ Tri-State Area Series \ TRON Series \ Walt Disney Animation Studios \ Who Framed Roger Rabbit Series \ Winnie the Pooh Franchise \ Wolfgang Reitherman's Works \ Wreck-It Ralph Series \ X-Men: Mutant Academy Series \ Zootopia Series
 The Witch and the Hundred Knight Multiverse | Labyrinth Series \ The Witch and The Hundred Knight Series
-Third-person Shooter Games | Ace Combat \ Alan Wake Series \ Armored Core \ Avalanche Studios \ Bionic Commando Series \ Bullet Girls Series \ Core Design \ Destroy All Humans! Series \ Fortnite Series \ Grand Theft Auto \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ HELLDIVERS Series \ Hitman Series \ Hitman: World of Assassination \ Just Cause Series \ Lost Planet Series \ Max Payne Series \ Pandemic Studios \ Ratchet & Clank Collection \ Red Dead Redemption Series \ Remedy Entertainment \ Resident Evil: Revelations Series \ Rockstar Advanced Game Engine \ Saints Row Series \ Snowdrop Engine Games \ Star Wars: Battlefront Series \ The Evil Within Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ Volition \ Warhammer 40,000: Space Marine Series \ WATCH_DOGS Series
+Third-person Shooter Games | Ace Combat \ Alan Wake Series \ Armored Core \ Avalanche Studios \ Bionic Commando Series \ Bullet Girls Series \ Core Design \ Destroy All Humans! Series \ Fortnite Series \ Grand Theft Auto \ Grand Theft Auto HD Universe \ Grand Theft Auto: The Trilogy \ HELLDIVERS Series \ Hitman Series \ Hitman: World of Assassination \ Just Cause Series \ Kane & Lynch Series \ Lost Planet Series \ Mafia Series \ Max Payne Series \ Pandemic Studios \ Ratchet & Clank Collection \ Red Dead Redemption Series \ Remedy Connected Universe \ Remedy Entertainment \ Resident Evil: Revelations Series \ Rockstar Advanced Game Engine \ Saints Row Series \ SingleTrac \ Snowdrop Engine Games \ Star Wars: Battlefront Series \ The Evil Within Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ Volition \ Warhammer 40,000: Space Marine Series \ WATCH_DOGS Series
 Thor Franchise | MCU Thor Series
 THQ | Destroy All Humans! Series \ Nicktoons Unite Series \ Sonic Advance Series
 THQ Nordic | Darksiders Series \ Destroy All Humans! Series \ Gothic Series \ Piranha Bytes
 Tim Burton's Works | Beetlejuice Series
-TMNT Series | Mirage Studios \ Rise of the Teenage Mutant Ninja Turtles Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ TMNT Movies
+Titmouse | Christy Karacas's Works
+TMNT Series | Mirage Studios \ Rise of the Teenage Mutant Ninja Turtles Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ TMNT Games \ TMNT Movies
 To Books | Comic Corona
 To Heart Series | Dungeon Travelers Series
+Toaplan | Snow Bros. Series
 Toboso Yana's Works | Black Butler Series
 Toby Fox's Works | Toby Fox's Games
-Toei Animation | Delicious Party♡Precure Series \ Digimon Anime \ Dragon Ball Anime \ Dragon Ball Original Manga Run \ Dragon Ball Super Series \ Dragon Ball Z: Cooler Series \ Dragon Ball: Broly Series \ Energon Universe \ Futari wa PreCure Series \ Glitter Force Series \ Mahoutsukai PreCure! Series \ Maple Town Series \ PreCure \ PreCure All Stars \ PreCure Movies \ Smile PreCure! Series \ Tiger Mask Series \ Wonderful PreCure Series \ Yes! PreCure 5 Series
+Toei Animation | Delicious Party♡Precure Series \ Digimon Anime \ Dragon Ball Anime \ Dragon Ball Original Manga Run \ Dragon Ball Super Series \ Dragon Ball Z: Cooler Series \ Dragon Ball: Broly Series \ Energon Universe \ Futari wa PreCure Series \ Glitter Force Series \ Izumi Toudou \ Mahoutsukai PreCure! Series \ Maple Town Series \ PreCure \ PreCure All Stars \ PreCure Movies \ Smile PreCure! Series \ Tiger Mask Series \ Wonderful PreCure Series \ Yes! PreCure 5 Series
 Toei Company | Heisei Kamen Rider \ Heisei Kamen Rider Phase 1 \ Heisei Kamen Rider Phase 2 \ Reiwa Kamen Rider \ Super Hero Time \ Super Sentai
-Tōhō Co., Ltd. | Godzilla: Heisei Continuity \ Godzilla: Millennium Era \ Godzilla: Shōwa Continuity \ InuYasha Movies \ Mothra Franchise
+Tōhō Co., Ltd. | Doraemon Series \ Godzilla: Heisei Continuity \ Godzilla: Millennium Era \ Godzilla: Shōwa Continuity \ InuYasha Movies \ Mothra Franchise
 Tohru Fujisawa's Works | GTO Series
 Tokimeki Memorial Series | Tokimeki Memorial Girl's Side
 Tokuma Shoten | Chara \ Comic Ryu
@@ -1377,13 +1449,15 @@ Tom Clancy's | Snowdrop Engine Games \ Tom Clancy's Splinter Cell Series
 Tom Fulp's Works | The Behemoth
 Tomb Raider Series | Core Design \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
 Tomm Moore's Works | Cartoon Saloon
+Tomorrow Corporation | 2D Boy \ World of Goo Series
 Tony Hawk Series | Tony Hawk's Pro Skater Series \ Tony Hawk's Underground Series
 Tony Taka's Art | Ciel
 Tookyo Games | TRIBE NINE Series
-Toomics | JQ's Works \ LObeam's Works \ Rodong's Art \ Sipmanwon's Works \ Sungwon's Art \ Tama's Works \ Team Biyam's Works \ Yeo Kanghyun's Art
+Toomics | JQ's Works \ LObeam's Works \ Rodong's Art \ Sipmanwon's Works \ Sua Im's Works \ Sungwon's Art \ Tama's Works \ Team Biyam's Works \ Yeo Kanghyun's Art
 Toonami | Dragon Ball Original Manga Run
 Tooneed Entertainment | KAKON's Art
-Toptoon | 6ho's Works \ Active Volcano's Works \ Alien's Works \ Among's Art \ Andrew's Art \ Baegji's Art \ Beibi's Works \ Camja's Art \ Cheongnyang's Art \ Dolkong's Works \ Dong-Heon Lee's Works \ ERO404's Works \ Flower Storm's Works \ GOSONJAK's Works \ Grid17's Art \ Gyou's Art \ Gyulpi's Works \ Hal's Works \ Haron's Works \ Hoero's Works \ Husky Team's Works \ Hyungjakga's Art \ Jake's Art \ Jayeon PPang's Art \ Kang-Cheol Wang's Works \ Kimmundo's Works \ Kogi Jun's Works \ Kyun's Art \ Mangmungming's Works \ MAYO's Art \ MJJ's Works \ Muldeok's Works \ Naru's Art \ Nuwaru's Works \ On-Jeom's Works \ Park Min's Works \ PD Kim's Art \ Red City's Art \ red-A's Works \ Rubung's Works \ Seok-Ji's Art \ Seongchi Lee's Works \ Seran Kim's Works \ SSAEM's Works \ Sungmin's Works \ Swanis Works \ Talyeong's Art \ Tharchog's Works \ Yansae's Works \ Yuwol's Works \ Zeta Kim's Art
+Top Hat Studios | Frogun Series
+Toptoon | 6ho's Works \ Active Volcano's Works \ Alien's Works \ Among's Art \ Andrew's Art \ Baegji's Art \ Baengkki's Art \ Basasak's Works \ Beibi's Works \ Camja's Art \ Cheongnyang's Art \ Dolkong's Works \ Dong-Heon Lee's Works \ ERO404's Works \ Flower Storm's Works \ GOSONJAK's Works \ Grid17's Art \ Grilled Mero's Art \ guunhanchi's Art \ Gyou's Art \ Gyulpi's Works \ Hal's Works \ Haron's Works \ Hoero's Works \ Husky Team's Works \ Hyungjakga's Art \ Jake's Art \ Jayeon PPang's Art \ Kang-Cheol Wang's Works \ Kimmundo's Works \ Kogi Jun's Works \ Kuro Kitsune's Art \ Kyun's Art \ Lee Wan's Art \ MAD's Art \ Malchocochip's Works \ Mangmungming's Works \ MAYO's Art \ MJJ's Works \ Muldeok's Works \ Naru's Art \ Nuwaru's Works \ OB's Works \ On-Jeom's Works \ Park Min's Works \ PD Kim's Art \ Red City's Art \ red-A's Works \ Robot Kim's Art \ Rubung's Works \ Seok-Ji's Art \ Seongchi Lee's Works \ Seran Kim's Works \ SSAEM's Works \ Sungmin's Works \ Swanis Works \ Talyeong's Art \ Tharchog's Works \ Tting Jini's Works \ TTWOOK's Art \ Yangyang's Art \ Yansae's Works \ Yuwol's Works \ Zeta Kim's Art
 TOSE | Dragon Ball Z: Gokuden Series \ Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Super Gokuden \ Dragon Ball Z: Super Saiya Densetsu \ Dragon Ball: Shenlong no Nazo Series \ J Legend Retsuden \ The Legendary Starfy Series
 Tosuisha | Shiho Sugiura's Works
 Touhou Fanworks | Team Elegant Impermanence of Sakura
@@ -1391,43 +1465,48 @@ Touhou Project | Touhou Bunkachou \ Touhou Print Works \ Touhou Project (PC-98 C
 Touhou Project (Windows Canon) | Touhou Bunkachou \ Touhou Print Works \ Touhou Sangetsusei \ Touhou Spinoffs \ Touhou Windows 1st Generation \ Touhou Windows 2nd Generation \ Touhou Windows 3rd Generation
 Touhou Project Universe | Team Elegant Impermanence of Sakura \ Touhou Bunkachou \ Touhou Fanworks \ Touhou Print Works \ Touhou Project \ Touhou Project (PC-98 Canon) \ Touhou Project (Windows Canon) \ Touhou Sangetsusei \ Touhou Spinoffs \ Touhou Windows 1st Generation \ Touhou Windows 2nd Generation \ Touhou Windows 3rd Generation
 Touhou Spinoffs | Touhou Bunkachou
-Tower Defense Games | Ironhide Game Studio \ Kingdom Rush Series \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games
+Tower Defense Games | Age of Defense Series \ Belugerin \ Ironhide Game Studio \ Kingdom Rush Series \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games
 Toy Car's Works | Studio Jilpung
 Toy Story Series | Toy Story Mainline Movies
-Toys | Beyblade Series \ Energon Universe \ Formo Toys \ Lalaloopsy Series \ Legends of Chima Series \ LEGO Batman \ LEGO City \ LEGO DC Video Games \ LEGO Friends Series \ LEGO Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars \ LEGO Star Wars Video Games \ Littlest Pet Shop Franchise \ MGA Entertainment \ Monster High Franchise \ Shinkansen Henkei Robo Shinkalion Series \ Zoids Series
+Toys | Beyblade Series \ Energon Universe \ Formo Toys \ Lalaloopsy Series \ Legends of Chima Series \ LEGO Batman \ LEGO City \ LEGO DC Video Games \ LEGO Friends Series \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars \ LEGO Star Wars Video Games \ Littlest Pet Shop Franchise \ MGA Entertainment \ Monster High Franchise \ Shinkansen Henkei Robo Shinkalion Series \ Zoids Series
 Toys for Bob | Spyro Reignited Trilogy
 Toys-to-Life | Skylanders
-Trading Card Games | Battle Spirits \ Data Carddass \ Future Card Buddyfight Series \ Luck & Logic Series \ Mushiking \ Pokémon Trading Card Game (GBC) Series \ selector WIXOSS \ Shadowverse Series \ WIXOSS \ Yu-Gi-Oh! Tag Force Series \ Z/X -Zillions of enemy X-
+Trading Card Games | Battle Spirits \ Future Card Buddyfight Series \ Luck & Logic Series \ Mushiking \ Pokémon Trading Card Game (GBC) Series \ selector WIXOSS \ Shadowverse Series \ WIXOSS \ Yu-Gi-Oh! Tag Force Series \ Z/X -Zillions of enemy X-
 Train Media | Maitetsu Series \ Thomas & Friends Series
 Transformers Franchise | Bayformers
 Traveller's Tales | LEGO DC Video Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars Video Games
 Treasure (Company) | Sin & Punishment Series
-Treehouse | Keith Chapman's Works \ Milkshake! \ PAW Patrol Series
+Treehouse | Keith Chapman's Works \ PAW Patrol Series
 tri-Ace | Star Ocean Series
 tri-Crescendo | Baten Kaitos
 Tri-State Area Series | Phineas and Ferb Series
 Trigger | Kazuki Nakashima's Works \ Kill la Kill Series
 Trolls Dolls | Trolls Series
 Tsuji Santa's Art | Super Sonico
+Tsukihime Series | Tsukihime Remake Series
 Tsunako's Art | Fairy Fencer F Series \ Tachibana Koushi's Works
 Tsunku♂'s Works | Rhythm Heaven
-Turn-Based Role-Playing Games | 7th Dragon Series \ Advance Wars Series \ Archanea \ Arland Series \ Asdivine Series \ Atelier Iris Series \ Baldur's Gate Series \ Breath of Fire \ Brown Dust Series \ Chaos Rings Series \ Chrono \ Conception Series \ Copper Odyssey Series \ Darkest Dungeon Series \ Dept. Heaven \ Devil Survivor Series \ Digital Devil Story \ Divinity \ Dungeon Travelers Series \ Dusk Series \ Eiyuu Senki \ Elibe Series \ Etrian Odyssey Series \ Evenicle Series \ Fairy Fencer F Series \ Final Fantasy Pixel Remaster Series \ Final Fantasy Tactics Series \ Front Mission Series \ Genkai Tokki \ Goblin Burrow Series \ Golden Sun Series \ Gramnad Series \ Grandia Series \ Hylics Series \ Jugdral Series \ Kingdom Hearts Union χ Dark Road \ KingsIsle Entertainment \ Krosmoz \ Larian Studios \ Legend of Legaia Series \ Lifewonders \ Lufia Series \ Luminous Arc Series \ Luminous Arc Trilogy \ Lunar Series \ Magical Vacation Series \ Mana Khemia Series \ Mario + Rabbids \ Mary Skelter Series \ Modern Persona \ Monster Girl Quest Series \ Monster Hunter Stories Series \ MOTHER \ MOTHER 1 + 2 \ Mugen Souls Series \ Mysterious Series \ Octopath Traveler Series \ Omega Labyrinth Series \ Onono Imoko's Art \ Owlcat Games \ Persona 2 Series \ Persona Q Series \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Core Games \ Pokémon Mystery Dungeon \ Project X Zone Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Record of Agarest War Series \ Sacnoth \ Shadow Hearts Series \ Shin Megami Tensei IV Series \ Shin Megami Tensei V Series \ Shouzou Kaga's Works \ Soul Hackers Series \ TearRing Saga \ Tears to Tiara Series \ Tellius Series \ The Caligula Effect Series \ Toby Fox's Games \ Valentia Series \ Vantage Master Series \ VenusBlood Series \ Voice of Cards \ Wada Sachiko's Art \ Wild ARMs Series \ Yuji Himukai's Art \ ZLONGAME
+Turkish Media | Mount & Blade Series \ TaleWorlds Entertainment
+Turn-Based Role-Playing Games | 7th Dragon Series \ Advance Wars Series \ Archanea \ Arland Series \ Asdivine Series \ Atelier Iris Series \ Baldur's Gate Series \ BanameiR \ Breath of Fire \ Brown Dust Series \ Chaos Rings Series \ Chrono \ Conception Series \ Copper Odyssey Series \ Darkest Dungeon Series \ Death end re;Quest Series \ Dept. Heaven \ Devil Survivor Series \ Digital Devil Story \ Dungeon Travelers Series \ Dusk Series \ Eiyuu Senki \ Elibe Series \ Etrian Odyssey Series \ Evenicle Series \ Fairy Fencer F Series \ Final Fantasy Pixel Remaster Series \ Final Fantasy Tactics Series \ Front Mission Series \ Genkai Tokki \ Goblin Burrow Series \ Golden Sun Series \ Gramnad Series \ Grandia Series \ Hylics Series \ Jugdral Series \ Kingdom Hearts Union χ Dark Road \ KingsIsle Entertainment \ Kozue's Strange Journey Series \ Krosmoz \ Legend of Legaia Series \ Lifewonders \ Lufia Series \ Luminous Arc Series \ Luminous Arc Trilogy \ Lunar Series \ Magical Vacation Series \ Mana Khemia Series \ Mario & Luigi: Bowser's Inside Story Series \ Mario + Rabbids \ Mary Skelter Series \ Modern Persona \ Monster Girl Quest Series \ Monster Hunter Stories Series \ MOTHER \ MOTHER 1 + 2 \ Mugen Souls Series \ Mysterious Series \ Octopath Traveler Series \ Omega Labyrinth Series \ Onono Imoko's Art \ Owlcat Games \ Persona 2 Series \ Persona Q Series \ Phantom Brave Series \ Pokémon Black/White Series \ Pokémon Colosseum Series \ Pokémon Mystery Dungeon \ Project X Zone Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Record of Agarest War Series \ Sacnoth \ Shadow Hearts Series \ Shin Megami Tensei IV Series \ Shin Megami Tensei V Series \ Shouzou Kaga's Works \ Soul Hackers Series \ TearRing Saga \ Tears to Tiara Series \ Tellius Series \ The Caligula Effect Series \ Toby Fox's Games \ Valentia Series \ Vantage Master Series \ VenusBlood Series \ Voice of Cards \ Wada Sachiko's Art \ Wild ARMs Series \ Wizardry Series \ Yuji Himukai's Art \ ZLONGAME
 Turtle Rock Studios | Left 4 Dead Series
 TV Asahi | Glitter Force Series \ Heisei Kamen Rider Phase 2
-TYPE-MOON | Fate \ Fate/EX Series \ Fate/Grand Order Series \ Kinoko Nasu's Works \ Tsukihime Series
+Twisted Metal Series | SingleTrac
+TYPE-MOON | Fate \ Fate/EX Series \ Fate/Grand Order Series \ Kinoko Nasu's Works \ Tsukihime Remake Series \ Tsukihime Series
 Typhoon Graphics | Hisaya Amagishi's Works \ One Room Series
 Typing Tutors | Mario Teaches Typing Series \ The Typing of the Dead Series
 TyranoScript Games | L-I-B Works
-Ubisoft | Assassin's Creed Chronicles \ Assassin's Creed Series \ Assassin's Creed: The Ezio Collection \ Blood Dragon \ FARCRY Series \ Grandia Series \ Just Dance Series \ Mario + Rabbids \ Prince of Persia Series \ Rabbids Series \ Snowdrop Engine Games \ Tom Clancy's Splinter Cell Series \ WATCH_DOGS Series
+Ubisoft | Assassin's Creed Chronicles \ Assassin's Creed Series \ Assassin's Creed: The Ezio Collection \ Blood Dragon \ FARCRY Series \ Grandia Series \ Grow Home Series \ Just Dance Series \ Mario + Rabbids \ Might & Magic Series \ Prince of Persia Series \ Rabbids Series \ Snowdrop Engine Games \ Tom Clancy's Splinter Cell Series \ Valiant Hearts Series \ WATCH_DOGS Series
+Ukrainian Media | Metro Series
 UMEMARO 3D | Pizza Takeout Obscenity Series
-Undersea Media | Finding Nemo Series \ Mermaid Melody Pichi Pichi Pitch Series \ SpongeBob SquarePants Series \ Subnautica Series \ The Little Mermaid Series
+Undersea Media | Ecco the Dolphin Series \ Endless Ocean Series \ Finding Nemo Series \ Mermaid Melody Pichi Pichi Pitch Series \ Subnautica Series
+UNDERTALE/DELTARUNE Universe | Toby Fox's Games \ UNDERTALE Fanworks
 Unionism Quartet Series | Clip Craft
-Universal Classic Monsters | Frankenstein Series
+Universal Classic Monsters | Frankenstein Series \ The Mummy Series
 Universal Orlando Resort | Universal Epic Universe \ Universal Islands of Adventure \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Japan \ Universal Studios Singapore
 Universal Parks | Universal Epic Universe \ Universal Islands of Adventure \ Universal Orlando Resort \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Hollywood \ Universal Studios Japan \ Universal Studios Singapore
-Universal Pictures | Fast & Furious Series \ Frankenstein Series \ Illumination \ Sing Series \ The Bad Guys Series \ Three Flavours Cornetto Trilogy \ Universal Classic Monsters
+Universal Pictures | Five Nights at Freddy's Movie Series \ Frankenstein Series \ MΞGAN Series \ Sing Series \ The Bad Guys Series \ Three Flavours Cornetto Trilogy
 Universal Studios Hollywood | Universal Studios Beijing \ Universal Studios Singapore
-Unreal Engine 3 Games | Assassin's Creed Chronicles \ Injustice Series \ XCOM Franchise
+Unreal Engine 3 Games | Assassin's Creed Chronicles \ Infinity Blade Series \ Injustice Series \ XCOM Franchise
 Unreal Engine 4 Games | Ghostrunner Series \ Octopath Traveler Series \ Shin Megami Tensei V Series \ Star Wars Jedi Series \ The Dark Pictures Anthology
 Unreal Engine 5 Games | Dead by Daylight Series \ Fortnite Series
 Ura Sunday | Helck Series
@@ -1436,92 +1515,96 @@ Vaka Game Magazine | ImCyan \ Kanawo
 Valve Corporation | Half-Life and Portal Universe \ Half-Life Series \ Left 4 Dead Series \ Portal Series \ Source 2 Games \ Team Fortress Series \ The Orange Box
 Valve Fanworks | Half-Life Fanworks
 Vamp Comics | Sahara Gensei's Art
-Vampire Games | Castlevania Advance Collection \ Castlevania Dominus Collection \ Castlevania Requiem
-Vampire Media | Akiba's Trip Series \ Blade Trilogy \ Blood Series \ BloodRayne Series \ Castlevania Advance Collection \ Castlevania Dominus Collection \ Castlevania Netflix Series \ Castlevania Requiem \ Rosario to Vampire Series \ Vampire Games
+Vampire Games | BloodRayne Series \ Castlevania Advance Collection \ Castlevania Dominus Collection \ Castlevania Requiem \ Legacy of Kain Series \ Tsukihime Remake Series
+Vampire Media | Akiba's Trip Series \ Blade Trilogy \ Blood Series \ BloodRayne Series \ Castlevania Advance Collection \ Castlevania Dominus Collection \ Castlevania Netflix Series \ Castlevania Requiem \ Legacy of Kain Series \ Rosario to Vampire Series \ Tsukihime Remake Series \ Vampire Games
 VeggieTales Series | Big Idea Entertainment
-Vehicular Combat Games | Ace Combat \ Armored Core
+Vehicular Combat Games | Ace Combat \ Armored Core \ SingleTrac
 Vicarious Visions | Crash Bandicoot N. Sane Trilogy \ Crash Handheld Series
-Video Game Based Series | Archie Sonic Miniseries \ Captain N and the New Super Mario World \ Castlevania Netflix Series \ Cyberpunk: Edgerunners Series \ DIC Sonic the Hedgehog Cartoons \ Donkey Kong Country TV Series \ Fleetway \ Mario All Stars \ Mario Franchise Cartoons \ Mega Man NT Warrior Series \ Monster Hunter Manga Spin-offs \ Nintendo Power \ Sonic the Hedgehog Movie Franchise \ Super Mario Bros. Cartoons
+Video Game Based Series | Archie Sonic Miniseries \ Captain N and the New Super Mario World \ Castlevania Netflix Series \ Cyberpunk: Edgerunners Series \ DIC Sonic the Hedgehog Cartoons \ Donkey Kong Country TV Series \ Five Nights at Freddy's Movie Series \ Fleetway \ Mario All Stars \ Mario Franchise Cartoons \ Mega Man NT Warrior Series \ Monster Hunter Manga Spin-offs \ Nintendo Power \ Sonic the Hedgehog Movie Franchise \ Super Mario Bros. Cartoons
 View Askewniverse | Clerks Series \ Jay & Silent Bob Series \ Kevin Smith's Works
-Viking Media | How To Train Your Dragon Series \ Senua's Saga
-Virtual Music | Harumaki Gohan \ HinaBitter♪ Project \ Hypnosis Mic -Division Rap Battle- Series \ Jamster \ Kirai Hiiragi's Works \ Kou Nakamura's Works \ manbo-p \ Niru Kajitsu \ Pretty Rhythm \ PriPara Series \ RK Music \ Team 6x111 \ Traffic Light \ Tsukino Talent Production
+Viking Media | How To Train Your Dragon Series \ Senua's Saga \ The Lost Vikings Series
+Virtual Music | BAKUI's Works \ Harumaki Gohan \ HinaBitter♪ Project \ Hypnosis Mic -Division Rap Battle- Series \ Jamster \ Kirai Hiiragi's Works \ Kou Nakamura's Works \ manbo-p \ Niru Kajitsu \ Pretty Rhythm \ RK Music \ Team 6x111 \ Traffic Light \ Tsukino Talent Production
 Virtual Pets | Jewelpet Series
-Virtual Reality Media | .hack \ Fate/EX Series \ PriPara Series \ Sword Art Online Gameverse \ Sword Art Online Series \ TRON Series \ WonderPlanet Inc.
+Virtual Reality Media | .hack \ Fate/EX Series \ TRON Series \ WonderPlanet Inc.
 Virtual Worlds | goodbeans
 Virtual YouTubers | Brave Group \ RK Music \ Virtual YouTuber Agency
 Visceral Games | MySims: Cozy Bundle
 VISUAL ARTS | Asoberu! BD-GAME \ AVG32 Games \ CLANNAD Series \ H.I design office \ HAMHAM-SOFT \ Iris (Company) \ Kaginado \ Key \ Key 10th Memorial BOX \ KineticNovel \ Little Busters! Series \ Na-Ga's Art \ planetarian Series \ Rewrite Series
-Visual Novels | 90% Studios \ Active Gaming Media, Inc. \ Active Software \ Adastra Series \ ADELTA \ âge \ AI5 Games \ Aibeya Series \ Aikagi Series \ AkaBaka \ AKABEiSOFT2 \ AKABEiSOFT3 \ Akatsuki Works \ ALcot \ AliceSoft System4.X Games \ Amakano Series \ Ammolite \ Amuse Craft Erotica \ Angelique Series \ ANIM \ ANIPLEX.EXE \ Apollo Justice: Ace Attorney Trilogy \ Applique \ Ares Co. \ Artemis Engine Games \ Asa Project \ AsicxArt \ Asoberu! BD-GAME \ Astronauts \ Atelier Kaguya \ Atelier Sakura \ AUGUST \ AVG32 Games \ Aya Kadoi's Art \ BABEL \ Baku Ane Series \ Baldr Series \ BaseSon \ Be My Princess Series \ Beemoov \ BGI/Ethornell Games \ Blue Gale \ Blueberry Soft \ Bosei Kanojo Series \ Buff Studio \ Bunny Black Series \ Cabbage Soft \ Candy Soft \ Caramel BOX \ Caribdis Games \ Cation Series \ CatSystem2 Games \ CHAOS-L \ Cherry Kiss Games \ Chronos Series \ ChuableSoft \ Ciagram Co, Ltd \ Ciel \ CIRCUS \ Class of '09 Series \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Clip Craft \ CLOCKUP \ CMVS Games \ Cocktail Soft \ Code: Realize Series \ Collar×Malice Series \ Comfort \ Courreges Ace \ CRYSTALiA \ CUBE \ Cupid Parasite Series \ Cyberpunk Bartender Action \ Da Capo Series \ Daitoshokan no Hitsujikai Series \ Dark One! \ Day7 Inc. \ Demonbane Series \ Dennou Club \ Destiny Ninja Series \ DEVGRU-P \ Dharker Studios \ Dicesuki \ Digital Cute \ Doukyuusei Series \ DrPinkCake's Works \ Dulcet Games \ ebi-hime's Works \ Echo Project \ Echo Series \ Elf Corporation \ Elven Conquest Series \ Empress \ ensemble \ Entabridge \ Entergram, Inc. \ Erectlip \ eRONDO \ ESC-APE \ Escu:de \ Eushully \ Evenicle Series \ F&C Co. \ fairys \ Famicom Detective Club Series \ FAVORITE \ feng \ FlyingShine \ Fortissimo Series \ FVP Games \ G.J? \ Galette \ H.I design office \ Hadashi Shoujo \ HAMHAM-SOFT \ Hanamura Mai's Art \ Happiness! Series \ Hatoful Boyfriend Series \ HAZUKASHII ♥ TEAM \ Hearts \ Hibiki Works \ Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ HIKARI FIELD \ Hobibox \ Hobikore \ Holic Series \ honeybee \ Honoo no Haramase Franchise \ Hooksoft \ Hublots Inc. \ Hulotte \ HuneX \ Huracan's Art \ HYDE, Inc. \ Ikémen Series \ Ikusa Megami Series \ iMel Inc. \ Immoral Study Scenario Series \ Imouto Paradise! Series \ Infinity Series \ Inma Ruiz's Art \ Interchannel \ Iris (Company) \ JAST Blue \ JAST USA Memorial Collection \ Jitaku Keibiin Series \ Juicy Mango \ Jukujo Paradise \ KAIJYU-09 \ Kakyuusei Series \ Kalmia8 \ Kamuo \ Kangoku Senkan Series \ Kazuaki's Art \ KeroQ \ Key 10th Memorial BOX \ Kinetic Novels \ KineticNovel \ Klace's Works \ KOGADO STUDIO \ Koihime†Musou Series \ Kouyoku Senki ExS-Tia Series \ Kuni no Alice Series \ Kuroinu Series \ Kuroyuki's Art \ Kururi Active \ Kyonyuu Fantasy Series \ L-I-B Works \ Langmaor \ Laplacian \ Lass \ Leaf Visual Novel Series \ Lewd Formosa \ Liar-soft \ Lightning Warrior Raidy Series \ LiLiM DARKNESS \ Liquid \ Littlewitch \ LiveMaker Games \ Lose \ Love Lab (Company) \ Lump of Sugar \ Lunaris Games \ LYCORIS \ M's TOY BOX \ Madosoft \ Majiro Games \ Makai Tenshi Jibril Series \ Makura \ Malie Games \ Mamono Musume Series \ Marine \ Marmalade \ Marshmallow Soft \ Masaki Takei's Art \ Masato Hiruta's Works \ MazM \ MercTrans \ Miel \ Miko's Art \ Mink \ minori \ Moe App \ MoeNovel \ Monobeno Series \ Moonlight Lady Collection \ MOONSTONE \ Musica Games \ Muv-Luv Alternative Series \ Muv-Luv Series \ Muv-Luv Unlimited Series \ My Candy Love Series \ MyDearest Inc \ N43 Project \ Nakahiro's Works \ Nakige \ Narrator \ Navel \ NEC Interchannel \ NEKO-NIN exHeart Series \ NekoNeko Soft \ NekoNyan \ NeXAS Games \ Nihikime no Dozeu \ NinNinDays Series \ Nitro+CHiRAL \ Nix Hydra \ nostalgia \ NOVECT \ NScripter Games \ Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series \ Nupu Nupu Dev's Works \ ONE Series \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Onono Imoko's Art \ Oozora Itsuki's Art \ Our Life Series \ Overdrive \ Palette \ Panty Press \ parade. \ Peach Princess \ PeasSoft \ Phoenix Wright: Ace Attorney Trilogy \ Pia♥Carrot e Youkoso!! Series \ Piacci \ PixelFade \ planetarian Series \ POISON \ Pre-Key Tactics \ Prekano \ PrettyBusy \ Princess Soft \ Prison Princess Series \ PRODUCTION PENCIL \ propeller's Works \ Prostudent G Series \ PULLTOP \ Purple software \ Push! Soft \ QLIE Games \ Qruppo \ Radish Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Re;Lord Series \ Real Eroge Situation Series \ RealLive Games \ Rebootlove's Works \ Rewrite Series \ RiRi's Art \ RIVER CROW STUDIOS \ Rosebleu \ SAGA PLANETS \ Scopophobia Studios \ SEEC \ Sei Yariman Gakuen Series \ Seiiki Series \ Shall we date? \ Shiina Rio Games \ Shin'ya Oosaki's Art \ Shinigami Kareshi Series \ Shiro Yamada's Art \ shirokoi's Works \ SiglusEngine Games \ Silky Engine Games \ Silky's \ Silky's Plus \ Smee \ Smile \ SnaccPop Studios \ Softhouse-Seal \ SofthouseChara \ Softpal ADV System Games \ Sono Hanabira ni Kuchizuke o Series \ Soviet Games \ Spirit Hunter Series \ sprite \ Stage-nana's Works \ Starless Series \ Storia \ Story of Eroolia \ STORYTACO \ Studio e.go! \ Studio Élan \ Studio Genius Japan Inc. \ Studio Matrix \ Studio Pork \ Studio Ryokucha \ Stuff Script Engine Games \ Sucker for Love \ Sugar Pot \ SukeraSparo \ Syawase Works \ Tanuki Soft \ Tayutama Series \ Team Baldrhead \ Tears to Tiara Series \ Teita's Art \ Tenioha! Series \ Tennenouji \ The Great Ace Attorney \ The House in Fata Morgana Series \ Tigre Soft \ TinkerBell \ Tinkle Position \ Tokimeki Memorial Girl's Side \ tone work's \ Toybox Inc. \ Tsuki ni Yorisou Otome no Sahou Series \ TyranoScript Games \ Uguisu Kagura \ Unionism Quartet Series \ Usuba Kagerou's Art \ VenusBlood Series \ Viper Series \ Visuki \ Wanaca's Art \ Wand of Fortune Series \ Whirlpool \ WHITE ALBUM Series \ Windmill Oasis \ Winged Cloud \ Wizard Soft \ Worst Girls Games \ Xuse \ Y Press Games \ Yangyang Mobile \ Yoru no Hitsuji \ YU-RIS Games \ Yuka System Games \ Yura's Works \ Yuu Akinashi's Art \ Yuuya's Art \ Yuzuki Karu's Art \ Yuzusoft \ ZyX \ ωstar
-Visual Novels with Gameplay | Apollo Justice: Ace Attorney Trilogy \ Evenicle Series \ Monster Girl Quest Series \ Onono Imoko's Art \ Phoenix Wright: Ace Attorney Trilogy \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ The Great Ace Attorney
+Visual Novels | 90% Studios \ Active Gaming Media, Inc. \ Active Software \ Adastra Series \ ADELTA \ âge \ AI5 Games \ Aibeya Series \ Aikagi Series \ AkaBaka \ AKABEiSOFT2 \ AKABEiSOFT3 \ Akatsuki Works \ ALcot \ AliceSoft System4.X Games \ Amakano Series \ Ammolite \ Amuse Craft Erotica \ Angelique Series \ ANIM \ ANIPLEX.EXE \ Apollo Justice: Ace Attorney Trilogy \ Applique \ Ares Co. \ Artemis Engine Games \ Asa Project \ AsicxArt \ Asoberu! BD-GAME \ Astronauts \ Atelier Kaguya \ Atelier Sakura \ AUGUST \ AVG32 Games \ Aya Kadoi's Art \ BABEL \ Baku Ane Series \ Baldr Series \ BaseSon \ Be My Princess Series \ Beemoov \ BGI/Ethornell Games \ Black Tabby Games \ Blue Gale \ Blueberry Soft \ Bosei Kanojo Series \ Buff Studio \ Bunny Black Series \ Cabbage Soft \ Candy Soft \ Caramel BOX \ Caribdis Games \ Cation Series \ CatSystem2 Games \ CHAOS-L \ Cherry Kiss Games \ ChuableSoft \ Ciagram Co, Ltd \ Ciel \ CIRCUS \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Clip Craft \ CLOCKUP \ CMVS Games \ Cocktail Soft \ Code: Realize Series \ Collar×Malice Series \ Comfort \ Courreges Ace \ CRAFTWORK \ CRYSTALiA \ CUBE \ Cupid Parasite Series \ Cyberpunk Bartender Action \ Da Capo Series \ Daitoshokan no Hitsujikai Series \ Danganronpa Another Series \ Dark One! \ Day7 Inc. \ Demonbane Series \ Dennou Club \ Destiny Ninja Series \ DEVGRU-P \ Dharker Studios \ Dicesuki \ Digital Cute \ Doukyuusei Series \ DrPinkCake's Works \ Dulcet Games \ ebi-hime's Works \ Echo Project \ Echo Series \ Elf Corporation \ Elven Conquest Series \ Emily is Away Series \ Empress \ ensemble \ Entabridge \ Entergram, Inc. \ EntisGLS Games \ Erectlip \ eRONDO \ ESC-APE \ Escu:de \ Eushully \ Evenicle Series \ F&C Co. \ fairys \ Famicom Detective Club Series \ FAVORITE \ feng \ FlyingShine \ Fortissimo Series \ FVP Games \ G.J? \ Galette \ H.I design office \ Hadashi Shoujo \ HAMHAM-SOFT \ Hanako Games \ Hanamura Mai's Art \ Happiness! Series \ Hatoful Boyfriend Series \ HAZUKASHII ♥ TEAM \ Hearts \ Hibiki Works \ Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ HIKARI FIELD \ Hobibox \ Hobikore \ Holic Series \ honeybee \ Honoo no Haramase Franchise \ Hooksoft \ Hublots Inc. \ Hulotte \ Huracan's Art \ HYDE, Inc. \ Ikémen Series \ Ikusa Megami Series \ iMel Inc. \ Immoral Study Scenario Series \ Imouto Paradise! Series \ Infinity Series \ Inma Ruiz's Art \ Interchannel \ Iris (Company) \ Irotoridori no Sekai Series \ JAST Blue \ JAST USA Memorial Collection \ Jitaku Keibiin Series \ Juicy Mango \ Jukujo Paradise \ KAIJYU-09 \ Kakyuusei Series \ Kalmia8 \ Kamuo \ Kangoku Senkan Series \ Kazuaki's Art \ KeroQ \ Key 10th Memorial BOX \ Kinetic Novels \ KineticNovel \ Klace's Works \ KOGADO STUDIO \ Koihime†Musou Series \ Kouyoku Senki ExS-Tia Series \ Kuni no Alice Series \ Kuroinu Series \ Kuroyuki's Art \ Kururi Active \ Kyonyuu Fantasy Series \ L-I-B Works \ Langmaor \ Laplacian \ Lass \ Leaf Visual Novel Series \ Lewd Formosa \ Liar-soft \ Lightning Warrior Raidy Series \ LiLiM DARKNESS \ Liquid \ Littlewitch \ LiveMaker Games \ Lose \ Love Lab (Company) \ Lump of Sugar \ Lunaris Games \ LYCORIS \ M's TOY BOX \ Madosoft \ Majiro Games \ Makai Tenshi Jibril Series \ Makura \ Malie Games \ Mamono Musume Series \ Marine \ Marmalade \ Marshmallow Soft \ Masaki Takei's Art \ Masato Hiruta's Works \ MazM \ MercTrans \ Miel \ Miko's Art \ Mink \ minori \ Moe App \ MoeNovel \ Monobeno Series \ Moonlight Lady Collection \ MOONSTONE \ Musica Games \ Muv-Luv Alternative Series \ Muv-Luv Series \ Muv-Luv Unlimited Series \ My Candy Love Series \ N43 Project \ Nakahiro's Works \ Nakige \ Narrator \ Navel \ NEC Interchannel \ NEKO-NIN exHeart Series \ NekoNeko Soft \ NekoNyan \ NeXAS Games \ Nihikime no Dozeu \ NinNinDays Series \ Nitro+CHiRAL \ Nix Hydra \ nostalgia \ NOVECT \ NScripter Games \ Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka? Series \ Nupu Nupu Dev's Works \ ONE Series \ Oni Chichi Series \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Onono Imoko's Art \ Oozora Itsuki's Art \ Our Life Series \ Overdrive \ Palette \ Panty Press \ parade. \ Peach Princess \ PeasSoft \ Phoenix Wright: Ace Attorney Trilogy \ Pia♥Carrot e Youkoso!! Series \ Piacci \ PixelFade \ planetarian Series \ POISON \ Pre-Key Tactics \ Prekano \ PrettyBusy \ Princess Soft \ Prison Princess Series \ PRODUCTION PENCIL \ propeller's Works \ Prostudent G Series \ PULLTOP \ Purple software \ Push! Soft \ QLIE Games \ Qruppo \ Radish Series \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ Re;Lord Series \ Real Eroge Situation Series \ Rebootlove's Works \ Rewrite Series \ RiRi's Art \ RIVER CROW STUDIOS \ Rosebleu \ SAGA PLANETS \ Scopophobia Studios \ Sei Yariman Gakuen Series \ Seiiki Series \ Shall we date? \ Shiina Rio Games \ Shin'ya Oosaki's Art \ Shinigami Kareshi Series \ Shiro Yamada's Art \ shirokoi's Works \ SiglusEngine Games \ Silky Engine Games \ Silky's \ Silky's Plus \ Slow Damage Series \ Smee \ Smile \ SnaccPop Studios \ Softhouse-Seal \ SofthouseChara \ Softpal ADV System Games \ Sono Hanabira ni Kuchizuke o Series \ Soviet Games \ Spirit Hunter Series \ sprite \ Stage-nana's Works \ Starless Series \ Storia \ Story of Eroolia \ STORYTACO \ Studio e.go! \ Studio Élan \ Studio Genius Japan Inc. \ Studio Matrix \ Studio Pork \ Studio Ryokucha \ Study § Steady Series \ Stuff Script Engine Games \ Sucker for Love \ Sugar Pot \ SukeraSparo \ Syawase Works \ Tanuki Soft \ Tayutama Series \ Team Baldrhead \ Tears to Tiara Series \ Teita's Art \ Tenioha! Series \ Tennenouji \ The Great Ace Attorney \ The House in Fata Morgana Series \ Tigre Soft \ TinkerBell \ Tinkle Position \ Tokimeki Memorial Girl's Side \ tone work's \ Toybox Inc. \ Tsuki ni Yorisou Otome no Sahou Series \ TyranoScript Games \ Uguisu Kagura \ Unionism Quartet Series \ Usuba Kagerou's Art \ VenusBlood Series \ Viper Series \ Visuki \ Wanaca's Art \ Wand of Fortune Series \ Whirlpool \ WHITE ALBUM Series \ Windmill Oasis \ Winged Cloud \ Wizard Soft \ Worst Girls Games \ Xuse \ Y Press Games \ Yangyang Mobile \ Yoru no Hitsuji \ YU-RIS Games \ Yuka System Games \ Yura's Works \ Yusano's Art \ Yuu Akinashi's Art \ Yuuya's Art \ Yuzuki Karu's Art \ Yuzusoft \ ωstar
+Visual Novels with Gameplay | Apollo Justice: Ace Attorney Trilogy \ Danganronpa Another Series \ Evenicle Series \ Onono Imoko's Art \ Phoenix Wright: Ace Attorney Trilogy \ Rance 1 Series \ Rance 2 Series \ Rance 3 Series \ The Great Ace Attorney
 Vivendi Games | Crash Handheld Series \ The Legend of Spyro Series
 Vivziepop's Works | Hellaverse
-VOCALOID Song Series | Harumaki Gohan \ Kirai Hiiragi's Works \ manbo-p \ Niru Kajitsu \ Team 6x111 \ Traffic Light
+VOCALOID Series | Project SEKAI Series
+Voice Synthesizer Song Series | BAKUI's Works \ Harumaki Gohan \ inabakumori Series \ Kirai Hiiragi's Works \ manbo-p \ Niru Kajitsu \ Team 6x111 \ Traffic Light
 Volition | Saints Row Series
 Voltage Inc. | Be My Princess Series
-VR Games | Chronos Series \ I Expect You To Die Series \ MyDearest Inc \ Owlchemy Labs \ Stress Level Zero
+VR Games | Camouflaj \ Chronos Series \ I Expect You To Die Series \ MyDearest Inc \ Owlchemy Labs \ Stress Level Zero
 vs. Capcom Series | Marvel vs. Capcom \ Project X Zone Series
 VTuber Media | ImCyan
 Wada Sachiko's Art | Elibe Series
 Waffle | Kyonyuu Fantasy Series
 Wallace & Gromit Franchise | Wallace & Gromit Series
 Walt Disney Animation Studios | Byron Howard's Works \ Don Hall's Works \ Fantasia Series \ Frozen Series \ Gary Trousdale & Kirk Wise's Works \ John Musker & Ron Clement's Works \ Moana Series \ Rich Moore's Works \ The Adventures of Ichabod and Mr. Toad \ The Rescuers Series \ Wolfgang Reitherman's Works \ Wreck-It Ralph Series
-Walt Disney Pictures | Atlantis Series \ Bambi Series \ Brother Bear Series \ Byron Howard's Works \ Cars Movies \ Darrell Rooney's Works \ Don Hall's Works \ Fantasia Series \ Finding Nemo Series \ Gary Trousdale & Kirk Wise's Works \ Jim Kammerud's Works \ John Musker & Ron Clement's Works \ Kevin Lima's Works \ Lady and the Tramp Series \ Lee Unkrich's Works \ Moana Series \ Mulan Series \ Pete Docter's Works \ Peter Sohn's Works \ Pirates of the Caribbean Series \ Rich Moore's Works \ The Adventures of Ichabod and Mr. Toad \ The Fox and the Hound Series \ The Rescuers Series \ Toy Story Mainline Movies \ Wolfgang Reitherman's Works \ Wreck-It Ralph Series
-Walt Disney Studios Motion Pictures | Atlantis Series \ Bambi Series \ Byron Howard's Works \ Cars Movies \ Don Hall's Works \ Fantasia Series \ Finding Nemo Series \ Frozen Series \ Gary Trousdale & Kirk Wise's Works \ John Musker & Ron Clement's Works \ Kevin Lima's Works \ Lee Unkrich's Works \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ Moana Series \ Pete Docter's Works \ Peter Sohn's Works \ Rich Moore's Works \ The Adventures of Ichabod and Mr. Toad \ The Rescuers Series \ Toy Story Mainline Movies \ Wolfgang Reitherman's Works \ Wreck-It Ralph Series
+Walt Disney Pictures | Alice in Wonderland Series \ Atlantis Series \ Bambi Series \ Brother Bear Series \ Byron Howard's Works \ Cars Movies \ Darrell Rooney's Works \ Don Hall's Works \ Fantasia Series \ Gary Trousdale & Kirk Wise's Works \ Jim Kammerud's Works \ John Musker & Ron Clement's Works \ Kevin Lima's Works \ Lady and the Tramp Series \ Lee Unkrich's Works \ Moana Series \ Mulan Series \ Pete Docter's Works \ Peter Sohn's Works \ Rich Moore's Works \ The Adventures of Ichabod and Mr. Toad \ The Fox and the Hound Series \ The Rescuers Series \ Toy Story Mainline Movies \ Wolfgang Reitherman's Works \ Wreck-It Ralph Series
+Walt Disney Studios Motion Pictures | Alice in Wonderland Series \ Atlantis Series \ Bambi Series \ Byron Howard's Works \ Cars Movies \ Don Hall's Works \ Fantasia Series \ Frozen Series \ Gary Trousdale & Kirk Wise's Works \ John Musker & Ron Clement's Works \ Kevin Lima's Works \ Lee Unkrich's Works \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ Moana Series \ Pete Docter's Works \ Peter Sohn's Works \ Rich Moore's Works \ The Adventures of Ichabod and Mr. Toad \ The Rescuers Series \ Toy Story Mainline Movies \ Wolfgang Reitherman's Works \ Wreck-It Ralph Series
 Wani Magazine | Comic X-Eros
 Wargames | Miniature Wargames
 Warhammer | Warhammer 40,000: Space Marine Series
-Wario Series | Wario Land \ WarioWare \ WarioWare, Inc. Series \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series
+Wario Series | Wario Land \ Wario's Woods Series \ WarioWare \ WarioWare, Inc. Series \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series
 WarioWare | WarioWare, Inc. Series \ WarioWare: D.I.Y. Series \ WarioWare: Smooth Moves Series
-Warner Animation Group | Batman Animation \ Bruce Timm's Works \ DC Animated Universe \ Space Jam Series \ Teen Titans Series \ The LEGO Movie Series
-Warner Bros. | A Nightmare on Elm Street Series \ Austin Powers Series \ Batman Animation \ Batman Movies \ Batman: Arkham \ Beetlejuice Series \ Blade Trilogy \ Chuck Lorre's Works \ DC Extended Universe \ DC Universe \ Dynomutt \ Generator Rex Series \ Green Lantern Franchise \ Gremlins Series \ Grim & Evil \ Hanna-Barbera Studios Europe \ Injustice Series \ Joe Dante's Works \ LEGO Batman \ LEGO DC Video Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars Video Games \ Looney Tunes Series \ Mortal Kombat \ NetherRealm Studios \ Rocksteady Studios \ Scribblenauts Series \ selector WIXOSS \ Shadow of Middle-earth \ Space Ghost Series \ Space Jam Series \ Steven Universe Series \ Superman Movies \ Teen Titans Series \ The Batman Universe \ The Big Bang Theory Series \ The Conjuring Universe \ The Dark Knight Trilogy \ The LEGO Movie Series \ Total Drama \ truTV \ WB Games Montréal \ We Bare Bears Series \ WIXOSS
+Warner Animation Group | Batman Animation \ Bruce Timm's Works \ DC Animated Universe \ Space Jam Series \ Teen Titans Series
+Warner Bros. | A Nightmare on Elm Street Series \ Aquaman Franchise \ Austin Powers Series \ Batman Animation \ Batman Movies \ Batman: Arkham \ Beetlejuice Series \ Blade Trilogy \ Chuck Lorre's Works \ DC Extended Universe \ DC Universe \ Dynomutt \ Flash Franchise \ Frankelda Series \ Generator Rex Series \ Green Lantern Franchise \ Gremlins Series \ Grim & Evil \ Hanna-Barbera Studios Europe \ Injustice Series \ Joe Dante's Works \ LEGO Batman \ LEGO DC Video Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars Video Games \ NetherRealm Studios \ Rocksteady Studios \ Scribblenauts Series \ selector WIXOSS \ Shadow of Middle-earth \ Shazam Franchise \ Space Ghost Series \ Space Jam Series \ Steven Universe Series \ Suicide Squad Franchise \ Superman Movies \ Teen Titans Series \ The Batman Universe \ The Big Bang Theory Series \ The Conjuring Universe \ The Dark Knight Trilogy \ The LEGO Movie Series \ The Lord of the Rings: The Battle for Middle-earth Series \ Total Drama \ truTV \ WB Games Montréal \ We Bare Bears Series \ WIXOSS \ Wonder Woman Franchise
 Warner Bros. Games | Batman: Arkham \ Injustice Series \ LEGO DC Video Games \ LEGO Indiana Jones Video Games \ LEGO Marvel Video Games \ LEGO Star Wars Video Games \ NetherRealm Studios \ Rocksteady Studios \ Scribblenauts Series \ Shadow of Middle-earth \ WB Games Montréal
 Warner Bros. Pictures | Austin Powers Series \ Joe Dante's Works \ Superman Movies \ The Conjuring Universe \ The Dark Knight Trilogy
-Warriors Series | Fire Emblem Warriors Series \ Hyrule Warriors Series \ Samurai Warriors Series \ Warriors Orochi Series
+Warriors Series | Dragon Quest Heroes Series \ Fire Emblem Warriors Series \ Hyrule Warriors Series \ Samurai Warriors Series \ Warriors Orochi Series
 WayForward | Shantae Series
-Web Novels | CG Year \ Jiang Zi Bei's Works \ Lord of Mysteries Series \ Tang Jiuqing's Works \ Wildbow's Works \ Zhou Munan's Works
-Webcomics | 3B2S \ 3D Adult Comics \ 6ho's Works \ Abyo4's Works \ Active Volcano's Works \ Ah Hyun's Art \ Alec's Works \ Alien's Works \ Alphatart's Works \ Among's Art \ Ananas's Works \ Andrew's Art \ Ant Studio \ anwitacitriya's Works \ arlg's Art \ Backkyung Moon's Works \ Baegji's Art \ Baerona93's Works \ bakSSdam's Art \ Bam U's Works \ Barun Flower's Art \ Bei Nan's Works \ Beibi's Works \ Beyond \ Black Ajin's Works \ Blue Canna's Art \ Bluepic Studio \ Bolp.'s Art \ Breathe \ Brothers Without A Tomorrow's Works \ Bulsa's Works \ Camja's Art \ Carnby Kim's Works \ Cassiopeia's Works \ Chada's Works \ Chae Yoohwa's Works \ Chaepali's Works \ Cheongcho's Works \ Cheongnyang's Art \ Chihiro Howe's Works \ CHIMA's Works \ Choi Sung-wan's Art \ Chungeoram \ Chungnyun's Art \ Ci Wei Mao's Art \ CNC Revolution \ Contents Lab. Blue \ COPIN \ Crack Entertainment \ Creek & River Entertainment \ Cyungchan Noh's Works \ D. Jun's Works \ D&C Media \ Dabble's Works \ Daily Books \ Dalseul's Works \ Damcho's Art \ Daon Creative \ Dasan Comics \ Day Comics \ Dimang's Art \ Do Tol Hwang's Works \ Dolkong's Works \ Dong-Heon Lee's Works \ Dongman Manhua \ Dream Creative Communication \ eComiX \ Edge Edge's Art \ Ellian Yang's Works \ EmiMG's Works \ Eon's Works \ Epyrus \ ERO404's Works \ Eun-chae Go's Works \ Euneunun's Works \ Eunhyang Ja's Works \ Eunyoul's Works \ Farnar's Works \ Feelyeon \ Finger Story \ Flower Storm's Works \ Foch Films \ FoxToon \ Fujoking's Works \ Gaehoju's Works \ GaeTi's Art \ GAHA WEBTOON \ Geulingilin's Art \ GLEE's Art \ GLLIMTOON \ Golem Factory \ GongDeunTop's Works \ GOSONJAK's Works \ Gpiee Lee's Works \ Grid17's Art \ Guideverse \ gusao's Works \ Gwon Gyeoeul's Works \ GyaGa's Works \ Gyou's Art \ Gyulpi's Works \ Haejin's Works \ HÆON's Works \ HAESIN's Works \ Haeyoon's Works \ Hal's Works \ Han Dong-Woo's Works \ HAN Ga Ram's Art \ Han Kyoung-chal's Art \ Hanza Art's Works \ Hardcore Leveling Warrior Series \ Haribo's Works \ Haron Lee's Works \ Haron's Works \ Harusari's Works \ Hee-jin Bae's Works \ Hiseki's Works \ Hiveworks Comics \ Hoero's Works \ Holly Dittus's Works \ Horizon (Publisher) \ Husky Team's Works \ Hwan Daeng's Works \ Hyungjakga's Art \ Im Ae-Ju's Art \ Im Jin-gook's Art \ InCase's Works \ instantmiso's Works \ iQIYI \ Irinbi's Works \ IZE Press \ J Plus \ Jaerim's Art \ Jagae's Art \ Jagyum's Works \ Jake's Art \ Jakga Company \ Jayeon PPang's Art \ Jeong Ji-Hun's Works \ Jeong Seok-Chan's Works \ Jeong Yeon's Art \ Jeongseo's Works \ JHS Studio \ Ji-Yeon Park's Works \ Jin-Hwan Park's Art \ Jiya's Works \ Jjang-yi's Art \ JQ's Works \ JS Content \ Ju Jishe's Art \ Ju Zhi's Art \ Ju-Won Lee's Art \ Juder's Art \ Juhong's Art \ Jung-Hyun Kim \ Juns's Works \ JusToon \ KAKON's Art \ Kampiseu's Works \ Kang Ki's Art \ Kang Pucon's Art \ Kang-Cheol Wang's Works \ KC Green's Works \ KENAZ \ Kiarne's Works \ Kim Myeongmi's Art \ Kim Sehoon's Works \ Kimmundo's Works \ Kin's Works \ Kogi Jun's Works \ Kongbbaemi's Works \ Kosmicdream's Works \ Kyun's Art \ L7 \ Lalatoon \ Lebre e Coelho Series \ Lee Gwang-Su's Art \ LEE Hye's Works \ Lee Yeon's Works \ Lero's Art \ Life of Ruin's Works \ Lim Seo-rim's Works \ Lina Lim's Art \ Lisabel's Works \ LObeam's Works \ LuckS's Works \ Maenggi Ki's Works \ Majeungji's Works \ Man kezhan \ Man Man He Qi Duo's Works \ MangaToon \ Mangmungming's Works \ Manhuatai \ ManmanAPP \ Marko Raassina's Works \ Maru Comics \ MasterGin's Works \ Matgini's Works \ MAYO's Art \ Melkor Mancin's Works \ Merryweatherey's Works \ Migudm \ Min Song Ah's Works \ Mingwa's Works \ Miwaku's Works \ MJJ's Works \ Mo Xiang Tong Xiu's Works \ Mokbegae's Works \ Mokgamgi's Works \ Mokma's Art \ Moon Sihyun's Works \ Morak's Works \ Moscareto's Works \ MstoryHub \ Muldeok's Works \ Mum's Art \ Munhakdongne Publishing Corp. \ Mx2J's Art \ NARAK's Art \ Naru's Art \ Nate \ Neptune \ NHN Entertainment \ NOAH's Works \ NOKO's Art \ Nuwaru's Works \ Olleh \ On-Jeom's Works \ One Dollar's Works \ OneStory \ orangeD \ Oryu's Works \ over.J's Works \ Park Dam's Art \ Park Gee's Works \ Park Min's Works \ Paya8's Art \ PD Kim's Art \ PeaCh88's Works \ Peanutoon \ PingPu \ Pixie Trix Comix \ Plutus's Works \ Polar Fox \ Portofino's Works \ Potion's Art \ PTJ COMICS \ Puddinga's Art \ Radish \ Red City's Art \ red-A's Works \ REDICE STUDIO \ RinA's Works \ Ro Yu-jin's Works \ Rodong's Art \ Rok Media \ Rozer's Art \ RS Media \ Rubung's Works \ RYU HEON's Works \ Sadistic Beauty Series \ Saedeul's Art \ Sagold's Works \ Sakurada Yana's Works \ Salto's Art \ Samanhua \ SAMK's works \ Samosa's Works \ Samyang \ SapphireFoxx's Comics \ SDbigpie's Art \ Sejul's Art \ Seok Woo's Works \ Seok-Ji's Art \ Seongchi Lee's Works \ Seoul Media Comics \ Seran Kim's Works \ SERIOUS's Works \ Seyoon \ Shi Yi Er's Works \ Shinyoung Media \ Sing-Shong's Works \ Sinran's Works \ Sipmanwon's Works \ Siya's Works \ Skye's Works \ Snailords' Works \ soaporsalad's Works \ Sol Leesu's Works \ Son Jae-Ho's Works \ Soo-ji Kim's Works \ Soonkki \ Soran Books \ Soul Land Series \ Soy Media \ Spice&Kitty's Works \ SSAEM's Works \ Ssaneung's Works \ Ssari's Art \ Storigin Webtoon \ StorySoop \ storywiz \ Studio Jilpung \ Studio M \ Sungmin's Works \ Sungwon's Art \ Super String \ Supercomix Studio \ Surim Lee's Works \ Surreuk Comics \ Suyohara's Works \ SWAN's Works \ Swanis Works \ Swingbat \ Tae Jun Park's Works \ Tae-Young Choi's Art \ Taeson's Works \ Talyeong's Art \ Tama's Works \ Tang Jia San Shao's Works \ Tank Guy's Works \ Tapas \ Tappytoon \ Team Biyam's Works \ Team Gaji's Works \ Tess' Art \ Tharchog's Works \ The Cl Book \ Tian Can Tu Dou's Works \ todac_s's Art \ Today Spring's Works \ Tokifuji Comics \ Tooneed Entertainment \ Toptoon \ TR's Works \ U-Jewel Media \ U17 \ Ultra Media \ Ultramarinesilk's Works \ UMKY's Art \ Viewcommz \ Vivibear's Works \ WAJE's Art \ Walkingnorth's Works \ Wann's Art \ Wasak Basak's Art \ Webcomics (Publisher) \ Whispwill \ White Eared's Works \ Wisdom House \ Woo Yeon-hui's Works \ Woo-gak's Works \ Xiyuer's Works \ Yagyung's Works \ Yansae's Works \ Yehwon's Works \ Yeo Kanghyun's Art \ Yeongha's Works \ Yeowool's Works \ YJ Comics \ YLAB \ YONDER \ Yong Yong's Works \ Yoon Hawol's Works \ YOUNG COM \ Youngchan Hwang's Art \ Yu Jin Sung's Works \ Yuin's Works \ Yumyum's Art \ Yunji Lee's Works \ Yunsul's Works \ Yuwol's Works \ Zeta Kim's Art \ Zhena's Art \ ZIG's Works \ Zimtigee's Art \ Zourik's Works \ Zymk
+Web Novels | CG Year \ Jiang Zi Bei's Works \ Lord of Mysteries Series \ Rocket Shokai's Works \ Tang Jiuqing's Works \ Wildbow's Works \ Zhou Munan's Works
+Webcomics | 3B2S \ 3D Adult Comics \ 6ho's Works \ Abyo4's Works \ Active Volcano's Works \ Ah Hyun's Art \ Alec's Works \ Alien's Works \ Alphatart's Works \ Among's Art \ Ananas's Works \ Andrew's Art \ Ant Studio \ anwitacitriya's Works \ arlg's Art \ Backkyung Moon's Works \ Baegji's Art \ Baengkki's Art \ Baerona93's Works \ bakSSdam's Art \ Bam U's Works \ Barun Flower's Art \ Basasak's Works \ Bei Nan's Works \ Beibi's Works \ Beyond \ Black Ajin's Works \ Blue Canna's Art \ Bluepic Studio \ Bolp.'s Art \ Breathe \ Brothers Without A Tomorrow's Works \ Bulsa's Works \ Camja's Art \ Carnby Kim's Works \ Cassiopeia's Works \ Chada's Works \ Chae Yoohwa's Works \ Chaepali's Works \ Cheongcho's Works \ Cheongnyang's Art \ Cheori19's Works \ Chihiro Howe's Works \ CHIMA's Works \ Choi Sung-wan's Art \ Chungeoram \ Chungnyun's Art \ Ci Wei Mao's Art \ CNC Revolution \ Contents Lab. Blue \ COPIN \ Crack Entertainment \ Creek & River Entertainment \ Cyungchan Noh's Works \ D. Jun's Works \ D&C Media \ Dabble's Works \ Daily Books \ Dalseul's Works \ Damcho's Art \ Daon Creative \ Dasan Comics \ Day Comics \ Dimang's Art \ Do Tol Hwang's Works \ Do-Ya's Art \ Dokta's Art \ Dolkong's Works \ Dong-Heon Lee's Works \ Dongman Manhua \ Dream Creative Communication \ eComiX \ Edge Edge's Art \ Ellian Yang's Works \ Elyseesin's Art \ EmiMG's Works \ Eon's Works \ Epyrus \ ERO404's Works \ Eun-chae Go's Works \ Euneunun's Works \ Eunhyang Ja's Works \ Eunyoul's Works \ Farnar's Works \ Feelyeon \ Finger Story \ Flower Storm's Works \ Foch Films \ FoxToon \ Frate's Works \ Fujoking's Works \ Gaehoju's Works \ GaeTi's Art \ GAHA WEBTOON \ Geulingilin's Art \ GLEE's Art \ GLLIMTOON \ Golem Factory \ GongDeunTop's Works \ GOSONJAK's Works \ Gpiee Lee's Works \ Grid17's Art \ Grilled Mero's Art \ Guideverse \ gusao's Works \ guunhanchi's Art \ Gwinong's Works \ Gwon Gyeoeul's Works \ GyaGa's Works \ Gyou's Art \ Gyulpi's Works \ Haejin's Works \ HÆON's Works \ HAESIN's Works \ Haeyoon's Works \ Hal's Works \ Han Dong-Woo's Works \ HAN Ga Ram's Art \ Han Kyoung-chal's Art \ Hanza Art's Works \ Hardcore Leveling Warrior Series \ Haribo's Works \ Haron Lee's Works \ Haron's Works \ Harusari's Works \ Hee-jin Bae's Works \ Hiseki's Works \ Hiveworks Comics \ Hoero's Works \ Holly Dittus's Works \ Horizon (Publisher) \ Husky Team's Works \ Hwan Daeng's Works \ Hyungjakga's Art \ Im Ae-Ju's Art \ Im Jin-gook's Art \ InCase's Works \ instantmiso's Works \ iQIYI \ Irinbi's Works \ IZE Press \ J Plus \ Jaerim's Art \ Jagae's Art \ Jagyum's Works \ Jake's Art \ Jakga Company \ Jayeon PPang's Art \ Jeong Ji-Hun's Works \ Jeong Seok-Chan's Works \ Jeong Yeon's Art \ Jeongseo's Works \ JHS Studio \ Ji-Yeon Park's Works \ Jin-Hwan Park's Art \ Jiya's Works \ Jjang-yi's Art \ JQ's Works \ JS Content \ Ju Jishe's Art \ Ju Zhi's Art \ Ju-Won Lee's Art \ Juder's Art \ Juhong's Art \ Jung-Hyun Kim \ Juns's Works \ JusToon \ KAKON's Art \ Kampiseu's Works \ Kang Ki's Art \ Kang Pucon's Art \ Kang-Cheol Wang's Works \ KC Green's Works \ KENAZ \ Kiarne's Works \ Kim Myeongmi's Art \ Kim Sehoon's Works \ Kimmundo's Works \ Kin's Works \ Kogi Jun's Works \ Kongbbaemi's Works \ Kosmicdream's Works \ Kuro Kitsune's Art \ Kyun's Art \ L7 \ Lalatoon \ Lebre e Coelho Series \ Lee Gwang-Su's Art \ LEE Hye's Works \ Lee Wan's Art \ Lee Yeon's Works \ Lero's Art \ Life of Ruin's Works \ Lim Seo-rim's Works \ Lina Lim's Art \ Lisabel's Works \ LObeam's Works \ Love is an Illusion! Series \ LuckS's Works \ MAD's Art \ Maenggi Ki's Works \ Majeungji's Works \ Malchocochip's Works \ Man kezhan \ Man Man He Qi Duo's Works \ MangaToon \ Mangmungming's Works \ Manhuatai \ ManmanAPP \ Marko Raassina's Works \ Maru Comics \ MasterGin's Works \ Matgini's Works \ MAYO's Art \ Melkor Mancin's Works \ Merryweatherey's Works \ Migudm \ Min Song Ah's Works \ Mingwa's Works \ Miwaku's Works \ MJJ's Works \ Mo Xiang Tong Xiu's Works \ Mokbegae's Works \ Mokgamgi's Works \ Mokma's Art \ Moon Sihyun's Works \ Moosopp's Works \ Morak's Works \ Moscareto's Works \ MSPaintAdventures \ MstoryHub \ Muldeok's Works \ Mum's Art \ Munhakdongne Publishing Corp. \ Mx2J's Art \ Nano Machine Series \ NARAK's Art \ Naru's Art \ Nate \ Neptune \ NHN Entertainment \ NOAH's Works \ NOKO's Art \ Nuwaru's Works \ OB's Works \ Olleh \ On-Jeom's Works \ One Dollar's Works \ OneStory \ orangeD \ Oryu's Works \ over.J's Works \ Park Dam's Art \ Park Gee's Works \ Park Min's Works \ Paya8's Art \ PD Kim's Art \ PeaCh88's Works \ Peanutoon \ PingPu \ Pixie Trix Comix \ Plutus's Works \ Polar Fox \ Portofino's Works \ Potion's Art \ PTJ COMICS \ Puddinga's Art \ Radish \ Rangrarii's Works \ Red City's Art \ red-A's Works \ REDICE STUDIO \ RinA's Works \ Ro Yu-jin's Works \ Robot Kim's Art \ Rodong's Art \ Rok Media \ Rozer's Art \ RS Media \ Rubung's Works \ RYU HEON's Works \ Sadistic Beauty Series \ Saedeul's Art \ Sagold's Works \ Sakurada Yana's Works \ Salto's Art \ Samanhua \ SAMK's works \ Samosa's Works \ Samyang \ SapphireFoxx's Comics \ SDbigpie's Art \ Sejul's Art \ Seok Woo's Works \ Seok-Ji's Art \ Seongchi Lee's Works \ Seoul Media Comics \ Seran Kim's Works \ SERIOUS's Works \ Seyoon \ Shi Yi Er's Works \ Shinyoung Media \ Sing-Shong's Works \ Sinran's Works \ Sipmanwon's Works \ Siya's Works \ Skye's Works \ Snailords' Works \ soaporsalad's Works \ Sol Leesu's Works \ Son Jae-Ho's Works \ Soo-ji Kim's Works \ Soonkki \ Soran Books \ Soul Land Series \ Soy Media \ Spice&Kitty's Works \ Spoon's Art \ SSAEM's Works \ Ssaneung's Works \ Ssari's Art \ Storigin Webtoon \ StorySoop \ storywiz \ Studio Jilpung \ Studio M \ Sua Im's Works \ Sungmin's Works \ Sungwon's Art \ Super String \ Supercomix Studio \ Surim Lee's Works \ Surreuk Comics \ Suyohara's Works \ SWAN's Works \ Swanis Works \ Swingbat \ Tae Jun Park's Works \ Tae-Young Choi's Art \ Taeson's Works \ Talyeong's Art \ Tama's Works \ Tang Jia San Shao's Works \ Tank Guy's Works \ Tappytoon \ Team Biyam's Works \ Team Gaji's Works \ Tess' Art \ Tharchog's Works \ The Cl Book \ The Legend of Luoxiaohei Series \ Tian Can Tu Dou's Works \ todac_s's Art \ Today Spring's Works \ Tokifuji Comics \ Tooneed Entertainment \ Toptoon \ TR's Works \ Tting Jini's Works \ TTWOOK's Art \ U-Jewel Media \ U17 \ Ultra Media \ Ultramarinesilk's Works \ UMKY's Art \ Viewcommz \ Vivibear's Works \ WAJE's Art \ Walkingnorth's Works \ Wann's Art \ Wasak Basak's Art \ Whispwill \ White Eared's Works \ Wisdom House \ Woo Yeon-hui's Works \ Woo-gak's Works \ Wookjakga's Art \ Xiyuer's Works \ Yagyung's Works \ Yangyang's Art \ Yansae's Works \ Yehwon's Works \ Yeo Kanghyun's Art \ Yeongha's Works \ Yeowool's Works \ YJ Comics \ YLAB \ YONDER \ Yong Yong's Works \ Yoon Hawol's Works \ YOUNG COM \ Youngchan Hwang's Art \ Yu Jin Sung's Works \ Yuin's Works \ Yumyum's Art \ Yunji Lee's Works \ Yunsul's Works \ Yuwol's Works \ Zeta Kim's Art \ Zhena's Art \ ZIG's Works \ Zimtigee's Art \ Zourik's Works \ Zymk
 Webfoot Technologies | Dragon Ball Z: The Legacy of Goku Series
-Webmanga | Batsu Naki \ Gingitsune Ezo's Works \ Helck Series \ Koucha Agasawa's Works \ Marie Yasui's Works \ Naoya Matsumoto's Works \ Noise's Works \ Seiichi Shiki's Works \ Shiro Moriya's Works \ Shou Hikawa's Works \ Shounen Jump Rookie \ Tanuma Ikeuchi's Art \ Yaki Tomato's Works \ zurikishi's Works
+Webmanga | Batsu Naki \ Digimon Comic \ GEN's Art \ Gingitsune Ezo's Works \ Helck Series \ Koucha Agasawa's Works \ Marie Yasui's Works \ Naoya Matsumoto's Works \ Noise's Works \ Seiichi Shiki's Works \ Shiro Moriya's Works \ Shou Hikawa's Works \ Shounen Jump Rookie \ Tanuma Ikeuchi's Art \ Yaki Tomato's Works \ zurikishi's Works
 Weekly Shounen Champion | Masahiro Anbe's Works \ Paru Itagaki's Works
 Weekly Shounen Jump | Akamaru Jump \ Dr. STONE Series \ Dragon Ball Original Manga Run \ Eiichiro Oda's Works \ Komi Naoshi's Works \ Matsuura Kento's Art \ Ryuuhei Tamura's Works \ Tadahiro Miura's Works \ Tadatoshi Fujimaki's Works \ Taishi Tsutsui's Works \ Yuki Tabata's Works \ Yusei Matsui's Works
-Weekly Shounen Magazine | George Morikawa's Works \ GTO Series \ Ken Akamatsu's Works \ Masakuni Igarashi's Works \ Miki Yoshikawa's Works \ Negi Haruba's Works \ Negima! Series \ Yasuda Tsuyoshi's Works
-Weekly Shounen Sunday | Hiroshi Fukuda's Works \ Hiroyuki Nishimori's Works \ Kazuhiro Fujita's Works \ Kotoyama's Works \ Magi Series \ Major Series \ Syun Matsuena's Works
+Weekly Shounen Magazine | George Morikawa's Works \ GTO Series \ Ken Akamatsu's Works \ Miki Yoshikawa's Works \ Negi Haruba's Works \ Negima! Series \ Yasuda Tsuyoshi's Works
+Weekly Shounen Sunday | Aya Hirakawa's Works \ Hiroshi Fukuda's Works \ Hiroyuki Nishimori's Works \ Kazuhiro Fujita's Works \ Kotoyama's Works \ Magi Series \ Major Series \ Syun Matsuena's Works
 Weekly Young Jump | Akira Sugito's Works \ Katsura Akira \ Monthly Young Jump \ Toshio Sako's Works
-Western | 101 Dalmatians Series \ 2000 AD \ 3D Adult Comics \ A Goofy Bundle \ A Knives Out Mystery \ A Nightmare on Elm Street Series \ A. E. van Vogt's Works \ A24 \ ABC Network \ Adelaide Productions \ Adrian Dingle's Works \ Agatha Christie's Works \ Aladdin Series \ Alan Moore's Works \ Alec's Works \ Alfred Hitchcock's Works \ Alice Oseman's Works \ Alliance Atlantis \ AMC \ Ana C. Sánchez's Works \ Analog Horror \ Analog Science Fiction and Fact \ Ánima Estudios \ Animan Studios \ Animation vs. Series \ Annapurna Pictures \ Anti_Dev's Works \ Aphmau Series \ Apple Corps \ Apple TV+ Originals \ Archie Comics \ Archie Mega Man Series \ Archie Series \ Archie Sonic Miniseries \ Archie Sonic Multiverse \ Archie Sonic the Hedgehog Series \ Arechan's Works \ Ari Aster's Works \ Atlantis Series \ Austin Powers Series \ Axel Giménez' Art \ Bad Wolf Ltd \ Bambi Series \ Bande Dessinée \ Banijay Kids & Family \ Barnyard Series \ Batman Animation \ Batman Movies \ Bayformers \ BBC \ Beauty and the Beast Series \ Beavis and Butt-Head Franchise \ Beetlejuice Series \ Bell Features \ Big Hero 6 Series \ Big Idea Entertainment \ BIONICLE Movies \ Black-ish Series \ Blade Trilogy \ Blue Sky Studios \ Blue's Clues Series \ Blumhouse Productions \ Bob Schooley & Mark McCorkle's Works \ Bobs Gannaway's Works \ Boomerang \ Brad Bird's Works \ Brandon Sanderson's Works \ Breaking Bad Universe \ Brendon Small's Works \ Brian De Palma's Works \ Bridgerton Series \ Brother Bear Series \ Bruce Timm's Works \ Buffyverse \ Butch Hartman's Works \ Buzzfeed \ Byron Howard's Works \ C. H. Greenblatt's Works \ C.S. Pacat's Works \ Canadian Whites \ Canal+ \ Captain N and the New Super Mario World \ Caravan Palace's Works \ Carlos Saldanha's Works \ Cars Movies \ Cartoon Cartoons \ Cartoon Network Studios \ Cartoon Saloon \ Castlevania Netflix Series \ CBBC \ CBC \ CBeebies \ Channel Awesome \ Chapterverse \ Charisma Records \ Charlie Chaplin's Works \ Chespirito \ Child's Play Series \ Chip 'n Dale Series \ Chris Buck's Works \ Chris Sanders's Works \ Chris Wedge's Works \ Chris Williams's Works \ Christmas Carol Media \ Christopher Nolan's Works \ Christy Karacas's Works \ Chronicles of the Avatar \ Chuck Lorre's Works \ Cinderella Series \ CITV \ Clifford the Big Red Dog Series \ Clive Barker's Works \ Cloudy with a Chance of Meatballs Series \ Coen Brothers' Works \ coldmirror's Works \ Cormac McCarthy's Works \ Cosgrove Hall Films \ Cosmere \ Craig Gerber's Works \ Craig McCracken's Works \ Crest Animation Productions \ CSI Series \ Cthulhu Mythos \ CTV \ Curious Pictures \ Dan Schneider's Works \ Daredevil Franchise \ Darrell Rooney's Works \ Dav Pilkey's Works \ Dave Filoni's Works \ David Fincher's Works \ David Leitch's Works \ David Lynch's Works \ DC Animated Universe \ DC Extended Universe \ DC Movies \ DC Universe \ DC Vertigo \ Delcourt \ Derpixon's Works \ Descendants Series \ Despicable Me Series \ DIC Sonic the Hedgehog Cartoons \ Discovery Family \ Disney Channel Original Movies \ Disney Junior \ Disney Princess Films \ Disney Television Animation \ Disney XD \ Disneytoon Studios \ DNA Productions \ Doctor Who \ Doctor Who Branded Media \ Domee Shi's Works \ Don Hall's Works \ Donkey Kong Country TV Series \ Dora & Diego \ Dr. Seuss \ Drawfee Works \ Dream SMP \ DreamWorks Animation \ Dynomutt \ E.T. Series \ Easter Media \ Edgar Wright's Works \ Editorial Bruguera \ Elisabetta Dami's Works \ EmiMG's Works \ Endemol \ Energon Universe \ Erin Hunter's Works \ Evil Dead Series \ Explosm \ Family Guy Series \ Fantasia Series \ Fantastic Four Franchise \ Fashion Dolls \ Fast & Furious Series \ FilmCow \ Finding Nemo Series \ Fleetway \ Flying Bark Productions \ Food Network \ Formo Toys \ Fortnite Streamers \ Fox's X-Men Cinematic Universe \ Francis Ford Coppola's Works \ Francisco Ibáñez's Works \ Frank Miller's Works \ Frankenstein Series \ Fred Series \ Fresh TV Inc. \ Frozen Series \ FX Network \ G4 \ Gary Trousdale & Kirk Wise's Works \ Generator Rex Series \ Genndy Tartakovsky's Works \ George Lucas' Works \ Gerard Way's Works \ Geronimo Stilton Series \ GHOST's Works \ Gil Kenan's Works \ Glitch Productions \ Global TV \ Goosebumps Series \ Gooseworx's Works \ Grantray-Lawrence Animation \ Green Lantern Franchise \ Greg Weisman's Works \ Gremlins Series \ Grim & Evil \ Groupe Canal+ \ Guillermo del Toro's Works \ H. G. Wells' Works \ Hanna-Barbera Studios Europe \ Happy Madison Productions \ HBO \ Hellaverse \ Henry Danger Series \ Henry Selick's Works \ Hiveworks Comics \ Holly Dittus's Works \ Horror Comedy \ Hot Wheels \ How To Train Your Dragon Series \ I Dream of Jeannie Series \ iCarly Series \ Ice Age Series \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Illumination \ Image Comics \ InCase's Works \ Inside Out Series \ Inspector Gadget Series \ instantmiso's Works \ Invader Zim Series \ Invincible Universe \ Iron Man Franchise \ ITV \ J.R.R. Tolkien's Works \ Jam Filled Entertainment \ James Cameron's Works \ James Gunn's Works \ Jamster \ Jane Austen's Work \ Jaws Series \ Jhonen Vasquez's Works \ Jim Henson's Works \ Jim Kammerud's Works \ Jimmy Fallon Series \ Jimmy Neutron Series \ Joe Dante's Works \ Joe Hill's Works \ Joe Murray's Works \ Joe Oriolo's Works \ John Carpenter's Works \ John Lasseter's Works \ John Musker & Ron Clement's Works \ Jon Chu's Works \ Jon Favreau's Works \ Jon Scieszka's Works \ Jonathan Stroud's Works \ Jordan Peele's Works \ Jorge Gutiérrez's Works \ Jumanji Series \ Justice League Franchise \ Jymn Magon's Works \ KC Green's Works \ Keith Chapman's Works \ Ken Penders's Works \ Kenny Ortega's Works \ Kevin Lima's Works \ Khonjin's Works \ King Crimson's Works \ Klasky Csupo \ Knights of the Light Table \ Kosmicdream's Works \ Kratt Brothers Company \ Kung Fu Panda Movies \ Kung Fu Panda Series \ La trilogía del ruiseñor \ Lady and the Tramp Series \ Laika Studios \ Lalaloopsy Series \ Lauren Faust's Works \ Lebre e Coelho Series \ Lee Unkrich's Works \ Legendary Entertainment \ LEGO Friends Series \ Leigh Bardugo's Works \ Lemony Snicket's Works \ Lev Gleason Publications \ Liam Vickers Animation \ Lincoln Peirce's Works \ Littlest Pet Shop Franchise \ Littlest Pet Shop Media \ M. Night Shyamalan's Works \ Madagascar Series \ Mainframe Studios \ Man of Action \ Mario All Stars \ Mario Franchise Cartoons \ Mark Dindal's Works \ Markiplier's Works \ Marko Raassina's Works \ Marsupilami Series \ Martin Scorsese's Works \ Marvel Cinematic Universe \ Marvel's Netflix Television Series \ Masters of the Universe \ Masters of the Universe-Like Series \ Matt Groening's Works \ Mauricio de Sousa Produções \ Max Gilardi's Works \ Max Originals \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Megamind Series \ Melkor Mancin's Works \ Men in Black Series \ Merryweatherey's Works \ Metro-Goldwyn-Mayer \ MGA Entertainment \ Michael Schur's Works \ Michael Swain's Works \ Michel Ocelot's Works \ Milkshake! \ Minecraft YouTubers \ Mirage Studios \ Mistborn Series \ Miwaku's Works \ Moana Series \ MondoMedia \ Monster High Franchise \ Monsters, Inc. Series \ MonsterVerse \ Mulan Series \ Murdoch Mysteries Universe \ My Little Pony \ My Little Pony: Friendship Is Magic Series \ NBC \ ND Stevenson's Works \ Neil Gaiman's Works \ Neill Blomkamp's Works \ Nelvana \ Nick Jr. \ Nickelodeon Movies \ Ninjago \ NormalBoots \ Norman Lear's Works \ Not Another D&D Podcast \ O Entertainment \ Odd Nation Cartoons Series \ OfflineTV & Friends \ Olan Rogers's Works \ Old Cinema \ Original X-Men Cinematic Universe \ Pannonia Film Studio \ Paramount+ Originals \ Patricia Highsmith's Works \ Paul Verhoeven's Works \ PAW Patrol Series \ PBS Kids \ Pendleton Ward's Works \ Pete Docter's Works \ Peter Pan Franchise \ Peter Pan Media \ Peter Sohn's Works \ Phil Lord and Christopher Miller's Works \ Phineas and Ferb Series \ Pink Floyd's Works \ Pink Panther Series \ Pirates of the Caribbean Series \ Pixar Short Films \ Pixie Trix Comix \ Playhouse Disney \ Pocahontas Series \ Podcasts \ Popeye Series \ Princess of Power Franchise \ Psycho Universe \ Puss in Boots Series \ Qubo \ Quentin Tarantino's Works \ R.L. Stine's Works \ Raimi Spider-Man Trilogy \ Rainbow Rowell \ Rankin/Bass Productions \ Reality TV \ RedRusker's Works \ Revised X-Men Cinematic Universe \ Rich Moore's Works \ Richard Kelly's Works \ Richard Rich's Works \ Rick Riordan's Works \ Rise of the Brave Tangled Dragons \ Rise of the Teenage Mutant Ninja Turtles Series \ Roald Dahl's Works \ Rob Minkoff's Works \ Robert Kirkman's Works \ Robert Rodriguez's Works \ Robert Zemeckis's Works \ Rocky Series \ Rooster Teeth \ Ruben Fleischer's Works \ Rudyard Kipling's Works \ Rugrats Series \ Rusty Quill \ Sakurada Yana's Works \ Sam Raimi's Works \ SapphireFoxx's Animations \ SapphireFoxx's Comics \ SapphireFoxx's Works \ Sarah J. Maas's Works \ Sausage Party Series \ Saw Franchise \ Scary Go Round \ Scott Fellows's Works \ Scream Series \ ScrewAttack \ Sesame Workshop \ Seth MacFarlane's Works \ Shadowhunters \ ShowBiz Pizza Time Incorporated \ Shrek Franchise \ Shrek Series \ SIAMÉƧ's Works \ Sing Series \ Sitcoms \ Smosh Works \ Snailords' Works \ soaporsalad's Works \ Sonic & Mega Man \ Sonic the Hedgehog Fanworks \ Sonic the Hedgehog Movie Franchise \ Sony Pictures Television \ Sony's Spider-Man Universe \ Soyuzmultfilm \ Space Ghost Series \ Space Jam Series \ Spider Robinson's Works \ Spider-Man Animation \ Spider-Man Movies \ Spider-Verse Saga \ Splash Entertainment \ Sr Pelo's Works \ Stanley Kubrick's Works \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Star Wars: The Skywalker Saga \ Stargate \ StarKid Productions \ Starship Troopers Series \ STARZ \ Stephen King's Works \ Steve Oedekerk's Works \ Steven Spielberg's Works \ Steven Universe Series \ Stickers \ Stitch Franchise \ Strawberry Shortcake Series \ Street & Smith \ Studio Filmów Rysunkowych \ StudioCanal \ Sunbow Entertainment \ Super Mario Bros. Cartoons \ Superman Movies \ Superman TV Shows \ SuperWhoLock \ Suyohara's Works \ Suzanne Collins's Works \ Sword and Sorcery \ Tad Stones's Works \ Tales of Arcadia \ Tally Hall Series \ Tangled Series \ Tarzan Series \ Team 6x111 \ Ted Series \ Teen Titans Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ Telenovelas \ Televisa \ Terminator Series \ Terry Pratchett's Works \ That's So Raven Series \ The Addams Family Series \ The Adventure Zone \ The Adventures of Ichabod and Mr. Toad \ The Age of the High Republic \ The Amazing Spider-Man Movie Series \ The Asylum \ The Bad Guys Series \ The Batman Universe \ The Big Bang Theory Series \ The Boys Series \ The Brothers Chaps' Works \ The Cartoon Cartoon Show \ The Cartoonstitute \ The Conjuring Universe \ The Dark Crystal Series \ The Dark Knight Trilogy \ The Disney Afternoon \ The Emperor's New Groove Series \ The Fairly OddParents Series \ The Fowl Adventures \ The Fox and the Hound Series \ The Grishaverse \ The Hunchback of Notre Dame Series \ The Jim Henson Company \ The Jungle Book Anthology \ The Jungle Book Series \ The Karate Kid Series \ The LEGO Movie Series \ The Lion King Series \ The Little Mermaid Series \ The Loud House Series \ The McElroy Family's Works \ The Mummy Series \ The Muppets Franchise \ The Penguins of Madagascar Series \ The Percy Jackson Series \ The Rescuers Series \ The Secret Life of Pets Series \ The Sopranos Series \ The Third Wheel \ The Vampire Diaries Series \ The Wilderness Years \ TheOdd1sOut's Works \ TheSoul Publishing \ Thomas & Friends Series \ Thor Franchise \ Three Flavours Cornetto Trilogy \ Tim Burton's Works \ Titanic Media \ TMNT Movies \ Tokifuji Comics \ Tomm Moore's Works \ TomSka's Works \ Top Gun Series \ Total Drama \ Touchstone Pictures \ Toy Story Mainline Movies \ Toy Story Series \ Trash Taste \ Treehouse \ Tri-State Area Series \ Trolls Dolls \ Trolls Series \ truTV \ TUFOS \ TV Globo \ Twin Peaks Series \ Universal Classic Monsters \ Universal Islands of Adventure \ Universal Kids \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Singapore \ Usagi Yojimbo Series \ Večerníček \ VeggieTales Series \ Victor Hugo's Works \ VICTORiOUS Series \ Vivziepop's Works \ Walkingnorth's Works \ Walt Disney Animation Studios \ Walt Disney Pictures \ Warner Bros. Pictures \ Warrior Cats Series \ Watcher Entertainment \ We Bare Bears Series \ Weaver's Works \ Weezer's Works \ Wes Anderson's Works \ Wes Craven's Works \ What a Cartoon! \ Whedonverse \ Whispwill \ Whoniverse \ Wildbow's Works \ Winnie the Pooh Franchise \ Wolfgang Reitherman's Works \ Woodwalkers Series \ Worthikids's Works \ Wreck-It Ralph Series \ Xiran Jay Zhao's Works \ Zenescope Entertainment \ Zeppelin TV \ Zootopia Series \ Zourik's Works
+Western | 101 Dalmatians Series \ 2000 AD \ 3D Adult Comics \ A Goofy Bundle \ A Knives Out Mystery \ A. E. van Vogt's Works \ A24 \ ABC Network \ Adelaide Productions \ Adi Shankar's Works \ Adrian Dingle's Works \ Agatha Christie's Works \ Aladdin Series \ Alan Moore's Works \ Alec's Works \ Alfred Hitchcock's Works \ Alice in Wonderland Series \ Alice Oseman's Works \ Alliance Atlantis \ AMC \ Ana C. Sánchez's Works \ Analog Horror \ Analog Science Fiction and Fact \ Ánima Estudios \ Animan Studios \ Annapurna Pictures \ Anti_Dev's Works \ Aphmau Series \ Apple Corps \ Apple TV+ Originals \ Aquaman Franchise \ Archie Comics \ Archie Mega Man Series \ Archie Series \ Archie Sonic Miniseries \ Archie Sonic Multiverse \ Archie Sonic the Hedgehog Series \ Arechan's Works \ Ari Aster's Works \ Astérix Series \ Atlantis Series \ Atomic Monster \ Austin Powers Series \ Axel Giménez' Art \ Bad Wolf Ltd \ Bambi Series \ Bande Dessinée \ Banijay Kids & Family \ Barnyard Series \ Batman Animation \ Batman Movies \ Bayformers \ BBC \ Beauty and the Beast Series \ Beavis and Butt-Head Franchise \ Beetlejuice Series \ Bell Features \ Big Hero 6 Series \ Big Idea Entertainment \ BIONICLE Movies \ Black-ish Series \ Blade Trilogy \ Blue Sky Studios \ Blue's Clues Series \ Blumhouse Productions \ Bob Schooley & Mark McCorkle's Works \ Bobs Gannaway's Works \ Boomerang \ Brad Bird's Works \ Brandon Sanderson's Works \ Breaking Bad Universe \ Brendon Small's Works \ Brent Butt's Works \ Brian De Palma's Works \ Bridgerton Series \ Brother Bear Series \ Bruce Timm's Works \ Buffyverse \ Butch Hartman's Works \ Buzzfeed \ Byron Howard's Works \ C. H. Greenblatt's Works \ C.S. Pacat's Works \ Canadian Whites \ Canal+ \ Captain N and the New Super Mario World \ Caravan Palace's Works \ Carlos Saldanha's Works \ Cars Movies \ Cartoon Cartoons \ Cartoon Network Studios \ Cartoon Saloon \ Castlevania Netflix Series \ CBBC \ CBC \ CBeebies \ Channel Awesome \ Chapterverse \ Charisma Records \ Charlie Chaplin's Works \ Chespirito \ Child's Play Series \ Chris Buck's Works \ Chris Sanders's Works \ Chris Wedge's Works \ Chris Williams's Works \ Christmas Carol Media \ Christopher Nolan's Works \ Christy Karacas's Works \ Chronicles of the Avatar \ Chuck Lorre's Works \ Cinderella Series \ CITV \ Clifford the Big Red Dog Series \ Clive Barker's Works \ Cloudy with a Chance of Meatballs Series \ Coen Brothers' Works \ coldmirror's Works \ Cormac McCarthy's Works \ Cosgrove Hall Films \ Cosmere \ Craig Gerber's Works \ Craig McCracken's Works \ Crest Animation Productions \ CSI Series \ CTV \ Curious Pictures \ Damon Albarn's Works \ Dan Schneider's Works \ Dana Terrace's Works \ Daredevil Franchise \ Darrell Rooney's Works \ Dav Pilkey's Works \ Dave Filoni's Works \ David Chase's Works \ David Fincher's Works \ David Leitch's Works \ David Lynch's Works \ David Silverman's Works \ DC Animated Universe \ DC Extended Universe \ DC Movies \ DC Universe \ DC Vertigo \ Delcourt \ Derpixon's Works \ Descendants Series \ Despicable Me Series \ DIC Sonic the Hedgehog Cartoons \ Discovery Channel \ Discovery Family \ Disney Channel Original Movies \ Disney Junior \ Disney Princess Films \ Disney XD \ Disneytoon Studios \ DNA Productions \ Doctor Strange Franchise \ Doctor Who \ Doctor Who Branded Media \ Domee Shi's Works \ Don Hall's Works \ Donkey Kong Country TV Series \ Dora & Diego \ Dr. Seuss \ Drawfee Works \ Dream SMP \ DreamWorks Animation \ Dynomutt \ Easter Media \ Edgar Wright's Works \ Editorial Bruguera \ Elisabetta Dami's Works \ EmiMG's Works \ Endemol \ Energon Universe \ Erin Hunter's Works \ Evil Dead Series \ Explosm \ Fantasia Series \ Fantastic Four Franchise \ Fashion Dolls \ Fast & Furious Series \ FilmCow \ Five Nights at Freddy's Movie Series \ Flash Franchise \ Fleetway \ Flying Bark Productions \ Food Network \ Formo Toys \ Fortnite Streamers \ Fox's X-Men Cinematic Universe \ Francis Ford Coppola's Works \ Francisco Ibáñez's Works \ Frank Miller's Works \ Frankelda Series \ Frankenstein Series \ Fred Series \ Fresh TV Inc. \ Frozen Series \ FX Network \ G4 \ Gary Trousdale & Kirk Wise's Works \ Generator Rex Series \ Genndy Tartakovsky's Works \ George Lucas' Works \ Gerard Way's Works \ Geronimo Stilton Series \ GHOST's Works \ Gil Kenan's Works \ Glitch Productions \ Global TV \ Goosebumps Series \ Gooseworx's Works \ Grantray-Lawrence Animation \ Green Lantern Franchise \ Greg Weisman's Works \ Gremlins Series \ Greta Gerwig's Works \ Grim & Evil \ Groupe Canal+ \ Guillermo del Toro's Works \ H. G. Wells' Works \ Hanna-Barbera Studios Europe \ Happy Madison Productions \ Harmony Korine's Works \ HBO \ Hellaverse \ Henry Danger Series \ Henry Selick's Works \ Highlander Franchise \ History Channel \ Hiveworks Comics \ Holly Dittus's Works \ Horror Comedy \ Hot Wheels \ How To Train Your Dragon Series \ I Dream of Jeannie Series \ I Know What You Did Last Summer Series \ iCarly Series \ Ice Age Series \ IDW Sonic the Hedgehog Miniseries \ IDW Sonic the Hedgehog Series \ Illumination \ Image Comics \ InCase's Works \ Inside Out Series \ Inspector Gadget Series \ instantmiso's Works \ Invader Zim Series \ Invincible Universe \ ITV \ J.R.R. Tolkien's Works \ Jam Filled Entertainment \ James Cameron's Works \ James Gunn's Works \ Jamie Hewlett's Works \ Jamster \ Jane Austen's Works \ Jared Hess' Works \ Jaws Series \ Jem and The Holograms Franchise \ Jhonen Vasquez's Works \ Jim Henson's Works \ Jim Kammerud's Works \ Jimmy Fallon Series \ Joe Dante's Works \ Joe Hill's Works \ Joe Murray's Works \ Joe Oriolo's Works \ John Carpenter's Works \ John Lasseter's Works \ John Musker & Ron Clement's Works \ Jon Chu's Works \ Jon Favreau's Works \ Jon Scieszka's Works \ Jonathan Stroud's Works \ Jordan Peele's Works \ Jorge Gutiérrez's Works \ Jumanji Series \ Jymn Magon's Works \ KC Green's Works \ Keith Chapman's Works \ Ken Penders's Works \ Kenny Ortega's Works \ Kevin Lima's Works \ Khonjin's Works \ King Crimson's Works \ Klasky Csupo \ Knights of the Light Table \ Kosmicdream's Works \ Kratt Brothers Company \ Kung Fu Panda Movies \ Kung Fu Panda Series \ La trilogía del ruiseñor \ Lady and the Tramp Series \ Laika Studios \ Lalaloopsy Series \ Lauren Faust's Works \ Law & Order Series \ Lebre e Coelho Series \ Lee Unkrich's Works \ Legendary Entertainment \ Legends of Avantris Campaigns \ LEGO Friends Series \ Leigh Bardugo's Works \ Lemony Snicket's Works \ Leprechaun Series \ Lev Gleason Publications \ Liam Vickers Animation \ Lincoln Peirce's Works \ Littlest Pet Shop Franchise \ Littlest Pet Shop Media \ Lucy Maud Montgomery's Works \ M. Night Shyamalan's Works \ Madagascar Series \ Man of Action \ Mario All Stars \ Mario Franchise Cartoons \ Mark Dindal's Works \ Markiplier's Works \ Marko Raassina's Works \ Marsupilami Series \ Martin Scorsese's Works \ Marvel Cinematic Universe \ Marvel's Netflix Television Series \ Masters of the Universe \ Masters of the Universe-Like Series \ Matt Groening's Works \ Mauricio de Sousa Produções \ Max Gilardi's Works \ Max Originals \ MCU Ant-Man Series \ MCU Avengers Series \ MCU Black Panther Series \ MCU Captain America Series \ MCU Captain Marvel Series \ MCU Doctor Strange Series \ MCU Guardians of the Galaxy Series \ MCU Iron Man Series \ MCU Spider-Man Series \ MCU Thor Series \ Megamind Series \ Melkor Mancin's Works \ Men in Black Series \ Merryweatherey's Works \ Metro-Goldwyn-Mayer \ MGA Entertainment \ Michael Schur's Works \ Michael Swain's Works \ Michel Ocelot's Works \ Mike Judge's Works \ Milkshake! \ Minecraft YouTubers \ Miraculous Series \ Mirage Studios \ Mistborn Series \ Miwaku's Works \ Moana Series \ MondoMedia \ Monster High Franchise \ Monsters, Inc. Series \ MonsterVerse \ Moosopp's Works \ Mordecai Richler's Works \ Mr. Men and Little Miss Series \ MSPaintAdventures \ Mulan Series \ Murdoch Mysteries Universe \ My Chemical Romance's Works \ My Little Pony \ My Little Pony: Friendship Is Magic Series \ MΞGAN Series \ NBC \ ND Stevenson's Works \ Neil Gaiman's Works \ Neill Blomkamp's Works \ Nelvana \ Nick Jr. \ Nickelodeon Movies \ NormalBoots \ Norman Lear's Works \ Not Another D&D Podcast \ O Entertainment \ Odd Nation Cartoons Series \ OfflineTV & Friends \ Olan Rogers's Works \ Old Cinema \ Original X-Men Cinematic Universe \ Pannonia Film Studio \ Paramount+ Originals \ Patricia Highsmith's Works \ Paul Verhoeven's Works \ PAW Patrol Series \ PBS \ PBS Kids \ Pendleton Ward's Works \ Pete Docter's Works \ Peter Pan Franchise \ Peter Pan Media \ Peter Sohn's Works \ Phil Lord and Christopher Miller's Works \ Phineas and Ferb Series \ Pink Floyd's Works \ Pink Panther Series \ Pixar Short Films \ Pixie Trix Comix \ Playhouse Disney \ Pocahontas Series \ Podcasts \ Popeye Series \ Princess of Power Franchise \ Psycho Universe \ Puss in Boots Series \ Qubo \ Quentin Tarantino's Works \ R.L. Stine's Works \ Raimi Spider-Man Trilogy \ Rainbow Rowell \ Rankin/Bass Productions \ RedRusker's Works \ Revised X-Men Cinematic Universe \ Rich Moore's Works \ Richard Kelly's Works \ Richard Rich's Works \ Rick Riordan's Works \ Rise of the Brave Tangled Dragons \ Rise of the Teenage Mutant Ninja Turtles Series \ Roald Dahl's Works \ Rob Minkoff's Works \ Robert Kirkman's Works \ Robert Rodriguez's Works \ Robert Zemeckis's Works \ Rooster Teeth \ Ruben Fleischer's Works \ Rudyard Kipling's Works \ Rugrats Series \ Rusty Quill \ Sakurada Yana's Works \ Sam Raimi's Works \ SapphireFoxx's Animations \ SapphireFoxx's Comics \ SapphireFoxx's Works \ Sarah J. Maas's Works \ Sausage Party Series \ Saw Franchise \ Scary Go Round \ Scott Fellows's Works \ Scream Series \ ScrewAttack \ Sergio Leone's Works \ Sesame Workshop \ Seth MacFarlane's Works \ Shadowhunters \ Shazam Franchise \ ShowBiz Pizza Time Incorporated \ Shrek Franchise \ Shrek Series \ SIAMÉƧ's Works \ Sing Series \ Sitcoms \ Smile Series \ Smosh Works \ Snailords' Works \ soaporsalad's Works \ Sonic & Mega Man \ Sonic the Hedgehog Fanworks \ Sonic the Hedgehog Movie Franchise \ Sony Pictures Television \ Sony's Spider-Man Universe \ Soyuzmultfilm \ Space Ghost Series \ Space Jam Series \ Spider Robinson's Works \ Spider-Man Animation \ Spider-Man Movies \ Spider-Verse Saga \ Splash Entertainment \ Squigglevision \ Sr Pelo's Works \ Stanley Kubrick's Works \ Star Trek Kelvin Timeline \ Star Trek Movies \ Star Trek: The Next Generation Movies \ Star Trek: The Original Series Movies \ Star Wars: The Skywalker Saga \ Stargate \ Starship Troopers Series \ STARZ \ Stephanie Garber's Works \ Stephen King's Works \ Steve Oedekerk's Works \ Steven Spielberg's Works \ Stickers \ Strawberry Shortcake Series \ Street & Smith \ Studio Filmów Rysunkowych \ StudioCanal \ Sunbow Entertainment \ Super Mario Bros. Cartoons \ Superman Movies \ Superman TV Shows \ SuperWhoLock \ Suyohara's Works \ Suzanne Collins's Works \ Swamp Thing Franchise \ Sword and Sorcery \ Tad Stones's Works \ Tales of Arcadia \ Tally Hall Series \ Tangled Series \ Tarzan Series \ Team 6x111 \ Ted Series \ Teen Titans Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ Telenovelas \ Televisa \ Terminator Series \ Terry Pratchett's Works \ That's So Raven Series \ The Addams Family Series \ The Adventure Zone \ The Adventures of Ichabod and Mr. Toad \ The Age of the High Republic \ The Amazing Spider-Man Movie Series \ The Asylum \ The Bad Guys Series \ The Batman Universe \ The Big Bang Theory Series \ The Boys Series \ The Brothers Chaps' Works \ The Cartoon Cartoon Show \ The Cartoonstitute \ The Conjuring Universe \ The Dark Crystal Series \ The Dark Knight Trilogy \ The Disney Afternoon \ The Emperor's New Groove Series \ The Equalizer Series \ The Fairly OddParents Series \ The Fowl Adventures \ The Fox and the Hound Series \ The Grishaverse \ The Hunchback of Notre Dame Series \ The Jim Henson Company \ The Jungle Book Anthology \ The Lion King Series \ The Loud House Series \ The McElroy Family's Works \ The Mummy Series \ The Muppets Franchise \ The Penguins of Madagascar Series \ The Percy Jackson Series \ The Rescuers Series \ The Secret Life of Pets Series \ The Sopranos Series \ The Strangers Series \ The Third Wheel \ The Vampire Diaries Series \ The Wilderness Years \ TheOdd1sOut's Works \ TheSoul Publishing \ Thomas & Friends Series \ Thor Franchise \ Three Flavours Cornetto Trilogy \ Tim Burton's Works \ Tim Miller's Works \ Titanic Media \ Titmouse \ TMNT Movies \ Tokifuji Comics \ Tomm Moore's Works \ TomSka's Works \ Top Gun Series \ Total Drama \ Touchstone Pictures \ Toy Story Mainline Movies \ Treehouse \ Tri-State Area Series \ Trolls Dolls \ Trolls Series \ truTV \ TUFOS \ Turbo Series \ TV Globo \ TV Show Pilots \ Twin Peaks Series \ Universal Classic Monsters \ Universal Islands of Adventure \ Universal Kids \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Singapore \ Usagi Yojimbo Series \ Večerníček \ VeggieTales Series \ Victor Hugo's Works \ VICTORiOUS Series \ Vivziepop's Works \ Walkingnorth's Works \ Walt Disney Animation Studios \ Walt Disney Pictures \ Warner Bros. Pictures \ Warrior Cats Series \ Watcher Entertainment \ We Bare Bears Series \ Weaver's Works \ Weezer's Works \ Wes Anderson's Works \ Wes Craven's Works \ What a Cartoon! \ Whedonverse \ Whispwill \ Whoniverse \ Wildbow's Works \ William Shakespeare's Works \ Wolfgang Reitherman's Works \ Wonder Woman Franchise \ Woodwalkers Series \ Worthikids's Works \ Wreck-It Ralph Series \ Xiran Jay Zhao's Works \ Zenescope Entertainment \ Zeppelin TV \ Zootopia Series \ Zourik's Works
 Western Erotic Games | Adastra Series \ Caribdis Games \ Corruption of Champions Series \ Dharker Studios \ DrPinkCake's Works \ Echo Project \ Echo Series \ Elven Conquest Series \ HuniePot \ Kamuo \ Kinkoid \ Kopianget's Art \ Leisure Suit Larry \ Meet And Fuck Games \ Ocean (Adult) \ Pink Tea Games \ Push! Soft \ Rebootlove's Works \ Shady Corner \ Sierra Lee's Works \ Spiral Clicker Series \ Y Press Games
-Western Indie Games | 11 bit studios \ 90% Studios \ A Shell in the Pit \ Adastra Series \ Aether Studios \ AkaBaka \ Alec Holowka's Works \ Amanita Design \ Amnesia Series \ AstralShift \ Axiom Verge Series \ Baldi's Basics Series \ Baroque Decay Games \ Bendy \ Bennett Foddy's Works \ Bithell Games \ Bombservice \ Bossa Studios \ Brianna Lei's Works \ Burrito Bison Series \ Bytten Studio \ Cactus McCoy Series \ CaptainGerBear's Art \ Caribdis Games \ Class of '09 Series \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Coffee Stain Studios \ Commodorette's Works \ Copper Odyssey Series \ Corruption of Champions Series \ Creatalsoftware Games \ Croteam \ Crypt of the Necrodancer Series \ Daniel Mullins' Games \ Darkest Dungeon Series \ Derek Yu's Works \ DEVGRU-P \ Devil Came Through Here Trilogy \ Dharker Studios \ Dragon Boy Series \ DreadXP \ DrinkBox Studios \ DrPinkCake's Works \ Dulcet Games \ ebi-hime's Works \ Echo Project \ Echo Series \ Elven Conquest Series \ Endnight Games \ Epic Battle Fantasy Series \ Evoland Series \ Fear & Hunger Series \ Finji \ Flipline Studios \ Freedom Planet Series \ Frictional Games \ FuturLab \ Gacha Life Series \ Garenburg Franchise \ Garten of Banban Series \ Ghostrunner Series \ GoatBread \ Godlimations \ goodbeans \ Greg Lobanov's Works \ Guinxu's Games \ Hades Series \ HAZUKASHII ♥ TEAM \ Henry Stickmin Series \ Hollow Knight Series \ holo Indie \ Hotline Miami Series \ HuniePot \ Hylics Series \ Image & Form \ Infinity Blade Series \ inkle Studios \ Inma Ruiz's Art \ Ironhide Game Studio \ Jonochrome's Games \ Kamuo \ Killmonday Games \ Kindergarten Series \ Kingdom Rush Series \ Kitfox Games \ Klace's Works \ Klei Entertainment \ Kopianget's Art \ Lab Zero \ Lethal League Series \ LimboLane \ LISA \ Love Conquers All Games \ Lucas Pope's Works \ Lucius Series \ Lunaris Games \ Luni's Works \ Lunime \ Maddy Thorson's Works \ Mainline FNaF Games \ Majorariatto \ Mediatonic \ Middens Series \ MOB Entertainment \ Momodora Series \ Monument Valley Series \ Mudae Cinematic Universe \ Mutant Mudds Series \ My Singing Monsters Series \ Nemlei's Games \ Night School Studio \ Nix Hydra \ Nomada Studio \ NomnomNami's Works \ Ocean (Adult) \ Ori \ Our Life Series \ Outlast Series \ Owlchemy Labs \ OXENFREE Series \ Papa Louie Platformers \ Papa Louie Series \ Papa's Gamerias \ Paper Lily Series \ Pillow Fight \ Pink Tea Games \ PixelFade \ Playdead \ Playtonic Games \ Postal Series \ Push! Soft \ Radical Fish Games \ Raw Fury \ Rebootlove's Works \ Riddle School Series \ Risk of Rain Series \ Rivals of Aether Series \ RIVER CROW STUDIOS \ Robot Gentleman \ Sabotage Studio \ Sad Panda Studios \ Scopophobia Studios \ Shady Corner \ Shantae Series \ Sierra Lee's Works \ Slime Rancher Series \ SnaccPop Studios \ Soviet Games \ Spelunky Series \ Spiral Clicker Series \ Stargroove \ Steel Wool Studios \ Stress Level Zero \ Studio Élan \ STUDIO INVESTIGRAVE \ Subnautica Series \ Sucker for Love \ Super Meat Boy Series \ Supergiant Games \ SureAI \ Syberia Franchise \ System Erasure \ Tako Boy Studios \ Team Reptile \ temmie's art \ thatgamecompany \ The Desolate Series \ The Forest Series \ The Game Bakers \ The Talos Principle Series \ thecatamites's Works \ Thunder Lotus Games \ tinyBuild \ Toby Fox's Games \ Town of Salem Series \ UFO 50 Games \ vanripper's Works \ Vlambeer \ Wanaca's Art \ Winged Cloud \ Worst Girls Games \ Y Press Games \ Yacht Club Games \ Yai Gameworks \ Young Horses
+Western Genre | Cactus McCoy Series \ Red Dead Redemption Series \ Sergio Leone's Works
+Western Indie Games | 11 bit studios \ 2D Boy \ 90% Studios \ A Shell in the Pit \ Adastra Series \ Aether Studios \ AIHASTO \ AkaBaka \ Alec Holowka's Works \ Amanda the Adventurer Series \ Amanita Design \ Amnesia Series \ AstralShift \ Axiom Verge Series \ Baba Series \ Baldi's Basics Series \ Baroque Decay Games \ Bendy \ Bennett Foddy's Works \ Bithell Games \ Black Tabby Games \ Blasphemous Series \ Bombservice \ Bossa Studios \ Brianna Lei's Works \ Burrito Bison Series \ Bytten Studio \ Cactus McCoy Series \ CaptainGerBear's Art \ Caribdis Games \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Coffee Stain Studios \ Commodorette's Works \ Copper Odyssey Series \ Corruption of Champions Series \ Creatalsoftware Games \ Croteam \ Crypt of the Necrodancer Series \ Cyan Inc. \ Dadish Series \ Daniel Mullins' Games \ Darkest Dungeon Series \ David Szymanski's Works \ Deep Rock Galactic Series \ Derek Yu's Works \ DEVGRU-P \ Devil Came Through Here Trilogy \ Dharker Studios \ Dragon Boy Series \ DreadXP \ DrinkBox Studios \ DrPinkCake's Works \ Dulcet Games \ Dumativa \ ebi-hime's Works \ Echo Project \ Echo Series \ Elven Conquest Series \ Endnight Games \ Epic Battle Fantasy Series \ Evoland Series \ Fear & Hunger Series \ Finji \ Flipline Studios \ Freedom Planet Series \ Frictional Games \ Frogun Series \ FuturLab \ Gacha Life Series \ Garenburg Franchise \ Ghostrunner Series \ GoatBread \ Godlimations \ goodbeans \ Granny Series \ Greg Lobanov's Works \ Guinxu's Games \ Gungeon Series \ Hades Series \ Hanako Games \ HAZUKASHII ♥ TEAM \ Henry Stickmin Series \ Hollow Knight Series \ Hotline Miami Series \ HuniePot \ Hylics Series \ Hyper Light Series \ Image & Form \ Infinity Blade Series \ inkle Studios \ Inma Ruiz's Art \ Ironhide Game Studio \ Jonochrome's Games \ Kamuo \ Killmonday Games \ Kindergarten Series \ Kingdom Come: Deliverance Series \ Kingdom Rush Series \ Kitfox Games \ Klace's Works \ Klei Entertainment \ Kopianget's Art \ Lab Zero \ Lakeview Series \ Lethal League Series \ LimboLane \ LISA \ Love Conquers All Games \ Lucas Pope's Works \ Lucius Series \ Lucky's Tale Series \ Lunaris Games \ Luni's Works \ Maddy Thorson's Works \ Mainline FNaF Games \ Majorariatto \ McPig's Works \ Mediatonic \ Middens Series \ MOB Entertainment \ Momodora Series \ Monument Valley Series \ Motion Twin \ Mudae Cinematic Universe \ Mutant Mudds Series \ My Singing Monsters Series \ N Series \ Nemlei's Games \ Night School Studio \ Nix Hydra \ Nomada Studio \ NomnomNami's Works \ Ocean (Adult) \ Ori \ Our Life Series \ Outlast Series \ Owlchemy Labs \ OXENFREE Series \ Papa Louie Platformers \ Papa Louie Series \ Papa's Gamerias \ Paper Lily Series \ Pillow Fight \ Pink Tea Games \ PixelFade \ Playdead \ Playtonic Games \ Postal Series \ PowerWash Simulator Series \ Push! Soft \ Radical Fish Games \ Rebootlove's Works \ Riddle School Series \ Risk of Rain Series \ Rivals of Aether Series \ RIVER CROW STUDIOS \ Robot Gentleman \ Sabotage Studio \ Sad Panda Studios \ Scopophobia Studios \ semiwork \ Shady Corner \ Shantae Series \ Sierra Lee's Works \ Slime Rancher Series \ SnaccPop Studios \ Soviet Games \ Spelunky Series \ Spiral Clicker Series \ Stargroove \ Steel Wool Studios \ Stress Level Zero \ Studio Élan \ STUDIO INVESTIGRAVE \ Subnautica Series \ Sucker for Love \ Super Meat Boy Series \ Supergiant Games \ SureAI \ Syberia Franchise \ System Erasure \ Tako Boy Studios \ Team Reptile \ temmie's art \ Terry Cavanagh's Works \ thatgamecompany \ The Behemoth \ The Desolate Series \ The Forest Series \ The Game Bakers \ The Talos Principle Series \ thecatamites's Works \ Those Awesome Guys \ Thunder Lotus Games \ tinyBuild \ Toby Fox's Games \ Tom Fulp's Works \ Tomorrow Corporation \ Town of Salem Series \ Turnip Boy Series \ UFO 50 Games \ vanripper's Works \ Vlambeer \ Wanaca's Art \ Winged Cloud \ Wishes Ultd. \ World of Goo Series \ Worst Girls Games \ Y Press Games \ Yacht Club Games \ Yai Gameworks \ Young Horses
 Whedonverse | Buffyverse
-When They Cry | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ Higurashi Series
+When They Cry | Higurashi no Naku Koro ni Kai \ Higurashi no Naku Koro Ni Main Story Arcs \ Higurashi no Naku Koro ni Question Arcs \ Higurashi no Naku Koro Ni Story Arcs \ Higurashi Series \ Umineko Series
 Whirlpool | NEKO-NIN exHeart Series
 Whoniverse | Doctor Who \ Doctor Who Branded Media \ The Wilderness Years
-Wii | LEGO Indiana Jones Video Games \ MySims Series \ MySims: Cozy Bundle \ Operation Rainfall \ Sonic Storybook Series \ Star Wars: The Force Unleashed Series \ Super Mario Galaxy Series \ The Legend of Zelda: Twilight Princess Series \ Wii Sports Series
-Wii Series | Wii Party Series \ Wii Sports Series
+Wii | Endless Ocean Series \ LEGO Indiana Jones Video Games \ MySims: Cozy Bundle \ Operation Rainfall \ Sonic Storybook Series \ Star Wars: The Force Unleashed Series \ Super Mario Galaxy Series \ The Legend of Zelda: Twilight Princess Series \ Wii Sports Series
+Wii Series | Wii Fit Series \ Wii Party Series \ Wii Sports Series
 Wii U | Mutant Mudds Series
-Wild West Media | Cactus McCoy Series \ Red Dead Redemption Series
 Williams Street | Christy Karacas's Works \ Space Ghost Coast to Coast Universe
 Windmill Oasis | Happiness! Series
 Winged Cloud | Wanaca's Art
 Winter 2020 Anime | Mixer
 Winter 2021 Anime | Hataraku Saibou Series
-Winter 2024 Anime | Overlap Novels f
-Witchcraft and Wizardry Media | Mahoutsukai PreCure! Series \ The Witch and The Hundred Knight Series
+Wishes Ultd. | A Shell in the Pit \ Greg Lobanov's Works
+Witchcraft and Wizardry Media | Mahoutsukai PreCure! Series \ The Witch and The Hundred Knight Series \ Wizardry Series
 WIXOSS | selector WIXOSS
 Wizarding World | Portkey Games
 WOLF RPG Editor Games | 1bitHeart Series \ Sen's Works \ The Strange Men Series
 WOOMA | Kirai Hiiragi's Works
 Working Designs | Lunar Series
-Wrestling | Tiger Mask Series
+World of Goo Series | 2D Boy
+Wrestling | Def Jam Games \ Tiger Mask Series
 WSS playground | Alliance Arts \ NEEDY GIRL OVERDOSE Series
-X-Men Franchise | Fox's X-Men Cinematic Universe \ Original X-Men Cinematic Universe \ Revised X-Men Cinematic Universe \ Wolverine Franchise
-Xbox 360 Games | BioShock Series \ Left 4 Dead Series \ LEGO Indiana Jones Video Games \ Skylanders \ Sonic & SEGA All-Stars Racing Series \ Sonic the Hedgehog 4 \ Star Wars: The Force Unleashed Series
-Xbox One | Bloodstained Series \ Dragon Ball Xenoverse Series \ Fortnite Series \ Hitman: World of Assassination \ LEGO Marvel Video Games \ Nickelodeon All-Star Brawl Series \ Star Wars Jedi Series
-Xbox Series X|S | Fortnite Series \ Ghostrunner Series \ Nickelodeon All-Star Brawl Series \ Star Wars Jedi Series
+X-Men Franchise | Fox's X-Men Cinematic Universe \ Original X-Men Cinematic Universe \ Revised X-Men Cinematic Universe \ Wolverine Franchise \ X-Men: Mutant Academy Series
+Xbox 360 | [PROTOTYPE] Series \ BioShock Series \ Kane & Lynch Series \ Left 4 Dead Series \ LEGO Indiana Jones Video Games \ Resident Evil: Revelations Series \ Skylanders \ Sonic & SEGA All-Stars Racing Series \ Sonic the Hedgehog 4 \ Star Wars: The Force Unleashed Series
+Xbox One | A Shell in the Pit \ Assassin's Creed Chronicles \ Axiom Verge Series \ Blasphemous Series \ Blaster Master Zero Series \ Bloodstained Series \ Deck13 Interactive \ Dragon Ball Xenoverse Series \ Dying Light Series \ Fortnite Series \ Frogun Series \ Greg Lobanov's Works \ Hitman: World of Assassination \ LEGO Marvel Video Games \ Nickelodeon All-Star Brawl Series \ Resident Evil: Revelations Series \ Snowdrop Engine Games \ Star Wars Jedi Series \ The Evil Within Series \ Valiant Hearts Series
+Xbox Series X|S | A Plague Tale Series \ Blaster Master Zero Series \ Fortnite Series \ Frogun Series \ Ghostrunner Series \ Judgment Series \ Nickelodeon All-Star Brawl Series \ Nomada Studio \ PowerWash Simulator Series \ Star Wars Jedi Series
 Xebec | Soukyuu no Fafner Series \ To LOVE-Ru Series \ Zoids Series
 Xeno Series | Xenoblade
 XSEED Games | Freedom Planet Series \ No More Heroes Series \ Sakuna Series \ Zwei Series
 Yaegashi Nan's Art | Evenicle Series
-Yakuza Media | Karaoke Iko! Series \ Ten Series
-Yakuza Series | Judgment Series
+Yakuza Media | Karaoke Iko! Series
+Yakuza Series | Judgment Series \ Kurohyou Series
+Yangyang's Art | MAD's Art
+Yasu's Art | Toradora! Series
 Year 24 Group | Keiko Takemiya's Works
 Yen Press | Fruits Basket Series \ Karaoke Iko! Series
 Yeondam Comics | Haron Lee's Works \ Irinbi's Works \ Kin's Works \ NARAK's Art
@@ -1533,352 +1616,689 @@ YONDER | Alphatart's Works \ JS Content \ UMKY's Art
 Yoshi Series | Yoshi's Island Series
 Yoshihiro Togashi's Works | Hunter x Hunter Series
 Yoshitaka Murayama's Works | Suikoden Series
-Young Animal | Uran's Art
+Young Animal | Kyuu Takahata's Works \ Uran's Art \ Yuuji Kaba's Art
 Young Champ | Chaos Chronicle Series
 Young Gangan | Karino Takatsu's Works
 Young King OURS | Kouta Hirano's Works
 Young Magazine | Initial D Series
-YouTube | Analog Horror \ Animation Meme Series \ Animation vs. Series \ Aphmau Series \ Brave Group \ coldmirror's Works \ Fanime \ FilmCow \ Glitch Productions \ Gooseworx's Works \ inabakumori Series \ Knights of the Light Table \ manbo-p \ Markiplier's Works \ Mashup Tournaments \ Max Gilardi's Works \ Minecraft YouTubers \ NormalBoots \ Odd Nation Cartoons Series \ OfflineTV & Friends \ RK Music \ ScrewAttack \ SIAMÉƧ's Works \ Smosh Works \ Sr Pelo's Works \ The Third Wheel \ TheSoul Publishing \ TomSka's Works \ Trash Taste \ TUYU Series \ VIVINOS \ Watcher Entertainment \ Worthikids's Works \ YouTubers
-YouTubers | Brave Group \ Minecraft YouTubers \ NormalBoots \ OfflineTV & Friends \ RK Music \ Trash Taste
+YouTube | Analog Horror \ Animation Meme Series \ Aphmau Series \ Brave Group \ coldmirror's Works \ Fanime \ FilmCow \ Gooseworx's Works \ inabakumori Series \ Knights of the Light Table \ Liam Vickers Animation \ manbo-p \ Markiplier's Works \ Mashup Tournaments \ Max Gilardi's Works \ Minecraft YouTubers \ NormalBoots \ Odd Nation Cartoons Series \ OfflineTV & Friends \ RK Music \ ScrewAttack \ SIAMÉƧ's Works \ Smosh Works \ Sr Pelo's Works \ The Third Wheel \ TheSoul Publishing \ TomSka's Works \ TUYU Series \ VIVINOS \ Watcher Entertainment \ Worthikids's Works \ YouTubers
+YouTubers | Brave Group \ Minecraft YouTubers \ NormalBoots \ OfflineTV & Friends \ RK Music
 Yu Suzuki's Works | Shenmue
 Yu-Gi-Oh! | Yu-Gi-Oh! Tag Force Series \ Yu-Gi-Oh! Video Games
 Yu-Gi-Oh! Video Games | Yu-Gi-Oh! Tag Force Series
 YU-RIS Games | Clip Craft \ Dark One! \ NEKO-NIN exHeart Series \ Unionism Quartet Series
 Yugo Limbo's Works | LimboLane
 Yura's Works | Langmaor
-Yuri | @vitamin \ Akiko Morishima's Works \ BUZAMA Series \ Chiri Yuino's Works \ Comic Yuri-Hime. \ Galette Works \ Ju Jishe's Art \ Lightning Warrior Raidy Series \ Mei Fujimatsu's Works \ Mochi Au Lait's Works \ Namori's Works \ Nekotarou's Works \ Nix Hydra \ Piero Karasu's Works \ Revolutionary Girl Utena Series \ Shi Yi Er's Works \ Sono Hanabira ni Kuchizuke o Series \ SukeraSparo \ Sunao Minakata's Works \ Tamamusi's Works \ Team Gaji's Works \ Walkingnorth's Works \ Yuru Yuri Series
+Yuri | @vitamin \ Akiko Morishima's Works \ BUZAMA Series \ Chiri Yuino's Works \ Comic Yuri-Hime. \ Galette Works \ Ju Jishe's Art \ Kashikaze's Works \ Lightning Warrior Raidy Series \ Mei Fujimatsu's Works \ Mochi Au Lait's Works \ Namori's Works \ Nekotarou's Works \ Nix Hydra \ Piero Karasu's Works \ Rangrarii's Works \ Revolutionary Girl Utena Series \ Shi Yi Er's Works \ Sono Hanabira ni Kuchizuke o Series \ SukeraSparo \ Sunao Minakata's Works \ Tamamusi's Works \ Team Gaji's Works \ Walkingnorth's Works \ Yuru Yuri Series
 Yuru Yuri Series | Namori's Works
 Yusuke Kozaki's Art | No More Heroes Series
 Yuu Kamiya's Art | No Game No Life Series
+Yuuji Kaba's Art | Kyuu Takahata's Works
 Yuuya's Art | Cupid Parasite Series
 Zhou Munan's Works | CG Year
 Zombie Games | [PROTOTYPE] Series \ Dead Ahead Series \ Dead Island Series \ Dead Rising \ Dead Space Series \ Dying Light Series \ Left 4 Dead Series \ Mobirate \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games \ Resident Evil: Revelations Series \ SAMURAI vs ZOMBIES DEFENSE Series \ The Typing of the Dead Series
-Zombie Media | [PROTOTYPE] Series \ Dead Ahead Series \ Dead Island Series \ Dead Rising \ Dead Space Series \ Dying Light Series \ Left 4 Dead Series \ Mobirate \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games \ Plants vs. Zombies Series \ Resident Evil: Revelations Series \ SAMURAI vs ZOMBIES DEFENSE Series \ The Last of Us Series \ The Typing of the Dead Series \ The Walking Dead Series \ Zombie Games
+Zombie Media | [PROTOTYPE] Series \ Dead Ahead Series \ Dead Island Series \ Dead Rising \ Dead Space Series \ Dying Light Series \ Left 4 Dead Series \ Mobirate \ Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games \ Plants vs. Zombies Series \ Resident Evil: Revelations Series \ SAMURAI vs ZOMBIES DEFENSE Series
 Zymk | Man kezhan
 Zyugoya's Works | Batsu Naki
 
 ## New Additions (from Previous Update)
 Superset | Subset
 ------ | ------
-2D Animated Movies | Cartoon Saloon \ Marvel Animated Features Collection
-2D Fighting Games | Art of Fighting Series \ ClayFighter Series
-2D Platformers | Bonk Series \ Team Ladybug \ The Lost Vikings Series
-3D CGI Animated Movies | Dav Pilkey's Works
-3D CGI Animated Shows | BoBoiBoy Series \ Glitch Productions
-3D Platformers | Ghostrunner Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
-4-koma | Manga Time Original
-Aardman Animations | Wallace & Gromit Franchise
-Action Role-Playing Games | Infinity Blade Series \ Pokémon Legends \ SureAI
-Aether Studios | Rivals of Aether Series
-Akita Shoten | Champion Cross \ Katsuki Izumi's Works \ Requiem of the Rose King Series
-Amazon MGM Studios | The Boys Series
-American Games | Baldi's Basics Series \ BloodRayne Series \ Bookworm Series \ Brianna Lei's Works \ Class of '09 Series \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Gex Series \ holo Indie \ Infinity Blade Series \ Insomniac Games \ Mainline FNaF Games \ Mario Teaches Typing Series \ Mario vs. Donkey Kong Series \ Maxis \ Mutant Mudds Series \ Psychonauts Series \ Ratchet & Clank Collection \ Resistance Series \ Saints Row Series \ Spyro Reignited Trilogy \ Team Fortress Series \ thatgamecompany \ The Lost Vikings Series \ Titanfall Series \ Volition \ Warcraft Universe \ Young Horses \ Zuma Series
-Amusement Parks | Disney Parks \ Universal Epic Universe \ Universal Islands of Adventure \ Universal Orlando Resort \ Universal Parks \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Hollywood \ Universal Studios Japan \ Universal Studios Singapore
-Animatronic Media | Mainline FNaF Games
-Arcade Games | Art of Fighting Series \ Mushihime-sama Series
-Astro Bot Series | Team ASOBI
-ATLUS | Modern Persona \ Persona Dancing \ Shin Megami Tensei V Series
-ATLUS West | Modern Persona \ Persona Dancing \ Shin Megami Tensei V Series
-Australian Media | Glitch Productions
-Aya Kanno's Works | Requiem of the Rose King Series
-Beam Comics | Karaoke Iko! Series
-Board Video Games | CAProduction \ Itadaki Street Series \ Mario Party \ Super Mario Party Series
-Bou Ditama's Art | Bou Ditama's Works
-Boys' Love | Binto's Works \ gusao's Works \ Petit Flower \ Today Spring's Works
-British Media | Grand Theft Auto 3D Universe \ Grand Theft Auto HD Universe \ Hanna-Barbera Studios Europe \ J.R.R. Tolkien's Works \ Thomas & Friends Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered \ Wallace & Gromit Franchise
-Browser Games | Riddle School Series
-Bullet Hell | Mushihime-sama Series
-Canadian Media | Darkest Dungeon Series \ EA Sports \ Endnight Games \ My Singing Monsters Series \ The Coalition \ The Forest Series \ Turbo Kid Series
-Capcom | Mega Man Anniversary Collection \ Mega Man NT Warrior Series \ Puzzle Fighter Series \ The Disney Afternoon Collection
-Captain America Franchise | MCU Captain America Series
-Cartoon Network | Hanna-Barbera Studios Europe
-Cartoon Network Studios | Generator Rex Series \ Grim & Evil \ Steven Universe Series \ The Cartoonstitute \ We Bare Bears Series
-Cartoon Saloon | Tomm Moore's Works
-CAVE Interactive Co., Ltd. | Mushihime-sama Series
-Children's Literature | Dav Pilkey's Works \ Jon Scieszka's Works \ Lemony Snicket's Works
-Class of '09: Trey Pack | Class of '09 Series \ Class of '09: The Double Up
-Coamix | Comic Zenon \ Mixer \ Web Comic Zenyon
-Comic Based Series | Captain America Franchise \ LEGO Batman \ Marvel Animated Features Collection \ Marvel Earth-8096 \ TMNT Games
-Core Design | Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
-Creature Collector Games | Pokémon Legends
-Danish Media | Ghostrunner Series \ Merryweatherey's Works
-DC Multiverse | LEGO Batman
-Dead Games | Puzzle Fighter Series
-Detective Media | Famicom Detective Club Series
-Disturbing Imagery | Lucius Series \ Petit Flower
-Dog Media | Clifford the Big Red Dog Series
-DOS | The Lost Vikings Series
-Doujinshi | Binto's Works \ Karaoke Iko! Series
-DreamWorks Animation | Dav Pilkey's Works
-Ecchi | Seiji Ebisu's Works
-Education | Bookworm Series \ Clifford the Big Red Dog Series \ The Typing of the Dead Series
-Eidos Interactive | Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
-Electronic Arts | Bookworm Series \ EA Sports \ Frostbite Engine Games \ MySims Series \ MySims: Cozy Bundle \ Plants vs. Zombies 2 Series
-Elf Corporation | Kakyuusei Series
-Endless Runners | Sonic Runners Series
-Endnight Games | The Forest Series
-Enterbrain | Karaoke Iko! Series
-Epic Games | Infinity Blade Series
-Eroge | BABEL \ HAMHAM-SOFT \ Iris (Company) \ Kakyuusei Series \ Love Lab (Company) \ Prostudent G Series \ Shin'ya Oosaki's Art \ Tanuki Soft
-Eromanhwa | Samosa's Works
-Erotic Games | Appetite (Company) \ BABEL \ HAMHAM-SOFT \ Iris (Company) \ Kakyuusei Series \ Love Lab (Company) \ Mango Party \ Prostudent G Series \ Shin'ya Oosaki's Art \ Tanuki Soft \ Western Erotic Games \ xDNA
-Extreme Ghostbusters Series | Light & Shadow Production
-Fanworks | holo Indie
-Fighting Games | Art of Fighting Series \ ClayFighter Series \ Rivals of Aether Series
-Finnish Media | Lucius Series
-First-person Shooter Games | Team Fortress Series
-Five Nights at Freddy's Franchise | Five Nights at Candy's \ Five Nights at Freddy's Series \ Mainline FNaF Games \ POPGOES Series \ Steel Wool Studios \ The Candy and Popgoes Universe \ The Fazbear Fanverse Initiative
-Five Nights at Freddy's Series | Mainline FNaF Games
-Flash Games | Riddle School Series
-Furry | Dr. Doe's Lab Series
-Game Mods | SureAI
-German Media | SureAI
-Ghost Media | Extreme Ghostbusters Series \ Light & Shadow Production \ The Real Ghostbusters Series
-Grand Theft Auto 3D Universe | Grand Theft Auto: The Trilogy
-Hack 'n Slash Games | Ninja Gaiden Master Collection
-Harem | Taishi Tsutsui's Works
-Hentai | BABEL \ Binto's Works \ Goblin Burrow Series \ HAMHAM-SOFT \ Iris (Company) \ Samosa's Works \ Tanuki Soft \ Yuuki Seto's Works
-Hero Shooter Games | Team Fortress Series
-Horror Games | Baldi's Basics Series \ BloodRayne Series \ Endnight Games \ Lucius Series \ Mainline FNaF Games \ The Forest Series \ The Typing of the Dead Series
-Horror Genre | Baldi's Basics Series \ BloodRayne Series \ Endnight Games \ Lucius Series \ Mainline FNaF Games \ The Forest Series \ The Mummy Series \ The Typing of the Dead Series
-Horse Media | Uma Musume Series
-Houbunsha | Manga Time Original
-Ian Flynn's Works | Rivals of Aether Series
-Independent Animations | Glitch Productions \ Object Shows
-Indie Games | Amanita Design \ Baldi's Basics Series \ Bytten Studio \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Copper Odyssey Series \ Crypt of the Necrodancer Series \ Endnight Games \ Garten of Banban Series \ Ghostrunner Series \ holo Indie \ Infinity Blade Series \ Lucas Pope's Works \ Lucius Series \ Mainline FNaF Games \ Mutant Mudds Series \ My Singing Monsters Series \ NEEDY GIRL OVERDOSE Series \ Owlchemy Labs \ Raw Fury \ Riddle School Series \ Rivals of Aether Series \ Studio Pixel \ SureAI \ Tako Boy Studios \ Team Ladybug \ The Desolate Series \ The Forest Series \ UFO 50 Games
-Inti Creates | Gal*Gun Series
-Jhonen Vasquez's Works | Invader Zim Series
-Jump Magazines | Masahiro Hirakata's Works \ Taishi Tsutsui's Works
-Kadokawa Corporation | KadoComi \ Karaoke Iko! Series
-Kazuasa Sumita's Art | Killing Bites Series
-King of Fighters Universe | Art of Fighting Series
-Kodansha | Masakuni Igarashi's Works
-Koei Tecmo | Ninja Gaiden Master Collection \ Ninja Gaiden Series
-KONAMI | TwinBee Series
-Korean Games | PrettyBusy
-LEGO | LEGO Batman \ LEGO Star Wars
-LEGO Star Wars | LEGO Star Wars Video Games
-Level-5 | Ni no Kuni Series
-Lezhin Comics | gusao's Works \ Samosa's Works
-LGBT+ Themes | FukaBoku Series
-Licensed Games | Crazy Castle \ Light & Shadow Production \ Spot Series \ The Disney Afternoon Collection \ TinyCo \ TMNT Games
-Life Simulation Games | MySims: Cozy Bundle
-Literature | Dav Pilkey's Works \ Jon Scieszka's Works \ Lemony Snicket's Works
-Live-Action | La trilogía del ruiseñor \ The Sopranos Series
-Lolicon | Ammolite \ BABEL \ Galette \ HAMHAM-SOFT \ Iris (Company) \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Tinkle Position \ Yoru no Hitsuji
-Looter Shooter Games | Snowdrop Engine Games
-Mafia Media | The Sopranos Series
-Mahou Shoujo | Cutie Honey Series
-Manhwa | gusao's Works \ Samosa's Works \ Today Spring's Works
-Mario Franchise | Wario's Woods Series
-Marvel Animated Features Collection | Hulk vs.
-Marvel Animation | Marvel Earth-8096
-Marvel Earth-8096 | Hulk vs.
-Marvel Multiverse | Captain America Franchise \ Marvel Animated Features Collection \ Marvel Earth-8096
-Mecha | Samurai Pizza Cats Series \ Voltes V Series
-Mega Man Anniversary Collection | Mega Man Legacy Collection
-Mega Man Battle Network Series | Mega Man NT Warrior Series
-Mega Man Franchise | Mega Man Anniversary Collection \ Mega Man NT Warrior Series
-Mega Man Series | Mega Man Anniversary Collection
-Megami Tensei | Modern Persona \ Persona Dancing \ Shin Megami Tensei V Series
-Metro-Goldwyn-Mayer | Pink Panther Series \ Rocky Series \ Stargate \ The Addams Family Series
-Miscellaneous Eastern | BoBoiBoy Series \ PeaCh88's Works
-Mobile Games | Gamefam \ Infinity Blade Series \ Plants vs. Zombies 2 Series \ Puzzle Fighter Series \ TinyCo
-Monster Girls | Killing Bites Series
-Music Games | DJ Media \ Persona Dancing
-Music Genre | Aikatsu! Series \ Akifumi Kaneko's Works \ BanG Dream! Franchise \ Hibike! Euphonium Series \ Hypnosis Mic -Division Rap Battle- Series \ Karaoke Iko! Series \ Love Live! \ Pretty Rhythm \ Pretty Series \ PriPara Series \ Senki Zesshou Symphogear Series \ Shoujo☆Kageki Revue Starlight Series \ THE iDOLM@STER Series
-Music Videos | inabakumori Series
-Musical Films & TV Shows | La trilogía del ruiseñor
-Musicals | La trilogía del ruiseñor
-MySims Series | MySims: Cozy Bundle
-NBCUniversal | Back to the Future Series \ E.T. Series \ Jaws Series \ Jimmy Fallon Series \ The Mummy Series \ The Secret Life of Pets Series \ Universal Epic Universe \ Universal Islands of Adventure \ Universal Orlando Resort \ Universal Parks \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Hollywood \ Universal Studios Japan \ Universal Studios Singapore
-Newgrounds | Derpixon's Works \ Riddle School Series
-Nickelodeon Animation Studio | Barnyard Series \ Invader Zim Series \ Rise of the Teenage Mutant Ninja Turtles Series \ Rugrats Series \ Teenage Mutant Ninja Turtles: Mutant Mayhem Series \ The Loud House Series
-Ninja Gaiden Series | Ninja Gaiden Master Collection
-Nintendo | Pokémon Legends \ The Legendary Starfy Series \ Wario's Woods Series \ Wii Party Series
-Nintendo (Publisher) | Pokémon Legends \ The Legendary Starfy Series \ Wario's Woods Series \ Wii Party Series
-Nintendo 3DS | Mutant Mudds Series
-Nintendo Switch | Brownies Inc. \ Pokémon Legends \ Shin Megami Tensei V Series
-nitroplus | Shin'ya Oosaki's Art
-Omegaverse | Today Spring's Works
-Open World Games | Grand Theft Auto HD Universe \ Snowdrop Engine Games \ SureAI
-Paramount Global | Invader Zim Series
-Party Games | Wii Party Series
-PBS Kids | Clifford the Big Red Dog Series
-Persona | Modern Persona \ Persona Dancing
-Plants vs. Zombies Series | Plants vs. Zombies 2 Series
-Platform Fighters | Rivals of Aether Series
-Platformer Games | Bonk Series \ Croc Series \ Gex Series \ Ghostrunner Series \ Mutant Mudds Series \ Spark the Electric Jester Series \ Studio Pixel \ Team Ladybug \ The Legendary Starfy Series \ The Lost Vikings Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
-PlayStation 1 | Croc Series \ Entertainment Software Publishing \ Gex Series \ Tomb Raider I•II•III Remastered
-PlayStation 2 | Grand Theft Auto 3D Universe
-PlayStation 3 | Mutant Mudds Series
-PlayStation 4 | Mutant Mudds Series
-PlayStation Vita | Mutant Mudds Series
-Point-and-click Adventure Games | Amanita Design \ Riddle School Series
-Polish Media | Ghostrunner Series
-PopCap Games | Plants vs. Zombies 2 Series
-PQube | Gal*Gun Series
-Princess | Requiem of the Rose King Series
-Production Reed | Cutie Honey Series
-Puzzle Games | Bookworm Series \ Crazy Castle \ Puzzle Fighter Series \ Riddle School Series \ The Lost Vikings Series \ Wario's Woods Series \ Zuma Series
-Real Life People | Jimmy Fallon Series
-Rhythm Games | DJ Media \ Harmonix \ Persona Dancing
-Roblox Games | Gamefam
-Rockstar Games | Grand Theft Auto 3D Universe
-RPG Maker Games | Copper Odyssey Series
-Russian Media | Owlcat Games \ Soyuzmultfilm
-Sam & Max Series | Sam & Max Games
-Scholastic Corporation | Clifford the Big Red Dog Series \ Dav Pilkey's Works
-Scott Cawthon's Works | Mainline FNaF Games \ The Desolate Series
-SEGA | Ecco the Dolphin Series \ Golden Axe Series \ Modern Persona \ Persona Dancing \ Shin Megami Tensei V Series \ The Typing of the Dead Series
-SEGA Saturn | Entertainment Software Publishing
-Sengoku Media | Sengoku Ace Series
-Shin Megami Tensei | Shin Megami Tensei V Series
-Shinya Murata's Works | Killing Bites Series
-Shiravune | Qruppo
-Shogakukan | Gekkan Flowers \ Mega Man NT Warrior Series \ Petit Comic \ Petit Flower
-Shoot 'em Ups | Cotton Series \ Cute 'em ups \ Mushihime-sama Series \ Sengoku Ace Series
-Shooter Games | Bombshell Series \ Grand Theft Auto HD Universe \ Max Payne Series \ Mushihime-sama Series \ n-Space \ Sengoku Ace Series \ Snowdrop Engine Games \ Team Fortress Series \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
-Shotacon and Lolicon | BABEL \ HAMHAM-SOFT
-Shueisha | Masahiro Hirakata's Works \ Taishi Tsutsui's Works
-Side-scrolling Games | Bonk Series \ Studio Pixel \ The Disney Afternoon Collection \ The Lost Vikings Series
-SiglusEngine Games | HAMHAM-SOFT \ Iris (Company)
-Sims Series | MySims Series \ MySims: Cozy Bundle
-Simulation Games | Brownies Inc. \ Endnight Games \ MySims: Cozy Bundle \ Owlchemy Labs \ The Forest Series
-SNK | Art of Fighting Series \ Athena Series
-SNK Neo Geo | Art of Fighting Series
-Sony | Light & Shadow Production \ Team ASOBI
-Sony Interactive Entertainment | Team ASOBI
-Space Opera | LEGO Star Wars \ Star Trek: Voyager Series
-Spinoff Games | The Typing of the Dead Series \ Typing Tutors \ Wario's Woods Series
-Spinoff Media | The Typing of the Dead Series \ Typing Tutors \ Wario's Woods Series
-Sports | EA Sports
-Sports Games | EA Sports
-Star Trek | Star Trek: Voyager Series
-Star Wars | LEGO Star Wars
-Stopmotion | Wallace & Gromit Franchise
-Strategy Games | Plants vs. Zombies 2 Series \ Robot Gentleman
-Super Nintendo Entertainment System | The Lost Vikings Series
-Superheroes | BoBoiBoy Series \ Captain America Franchise \ Darkwing Duck Series \ Dav Pilkey's Works \ LEGO Batman \ Marvel Animated Features Collection \ Marvel Earth-8096 \ The Darkness Series \ Turbo Kid Series
-Survival Games | Endnight Games \ The Forest Series
-syn Sophia | Pretty Rhythm \ Pretty Series
-Team ASOBI | Astro Bot Series
-Team Ninja | Ninja Gaiden Master Collection
-The Forest Series | Endnight Games
-The Walt Disney Company | Captain America Franchise \ Chicken Little Series \ Darkwing Duck Series \ Disney Games \ LEGO Star Wars \ Marvel Animated Features Collection \ Marvel Earth-8096 \ TaleSpin Series \ The Disney Afternoon Collection \ TinyCo \ Who Framed Roger Rabbit Series
-Third-person Shooter Games | Grand Theft Auto HD Universe \ Max Payne Series \ Snowdrop Engine Games \ Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
-Tom Clancy's | Snowdrop Engine Games
-Tomb Raider Series | Tomb Raider I•II•III Remastered \ Tomb Raider IV•V•VI Remastered
-Tomm Moore's Works | Cartoon Saloon
-TOSE | The Legendary Starfy Series
-Tower Defense Games | Plants vs. Zombies 2 Series
-Toys | Legends of Chima Series \ LEGO Batman \ LEGO Star Wars
-Train Media | Thomas & Friends Series
-Turn-Based Role-Playing Games | Copper Odyssey Series \ Modern Persona \ Owlcat Games \ Shin Megami Tensei V Series
-Typing Tutors | Mario Teaches Typing Series \ The Typing of the Dead Series
-Ubisoft | Snowdrop Engine Games
-Universal Orlando Resort | Universal Epic Universe \ Universal Islands of Adventure \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Japan \ Universal Studios Singapore
-Universal Parks | Universal Epic Universe \ Universal Islands of Adventure \ Universal Orlando Resort \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Hollywood \ Universal Studios Japan \ Universal Studios Singapore
-Universal Studios Hollywood | Universal Studios Beijing \ Universal Studios Singapore
-Unreal Engine 4 Games | Ghostrunner Series \ Shin Megami Tensei V Series
-Valve Corporation | Team Fortress Series
-Vampire Media | BloodRayne Series
-Video Game Based Series | Mega Man NT Warrior Series
-View Askewniverse | Clerks Series \ Jay & Silent Bob Series \ Kevin Smith's Works
-Visceral Games | MySims: Cozy Bundle
-VISUAL ARTS | HAMHAM-SOFT \ Iris (Company)
-Visual Novels | BABEL \ Class of '09: The Double Up \ Class of '09: Trey Pack \ HAMHAM-SOFT \ Iris (Company) \ Kakyuusei Series \ Love Lab (Company) \ Prostudent G Series \ Shin'ya Oosaki's Art \ Tanuki Soft
-VR Games | Owlchemy Labs
-Wallace & Gromit Franchise | Wallace & Gromit Series
-Warner Bros. | Hanna-Barbera Studios Europe \ LEGO Batman
-Webcomics | gusao's Works \ Samosa's Works \ Today Spring's Works
-Weekly Shounen Jump | Taishi Tsutsui's Works
-Weekly Shounen Magazine | Masakuni Igarashi's Works
-Western | Adelaide Productions \ Brandon Sanderson's Works \ Cartoon Network Studios \ Cartoon Saloon \ Clifford the Big Red Dog Series \ Dav Pilkey's Works \ Despicable Me Series \ E.T. Series \ Endemol \ Hanna-Barbera Studios Europe \ Invader Zim Series \ Jaws Series \ Jimmy Fallon Series \ Jon Chu's Works \ Jon Scieszka's Works \ Klasky Csupo \ La trilogía del ruiseñor \ Lemony Snicket's Works \ Masters of the Universe \ Men in Black Series \ Metro-Goldwyn-Mayer \ Nickelodeon Movies \ Old Cinema \ Playhouse Disney \ Popeye Series \ Rugrats Series \ Soyuzmultfilm \ The Mummy Series \ The Secret Life of Pets Series \ The Sopranos Series \ Thomas & Friends Series \ Universal Islands of Adventure \ Universal Studios Beijing \ Universal Studios Florida \ Universal Studios Singapore \ Warner Bros. Pictures
-Western Indie Games | Amanita Design \ Baldi's Basics Series \ Bytten Studio \ Class of '09: The Double Up \ Class of '09: Trey Pack \ Copper Odyssey Series \ Crypt of the Necrodancer Series \ Endnight Games \ Garten of Banban Series \ Ghostrunner Series \ holo Indie \ Infinity Blade Series \ Jonochrome's Games \ Lucas Pope's Works \ Lucius Series \ Mainline FNaF Games \ Mutant Mudds Series \ My Singing Monsters Series \ Owlchemy Labs \ Raw Fury \ Riddle School Series \ Rivals of Aether Series \ STUDIO INVESTIGRAVE \ SureAI \ Tako Boy Studios \ thatgamecompany \ The Desolate Series \ The Forest Series \ UFO 50 Games
-Wii | MySims Series \ MySims: Cozy Bundle
-Wii Series | Wii Party Series
-Wii U | Mutant Mudds Series
-WSS playground | NEEDY GIRL OVERDOSE Series
-Xbox Series X|S | Ghostrunner Series
-Yakuza Media | Karaoke Iko! Series
-Yen Press | Karaoke Iko! Series
-YouTube | inabakumori Series \ manbo-p
-Yu Suzuki's Works | Shenmue
-Yuri | Galette Works
-Zombie Games | Plants vs. Zombies 2 Series \ The Typing of the Dead Series
-Zombie Media | Plants vs. Zombies 2 Series \ The Typing of the Dead Series
+2D Boy | World of Goo Series
+2D Fighting Games | Fighting Layer Series
+2D Platformers | Blasphemous Series \ Gal Guardians Series \ N Series \ Red Ball Series \ Umihara Kawase Series
+3D CGI Animated Movies | Ne Zha Series
+3D Fighting Games | Def Jam Games \ KOF: Maximum Impact Series
+3D Platformers | Grow Home Series \ Toree Series
+3D Realms | Bombshell Series
+505 Games | Eiyuden Chronicle \ Ghostrunner Series
+Action Role-Playing Games | Boktai Series \ Guild Wars Series \ Kingdom Come: Deliverance Series \ Mount & Blade Series \ Pillars of Eternity Series \ SKIPMORE \ TaleWorlds Entertainment
+Activision | Pitfall Series \ X-Men: Mutant Academy Series
+Activision Blizzard | The Lost Vikings Series
+Adi Shankar's Works | Castlevania Netflix Series
+Adult Cartoons | Squigglevision
+Age of Defense Series | Belugerin
+Akihito Tsukushi's Works | Made in Abyss Series
+Akira Toriyama's Works | Dragon Quest Heroes Series
+Alice in Wonderland Media | Alice in Wonderland Series
+AliceSoft | Prostudent G Series
+AlphaPolis | Jishou Akuyaku Reijou Series
+Amazon MGM Studios | Hellaverse
+Amazon Prime Video Originals | Hellaverse
+American Games | 2D Boy \ Camouflaj \ Cyan Inc. \ Firaxis Games \ Gamigo \ Gungeon Series \ Heretic Series \ LEGO Indiana Jones Video Games \ Liquid Entertainment \ Lucky's Tale Series \ Monkey Island \ Pillars of Eternity Series \ Star Wars: Knights of the Old Republic Series \ Star Wars: The Force Unleashed Series \ The Age of the Old Republic \ The Lord of the Rings: The Battle for Middle-earth Series \ Vectorman Series \ Will Wright's Works \ World of Goo Series \ X-Men: Mutant Academy Series \ Zelda CD-i Series
+Andrew Hussie's Works | MSPaintAdventures
+Animatronic Media | Five Nights at Freddy's Movie Series
+Anime Originals | Unison
+Arcade Games | Fighting Layer Series \ SNK Neo Geo \ Snow Bros. Series \ Toaplan
+Argonaut Software | Croc Series
+Arika | Endless Ocean Series \ Fighting Layer Series
+Artist CG | Serei Teru's Works
+Asobo Studio | A Plague Tale Series
+Atomic Monster | MΞGAN Series \ The Conjuring Universe
+Auto Runners | Sonic Dash Series
+Ball Rolling Games | LocoRoco Series \ Super Monkey Ball Series
+Bandai Namco | Digimon Comic
+Bara | Adastra Series \ Blazingcheeks's Works \ CaptainGerBear's Art \ KAIJYU-09 \ Lifewonders \ Nanoff's Art \ Sollyz Sundyz' Art \ Studio Klondike \ TakaTaka's Art \ Zourik's Works
+Belgian Media | Divinity \ Larian Studios
+Belugerin | Age of Defense Series
+Black Panther Franchise | MCU Black Panther Series
+Blizzard Entertainment | The Lost Vikings Series
+Blumhouse Productions | Five Nights at Freddy's Movie Series \ MΞGAN Series
+Boys' Love | Horizon (Publisher) \ Ikezaki Misa's Works \ kozi's Works \ Love is an Illusion! Series \ Shikke's Works \ Slow Damage Series \ SUEHIRO Machi's Works
+Brazilian Media | Dumativa \ Spark the Electric Jester Series
+British Media | Grow Home Series \ Hanako Games \ Mr. Men and Little Miss Series \ Perfect Dark Series \ PowerWash Simulator Series \ Rockstar North \ Rusty Quill \ Scottish Media \ Sonic Dash Series \ Terry Cavanagh's Works
+Browser Games | Age of Defense Series \ Belugerin \ Gaia Interactive
+Bullet Hell | Gungeon Series
+Buriki's Art | Shine Post Series
+Canadian Media | Amanda the Adventurer Series \ Black Tabby Games \ Brent Butt's Works \ Lucy Maud Montgomery's Works \ McPig's Works \ Moosopp's Works \ Mordecai Richler's Works \ N Series \ ReBoot Series \ Wishes Ultd.
+Capcom | Devil May Cry Series \ Dino Crisis Series \ Resident Evil Series
+CBC | Lucy Maud Montgomery's Works
+Chat Simulation Games | Emily is Away Series
+Children's Literature | Lucy Maud Montgomery's Works
+Chime Corporation | Conception Series
+Chinese Animation | Ne Zha Series
+Chinese Games | Iron Saga Series
+Class of '09 Series | Class of '09: The Double Up \ Class of '09: Trey Pack
+Clickteam Fusion Games | Baba Series
+Collect-a-thon Platformers | Croc Series
+Comic Based Series | Aquaman Franchise \ Black Panther Franchise \ Camouflaj \ Doctor Strange Franchise \ Flash Franchise \ Shazam Franchise \ Suicide Squad Franchise \ Swamp Thing Franchise \ Wonder Woman Franchise \ X-Men: Mutant Academy Series
+Comic Cune | Roron Oohara's Works
+Comic Yuri-Hime. | Kashikaze's Works
+Comic Zenon | Coamix
+Compile Heart | Death end re;Quest Series
+Computer Role-Playing Games | Owlcat Games \ Wizardry Series
+COVER Corporation | hololive Alternative Series
+Creatures Inc. | Pokémon Legends
+Croatian Media | Croteam \ The Talos Principle Series
+Crossover Media | PlayStation All-Stars
+CryEngine Games | Crysis Series \ Crytek \ Kingdom Come: Deliverance Series
+Crystal Dynamics | Gex Series \ Legacy of Kain Series
+Crytek | Crysis Series
+Cthulhu Mythos | Demonbane Series \ Sucker for Love
+Cute 'em ups | Cotton Series
+Cyberpunk Media | Bombshell Series \ Ghostrunner Series \ Minority Report Series \ Neill Blomkamp's Works \ Perfect Dark Series
+D&C Media | Wookjakga's Art
+Danish Media | Deep Rock Galactic Series \ Kane & Lynch Series
+Daum | Wookjakga's Art
+David Chase's Works | The Sopranos Series
+Day Comics | Basasak's Works \ Lee Wan's Art \ Tting Jini's Works
+DC Multiverse | Aquaman Franchise \ Flash Franchise \ Shazam Franchise \ Suicide Squad Franchise \ Swamp Thing Franchise \ Wonder Woman Franchise
+Deep Silver | Kingdom Come: Deliverance Series
+Detective Media | Law & Order Series
+Devolver Digital | Gungeon Series
+Digimon | Digimon Comic
+Dinosaur Media | Dino Crisis Series
+Disney Games | The Disney Afternoon Collection
+Disturbing Imagery | Granny Series \ Made in Abyss Series
+Doctor Strange Franchise | MCU Doctor Strange Series
+Dog Media | Ginga Series
+Donald Duck Franchise | Darkwing Duck Series
+DOS | Laura Bow Series
+Doujinshi | Chiroru Kamioka's Art \ Ikezaki Misa's Works \ kozi's Works \ Misa Ikezaki's Works
+Dra-Dra Sharp# | Shunpei Morita's Works
+Dragon Comics Age | Shunpei Morita's Works
+Dragon Quest | Dragon Quest Heroes Series
+DreadXP | Amanda the Adventurer Series
+Dreamcast | Dino Crisis Series
+DreamWorks Animation | Turbo Series
+Dungeon Crawlers | Gungeon Series \ Wizardry Series
+Dungeons & Dragons Genre | Legends of Avantris Campaigns
+Dutch Media | Killzone Series
+DVloper's Works | Granny Series
+Edmund McMillen's Works | The Binding of Isaac Series
+Egyptian Mythology Media | The Mummy Series
+Eidos Interactive | Kane & Lynch Series
+Electronic Arts | Crysis Series \ Def Jam Games \ The Lord of the Rings: The Battle for Middle-earth Series
+Eroge | BanameiR \ CRAFTWORK \ EntisGLS Games \ Irotoridori no Sekai Series \ Kozue's Strange Journey Series \ Slow Damage Series \ Study § Steady Series
+Eromanhwa | Baengkki's Art \ Basasak's Works \ Cheori19's Works \ Do-Ya's Art \ Dokta's Art \ Elyseesin's Art \ Frate's Works \ Grilled Mero's Art \ guunhanchi's Art \ Gwinong's Works \ Kuro Kitsune's Art \ Lee Wan's Art \ MAD's Art \ OB's Works \ Rangrarii's Works \ Robot Kim's Art \ Sua Im's Works \ Tting Jini's Works \ TTWOOK's Art \ Yangyang's Art
+Erotic Games | BanameiR \ CRAFTWORK \ EntisGLS Games \ Irotoridori no Sekai Series \ Kozue's Strange Journey Series \ Slow Damage Series \ Study § Steady Series
+Fairy Tale Media | Alice in Wonderland Series \ Grimms Franchise \ Mary Skelter Series
+Fanworks | Kay Yu's Works
+FAVORITE | Irotoridori no Sekai Series
+Fiction-Based Isekai Stories | Jishou Akuyaku Reijou Series
+Fighting Games | Def Jam Games \ Fighting Layer Series \ KOF: Maximum Impact Series \ X-Men: Mutant Academy Series
+Filipino Media | Dicesuki \ Yangyang Mobile
+Final Fantasy | Final Fantasy XII Series
+Finnish Media | Baba Series \ Lakeview Series \ Remedy Connected Universe
+First-person Shooter Games | Crysis Series \ David Szymanski's Works \ Ion Storm \ Killzone Series \ Looking Glass Studios \ PowerWash Simulator Series \ Star Wars: Jedi Knight \ Thief Series
+Fishing Media | Umihara Kawase Series
+Fitness Media | Fitness Boxing Series \ Wii Fit Series
+Five Nights at Freddy's Franchise | Five Nights at Freddy's Movie Series
+Five Nights at Freddy's Series | Five Nights at Freddy's Movie Series
+Flash Games | Age of Defense Series \ Belugerin \ Red Ball Series
+Flyhigh Works | SKIPMORE
+Fox Entertainment Group | Plants vs. Zombies 2 Series \ Plants vs. Zombies Chinese Games \ Plants vs. Zombies Series \ Resident Evil: Revelations Series \ SAMURAI vs ZOMBIES DEFENSE Series \ The Last of Us Series \ The Typing of the Dead Series \ Zombie Land Saga Series
+French Media | Astérix Series \ Blacksad Series \ Miraculous Series \ Motion Twin \ Valiant Hearts Series
+Fujimi Shobo | Shunpei Morita's Works
+FuturLab | PowerWash Simulator Series
+FVP Games | Irotoridori no Sekai Series
+Gacha Games | China Locked Games
+Gaia Interactive | Gaia Online Series
+Gaia Online Series | Gaia Interactive
+Game Boy | Donkey Kong Land Series
+Game Boy Advance | Boktai Series
+GAME FREAK | Pokémon Legends
+GameMaker Games | UFO 50 Games \ Wishes Ultd.
+Gerard Way's Works | My Chemical Romance's Works
+German Media | Crysis Series
+Gessan | Yuu Saitou's Works
+Ghost Media | Frankelda Series
+Ghostbusters Franchise | Extreme Ghostbusters Series \ Light & Shadow Production \ The Real Ghostbusters Series
+Golf | PangYa Series
+Grand Theft Auto | Grand Theft Auto HD Universe
+Guerrilla Games | Killzone Series
+Hachipisuwan's Art | Jishou Akuyaku Reijou Series
+Hack 'n Slash Games | Blasphemous Series \ Dragon Quest Heroes Series
+Hakusensha | Kyuu Takahata's Works \ Yuuji Kaba's Art
+Harem | Basasak's Works \ Cheori19's Works \ Do-Ya's Art \ Elyseesin's Art \ GEN's Art \ guunhanchi's Art \ Kuro Kitsune's Art \ Lee Wan's Art \ OB's Works \ Supana Onikage's Works \ Tting Jini's Works
+Hasbro | Jem and The Holograms Franchise
+Hentai | Baengkki's Art \ BanameiR \ Basasak's Works \ Cheori19's Works \ Do-Ya's Art \ Dokta's Art \ Elyseesin's Art \ Frate's Works \ Grilled Mero's Art \ guunhanchi's Art \ Gwinong's Works \ Ikezaki Misa's Works \ kozi's Works \ Kozue's Strange Journey Series \ Kuro Kitsune's Art \ Lee Wan's Art \ MAD's Art \ OB's Works \ Rangrarii's Works \ Robot Kim's Art \ Sua Im's Works \ Tting Jini's Works \ TTWOOK's Art \ Yangyang's Art
+HIKARI FIELD | Tsuki ni Yorisou Otome no Sahou Series
+Horror Games | AIHASTO \ Alisa Series \ Amanda the Adventurer Series \ Granny Series \ Lakeview Series \ NeoBards Entertainment \ WonderEnd Series
+Horror Genre | AIHASTO \ Alisa Series \ Amanda the Adventurer Series \ Black Tabby Games \ Five Nights at Freddy's Movie Series \ Granny Series \ I Know What You Did Last Summer Series \ Lakeview Series \ Leprechaun Series \ MΞGAN Series \ NeoBards Entertainment \ Smile Series \ taskey \ The Strangers Series \ WonderEnd Series
+Houbunsha | Afro's Works
+Hudson Soft | Bonk Series
+id Tech | Heretic Series
+Idea Factory | Death end re;Quest Series
+Idols | Project SEKAI Series \ Shine Post Series
+Ikezaki Misa's Works | Misa Ikezaki's Works
+Immersive Sims | Ion Storm \ Looking Glass Studios \ Thief Series
+Independent Animations | BAKUI's Works
+Indie Games | 2D Boy \ Age of Defense Series \ AIHASTO \ Alisa Series \ Amanda the Adventurer Series \ Baba Series \ Belugerin \ Black Tabby Games \ Blasphemous Series \ Cyan Inc. \ Dadish Series \ David Szymanski's Works \ Deep Rock Galactic Series \ Dumativa \ Emily is Away Series \ Frogun Series \ Granny Series \ Gungeon Series \ Hanako Games \ Hyper Light Series \ Kay Yu's Works \ Kingdom Come: Deliverance Series \ Kozue's Strange Journey Series \ Lakeview Series \ Lucky's Tale Series \ McPig's Works \ Motion Twin \ N Series \ PowerWash Simulator Series \ semiwork \ SKIPMORE \ Social Horror Games \ Terry Cavanagh's Works \ Those Awesome Guys \ Tomorrow Corporation \ Top Hat Studios \ Toree Series \ Turnip Boy Series \ Umineko Series \ Wishes Ultd. \ World of Goo Series
+indieszero | Theatrhythm
+Indonesian Media | Age of Defense Series \ Belugerin
+Intelligent Systems | Wario's Woods Series
+Interactive Films | ReadySoft
+Interplay Entertainment | ClayFighter Series \ The Lost Vikings Series
+Inti Creates | Gal Guardians Series
+IO Interactive | Kane & Lynch Series
+Irish Media | Cartoon Saloon \ Terry Cavanagh's Works \ The Fowl Adventures \ thecatamites's Works \ Tomm Moore's Works
+Isekai | Alice in Wonderland Series \ Firehead's Works \ GEN's Art \ Jishou Akuyaku Reijou Series \ Supana Onikage's Works
+Ivalice Alliance | Final Fantasy XII Series
+Izumi Toudou | Delicious Party♡Precure Series \ Futari wa PreCure Series \ Glitter Force Series \ Mahoutsukai PreCure! Series \ PreCure \ PreCure All Stars \ PreCure Movies \ Smile PreCure! Series \ Wonderful PreCure Series \ Yes! PreCure 5 Series
+J-Novel Club | Firehead's Works \ Supana Onikage's Works
+Japan Studio | LocoRoco Series \ Patapon 1+2 Replay
+Jonochrome's Games | Riddle School Series
+K-Pop | WAKEONE Entertainment
+Kadokawa Corporation | Lodoss-tou Senki Series \ Rocket Shokai's Works \ Roron Oohara's Works \ Shunpei Morita's Works
+Kadokawa Shoten | Lodoss-tou Senki Series
+Kagura Games | Kozue's Strange Journey Series
+KakaoPage | Spoon's Art \ Wookjakga's Art
+Kakuyomu | Rocket Shokai's Works
+KEMCO | Crazy Castle \ Kid Klown Series
+Kinetic Novels | H.I design office
+King of Fighters Universe | KOF: Maximum Impact Series
+KING RECORDS | Unison
+Kinoko Nasu's Works | Tsukihime Remake Series
+Kishida Mel's Art | BLUE REFLECTION Series
+Kodansha | Kashikaze's Works
+Koei Tecmo | Dragon Quest Heroes Series
+Komodo Games | Umihara Kawase Series
+KONAMI | Boktai Series
+Kongregate | Age of Defense Series \ Belugerin \ Red Ball Series
+Korean Games | Danganronpa Another Series \ DNF Universe \ PangYa Series
+Kyuu Takahata's Works | Yuuji Kaba's Art
+LEGO | BIONICLE Franchise \ Legends of Chima Series
+Level-5 | Fantasy Life Series \ Professor Layton Series
+Lezhin Comics | Love is an Illusion! Series \ Rangrarii's Works
+Licensed Games | Camouflaj \ Star Wars: Jedi Knight \ The Lord of the Rings: The Battle for Middle-earth Series \ X-Men: Mutant Academy Series
+Life Simulation Games | Fantasy Life Series \ Hanako Games
+LINE Corporation | Moosopp's Works \ Nano Machine Series
+Lionsgate | Hulk vs. \ Marvel Animated Features Collection
+Literature | Lucy Maud Montgomery's Works \ Mordecai Richler's Works \ Stephanie Garber's Works \ William Shakespeare's Works
+Live-Action | Atomic Monster \ David Chase's Works \ Five Nights at Freddy's Movie Series \ Flash Franchise \ Harmony Korine's Works \ Highlander Franchise \ I Know What You Did Last Summer Series \ Jared Hess' Works \ Law & Order Series \ LEE Hye's Works \ Leprechaun Series \ Lucy Maud Montgomery's Works \ MΞGAN Series \ Sergio Leone's Works \ Smile Series \ The Equalizer Series \ The Strangers Series \ Wonder Woman Franchise
+Live-Action Horror | Five Nights at Freddy's Movie Series \ I Know What You Did Last Summer Series \ Leprechaun Series \ MΞGAN Series \ Smile Series \ The Strangers Series
+LucasArts | Star Wars: Jedi Knight
+Lunime | WonderEnd Series
+MAD's Art | Yangyang's Art
+Mafia Media | David Chase's Works \ Mafia Series
+Mainframe Studios | ReBoot Series
+Manga Time Kirara | Afro's Works \ Sakuragi Ren's Works
+Manhua | The Legend of Luoxiaohei Series
+Manhwa | Baengkki's Art \ Basasak's Works \ Cheori19's Works \ Do-Ya's Art \ Dokta's Art \ Elyseesin's Art \ Frate's Works \ Grilled Mero's Art \ guunhanchi's Art \ Gwinong's Works \ Kuro Kitsune's Art \ Lee Wan's Art \ Love is an Illusion! Series \ MAD's Art \ Malchocochip's Works \ Nano Machine Series \ OB's Works \ Rangrarii's Works \ Robot Kim's Art \ Spoon's Art \ Sua Im's Works \ Tting Jini's Works \ TTWOOK's Art \ Wookjakga's Art \ Yangyang's Art
+Marmalade | Study § Steady Series
+Marvel Animation | Marvel Animated Features Collection
+Marvel Cinematic Universe | Marvel's Netflix Television Series
+Marvel Games | X-Men: Mutant Academy Series
+Marvel Movies | Doctor Strange Franchise \ Marvel Animated Features Collection
+Marvel Multiverse | Black Panther Franchise \ Doctor Strange Franchise \ X-Men: Mutant Academy Series
+Mascot Horror Games | Amanda the Adventurer Series \ Mainline FNaF Games
+Masters of the Universe-Like Series | Masters of the Universe
+Match 3 Games | Magical Drop Series \ Zuma Series
+Mathematics | Baldi's Basics Series
+Maxis | Will Wright's Works
+Mecha | Iron Saga Series
+Media Factory | Roron Oohara's Works
+Metroidvania | Blasphemous Series \ Gal Guardians Series \ Team Ladybug
+Mexican Media | Frankelda Series
+Mickey Mouse Franchise | Castle of Illusion Series \ Darkwing Duck Series \ Mickey Mouse Series
+Micro Magazine | GCN Bunko
+Microsoft (Publisher) | Pillars of Eternity Series
+Middle-earth | The Lord of the Rings: The Battle for Middle-earth Series
+Midway Games | X-Men: Mutant Academy Series
+Military Media | Crysis Series
+Misa Ikezaki's Works | Ikezaki Misa's Works
+Miscellaneous Eastern | Age of Defense Series \ Belugerin \ Dicesuki \ Filipino Media
+Mobile Games | Dadish Series \ Granny Series \ Sonic Dash Series
+Monthly Hero's | Killing Bites Series
+Mount & Blade Series | TaleWorlds Entertainment
+Music Games | Guitar Hero Series \ Harmonix \ Patapon 1+2 Replay
+Music Genre | Project SEKAI Series \ Shine Post Series \ Unison
+Music Groups | Damon Albarn's Works \ WAKEONE Entertainment
+Music Videos | BAKUI's Works \ syudou's Works \ Yasutatsu's Art
+Musical Films & TV Shows | Victor Hugo's Works
+Musicians | Damon Albarn's Works \ WAKEONE Entertainment
+Musou Games | Dragon Quest Heroes Series
+Myst Series | Cyan Inc.
+NBC | Law & Order Series
+NBCUniversal | Five Nights at Freddy's Movie Series \ Law & Order Series \ MΞGAN Series
+NetEase Games | Identity V Series
+Netflix Originals | Adi Shankar's Works
+New Zealander Media | Bloons Tower Defense Series \ Ninja Kiwi
+Newgrounds | Age of Defense Series \ Belugerin
+Ninja Media | N Series
+Nintendo | Endless Ocean Series \ Fuse Games \ Wii Fit Series \ Zelda CD-i Series
+Nintendo (Publisher) | Creatures Inc. \ Detective Pikachu Series \ Endless Ocean Series \ Fuse Games \ Good-Feel \ Pokémon Games \ Pokémon Generation 2 \ Pokémon Trading Card Game (GBC) Series \ Wii Fit Series \ Zelda CD-i Series
+Nintendo 3DS | Shin Megami Tensei IV Series
+Nintendo DS | Mega Man ZX Series
+Nintendo Entertainment System | The Disney Afternoon Collection
+Nintendo GameCube | Def Jam Games
+Nintendo SPD Group No.2 | Endless Ocean Series
+Nintendo Switch | A Shell in the Pit \ ANIPLEX.EXE \ Atelier Ryza Series \ Axiom Verge Series \ Blasphemous Series \ Blaster Master Zero Series \ Christian Whitehead's Works \ Dadish Series \ Dragon Quest Heroes Series \ Frogun Series \ Gal Guardians Series \ Greg Lobanov's Works \ HYDE, Inc. \ illuCalab's Works \ Nomada Studio \ OXENFREE Series \ Resident Evil: Revelations Series \ Spirit Hunter Series \ Toree Series \ Turnip Boy Series \ Valiant Hearts Series \ Voice of Cards \ WhisperGames
+Nintendo Switch Online | Wada Sachiko's Art
+Nippon Ichi Software | Phantom Brave Series
+Niru Kajitsu | BAKUI's Works
+NIS America | Phantom Brave Series
+Nitro+CHiRAL | Slow Damage Series
+Norwegian Media | The Longest Journey Series
+Nutaku | Kopianget's Art
+Obsidian Entertainment | Pillars of Eternity Series
+Old Literature | Lucy Maud Montgomery's Works \ William Shakespeare's Works
+Omegaverse | Love is an Illusion! Series
+Open World Games | Grow Home Series \ Kingdom Come: Deliverance Series \ Mafia Series \ Mount & Blade Series \ TaleWorlds Entertainment
+Otome-Based Series | Hachipisuwan's Art \ Jishou Akuyaku Reijou Series
+Paramount Global | Smile Series
+Paramount Pictures | Smile Series
+Parkour | Ghostrunner Series
+Patapon Series | Patapon 1+2 Replay
+Peruvian Media | 7th Beat Games \ ENA Series \ Joel Guerra's Works
+Phantasy Star Online Series | Phantasy Star Online 2 Series
+Phantasy Star Series | Phantasy Star Online 2 Series
+Philips CD-i | Zelda CD-i Series
+Pinball | Fuse Games
+Platformer Games | Blasphemous Series \ Dadish Series \ Frogun Series \ Gal Guardians Series \ Grow Home Series \ LocoRoco Series \ Lucky's Tale Series \ N Series \ Red Ball Series \ Sanzaru Games \ Snow Bros. Series \ Super Mario Main Series \ Toree Series \ Umihara Kawase Series \ Vectorman Series
+PlayStation 1 | Dino Crisis Series \ Exact \ PlayStation Classic \ SingleTrac
+PlayStation 2 | Def Jam Games \ KOF: Maximum Impact Series
+PlayStation 3 | [PROTOTYPE] Series \ Dragon Quest Heroes Series \ Kane & Lynch Series \ Killzone Series \ Resident Evil: Revelations Series
+PlayStation 4 | A Shell in the Pit \ Assassin's Creed Chronicles \ Atelier Ryza Series \ Axiom Verge Series \ Blasphemous Series \ Blaster Master Zero Series \ Death end re;Quest Series \ Deck13 Interactive \ Dragon Quest Heroes Series \ Dying Light Series \ Frogun Series \ Gal Guardians Series \ Greg Lobanov's Works \ Grow Home Series \ Lucky's Tale Series \ Mysterious Series \ Nomada Studio \ OXENFREE Series \ Resident Evil: Revelations Series \ Snowdrop Engine Games \ Spirit Hunter Series \ Terry Cavanagh's Works \ The Evil Within Series \ Valiant Hearts Series \ Voice of Cards
+PlayStation 5 | A Plague Tale Series \ Frogun Series \ Gal Guardians Series \ Judgment Series \ Nomada Studio \ PowerWash Simulator Series
+PlayStation Portable | Kurohyou Series \ Patapon 1+2 Replay
+PlayStation Vita | Assassin's Creed Chronicles \ Daitoshokan no Hitsujikai Series \ Spirit Hunter Series
+Podcasts | Legends of Avantris Campaigns
+Point-and-click Adventure Games | Cyan Inc. \ Laura Bow Series \ Myst Series
+Pokémon | Pokémon Legends
+Pokémon Core Games | Pokémon Legends
+Pokémon Games | Pokémon Legends
+PopCap Games | Bookworm Series \ Zuma Series
+Post Apocalyptic Genre | The Last of Us Series
+Produce 101 | WAKEONE Entertainment
+Puzzle Games | 2D Boy \ Amanda the Adventurer Series \ Baba Series \ Cyan Inc. \ Magical Drop Series \ Myst Series \ N Series \ Tomorrow Corporation \ Valiant Hearts Series \ World of Goo Series
+Puzzle Platformers | LocoRoco Series \ N Series
+Racing | Turbo Series
+Racing Games | Sonic Racing Games
+Raising Sims | Hanako Games
+Rare | Perfect Dark Series
+Raven Software | Heretic Series
+Ready at Dawn | God of War: Origins Collection
+Real Life People | Discovery Channel \ WAKEONE Entertainment
+RealLive Games | Hadashi Shoujo
+REDICE STUDIO | Nano Machine Series
+Remedy Connected Universe | Alan Wake Series
+Remedy Entertainment | Remedy Connected Universe
+Ren'Py Games | Black Tabby Games
+RenderWare | KOF: Maximum Impact Series
+Rhythm Games | Patapon 1+2 Replay \ Theatrhythm
+Rockstar Games | Grand Theft Auto HD Universe \ Max Payne Series
+Rockstar North | Grand Theft Auto 3D Universe \ Grand Theft Auto: The Trilogy
+Roguelike Games | Gungeon Series
+RPG Maker Games | BanameiR \ Gotcha Gotcha Games
+Run & Gun Games | Vectorman Series
+Russian Media | AIHASTO
+Ryo Mizuno's Works | Lodoss-tou Senki Series
+Ryona | Foxtail
+Ryu Ga Gotoku Studio | Kurohyou Series
+Samurai Media | Samurai Pizza Cats Series
+Sandbox Games | Mount & Blade Series \ TaleWorlds Entertainment
+Scott Cawthon's Works | Five Nights at Freddy's Movie Series
+Scottish Media | Grand Theft Auto 3D Universe \ Grand Theft Auto: The Trilogy \ Rockstar North
+Scuba Diving | Endless Ocean Series
+SEGA | Fantasy Zone Series \ Kurohyou Series \ Phantasy Star Online 2 Series \ Project SEKAI Series \ Sonic Forces Series \ Vectorman Series
+SEGA Genesis | Vectorman Series
+Sekai Project | feng
+Shogakukan | Aya Hirakawa's Works \ Hidenori Yamaji's Works \ Yuu Saitou's Works
+Shoot 'em Ups | Gungeon Series \ Vectorman Series
+Shooter Games | Crysis Series \ David Szymanski's Works \ Deep Rock Galactic Series \ Heretic Series \ Ion Storm \ Kane & Lynch Series \ Killzone Series \ Looking Glass Studios \ Mafia Series \ PowerWash Simulator Series \ Remedy Connected Universe \ SingleTrac \ Star Wars: Jedi Knight \ Thief Series
+Short Films | Student Films
+Shotacon | Ikezaki Misa's Works
+Shotacon and Lolicon | Ammolite \ Ikezaki Misa's Works \ Iris (Company) \ Onii-chan, Migite no Shiyou o Kinshi Shimasu! Series \ Tinkle Position
+Shueisha | Kyuu Takahata's Works \ Yuuji Kaba's Art
+Sierra Entertainment | Laura Bow Series
+Simulation Games | Emily is Away Series \ Fantasy Life Series \ Hanako Games \ Mount & Blade Series \ PangYa Series \ PowerWash Simulator Series \ TaleWorlds Entertainment \ Will Wright's Works
+Slasher Genre | I Know What You Did Last Summer Series
+SNK | KOF: Maximum Impact Series \ SNK Neo Geo Pocket
+Sonic the Hedgehog Games | Hardlight \ Sonic Dash Series \ Sonic Forces Series
+Sonic the Hedgehog Series | Hardlight \ Shadow the Hedgehog Series \ Sonic Dash Series \ Sonic Forces Series \ Sonic Racing Games
+Sonic the Hedgehog Universe | Shadow the Hedgehog Series \ Sonic Dash Series \ Sonic the Hedgehog Multimedia \ Sonic the Hedgehog Shorts
+Sony | Exact \ Killzone Series \ LocoRoco Series \ PlayStation All-Stars \ SingleTrac
+Sony Interactive Entertainment | Exact \ Killzone Series \ LocoRoco Series \ Patapon 1+2 Replay \ PlayStation All-Stars \ Ready at Dawn \ SingleTrac
+Spanish Media | Blacksad Series \ Blasphemous Series \ Invizimals Series \ La trilogía del ruiseñor
+Spike Chunsoft | Chime Corporation
+Spinoff Games | Dragon Quest Heroes Series \ Fuse Games \ Sonic Dash Series
+Spinoff Media | Dragon Quest Heroes Series \ Fuse Games \ Sonic Dash Series
+Sports | Aguri Igarashi's Art \ PangYa Series \ Wii Fit Series
+Sports Animanga | Aguri Igarashi's Art
+Sports Games | PangYa Series \ Wii Fit Series
+Spring 1998 Anime | Lodoss-tou Senki Series
+Spring 2025 Anime | Makaria \ Unison
+Spy Media | Perfect Dark Series
+Square Enix | Dragon Quest Heroes Series \ Final Fantasy XII Series \ Kane & Lynch Series \ Theatrhythm
+Square Enix Holdings | Dragon Quest Heroes Series \ Final Fantasy XII Series \ Kane & Lynch Series \ Theatrhythm
+Stage Plays | William Shakespeare's Works
+Stan Lee's Works | Blade Trilogy \ MCU Iron Man Series \ Original X-Men Cinematic Universe \ Raimi Spider-Man Trilogy \ The Amazing Spider-Man Movie Series
+Star Wars | Star Wars: Jedi Knight
+Star Wars Games | Star Wars: Jedi Knight
+StarKid Productions | The Hatchetfield Series
+Stealth Games | Ion Storm \ Thief Series
+Steampunk Media | Dishonored Series \ Fullmetal Alchemist Series \ Image & Form \ Sakura Taisen Series \ Thief Series
+Stone Age Media | Bonk Series
+Stopmotion | Frankelda Series \ Misato Tomoki's Works
+Strategy Games | Liquid Entertainment \ Might & Magic Series \ Mount & Blade Series \ Phantom Brave Series \ TaleWorlds Entertainment \ The Lord of the Rings: The Battle for Middle-earth Series
+Strategy Role-Playing Games | Phantom Brave Series
+Studio Saizensen | Umihara Kawase Series
+Success | Cotton Series
+Superheroes | Aquaman Franchise \ Black Panther Franchise \ Camouflaj \ Doctor Strange Franchise \ Flash Franchise \ Shazam Franchise \ Swamp Thing Franchise \ Wonder Woman Franchise \ X-Men: Mutant Academy Series
+Surrealist Media | Alice in Wonderland Series \ ENA Series
+Survival Horror Games | Lakeview Series
+Swedish Media | semiwork \ Zoink Games
+syn Sophia | Def Jam Games \ Kurohyou Series
+Syosetsuka ni Narou | Satsuki Nakamura's Works \ Supana Onikage's Works
+Take-Two Interactive | Grand Theft Auto HD Universe \ Mafia Series \ Max Payne Series
+Takehito Harada's Art | Phantom Brave Series
+TaleWorlds Entertainment | Mount & Blade Series
+Tapas | Spoon's Art \ Wookjakga's Art
+Tatsunoko Production | Samurai Pizza Cats Series
+Team17 | Blasphemous Series
+The Age of the Empire | Star Wars: Jedi Knight
+The House of the Dead Series | The Typing of the Dead Series
+The Jim Henson Company | Five Nights at Freddy's Movie Series
+The Jungle Book Series | TaleSpin Series
+The King of Fighters | KOF: Maximum Impact Series
+The Legend of Zelda | Zelda CD-i Series
+The Sopranos Series | David Chase's Works
+The Walt Disney Company | Alice in Wonderland Series \ Black Panther Franchise \ Doctor Strange Franchise \ Star Wars: Jedi Knight \ X-Men: Mutant Academy Series
+Third-person Shooter Games | Kane & Lynch Series \ Mafia Series \ Remedy Connected Universe \ SingleTrac
+Titmouse | Christy Karacas's Works
+TMNT Series | TMNT Games
+Toaplan | Snow Bros. Series
+Toei Animation | Izumi Toudou
+Tōhō Co., Ltd. | Doraemon Series
+Tomorrow Corporation | 2D Boy \ World of Goo Series
+Toomics | Sua Im's Works
+Top Hat Studios | Frogun Series
+Toptoon | Baengkki's Art \ Basasak's Works \ Grilled Mero's Art \ guunhanchi's Art \ Kuro Kitsune's Art \ Lee Wan's Art \ MAD's Art \ Malchocochip's Works \ OB's Works \ Robot Kim's Art \ Tting Jini's Works \ TTWOOK's Art \ Yangyang's Art
+Tower Defense Games | Age of Defense Series \ Belugerin
+Tsukihime Series | Tsukihime Remake Series
+Turkish Media | Mount & Blade Series \ TaleWorlds Entertainment
+Turn-Based Role-Playing Games | BanameiR \ Death end re;Quest Series \ Kozue's Strange Journey Series \ Mario & Luigi: Bowser's Inside Story Series \ Phantom Brave Series \ Wizardry Series
+Twisted Metal Series | SingleTrac
+TYPE-MOON | Tsukihime Remake Series
+Ubisoft | Grow Home Series \ Might & Magic Series \ Valiant Hearts Series
+Ukrainian Media | Metro Series
+Undersea Media | Ecco the Dolphin Series \ Endless Ocean Series
+UNDERTALE/DELTARUNE Universe | Toby Fox's Games \ UNDERTALE Fanworks
+Universal Classic Monsters | The Mummy Series
+Universal Pictures | Five Nights at Freddy's Movie Series \ MΞGAN Series
+Unreal Engine 3 Games | Infinity Blade Series
+Vampire Games | BloodRayne Series \ Legacy of Kain Series \ Tsukihime Remake Series
+Vampire Media | Legacy of Kain Series \ Tsukihime Remake Series
+Vehicular Combat Games | SingleTrac
+Video Game Based Series | Five Nights at Freddy's Movie Series
+Viking Media | The Lost Vikings Series
+Virtual Music | BAKUI's Works
+Visual Novels | Black Tabby Games \ CRAFTWORK \ Danganronpa Another Series \ Emily is Away Series \ EntisGLS Games \ Hanako Games \ Irotoridori no Sekai Series \ Slow Damage Series \ Study § Steady Series \ Yusano's Art
+Visual Novels with Gameplay | Danganronpa Another Series
+VOCALOID Series | Project SEKAI Series
+Voice Synthesizer Song Series | BAKUI's Works \ inabakumori Series
+VR Games | Camouflaj
+Walt Disney Pictures | Alice in Wonderland Series
+Walt Disney Studios Motion Pictures | Alice in Wonderland Series
+Wario Series | Wario's Woods Series
+Warner Bros. | Aquaman Franchise \ Flash Franchise \ Frankelda Series \ Shazam Franchise \ Suicide Squad Franchise \ The Lord of the Rings: The Battle for Middle-earth Series \ Wonder Woman Franchise
+Warriors Series | Dragon Quest Heroes Series
+Web Novels | Rocket Shokai's Works
+Webcomics | Baengkki's Art \ Basasak's Works \ Cheori19's Works \ Do-Ya's Art \ Dokta's Art \ Elyseesin's Art \ Frate's Works \ Grilled Mero's Art \ guunhanchi's Art \ Gwinong's Works \ Kuro Kitsune's Art \ Lee Wan's Art \ Love is an Illusion! Series \ MAD's Art \ Malchocochip's Works \ Moosopp's Works \ MSPaintAdventures \ Nano Machine Series \ OB's Works \ Rangrarii's Works \ Robot Kim's Art \ Spoon's Art \ Sua Im's Works \ The Legend of Luoxiaohei Series \ Tting Jini's Works \ TTWOOK's Art \ Wookjakga's Art \ Yangyang's Art
+Webmanga | Digimon Comic \ GEN's Art
+Weekly Shounen Sunday | Aya Hirakawa's Works
+Western | Adi Shankar's Works \ Alice in Wonderland Series \ Aquaman Franchise \ Astérix Series \ Atomic Monster \ Brent Butt's Works \ Damon Albarn's Works \ Dana Terrace's Works \ David Chase's Works \ David Silverman's Works \ Discovery Channel \ Doctor Strange Franchise \ Five Nights at Freddy's Movie Series \ Flash Franchise \ Frankelda Series \ Greta Gerwig's Works \ Harmony Korine's Works \ Highlander Franchise \ History Channel \ I Know What You Did Last Summer Series \ Jamie Hewlett's Works \ Jared Hess' Works \ Jem and The Holograms Franchise \ Law & Order Series \ Legends of Avantris Campaigns \ Leprechaun Series \ Lucy Maud Montgomery's Works \ Mike Judge's Works \ Miraculous Series \ Moosopp's Works \ Mordecai Richler's Works \ Mr. Men and Little Miss Series \ MSPaintAdventures \ My Chemical Romance's Works \ MΞGAN Series \ PBS \ Sergio Leone's Works \ Shazam Franchise \ Smile Series \ Squigglevision \ Stephanie Garber's Works \ Swamp Thing Franchise \ The Equalizer Series \ The Strangers Series \ Tim Miller's Works \ Titmouse \ Turbo Series \ TV Show Pilots \ William Shakespeare's Works \ Wonder Woman Franchise
+Western Genre | Sergio Leone's Works
+Western Indie Games | 2D Boy \ AIHASTO \ Amanda the Adventurer Series \ Baba Series \ Black Tabby Games \ Blasphemous Series \ Cyan Inc. \ Dadish Series \ David Szymanski's Works \ Deep Rock Galactic Series \ Dumativa \ Frogun Series \ Granny Series \ Gungeon Series \ Hanako Games \ Hyper Light Series \ Kingdom Come: Deliverance Series \ Lakeview Series \ Lucky's Tale Series \ McPig's Works \ Motion Twin \ N Series \ PowerWash Simulator Series \ semiwork \ Terry Cavanagh's Works \ The Behemoth \ Those Awesome Guys \ Tom Fulp's Works \ Tomorrow Corporation \ Turnip Boy Series \ Wishes Ultd. \ World of Goo Series
+When They Cry | Umineko Series
+Wii | Endless Ocean Series
+Wii Series | Wii Fit Series
+Wishes Ultd. | A Shell in the Pit \ Greg Lobanov's Works
+Witchcraft and Wizardry Media | Wizardry Series
+World of Goo Series | 2D Boy
+Wrestling | Def Jam Games
+X-Men Franchise | X-Men: Mutant Academy Series
+Xbox 360 | [PROTOTYPE] Series \ Kane & Lynch Series \ Resident Evil: Revelations Series
+Xbox One | A Shell in the Pit \ Assassin's Creed Chronicles \ Axiom Verge Series \ Blasphemous Series \ Blaster Master Zero Series \ Deck13 Interactive \ Dying Light Series \ Frogun Series \ Greg Lobanov's Works \ Resident Evil: Revelations Series \ Snowdrop Engine Games \ The Evil Within Series \ Valiant Hearts Series
+Xbox Series X|S | A Plague Tale Series \ Blaster Master Zero Series \ Frogun Series \ Judgment Series \ Nomada Studio \ PowerWash Simulator Series
+Yakuza Series | Kurohyou Series
+Yangyang's Art | MAD's Art
+Yasu's Art | Toradora! Series
+Young Animal | Kyuu Takahata's Works \ Yuuji Kaba's Art
+YouTube | Liam Vickers Animation
+Yuri | Kashikaze's Works \ Rangrarii's Works
+Yuuji Kaba's Art | Kyuu Takahata's Works
 
 ## Removals (from Previous Update)
 Superset | Subset
 ------ | ------
-20th Century Studios | James Cameron's Avatar Series
-Akita Shoten | Weekly Shounen Champion
-Andrew Hussie's Works | MSPaintAdventures
-Atari SA | Webfoot Technologies
-B's-LOG COMIC | B's-LOG Bunko
-Ball Rolling Games | Super Monkey Ball Series
-Bandai Namco | Game Republic
-Bandai Namco Games | Game Republic
-Browser Games | Google
-Comics | Jhonen Vasquez's Works
-Creature Collector Games | Digimon Story
-Daum | Solo Leveling Series
-Dragon Ball Games | Game Republic \ Webfoot Technologies
-Dragon Ball Series | Game Republic \ Webfoot Technologies
-Eroge | Ares Co.
-Erotic Games | Ares Co.
-Fanworks | Valve Fanworks
-Fox Entertainment Group | James Cameron's Avatar Series
-Futabasha | Studio Elle
-Game Boy Advance | Webfoot Technologies
-Harem | B's-LOG Bunko \ Miku's Works
-Hentai | M's TOY BOX
-Horror Genre | Survival Horror Games
-Indie Games | Western Indie Games
-Isekai | Miku's Works
-James Cameron's Works | James Cameron's Avatar Series
-KakaoPage | Solo Leveling Series
-Kakuyomu | B's-LOG Bunko \ Miku's Works
-Kodansha | Cardcaptor Sakura Series
-Licensed Games | Game Republic \ Webfoot Technologies
-Literature | Cosmere
-Live-Action | James Cameron's Avatar Series \ The Boys Series
-Military Media | Call of Duty
-Music Groups | Bands
-Musicals | Musical Films & TV Shows
-Nakayoshi | Cardcaptor Sakura Series
-Nintendo (Publisher) | Metroid Series
-Nintendo DS | Game Republic
-Otome-Based Series | B's-LOG Bunko
-Party Games | Super Monkey Ball Series
-Platformer Games | Metroid Series \ Puzzle Platformers
-Primate Media | Super Monkey Ball Series
-Ryu Ga Gotoku Studio | Super Monkey Ball Series
-SEGA | Shin Megami Tensei
-Side-scrolling Games | Castlevania Anniversary Collection
-Sony Interactive Entertainment | Sony
-Sports | Skateboarding
-Syosetsuka ni Narou | B's-LOG Bunko
-The Walt Disney Company | James Cameron's Avatar Series
-THQ | Drawn to Life Series
-Turn-Based Role-Playing Games | Digimon Story \ Shiren the Wanderer Series
-Universal Pictures | Kung Fu Panda Movies \ Ted Series
-Vampire Games | Castlevania Anniversary Collection
-Vampire Media | Castlevania \ Castlevania Anniversary Collection
-Visual Novels | Alchemist \ Azarashi Soft
-Warner Bros. | Portkey Games \ Wizarding World
-Webcomics | Atempo Media \ MSPaintAdventures
-Webmanga | Comic Pool
-Western | James Cameron's Avatar Series \ John K.'s Works \ MSPaintAdventures \ Star Trek \ The CW
-Wii | Wii Series
-Witchcraft and Wizardry Media | Portkey Games \ Wizarding World
+20th Century Fox Television | Family Guy Series
+2D Platformers | Backbone Entertainment
+3D CGI Animated Movies | Finding Nemo Series \ Shrek Series
+3D CGI Animated Shows | Glitch Productions
+3D Platformers | Banjo-Kazooie Series
+Action Role-Playing Games | Bayonetta Series
+Activision | Treyarch
+Adult Cartoons | Family Guy Series
+American Games | Class of '09 Series \ Cluedo Series \ holo Indie \ id Software \ Lunime \ Quake Series
+Arcade Games | Bubble Bobble Series \ PriPara Series \ Puzzle Bobble Series \ Samurai Shodown \ The Last Blade Series
+Arena Shooters | Quake Series
+Australian Media | Glitch Productions
+Bandai Namco | Aikatsu! Series
+BioWare | Dragon Age
+Boxing | Punch-Out!! Series
+British Media | Aardman Animations
+Browser Games | Not Doppler
+Bullet Hell | Mushihime-sama Series
+Bunnywalker | Muchakai's Works
+Canadian Media | EA Sports
+Cartoon Network | Steven Universe Series \ The Cartoonstitute
+Cartoon Network Studios | Steven Universe Series \ The Cartoonstitute
+Chapterverse | Lev Gleason Publications
+Class of '09: Trey Pack | Class of '09 Series
+Classic Sonic Series | SEGA Pico
+Collect-a-thon Platformers | Banjo-Kazooie Series
+Comic Based Series | Justice League Franchise \ Marvel Games
+Comic Gardo | Overlap Novels f
+Comic Tenma | Yuzuki N's Works
+Computer Role-Playing Games | Divinity \ Larian Studios
+Cyberpunk Media | Deus Ex Universe \ Paul Verhoeven's Works
+Disturbing Imagery | A Nightmare on Elm Street Series \ Eroguro \ Friday the 13th Series
+Doujinshi | Muchakai's Works
+DreamWorks Animation | Shrek Franchise \ Shrek Series \ Trolls Series
+Dress-Up Games | PriPara Series
+Dungeon Crawlers | Crypt of the Necrodancer Series
+Entergram, Inc. | SAGA PLANETS
+Eroge | Cherry Kiss Games \ Miel
+Erotic Games | Atelier Kaguya \ Cherry Kiss Games \ Miel
+ESC-APE | SEEC
+Fairy Tale Media | Shrek Series
+Fashion Dolls | MGA Entertainment
+Fighting Games | Punch-Out!! Series \ Samurai Shodown
+First-person Shooter Games | Deus Ex Universe \ Metroid Prime Series
+Fox Broadcasting Company | Family Guy Series
+Gachas with PC Clients | Com2uS
+Gainax | Princess Maker Series
+Game Boy | Puzzle Bobble Series
+Ghost Media | Ghostbusters Franchise
+Groupe Canal+ | Canal+
+Hack 'n Slash Games | Bayonetta Series
+Harem | Yagyung's Works
+Hasbro | Cluedo Series
+Hentai | 3D Adult Animations \ Artist CG \ Muchakai's Works \ Yuzuki N's Works
+Hidden Role Games | Cluedo Series
+Hideki Kamiya's Works | Bayonetta Series
+HORNETS | Overlap Novels f
+Horror Games | Action Horror Games \ Alan Wake Series \ AstralShift \ Asymmetrical Horror Games
+Horror Genre | Analog Horror \ AstralShift \ Asymmetrical Horror Games
+Immersive Sims | Deus Ex Universe
+Incest & NBR | Yuzuki N's Works
+Independent Animations | Animation vs. Series \ Object Shows
+Indie Games | Class of '09 Series \ Garten of Banban Series \ Lunime
+J.C.Staff | Yasu's Art
+James Gunn's Works | DC Universe
+Jump Magazines | Tonari no Young Jump \ Ultra Jump \ Weekly Shounen Jump \ Weekly Young Jump
+Kadokawa Corporation | Beam Comics \ Beans Ace
+Kaiju | King Kong Franchise \ Rampage Series
+Kakuyomu | Overlap Novels f
+Karate | The Karate Kid Series
+Kart Racer Games | Mario Kart
+Kids' Anime | PriPara Series
+King of Fighters Universe | Samurai Shodown
+KiriKiri Games | Yoru no Hitsuji
+Kodansha | Akira Hiramoto's Works \ Masakuni Igarashi's Works
+Koei Tecmo | Dead or Alive Series
+Lezhin Comics | Gaehoju's Works
+Light Gun Games | The House of the Dead Series
+Literature | Cthulhu Mythos \ Old Literature
+Live-Action | Bayformers \ King Kong Franchise \ Pirates of the Caribbean Series \ Rocky Series \ Steven Spielberg's Works \ The Karate Kid Series \ Universal Classic Monsters
+Live-Action Horror | Universal Classic Monsters
+Lune Soft | Muchakai's Works
+Luni's Works | Lunime
+Mafia Media | Bungou Stray Dogs Series
+Mahou Shoujo | PreCure
+Martial Arts | TEKKEN
+Match 3 Games | Tetris Series
+Metro-Goldwyn-Mayer | Rocky Series
+Microsoft | Banjo-Kazooie Series
+Microsoft (Publisher) | 343 Industries \ Banjo-Kazooie Series
+Midway Games | Rampage Series
+Mobile Games | Lunime
+Moe App | SAGA PLANETS
+Music Games | Just Dance Series \ PriPara Series
+Music Genre | Pretty Series \ PriPara Series \ THE iDOLM@STER Series
+Music Videos | PinocchioP's Works
+Musical Films & TV Shows | Steven Universe Series
+Musicals | StarKid Productions \ Steven Universe Series
+NBCUniversal | E.T. Series \ Shrek Series
+NEKO WORKs | Nekopara Series
+Newgrounds | Elven Conquest Series
+Nickelodeon | O Entertainment
+Nintendo | Art Applications \ Yoshi Series
+Nintendo (Publisher) | Art Applications \ Banjo-Kazooie Series \ Mario Bros. Series
+Nintendo 64 | Banjo-Kazooie Series
+Nintendo SPD Group No.3 | Luigi's Mansion Series
+Nintendo Switch | Hyrule Warriors Series \ The Legend of Zelda: Breath of the Wild Series
+nitroplus | Nitro+CHiRAL
+O Entertainment | Jimmy Neutron Series
+Otome Games | Shall we date?
+Otome-Based Series | Overlap Novels f \ Viewcommz
+Paramount Pictures | Bayformers
+Platformer Games | 2D Platformers \ Backbone Entertainment \ Banjo-Kazooie Series \ Metroid Prime Series
+PlayStation 1 | Puzzle Bobble Series
+PlayStation Portable | Backbone Entertainment
+Pretty Series | PriPara Series
+PTJ COMICS | Tae Jun Park's Works
+Racing | Backbone Entertainment \ Mario Kart
+Racing Games | Backbone Entertainment \ Mario Kart
+Rail Shooter Games | The House of the Dead Series
+Rare Replay | Banjo-Kazooie Series
+Real Life People | Authors & Autobiographies
+Rhythm Games | PriPara Series
+RidiBooks | ZIG's Works
+SEGA | Backbone Entertainment
+Seth MacFarlane's Works | Family Guy Series
+Seven Seas Entertainment | Overlap Novels f
+Shinshokan | Wings
+Shogakukan | Monthly Hero's
+Shoot 'em Ups | Mushihime-sama Series
+Shooter Games | Deus Ex Universe \ Light Gun Games \ Metroid Prime Series \ Mushihime-sama Series \ The House of the Dead Series
+Shotacon and Lolicon | Shotacon
+Shueisha | Tonari no Young Jump
+Sierra Entertainment | Leisure Suit Larry
+SiglusEngine Games | SAGA PLANETS
+Sitcoms | Family Guy Series \ Matt Groening's Works
+Slasher Genre | A Nightmare on Elm Street Series \ Friday the 13th Series
+SNK Neo Geo | The Last Blade Series
+Sonic Racing Games | Backbone Entertainment
+Sonic Rivals Series | Backbone Entertainment
+Sonic the Hedgehog 2D Platformers | Backbone Entertainment
+Sonic the Hedgehog Games | Backbone Entertainment \ SEGA Pico
+Sonic the Hedgehog Series | Backbone Entertainment \ SEGA Pico \ Sonic the Hedgehog Multimedia
+Sonic the Hedgehog Universe | Backbone Entertainment \ SEGA Pico
+Space Opera | Mass Effect Series \ Phantasy Star Online Series
+Spinoff Games | Mario Kart \ SEGA Pico
+Spinoff Media | Mario Kart \ SEGA Pico
+Square Enix Holdings | Big Gangan \ Deus Ex Universe \ Manga UP!
+Stage Musicals | StarKid Productions
+Stage Plays | StarKid Productions
+Stealth Games | Deus Ex Universe
+Strategy Games | ZLONGAME
+Strategy Role-Playing Games | ZLONGAME
+Studio Kai | Overlap Novels f
+Superheroes | James Gunn's Works \ Marvel Cinematic Universe \ Power Rangers
+Survival Horror Games | Silent Hill
+SWERY's Works | The Last Blade Series
+syn Sophia | PriPara Series
+Syosetsuka ni Narou | Overlap Novels f \ Polca Comics
+T-Rex | Muchakai's Works
+Tabletop Games | Cluedo Series \ Wizards of the Coast
+Takara Tomy | PriPara Series
+Tatsunoko Production | PriPara Series
+Team Ninja | Dead or Alive Series
+Tensei | Viewcommz
+The Walt Disney Company | Marvel Cinematic Universe \ Mickey Mouse Franchise
+Toys | LEGO Games
+Trading Card Games | Data Carddass
+Treehouse | Milkshake!
+Turn-Based Role-Playing Games | Divinity \ Larian Studios \ Pokémon Core Games
+Undersea Media | SpongeBob SquarePants Series \ The Little Mermaid Series
+Universal Pictures | Fast & Furious Series \ Illumination \ Universal Classic Monsters
+Virtual Music | PriPara Series
+Virtual Reality Media | PriPara Series \ Sword Art Online Gameverse \ Sword Art Online Series
+Visual Novels | Chronos Series \ Class of '09 Series \ HuneX \ MyDearest Inc \ RealLive Games \ SEEC \ ZyX
+Visual Novels with Gameplay | Monster Girl Quest Series
+Walt Disney Pictures | Finding Nemo Series \ Pirates of the Caribbean Series
+Walt Disney Studios Motion Pictures | Finding Nemo Series
+Warner Animation Group | The LEGO Movie Series
+Warner Bros. | Looney Tunes Series \ Mortal Kombat
+Webcomics | Tapas \ Webcomics (Publisher)
+Weekly Shounen Magazine | Masakuni Igarashi's Works
+Western | A Nightmare on Elm Street Series \ Animation vs. Series \ Chip 'n Dale Series \ Cthulhu Mythos \ Disney Television Animation \ E.T. Series \ Family Guy Series \ Finding Nemo Series \ Iron Man Franchise \ Jimmy Neutron Series \ Justice League Franchise \ Mainframe Studios \ Ninjago \ Pirates of the Caribbean Series \ Reality TV \ Rocky Series \ StarKid Productions \ Steven Universe Series \ Stitch Franchise \ The Jungle Book Series \ The Karate Kid Series \ The LEGO Movie Series \ The Little Mermaid Series \ Toy Story Series \ Winnie the Pooh Franchise
+Western Indie Games | Class of '09 Series \ Garten of Banban Series \ holo Indie \ Lunime \ Raw Fury
+Wii | MySims Series
+Winter 2024 Anime | Overlap Novels f
+Yakuza Media | Ten Series
+YouTube | Animation vs. Series \ Glitch Productions
+Zombie Media | The Last of Us Series \ The Typing of the Dead Series \ The Walking Dead Series \ Zombie Games
 
 # List of Known Series Only Bundled in Super-Sub Bundles
 
 Does not include one-bundle series, see OneBundle text to see that.<br>
 Only includes series with one superbundle/parent, series with multiple are not considered.<br>
-Total series: 591 -> **595**<br>
+Total series: 595 -> **591**<br>
 
 ## Attached to 2 Bundles
 'ku Ku Ku……. Yatsu Ha Shitenno No Naka Demo Saijaku' To Kaiko Sareta Ore, Naze Ka Yusha To Seijo No Shisho Ni Naru<br>
@@ -1888,13 +2308,14 @@ Total series: 591 -> **595**<br>
 7-nin no Nemuri Hime<br>
 A Kingdom of Quartz<br>
 A kockásfülű nyúl<br>
-A Matter of Life and Death<br>
-Adekan<br>
 Adou<br>
 Afro Ken<br>
 Aiki<br>
+Aishuu Lava<br>
 Aitsu no Kanojo<br>
 Aka no Grimoire<br>
+Akogare no Bijin Seitokaichou ni Oshaberi Inko ga Katte ni Kokuhaku Shita Kedo, Kaichou no Kimochi mo Inko ga Bakuro Shiyagatta<br>
+Albus Changes the World<br>
 Alice on Border Road<br>
 Alive: Saishuu Shinkateki Shounen<br>
 ALTÆR CARNIVAL<br>
@@ -1904,14 +2325,12 @@ Ame to Kimi to<br>
 Angel Book<br>
 Ano Danchi no Tsuma-tachi wa<br>
 Ansatsu Koukyuu \~Ansatsu Nyokan Karin wa Yuttari Ikitai\~<br>
-Ar nosurge<br>
 Area 51<br>
 Area D<br>
 Aru Tabibito no Nikki<br>
 Asebi to Sora Sekai no Boukensha<br>
 Asoko de Hataraku Musubu-san<br>
 Asper Kanojo<br>
-Authors<br>
 Bakuon Rettou<br>
 Beauty Pop<br>
 Bestiarius<br>
@@ -1920,6 +2339,7 @@ Birdmen<br>
 Biryuu Enshoutan<br>
 Bistro Heroes<br>
 Black Bird<br>
+Black Friday<br>
 Blazing Armour<br>
 Bless<br>
 Bocchi na Bokura no Renai Jijou<br>
@@ -1935,33 +2355,35 @@ Bust to Bust: Chottokurai Kusatteru no ga Umaindesu yo?<br>
 By Spring<br>
 Cencoroll Connect<br>
 Change the World: Kyou kara Satsujinki<br>
+Chika Idol wo Kage de Sasaeru Ore<br>
 Chocolat no Mahou<br>
 Chocolate Cosmos<br>
 Choujuu Gitan<br>
+Chrome Breaker<br>
 Chronos DEEP<br>
 Cigarette and Cherry<br>
 Ciguatera<br>
 Cinderella wa Sagasanai.<br>
-CliffSide<br>
+Colori Colore Creare<br>
 COSMOS<br>
 Craters Thinks<br>
 Crazy Food Truck<br>
 Cybernautica<br>
 Cycle 617<br>
+Daddy Love<br>
 Dan Vs.<br>
 Dear Gene<br>
-Deception 3: Dark Delusion<br>
 Deep Sea Aquarium Magmell<br>
 Delightfully Fuckable and Unrefined!!<br>
+Discode<br>
 Dog Signal<br>
 Dolly Kill Kill<br>
+Doppel-san<br>
 Double<br>
 Doushite Watashi ga Bijutsuka ni!?<br>
 Doutei Zetsumetsu Rettou<br>
-Dragon Knights<br>
-Dreamfall: The Longest Journey<br>
 Drop<br>
-ES (Eternal Sabbath)<br>
+ES: Eternal Sabbath<br>
 Eve Project<br>
 Fantomcat<br>
 Fate: Lost Einherjar<br>
@@ -1977,49 +2399,49 @@ Futari no Jikan<br>
 Futarijime Romantic<br>
 Fuyuu Gakuen no Alice & Shirley<br>
 Gachi Koi Nenchakujuu: Net Haishinsha no Kanojo ni Naritakute<br>
-Gaia Online<br>
 GARO Universe<br>
 Getting Closer To You<br>
 Golden Gold<br>
 Gori-sen: Panic Mono de Massaki ni Shinu Type no Taiiku Kyoushi<br>
-Gorogoro Shiteru Imouto ni Ecchi Suru<br>
 GTS - Great Teacher Sayoko<br>
+Guitar Hero: Aerosmith<br>
 Gujian 3<br>
 Gunka no Baltzar<br>
 Hachimitsu ni Hatsukoi<br>
 Hajiotsu<br>
 Hakuran no Kemono<br>
-Hakutaku<br>
 Hana no Joshi Announcer: Newscaster Etsuko<br>
 Hana to Rakurai<br>
 Happy Mari: Happy Marriage?!<br>
 Haru x Kiyo<br>
 Haruka Reset<br>
-Hatsu*Haru<br>
+Hatsu\*Haru<br>
 Hatsuharu ga Saku<br>
+Hatsukoi Maze<br>
 Hayaku Shitai Futari<br>
 HE∀DS<br>
 Hello from the Magic Tavern<br>
 Hengoku no Schwester<br>
 Henkyou no Roukishi Bard Loen<br>
-Heroine Shikkaku<br>
+Hero's Heart<br>
 Hey boy! Let's take a break.<br>
 Hibiki: Shousetsuka ni Naru Houhou<br>
 Hidamari ga Kikoeru<br>
 Hiiragi-san Chi no Kyuuketsu Jijou<br>
 Hijiri-kun wa Kiyoku Ikitai<br>
 Hime Kishi wa Barbaroi no Yome<br>
-Himeno-chan ni Koi wa Mada Hayai<br>
-Himitsu no Akuma-chan<br>
+Hiraeth<br>
 His Favorite Idol Moves in Next Door, the Romcom<br>
 Hitman (Seo Kouji)<br>
 Hitoribocchi no Chikyuu Shinryaku<br>
 Hitotsu Yane no Shita, Boukei no Konyakusha to Koi wo Shita<br>
 Hitsugi Katsugi no Kuro<br>
 Hoankan Evans no Uso<br>
+hololive Alternative<br>
 Honey Come Honey<br>
 Hoshi to Kuzu: Don't Worry Be Happy<br>
 Hoshizora no Shita, Kimi no Koe dake wo Dakishimeru<br>
+Hotel Inhumans<br>
 Houkago Kitaku Biyori<br>
 Hyoukaku no Meteoria<br>
 I Love you Baby<br>
@@ -2027,7 +2449,7 @@ I Wanna Spoil Yoroizuka-san!<br>
 Ibitsu (2010)<br>
 Ice Cream Kanojo<br>
 Idol Secret: Sweet Pop<br>
-Ignorant Sister and Perverted Priest<br>
+Idol Yameru kedo Kekkon Shite Kuremasu ka!?<br>
 Ikoku Nikki<br>
 Ima, Koi wo Shite Imasu<br>
 Injutsu no Yakata<br>
@@ -2055,22 +2477,22 @@ Kadenz Fermata//Akkord:Fortissimo<br>
 Kaiouki<br>
 Kakioroshi Elf Tanpen<br>
 Kamisama ga Uso wo Tsuku.<br>
+Kamudo<br>
 Kanmuri-san's Watch Workshop<br>
 Kanojo no Tomodachi<br>
 Kanojo wa Mado Kara Yattekuru. Isekai no Owari wa, Hatsukoi no Tsuzuki.<br>
 Kanojo wo Mamoru 51 no Houhou<br>
 Kasshoku Musume no Latina-san ni Ore no Karada ga Nerawarete iru<br>
 Katabami to Ougon<br>
+Kawaii no wa Ore de aru<br>
 Kedamono Arashi<br>
 Kedamono Kareshi<br>
 Keyman: The Hand of Judgement<br>
 Kimi ga Kirai na Koi no Hanashi<br>
 Kimi ga Shinu Natsu ni<br>
-Kimi ni Nidome no Sayonara wo<br>
 Kimi ni Todoke Special \~Soulmate\~<br>
 Kimi no Katana ga Oreru made<br>
 Kimi no Yoru ni Fureru<br>
-Kimi to Pico-Pico<br>
 Kimi wa Hatsukoi no Hito, no Musume<br>
 Kimi wa Nazotoki no Ma Chérie<br>
 Kirei na Onee-san ni Yashinawa Reta Kunai Otokonoko nante Iru no<br>
@@ -2079,7 +2501,6 @@ Koi Neko<br>
 Koi no Kiseki<br>
 Koi wa Ii kara Nemuritai!<br>
 Koi wa Tsuzuku yo Doko Made mo<br>
-Koi wo Shiranai Bokutachi wa<br>
 Koiseyo Mayakashi Tenshi-domo<br>
 Koisuru Harinezumi<br>
 Koketsu Dining<br>
@@ -2106,8 +2527,8 @@ Kyuukyoku Choujin R<br>
 La Maison en Petits Cubes<br>
 Land of Ta<br>
 Lili-Men<br>
+Lioncops<br>
 Little Clowns of Happytown<br>
-Living no Matsunaga-san<br>
 Livingstone<br>
 Lost Archive<br>
 Love Colon<br>
@@ -2124,14 +2545,15 @@ Madou Monogatari: Tower of the Magician<br>
 Mahoroba Kissa<br>
 Mahou Gyoushounin Roma<br>
 Mamegoma<br>
-Mangaka<br>
 Maple Town Monogatari<br>
-Marry Grave<br>
 Matazoro.<br>
 Me no Tsukedokoro ga Deep Desho<br>
 Megane, Tokidoki, Yankee-kun<br>
+Men's Time<br>
 Mézga Család<br>
 Miageru to Kimi wa<br>
+Mickey Mania: The Timeless Adventures of Mickey Mouse<br>
+Minasama ni wa Jinken ga Gozaimasen<br>
 Miniamaru Kareshi<br>
 Minions: The Rise of Gru<br>
 Misoshiru de Kanpai!<br>
@@ -2160,6 +2582,8 @@ Neko mix Genkitan Toraji<br>
 Neko Musume Michikusa Nikki<br>
 Neko to Kiss<br>
 Nekota no Kotoga Kininatte Shikatanai.<br>
+Nezumi no Hatsukoi<br>
+Nightmare Time<br>
 Nijuuseiki Denki Mokuroku<br>
 Nikuyome: Takayanagi Ke no Hitobito<br>
 Nivawa to Saitou<br>
@@ -2181,18 +2605,17 @@ Ouji-sama ni wa Doku ga Aru.<br>
 Out<br>
 Outreijou<br>
 Pan wo Nameru na!<br>
-Pancakes<br>
+Pantheon<br>
 Patently Stupid<br>
 PEEP<br>
 Perfect World<br>
 Pink to Habanero<br>
 Pome's Yummy Magical Dish<br>
 Ponkotsu no Ponko<br>
+Prisoner of Punch<br>
 Producing Parker<br>
 Professional Body Double<br>
-Project Grimms<br>
 Project:;COLD<br>
-Quasimoto<br>
 Queen's Quality<br>
 R15+ Ja Dame Desuka?<br>
 Rairairai<br>
@@ -2208,7 +2631,6 @@ Rojica to Rakkasei<br>
 Rough<br>
 Ryuuroden<br>
 Saboten no Himitsu<br>
-Saihate ni Madou<br>
 Saikai Tsuzuri<br>
 Saike Mata Shitemo<br>
 Saimin AV Appli<br>
@@ -2227,11 +2649,9 @@ Seitokai Tantei Kirika<br>
 Sekai de Ichiban Itaranu Koi<br>
 Sekine-kun no Koi<br>
 Self<br>
-Sensei Kunshu<br>
 Sensei wa Koi wo Oshierarenai<br>
 Shikabane Shoujo to Kakanai Gaka<br>
 Shikatte Ingo<br>
-Shinobigoto<br>
 Shiotaiou no Satou-san ga Ore ni dake Amai<br>
 Shirogane no Nina<br>
 Shoutai Fumei to Kyoufu<br>
@@ -2242,7 +2662,6 @@ Silver Plan to Redo From JK<br>
 Silver Wolf, Blood, Bone<br>
 Slow Motion wo Mou Ichido<br>
 Song of the Doll<br>
-Sonic Dash<br>
 Sousei no Taiga<br>
 Sousei Yuugi<br>
 Species Domain<br>
@@ -2256,28 +2675,24 @@ Switch Witch<br>
 Taberu Dake<br>
 Tainted Star<br>
 Tally Hall's Internet Show<br>
-Tank Chair<br>
 Tanzawa Sudachi ga Koko ni Iru!<br>
 Tee K.O. 2<br>
 Teito Hatsukoi Shinjuu<br>
 Tensai Majo no Maryoku Kare<br>
 Tenshi Dattara, Yokatta<br>
-Tenshi to Akuto!!<br>
 Teseusu no fune<br>
-The Black Devil and the White Prince<br>
 The Creepy Glasses Girl<br>
 The Darwin Incident<br>
 The Person Sitting Next to Me Looking at Me with Perverted Eyes<br>
 The Time I Got Consoled By My Friend's Mother<br>
 Thunder 3<br>
-Tobaku Datenroku Kaiji: 24-oku Dasshutsu-hen<br>
-Tobaku Datenroku Kaiji: One Poker-hen<br>
 Tokyo Ghoul:re: quest<br>
 tomorrow won't come for those without ██████<br>
+Tonari no Kurokawa-san<br>
 Tonari no Kuroki-san wa Nomu to Yabai<br>
+Tonari no Seki no Inkya Joshi ga Oshi Utai Datta \~Ore no Kyoku wo Uttatekure!\~<br>
 Tongari Boushi no Atelier<br>
 Toshi to Mahou wa Kiss Shidai<br>
-Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.<br>
 Trace: Kasouken Houi Kenkyuuin no Tsuisou<br>
 Trolley Tom<br>
 True Love<br>
@@ -2288,14 +2703,10 @@ Tsun tsun Maid wa Ero Ero desu<br>
 Twinkle Tales<br>
 TЯAPT<br>
 Uchuujin no Kakushigoto<br>
-Underplayer<br>
-Uraniwano Tochigamisama<br>
 Usotsuki Lily<br>
 Usotsuki Lip wa Koi de Kuzureru<br>
 Vampire (2011)<br>
-Vampire Game<br>
 VEE<br>
-Victim Gate of Spirits<br>
 Waiting for Spring<br>
 Wakaranai desu Yoshida-san<br>
 Watanuki-san ni wa Boku ga Tarinai<br>
@@ -2307,24 +2718,22 @@ Welcome to Night Vale<br>
 WHO CARES<br>
 World Embryo<br>
 World of Indines<br>
-XCOM 2<br>
-XCOM: Enemy Unknown<br>
 Yamikin Ushijima-kun<br>
 Yancha Gal no Anjou-san<br>
 Yandere ka to Omottara Motto Yabe Onna Datta<br>
 Yoiko Kei Furyou Succubus Saki-chan<br>
 Yongbi the Invincible<br>
+You Need a HUG<br>
 Youko-san, Sugariyoru.<br>
 Yugami-kun ni wa Tomodachi ga Inai<br>
 Yuki to Sumi<br>
 Yukionna to Kani wo Kuu<br>
 Zeikin de Katta Hon<br>
-Zettai Kareshi<br>
 Zhenniao<br>
 
 ## Attached to 3 Bundles
 5-fungo no Sekai<br>
-Akuma to Love Song<br>
+Anata no Koto ga Suki na Watashi wo Oshite Kuremasu ka?<br>
 Angel Blade<br>
 Arbeit Shiyo!!<br>
 Ase to Sekken<br>
@@ -2333,30 +2742,29 @@ Beast Master<br>
 Cat Street<br>
 Chantelise: A Tale of Two Sisters<br>
 Class no Bocchi Gal wo Omochikaeri shite Seisokei Bijin ni Shite Yatta Hanashi<br>
+Class no Yuutousei wo 'Imouto' ni Suru Yakusoku wo Shita. Douyara Ippai Amaetai Rashii.<br>
 Clerks II<br>
 Clerks III<br>
-Dame na Watashi ni Koishite Kudasai<br>
 Dengeki Daisy<br>
 Dolls (Hentai)<br>
 Enbi<br>
 Endou-kun no Kansatsu Nikki<br>
+Filter-Goshi no Kanojo<br>
 Flywrench<br>
 Futari de Koi o suru Riyu<br>
-Futari Switch<br>
+Gaia Online<br>
 Gang King<br>
 Giri-Giri Saegiru Katagiri-san<br>
-Gozen 0-ji, Kiss Shi ni Kite yo<br>
 Grashros<br>
 Hekikai no AiON<br>
 Hikawa-sensei wa Otaku Kareshi ga Hoshii<br>
 Himari no Mawari<br>
 Historie<br>
+Hokuto no Ken - Kinyoku no Garuda<br>
 Honey Blonde<br>
 Honto Yajuu<br>
 Hoshi to Harinezumi<br>
 Houkago no Seijo-san ga Toutoi dake Janai koto wo Ore wa Shitte iru<br>
-I'm a Controversy<br>
-Iinari! Saimin Gakuen \~Sennou Haramase Onapet Girlfriends\~<br>
 Ikigami<br>
 Inazuma to Romance<br>
 Jay and Silent Bob Reboot<br>
@@ -2370,7 +2778,6 @@ Kesa mo Yuraretemasu<br>
 Keysar;Blades<br>
 Kiichi!!<br>
 Kimi no Sei de Kyō Mo Shinenai<br>
-Kininaru Anoko o Saimin de Boku Senyou no Namahame Kanojo ni suru<br>
 Koi Maguwai<br>
 Kotowarenai Kaichou wa Tomoe-kun ni dake Shite Agetai<br>
 Kud Wafter (Anime)<br>
@@ -2378,10 +2785,12 @@ Kuramerukagari<br>
 Kurayukaba<br>
 Kyou no Kira-kun<br>
 Lovely Aina-chan♥<br>
-Lucky Dosukebe!<br>
 Madou no Keifu<br>
 Majin ni Erabareshi Murabito-chan, Tokai no Yuusha wo Chouetsu suru<br>
+Majo Taisen<br>
 MAO<br>
+Marry Grave<br>
+Meshinuma<br>
 Mijuku na Futari de Gozaimasu ga<br>
 Mint na Bokura<br>
 Mirai-san wa Mitame dake Jiraikei<br>
@@ -2392,13 +2801,14 @@ Monster Factory<br>
 Mukuchi na Kanojo<br>
 Nanoka no Kare<br>
 Nirameba Koi<br>
+Obaachan Shoujo Hinata-chan<br>
 Oi!! Oba-san<br>
 Ookumo-chan Flashback<br>
 Oshi ga Ore wo Suki Kamo Shirenai<br>
 Otonanajimi<br>
+Otonari no Bijin Elf no Kyori-kan ga Chika Sugiru Ken: Watashi to Ii Koto Shimasen ka?<br>
 POKÉTOON<br>
 Psycho no Sekai<br>
-RaW Hero<br>
 Rengoku Deadroll<br>
 RiN<br>
 Risou no Kanojo<br>
@@ -2410,14 +2820,19 @@ Sennen Reijou \~My Lady, My Master\~<br>
 Sex ga Suki de Suki de Daisuki na Classmate no Ano Ko<br>
 Shinshi Doumei Cross<br>
 Shishunki no Obenkyou<br>
+Show<br>
 Shujuu Ecstasy<br>
 Shunkan Gradation<br>
 Shut Hell<br>
 Shuuen wo Maneku Shinryuu dakedo Papatte Yonde Mo ii desu ka<br>
 Strange Tales of Heroic Spirit Lore \~King of the Cavern, Edmond Dantès\~<br>
 Strobe Edge<br>
-Succubus Appli: Gakuen Sai*<br>
+Succubus Appli: Gakuen Sai\*<br>
+Suman! Class de Ninki no Bungaku Shoujo ga Skirt wo Mijikaku Shita no wa Ore no Sei da<br>
+Tank Chair<br>
 Telework Yotabanashi<br>
+Tengen Hero Wars<br>
+Tenshi to Akuto!!<br>
 The Drops of God<br>
 Tista<br>
 Tokyo卍Revengers: Letter from Keisuke Baji<br>
@@ -2426,12 +2841,16 @@ Tower Dungeon<br>
 Unmei no Hito ni Deau Hanashi<br>
 Wash Me Hug Me!<br>
 Worst<br>
+Yumemi ga oka Wonderland<br>
 Yuusha to Yobareta Nochi ni: Soshite Musou Otoko wa Kazoku wo Tsukuru<br>
 Yuutousei Ayaka no Uraomote<br>
 Zannen Onna Kanbu Black General-san<br>
 
 ## Attached to 4 or More Bundles
+Aa, Warera ga Myao Shogun<br>
 Adam no Rokkotsu<br>
+After school, We Get Lost in Space<br>
+Alpi - The Soul Sender<br>
 Ashita wa Docchi da!<br>
 Boku ni Sexfriend ga Dekita Riyuu<br>
 Boku to Sensei to Tomodachi no Mama<br>
@@ -2444,10 +2863,8 @@ Expressionless Face Girl and Emotional Face Boy<br>
 FNAC FUR<br>
 Fella Hame Lips<br>
 Furueru Kuchibiru<br>
-Geesen Shoujo to Ibunka Kouryuu<br>
-Ghoul ga Sekai wo Sukutta Koto wo Watashi dake ga shitteiru<br>
+G Joushi!<br>
 Hahaoya ga Ero Ranobe Taishou Jushou Shite Jinsei Tsunda<br>
-Hanarete Kudasai, Meisen-san<br>
 Hatsukoi Jikan.<br>
 Ijirare \~Fukushuu Saimin\~<br>
 Ima Sugu Onii-chan ni Imouto da tte Iitai!<br>
@@ -2456,9 +2873,8 @@ Joshi Luck!<br>
 Konse wa Goen ga Arimasu you ni!<br>
 Kurai Anoko to Shitai Koto<br>
 Kurayami ni Strobe<br>
+Kurumida-senpai no Guttara Kawaii Himitsu<br>
 Kyonyuu Hitozuma no Idol Katsudou<br>
-Kyonyuu JK ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu<br>
-Lost Judgment<br>
 Lovely ♡<br>
 Milf Park<br>
 Nega-kun to Posi-chan<br>
@@ -2467,6 +2883,7 @@ Oji-sama no tomodachi<br>
 POPGOES Arcade<br>
 Rising x Rydeen<br>
 Shangri-la no Tori<br>
+She Doesn't Know Why She Lives<br>
 Shin Seitokai no Ichizon<br>
 ShindoL's Cultural Anthropology<br>
 Shiro Madoushi Syrup-san<br>
@@ -2477,6 +2894,5 @@ Tengoku de Akuma ga Boku wo Miwaku Suru<br>
 Tensei Maou no Juliet<br>
 Toshiue Zukushi Jukushita Sanshimai<br>
 Uranaishi no Nayamigoto<br>
-Yareruko! Densha Ecchi<br>
 Yogoreta Hitozuma<br>
 Youkaku no Majo Romi<br>
