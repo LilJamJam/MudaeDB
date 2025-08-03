@@ -374,7 +374,7 @@ Seimaden<br>
 *WWE SmackDown! vs. Raw 2006*<br>
 <br>
 
-### Other Series (with Bundle Attached) (210) \#\#\#\#\#\#\#\#\#
+### Other Series (with Bundle Attached) (250) \#\#\#\#\#\#\#\#\#
 
 Series | Bundle
 ------ | ------
