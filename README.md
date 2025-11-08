@@ -7,7 +7,7 @@ A short list of files I maintain:
 - SuperSub - All pairs of bundles that are a subset of other bundles, includes series which are only contained within these pairs
 - SuperSubGeneral - Similar to SuperSub but covers general bundles (Anime, Manga, etc) only
 
-### My personal Mudae DB that now includes site-exclusive data which is not found in the Discord bot.
+### My personal Mudae DB now includes site-exclusive data which is not found in the Discord bot.
 
 Let me know of any ideas that can help people contribute to Mudae, or other things that you're curious to see.
 
