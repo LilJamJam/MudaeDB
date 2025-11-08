@@ -6,9 +6,9 @@ General ($disableblock-ed) bundles (eg: Anime, Manga...) are excluded from calcu
 
 Number of known pairs: 14663 => **16568**
 
-Number of unique super-bundles: 1761 => **1912** (\\~28.4% of all bundles)
+Number of unique super-bundles: 1761 => **1912** (\~28.4% of all bundles)
 
-Number of unique sub-bundles: 4140 => **4546** (\\~66.9%)
+Number of unique sub-bundles: 4140 => **4546** (\~66.9%)
 
 ## All Pairs
 
