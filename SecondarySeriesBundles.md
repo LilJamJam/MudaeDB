@@ -3,181 +3,70 @@
 The following is a list of series and bundles on Mudae that have no main characters.
 This list now includes site-exclusive series.
 
-## Bundles (905)
+## Bundles (308)
 'Splosion Man Series<br>
 28 Days Later Series<br>
-130 Cheung's Art<br>
-300 Series<br>
 A Taxing Woman Series<br>
-ADV Player HD Games<br>
-AWE Games<br>
-Abe Hanajiro's Works<br>
 Abel Ferrara's Works<br>
-Acting Media<br>
-Age of War Series<br>
-Ail's Works<br>
-Aiming<br>
-Airandou's Works<br>
-Ajiichi's Works<br>
-Akira Kurosawa's Works<br>
 Alain Resnais' Works<br>
 Alan Resnick's Works<br>
-Albert's Works<br>
-Alec Robbins' Works<br>
-Alejandro Jodorowsky's Works<br>
-Alien Hominid Series<br>
-Alien Invasion Media<br>
-Alundra Series<br>
-Amalgamated Press<br>
-Amashiro Natsuki's Art<br>
-Ambrella<br>
-American Commando Series<br>
-Ananga Ranga<br>
-Andreas Hykade's Works<br>
 Andy Griffiths' Works<br>
-Anime Ai no Awa Awa Hour<br>
-Anpro<br>
-Anytoon<br>
-Ao Oni Series<br>
 Aquaman Franchise<br>
 Arakure's Works<br>
 Arc the Lad Collection<br>
-Arc the Lad Series<br>
 Archie Sonic Miniseries<br>
 Armed with Wings Series<br>
-Arrow Films<br>
-Arrowverse<br>
-Artdink<br>
-Asaki Yumemishi's Works<br>
-Assassin's Creed: Origins Series<br>
 Assassin's Creed: Subject Four<br>
-Assassin's Creed: The Engine of History Series<br>
-Atelier Resleriana Series<br>
-Austrian Media<br>
 Avenue Flo Series<br>
-Awairo Emaki Series<br>
-Axiebal Series<br>
-Azure Striker Gunvolt Series<br>
-Azure Striker Gunvolt: Striker Pack<br>
-B's-LOVEY COMICS<br>
-BDOne's Art<br>
-BIONICLE Movies<br>
-BOOM! Studios<br>
+AWE Games<br>
 Balala The Fairies Series<br>
-Barance Studio<br>
 Batman 1966 series<br>
 Batman Ninja Series<br>
-Batman Shadows<br>
-Battle Arena Toshinden Series<br>
-Battlefield Series<br>
-BeXide Inc.<br>
+BDOne's Art<br>
 Beasts Evolved Series<br>
-Bend Studio<br>
-Better Call Saul Series<br>
-Beyond Good & Evil Series<br>
-Bible Black Series<br>
+BeXide Inc.<br>
 Billy Wilder's Works<br>
-Binan Koukou Chikyuu Bouei-bu Series<br>
-Bitmap Bureau<br>
-Black Myth<br>
+BIONICLE Movies<br>
 Black Panther Franchise<br>
 Blade Trilogy<br>
-Bladerune9's Works<br>
-Blice<br>
-Blue Bread<br>
 Bob Fosse's Works<br>
 Bobby's World Series<br>
-Borsalino Series<br>
-Bowling<br>
 Bowser's Minions Series<br>
-Bug! Series<br>
-Build Engine<br>
 Bullet Heaven Series<br>
-Bunny Garden Series<br>
-Bushiroad Games<br>
-Bust A Groove Series<br>
 Buster Keaton's Works<br>
 Buzz! Series<br>
-Byeok Changho's Works<br>
-Byking<br>
 Byte Barrel<br>
-CATTLEYA<br>
-COLOPL<br>
-COMIC GAIRA<br>
-CROSSNET<br>
 Call of Cthulhu<br>
 Camouflaj<br>
-Campione! Series<br>
-Candyman Series<br>
 Captain America Franchise<br>
-Captain Canuck Franchise<br>
 Cars Video Games<br>
 Castle of Illusion Series<br>
-Cellar Door Games<br>
-Charlie Kaufman's Works<br>
 Cherry Manju's Works<br>
-Chibi Godzilla Series<br>
-Chibig<br>
-Chicken Run Series<br>
 Chilla's Art<br>
 Choi Song's Works<br>
-Chris Columbus' Works<br>
-Chrono Cross: The Radical Dreamers Edition<br>
-City Hunter Series<br>
-Climax Studios<br>
 Clint Eastwood's Works<br>
-Closers Series<br>
-Cloverfield Series<br>
-Codemasters<br>
-Colombian Media<br>
-Conan O'Brien Series<br>
-Connection<br>
 Cooking Dash Series<br>
 Copa Toon Series<br>
-Costume Quest Series<br>
 Cotton Series<br>
 Crazy Castle<br>
-CrazySky3D<br>
-Critical Reflex<br>
-Crossdressing Media<br>
-Crouching Tiger, Hidden Dragon Series<br>
 Crystal Story Series<br>
-Crystal na Yousuke's Works<br>
-Cute Boys Doing Cute Things<br>
 Cyan Productions<br>
-CygamesPictures<br>
-Cypriot Media<br>
-DK Climber Series<br>
 Daredevil Franchise<br>
-Dario Argento's Works<br>
-Darren Shan's Works<br>
 Data Design Interactive<br>
-David Cronenberg's Works<br>
-Ddasoom's Art<br>
 Deep Plum<br>
 Def Jam Games<br>
-Deponia Series<br>
 Dexter Riley Trilogy<br>
 Diary of a Wimpy Kid Animated Movies<br>
 Diary of a Wimpy Kid Live-Action Movies<br>
-Diary of a Wimpy Kid Series<br>
-Didnapper Series<br>
 Digimon Adventure 02 Series<br>
-Digimon Adventure Series<br>
-Digimon Liberator Universe<br>
-Digimon Savers Series<br>
-Digimon Story Cyber Sleuth Series<br>
+DK Climber Series<br>
 Doctor Proctor's Fart Powder Series<br>
 Doctor Strange Franchise<br>
-Dokapon Series<br>
-Don Hertzfeldt's Works<br>
 Don Siegel's Works<br>
 Donkey Kong 3 Series<br>
 Donkey Kong Land Series<br>
 Donkey Konga Series<br>
 Doomed Bourgeois in Love Series<br>
-Dotemu<br>
-Double Trap Series<br>
 Dr. Mario & Bacteria Extermination Series<br>
 Dragon Ball Origins Series<br>
 Dragon Ball Z Arcade Series<br>
@@ -191,516 +80,164 @@ Dragon Ball Z: Super Saiya Densetsu<br>
 Dragon Ball Z: Supersonic Warriors Series<br>
 Dragon Ball Z: The Legacy of Goku Series<br>
 Dragon Ball: Shenlong no Nazo Series<br>
-Dragon Quest Builders Series<br>
 Dragon Slayer: The Legend of Heroes Series<br>
-Drama Genre<br>
 Drawful Series<br>
-DreCom<br>
-Dread X Collection 2<br>
-Driver Series<br>
-Dual Effect + Tormented Souls Series<br>
-Duck Life Series<br>
-Duck Life: Retro Pack<br>
 Duke<br>
-Dvora Studio<br>
-Dwaeryang's Art<br>
-ELDEN RING Series<br>
-ENISHIYA<br>
-Earthworm Jim Series<br>
-Eastern Games<br>
-Eastern Media<br>
-Eastrail 177 Trilogy<br>
-Edo Period Media<br>
-ElectricPuke's Works<br>
-Enchanted Series<br>
-Enemies to Lovers Media<br>
-Eoin Colfer's Works<br>
-Epic Conquest Series<br>
 Ereki Yoshio's Works<br>
-Euphoric Brothers<br>
-Euphoric Brothers' Works<br>
-Evolution Engine<br>
 EyeToy Games<br>
-F1 Series<br>
-FARCRY3 Series<br>
-Fabraz<br>
-Fall 2025 Anime<br>
 Famicom Grand Prix<br>
 Fantastic Four Franchise<br>
 Fate/tiger colosseum Series<br>
-Fear Street Series<br>
-Felistela<br>
-Fenimore Fillmore Series<br>
 Fighting Layer Series<br>
-Final Destination Series<br>
-First-person Games<br>
 Fitness Boxing Series<br>
-Five Nights at Freddy's: An Interactive Novel<br>
+flanvia's Works<br>
 Foreign Creature Series<br>
 Forgive Me Father Series<br>
-Formula 1 Media<br>
 François Truffaut's Works<br>
-Freakzone Games<br>
 Fred and Barney Meet the Thing<br>
 French Connection Series<br>
 Frogger Series<br>
-Fujiko F. Fujio's Works<br>
-Fujita's Works<br>
-Fujitobi's Works<br>
-Fullmetal Alchemist (2003) Series<br>
 Fulqrum Publishing<br>
-Funimation<br>
-G-Craft<br>
-G.HO's Art<br>
-GANGDDO's Works<br>
-GKIDS<br>
-GON Series<br>
 Gagharv Series<br>
-GalaxyTrail<br>
 Game & Watch Gallery Series<br>
-Game Science<br>
-GameCenter CX Series<br>
-Gamebooks<br>
 Gamefam<br>
-Games like Suika Game<br>
-Ganbare Goemon Series<br>
 Ganmarei's Works<br>
-Gantz Series<br>
-Garage_Heathen<br>
-Gege Akutami's Works<br>
 George A. Romero's Works<br>
-Gerph's Works<br>
-Giant Squid<br>
-Gilmore Girls Series<br>
-Gimmick! Series<br>
-Gladiator Series<br>
-Go! Princess PreCure Series<br>
-Goat Simulator Series<br>
-God Eater Series<br>
 Godzilla: Heisei Continuity<br>
 Godzilla: Millennium Era<br>
-Gongsimi's Works<br>
-Gotta Protectors Series<br>
-GrabTheGames<br>
 Grantray-Lawrence Animation<br>
-Great Mosu's Works<br>
 Green Lantern Franchise<br>
 Griptonite Games<br>
-Grounded Series<br>
-Guilty Gear -STRIVE- Series<br>
-Gunvolt Chronicles: Luminous Avenger iX Series<br>
-Gunvolt Series<br>
 Gussun Oyoyo Series<br>
 Haemimont Games<br>
-Hanai's Art<br>
-Hang-Seong Ya's Works<br>
-Hangar 13<br>
-Hannibal Lecter Series<br>
 Hansharu's Works<br>
-Happy Feet Series<br>
-Harley Quinn Show Series<br>
-Haru Yatosaki's Works<br>
-Haruka Hano's Works<br>
 Haruki Murakami's Works<br>
-Haruyoshi Hiro's Works<br>
 Haunted Museum Series<br>
-Haunted PS1 Games<br>
-Hay Day Series<br>
-Heartcatch PreCure! Series<br>
 Heisendou<br>
-Hello Kitty Series<br>
-Hellraiser Series<br>
-Hidden Object Games<br>
-Hidetaka Miyazaki's Works<br>
-Higurashi no Naku Koro Ni Main Story Arcs<br>
-Higurashi no Naku Koro Ni Story Arcs<br>
 Higurashi no Naku Koro ni Kai<br>
+Higurashi no Naku Koro Ni Main Story Arcs<br>
 Higurashi no Naku Koro ni Question Arcs<br>
-Hipster Whale<br>
-Hiroyuki Kitakubo's Works<br>
-Homan's Works<br>
-Honami Shirono's Works<br>
-Honey Fruit's Works<br>
-Hoodwinked Series<br>
-Horse Racing<br>
-Hotel Transylvania Series<br>
-Hotta Studio<br>
+Higurashi no Naku Koro Ni Story Arcs<br>
+holo Indie<br>
 Hou Hsiao-hsien's Works<br>
 Hulk vs.<br>
-Hushabye Valley's Works<br>
-Hyperbeard Games<br>
-I-Jun Sang's Works<br>
-I Think I Like You Series<br>
-IFD Films<br>
 Iasmin Omar Ata's Works<br>
-If You Give a Mouse a Cookie Series<br>
-Igumox's Art<br>
-Ikari Warriors Series<br>
 ImCyan<br>
+inabakumori Series<br>
 Incredible Dream<br>
-Indian Media<br>
-IndieArk<br>
+indieszero<br>
 Injustice Series<br>
-Internet Screamers<br>
 Invasion of the Body Snatchers Series<br>
-Iori Miyazawa's Works<br>
 Irem<br>
-Irrational Games<br>
-Isao Takahata's Works<br>
 Isekai Quartet Series<br>
 Itadaki Street Series<br>
-Izumo Series<br>
 J Legend Retsuden<br>
-JOYCITY<br>
 Jacques Tati's Works<br>
-Jaleco<br>
-Jeff Kinney's Works<br>
-Jibro's Works<br>
-JoWooD<br>
-John Avildsen's Works<br>
 John Boorman's Works<br>
 John Cooney's Works<br>
 John Ford's Works<br>
-John Hughes' Works<br>
-John Landis' Works<br>
 John Waters's Works<br>
-John Woo's Works<br>
-Johnny the Homicidal Maniac Series<br>
-Joker Duology<br>
-Josou Jinja Series<br>
-Jouji Manabe's Works<br>
 Jurassic World Evolution Series<br>
 Justice League x RWBY: Super Heroes and Huntsmen<br>
 Juzo Itami's Works<br>
-K-Pop Media<br>
-K2<br>
-KUNOLEO<br>
-KaGuYa Games<br>
-Kai Bashira's Works<br>
-Kaiju No. 8 Series<br>
-Kaiju Princess Series<br>
-Kaishaku's Works<br>
-Kakeru Kirin's Works<br>
-Kalypso Media<br>
 Kane to Cinderella Series<br>
 Kaneko<br>
-Kanmuri's Works<br>
-Karasu Chan's Works<br>
-Katsuhiro Otomo's Works<br>
-Katsuwo's Works<br>
 Kay Yu's Works<br>
-Kazuma Takeuchi's Art<br>
-Kazutomo Ichitomo's Works<br>
-Keishi Ayasato's Works<br>
-Kill Bill<br>
-Killer Bean Series<br>
-Killer Instinct Series<br>
 Kim Jee-woon's Works<br>
 Kim Ki-duk's Works<br>
-Kimi to Idol PreCure♪ Series<br>
 King Games<br>
 King of Comedy Series<br>
-Kingsman Series<br>
-Kinji Fukasaku's Works<br>
 Kirby Air Ride Series<br>
-Kirby Clash Series<br>
 Kirby Fighters Series<br>
-Kirtu Comics<br>
-Kisai Takayama's Art<br>
-Kite Series<br>
 Komaru's Works<br>
-Konami Collector's Series: Castlevania & Contra<br>
-Kou Okada's Works<br>
-Kou Suzumoto's Works<br>
 Koumajou Densetsu<br>
+Leave It to Beaver Series<br>
+Legends of Avantris Campaigns<br>
 LEGO Batman<br>
 LEGO DC Video Games<br>
 LEGO Indiana Jones Video Games<br>
-LEGO Themes<br>
-LET IT DIE Series<br>
-La CQ Series<br>
-Lancarse<br>
-LandQ studios<br>
-Landfall Games<br>
-Latin American Media<br>
-LazyTown Series<br>
-Leapster<br>
-Leave It to Beaver Series<br>
-Lee Lik-chi's Works<br>
-Legends of Avantris Campaigns<br>
-Lemmings Series<br>
 Let's Go Series<br>
 Life Series<br>
 Light & Shadow Production<br>
-Limstar's Works<br>
-Live-Action Movies<br>
-Live-Action TV Shows<br>
-Loathing Series<br>
-Lucazu's Works<br>
 Lucio Fulci's Works<br>
-Luckydog1 Series<br>
-LucusOLD's Works<br>
-Lusterise<br>
-Lyrics<br>
-M&M's Art<br>
-MCU Avengers Series<br>
-MCU Black Panther Series<br>
-MCU Captain America Series<br>
-MCU Captain Marvel Series<br>
-MCU Doctor Strange Series<br>
 Magic Pockets<br>
-Magifuro Konnyaku's Works<br>
-Magoo's Works<br>
-Mahiro Ootsuka's Works<br>
-Mahoutsukai no Yome Series<br>
 Makoto Wada's Works<br>
-Malaysian Media<br>
-Malcorond's Art<br>
 Maleficent Series<br>
 Mameroku's Works<br>
-Manga Time<br>
-Manhunt Series<br>
 Manuel García Ferré's Works<br>
-Marii Taiyou's Works<br>
-Mario & Sonic<br>
 Mario & Sonic at the Olympic Games Series<br>
 Mario & Sonic at the Olympic Winter Games Series<br>
+Mario & Sonic<br>
 Mario Discovery Series<br>
-Mario Franchise Movies<br>
 Mario Kart Arcade GP Series<br>
 Mario Teaches Typing Series<br>
 Mario vs. Donkey Kong Series<br>
-Mark Twain's Works<br>
-Marushin's Art<br>
-Marutoku Base<br>
 Marvel Animated Features Collection<br>
 Marvel Anime<br>
 Marvel Earth-8096<br>
 Marvel Super Hero Squad<br>
 Marvel's Netflix Television Series<br>
 Marvel: Ultimate Alliance Series<br>
-Mary Cagle's Works<br>
-Masahito Soda's Works<br>
-Mashin Sentai Kiramager Series<br>
 Massive-Verse<br>
 Mataro's Works<br>
-Matilda Series<br>
-Matsurika no Kei Series<br>
-Max Games<br>
-Maze Games<br>
-MediaBank<br>
-Mel Brooks' Works<br>
-Metronomik<br>
-Meyaoi Games<br>
-Michael Crichton's Works<br>
-Michiking's Works<br>
-Microids<br>
+MCU Avengers Series<br>
+MCU Black Panther Series<br>
+MCU Captain America Series<br>
+MCU Captain Marvel Series<br>
+MCU Doctor Strange Series<br>
 Midori no Rupe's Art<br>
 Mighty Gunvolt Series<br>
-Mighty No. 9 Series<br>
-Milk Factory<br>
-Milk Morinaga's Works<br>
-Misfile Series<br>
-Mister Rogers' Neighborhood Series<br>
-Mojo's Art<br>
-Monomi Park<br>
 Monsieur Hulot Series<br>
-Monsters vs. Aliens Series<br>
-Moon-Geun Jeong's Works<br>
-Moon Studios<br>
-Moonton<br>
-Mori Moyori's Works<br>
 Mortal Kombat Legends Series<br>
 Mr. Do! Series<br>
-Mune Ki's Art<br>
-My Melody Series<br>
-Mystic Messenger Series<br>
-NTFusion<br>
 Naked Gun Series<br>
-Namco Tales Studio<br>
-Naoko Takeuchi's Works<br>
-Navigavi's Art<br>
-Nemuki<br>
 Neru Nemui's Works<br>
-Neverwinter Nights Series<br>
-NiGHTS Into Dreams Series<br>
 Nickelodeon All-Star Brawl Series<br>
 Nickelodeon Brawl<br>
 Nickelodeon Crossover Series<br>
 Nicktoons Unite Series<br>
 Night of the Living Dead Series<br>
-Nikumaru's Works<br>
-Niliu Chahui's Works<br>
 Nina Paley's Works<br>
-Ninja Kiwi Archive<br>
 Nintendo Puzzle Collection<br>
-Nio Nakatani's Works<br>
-Nitrome<br>
-Nobeta Universe<br>
-Norinko's Works<br>
 Noripachi's Works<br>
 Norman Taurog's Works<br>
-No\~Strike<br>
-OPUS Series<br>
-OTOSAMA's Works<br>
-Office Take Off<br>
-Office Work Media<br>
-Oh Sam-Geun's Art<br>
-Olympia Soirée Series<br>
-Omega Force<br>
-One-up<br>
-One Night at Flumpty's Series<br>
-Onio's Art<br>
+NTFusion<br>
 Original X-Men Cinematic Universe<br>
-Osamu Sato's Works<br>
-Otoko Cross Series<br>
-Otsuji's Works<br>
-Otukimi's Works<br>
 Ousmane Sembène's Works<br>
-Outlander Series<br>
 Outright Games<br>
-Overwatch Videos<br>
 Overwatch: Kiriko Series<br>
-Overwatch: Tracer Series<br>
 Overwatch: Wuyang Series<br>
-Oz Series<br>
-PAPER's Art<br>
-PIL/SLASH<br>
-PRA<br>
-Pabeu's Art<br>
-Pachislot Games<br>
-Pageratta's Works<br>
-Pajamas Soft<br>
 Pang Series<br>
 Papa Louie Platformers<br>
 Papa's Gamerias<br>
-Paper Castle<br>
-Parasyte Series<br>
-Park Chan-wook's Works<br>
-Park Haedam's Works<br>
-Paul Thomas Anderson's Works<br>
-Peanuts Series<br>
-Pearl Boy Series<br>
-Penguin Diner Series<br>
-Peppa Pig Series<br>
-Peter Weir's Works<br>
-Philip Pullman's Works<br>
-Picante Circus<br>
 Pikachu Shorts<br>
-Planet Moon Studios<br>
 Planet of the Apes (1968) Series<br>
 Planet of the Apes (2011) Series<br>
-Planet of the Apes Series<br>
-Plants vs. Zombies: Garden Warfare Series<br>
-PlatineDispositif<br>
-PlayFirst<br>
 PlayStation All-Stars<br>
 Pocket Fighting Series<br>
 Pocket NT Creature Series<br>
-Pocky & Rocky Series<br>
 Poker Night Series<br>
-Pokémon Ranger Games<br>
-Pond's Art<br>
 Poriuretan's Works<br>
-Portion<br>
-Postman Pat Series<br>
-Powerhouse Animation<br>
-Project-H<br>
-Propaganda Games<br>
 Punisher Franchise<br>
 Puppet Combo<br>
 Puzzle Fighter Series<br>
 Q.U.B.E. Series<br>
 Quatermass Series<br>
-QuinRose<br>
-RAGE Series<br>
-RISE UP KING's Works<br>
-RWBY Series<br>
-Ralph Bakshi's Works<br>
-Ranger's Apprentice Universe<br>
-Raphael Bob-Waksberg's Works<br>
 Rasheed Abueideh's Works<br>
-Ratana Satis' Works<br>
-Ravenscourt<br>
-Re:Creators Series<br>
-Real-time Strategy Games<br>
-Real Bout Fatal Fury Series<br>
-Reality Show Fiction Genre<br>
-Realmforge Games<br>
-Rei.'s Works<br>
-Resident Evil 2002 Movie Series<br>
-Retake's Art<br>
-Rhapsody: Marl Kingdom Chronicles<br>
-Rick and Morty Series<br>
-Ridley Scott's Works<br>
-Rintaro's Works<br>
-Road of the Dead Series<br>
-Robert Altman's Works<br>
-RoboCop Series<br>
-Romeo Tanaka's Works<br>
-Ruri Miyahara's Works<br>
-Ryū Murakami's Works<br>
-S. S. Rajamouli's Works<br>
-SAMURAI SHODOWN NEOGEO COLLECTION<br>
+Sailor Moon Games<br>
+Scapes Series<br>
 SEGA AM1<br>
 SEGA Pico<br>
 SEGA Superstars Series<br>
-SIGONO<br>
-SNK Neo Geo Pocket<br>
-SNOW Series<br>
-SUNG Hye-rim's Works<br>
-Sachiko Orihara's Works<br>
-SagakSagak 31's Works<br>
-Sageuk<br>
-Sagu Aoyama's Works<br>
-Sailor Moon Games<br>
-Saki Ukai's Art<br>
-Samurai Shodown Anthology<br>
-Santa Monica Studio<br>
-Sasaki to Miyano Series<br>
-Sawaru Erect's Works<br>
-Scapes Series<br>
-Scopely<br>
-Searchlight Pictures<br>
-Sei Shoujo's Art<br>
-Seiju Amano's Works<br>
-Sekilala<br>
 Sencha Bashira's Art<br>
-Sentinel Girls Series<br>
-Serious Sam Series<br>
-Sesame Street Series<br>
-Shank Series<br>
-Shaun the Sheep Series<br>
 Shazam Franchise<br>
-Shigeo Hamashima's Art<br>
-Shigesato Itoi's Works<br>
-Shimobashira Workshop<br>
-Shin Japan Heroes Universe<br>
-Shinobi Series<br>
-Shiny Entertainment<br>
-Shinya Tsukamoto's Works<br>
-Shiori Amase's Works<br>
 Shiu Samon's Works<br>
-Shoujo Friend<br>
-Shovel Knight Series<br>
-Shrek Movies<br>
-Siactro<br>
-Sidney Lumet's Works<br>
 Siegius Series<br>
 Silverball studios<br>
-Simogo<br>
-Singaporean Media<br>
-Sion Sono's Works<br>
-Sister Position<br>
-Slam Dunk Series<br>
 Slam Masters Series<br>
-Slay the Spire Series<br>
-Sleeping Beauty Series<br>
-Smack Jeeves<br>
 Snail Bob Series<br>
-Socialpoint<br>
-Sogabe Toshinori's Works<br>
-Soigne<br>
+SNK Neo Geo Pocket<br>
+SNOW Series<br>
 Sonic & Mega Man<br>
 Sonic & SEGA All-Stars Racing Series<br>
 Sonic Dash Series<br>
@@ -708,117 +245,47 @@ Sonic Drift Series<br>
 Sonic Pinball Series<br>
 Sonic Runners Series<br>
 Sonic the Hedgehog 4<br>
-Sonic the Hedgehog Mobile Games<br>
 Sonic! Software Planning<br>
 Space Channel 5 Series<br>
-Space Cobra Series<br>
 Space Invaders Extreme Series<br>
-Speed Racer Series<br>
-Spil Games<br>
-SpongeBob SquarePants: Battle For Bikini Bottom Series<br>
 Spot Series<br>
-Squid Game Series<br>
-Stephen Chow's Works<br>
-Stephen King's It Series<br>
 Studio Mebius<br>
-Suihei-sen's Works<br>
-Suika Game Series<br>
-Sun's Works<br>
 Super Bomberman R Series<br>
 Super Brawl Series<br>
-Super Evil Megacorp<br>
 Super Mario Party Series<br>
 Superman TV Shows<br>
-Surf's Up Series<br>
 Swamp Thing Franchise<br>
-Syphon Filter Series<br>
-Syrup Series<br>
-System Shock Series<br>
-TUYU Series<br>
-Taiwanese Media<br>
 Takeshi Kitano's Works<br>
-Talk Shows<br>
-Tantan's Art<br>
 Taropun's Art<br>
-Tass's Works<br>
 Tee K.O. Series<br>
-Teen Wolf Series<br>
 Teenage Mutant Ninja Turtles: Mutant Mayhem Series<br>
-TekWar Series<br>
-Telenet Japan<br>
-Tenchu Series<br>
 Tetris Series<br>
-Text Adventure Games<br>
-Thai Media<br>
 The Adventures of Antoine Doinel<br>
 The Amazing Spider-Man Movie Series<br>
 The Angry Video Game Nerd I & II Deluxe<br>
-The Angry Video Game Nerd Series<br>
-The Brave Little Toaster Series<br>
-The Chinese Room<br>
-The Crow Series<br>
 The Day My Bum Went Psycho Series<br>
 The Disney Afternoon Collection<br>
 The Elephant Collection<br>
-The Exorcist Series<br>
-The Fancy Pants Adventures Series<br>
-The Fancy Pants Adventures: Classic Pack<br>
 The Fly Series<br>
-The Game Kitchen<br>
-The Hunger Games Series<br>
-The Joy of Creation Series<br>
 The Ladykillers Series<br>
-The Legend of Heroes Series<br>
 The Legend of Xanadu Series<br>
 The Lord of the Rings: The Battle for Middle-earth Series<br>
-The Magic Roundabout Series<br>
-The Mandalorian Series<br>
-The NOexistenceN Series<br>
-The Odd Couple Series<br>
 The Real Ghostbusters Series<br>
-The Santa Clause Series<br>
 The Simpsons Video Games<br>
 The Software Toolworks<br>
-The Strong Girl Universe<br>
-The Super Mario Bros. Movie Series<br>
-The Thundermans Series<br>
-The Trapped Trilogy<br>
 The Twisted Childhood Universe<br>
 The Typing of the Dead Series<br>
-The Wachowskis' Works<br>
-The Walking Dead: The Telltale Definitive Series<br>
-The War of the Worlds Series<br>
 Theatrhythm<br>
-The☆Doraemons Series<br>
 Three Colours Trilogy<br>
-Three Rings Inc.<br>
 Thrillville Series<br>
 Time Crisis: Razing Storm<br>
-Time Loop Media<br>
-Time Travel Media<br>
-Toge Productions<br>
 Tom Clancy's Splinter Cell Series<br>
-Tom Clancy's Universe<br>
 Tom Clancy's Works<br>
-Tomba Series<br>
-Tomonobu Itagaki's Works<br>
-Tomoya Asano's Works<br>
-Toowa Akatsuki's Works<br>
-Toshitaka Yano's Works<br>
 Tracy Letts' Works<br>
-Tragedy Genre<br>
-Transgender Themes<br>
-Trey Parker and Matt Stone's Works<br>
-Triangle<br>
 Tribute Games<br>
 Trivia Murder Party Series<br>
-Tropico Series<br>
-True North Trilogy<br>
-Tumblr Media<br>
-Turok Series<br>
-Twilight Frontier<br>
+TUYU Series<br>
 Twisted Pixel<br>
-TwoJ's Works<br>
 Typing Tutors<br>
 UFO 50 Games<br>
 Umayuru Series<br>
@@ -828,87 +295,23 @@ Universal Studios Beijing<br>
 Universal Studios Florida<br>
 Universal Studios Singapore<br>
 Unravel Series<br>
-Unreal Series<br>
-Until Dawn Series<br>
-Utakata no Uchronia Series<br>
 V/H/S Series<br>
-VALKYRIA<br>
-VIZ<br>
-Valis Series<br>
-Venezuelan Media<br>
-Vengeance Trilogy<br>
-Vic Tokai<br>
-Victim Girls<br>
-Victorian Era Media<br>
-Vietnamese Media<br>
-Villainous Series<br>
 Vizta Games<br>
-Voil<br>
-Voltron<br>
-W-Toon Studio<br>
-WWE 2K<br>
 Waku Waku Children's Arcade Rides<br>
 Wallace & Gromit Games<br>
 Warhammer 40,000: Space Marine Series<br>
 Wario's Woods Series<br>
 WarioWare: D.I.Y. Series<br>
-Watari Sae's Works<br>
 Wedding Dash Series<br>
-Whisp<br>
 Whit Stillman's Works<br>
 Whitethorn Games<br>
-William Friedkin's Works<br>
 Windjammers Series<br>
-Winx Club Series<br>
 Wolverine Franchise<br>
 Wonder Woman Franchise<br>
-Wong Kar-wai's Works<br>
-Woollim Entertainment<br>
 World of Kinfire<br>
 X-Men: Mutant Academy Series<br>
-X Series<br>
-Xenoblade Chronicles 2 Series<br>
-Xian Jun's Works<br>
-Yama Wayama's Works<br>
-Yamada's Works<br>
-Yang Eunji's Works<br>
-Yangnlam's Works<br>
-Yasei no Last Boss ga Arawareta! Series<br>
-Yasuomi Umetsu's Works<br>
-Yo-kai Watch Series<br>
-Yogi Bear Series<br>
-Yu-Gi-Oh! 5D's Series<br>
-Yu-Gi-Oh! Animanga<br>
-Yu-Gi-Oh! Duel Monsters Series<br>
-Yu-Gi-Oh! GX Series<br>
-Yu-Gi-Oh! ZEXAL Series<br>
 Yuen Woo-ping's Works<br>
-Yukisame's Art<br>
 Yuuki Kitajima's Works<br>
-Yuuna Kagesaki's Works<br>
-Yuuya Etori's Works<br>
-Zack Snyder's Works<br>
-Zeekerss<br>
-Zeniko Sumiya's Works<br>
-ZigZaGame Inc.<br>
-Zombieland Series<br>
-adv32 Games<br>
-animation studio42<br>
-artlink<br>
-codeX RScript Games<br>
-domerica<br>
-flanvia's Works<br>
-hakei's Works<br>
-holo Indie<br>
-inabakumori Series<br>
-indieszero<br>
-insertdisc5<br>
-konomi's Art<br>
-lowiro<br>
-mints<br>
-nocori's Works<br>
-novamicus<br>
-ppatta's Works<br>
 <br>
 
 ## Series (7716)
