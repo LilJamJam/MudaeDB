@@ -4,7 +4,7 @@ The home of my files that relate to the custom database that I made from scrapin
 A short list of files I maintain:
 - SecondarySeriesBundles - All series and bundles who have no main characters
 - OneBundle - All series that are attached to one bundle
-- SuperSub - All pairs of bundles that are a subset of other bundles, includes series which are only contained within these pairs
+- SuperSub - All pairs of bundles that are a subset of other bundles, includes series which are only contained within these pairs. Excludes general bundles.
 - SuperSubGeneral - Similar to SuperSub but covers general bundles (Anime, Manga, etc) only
 
 ### My personal Mudae DB now includes site-exclusive data which is not found in the Discord bot.
