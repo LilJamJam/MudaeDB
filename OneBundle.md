@@ -5,13 +5,14 @@ Series with no main chars are in italics.<br>
 General ($disableblock) bundles (eg: Anime, Manga...) are excluded when counting bundles for series.<br>
 For a list of series only attached to general bundles, go to the bottom of the SuperSubGeneral file.
 
-TOTAL SERIES: 411 --> ***415***
+TOTAL SERIES: 415 --> ***407***
 
 ### Series (with Bundle Attached) \#\#\#\#\#\#\#\#\#
 
 Series | Bundle
 ------ | ------
 *Millennium* | 20th Century Fox Television
+*Kamiarizuki no Kodomo* | 2D Animated Movies
 Ongaku | 2D Animated Movies
 *Summer Days with Coo* | 2D Animated Movies
 *Bernard* | 3D CGI Animated Shows
@@ -19,7 +20,6 @@ ENDER MAGNOLIA: Bloom in the Mist | Action Role-Playing Games
 Kyou no Yuiko-san | Afternoon
 Sakura no Sono | Akita Shoten
 Kanadian Families: Episode Zero | Aniplex
-Journey of Realm：Dawn Dew | AnotherIndie
 *Crazy Climber* | Arcade Games
 Class ni Hitori Iru Kyonyuu Joshi | Artworks
 CODE:QUALIA | Artworks
@@ -28,16 +28,13 @@ KMMM-CHAN! | Artworks
 Luminocity | Artworks
 NEKO★PUNCH | Artworks
 PALINGENESIS | Artworks
-Wonderland Diary | Artworks
-*Bad Boys for Life* | Bad Boys Series
-*Bad Boys: Ride or Die* | Bad Boys Series
 Shinra Banshou World | Bandai Namco
-*Meg 2: The Trench* | Ben Wheatley's Works
 *Bible Black: Origins* | Bible Black Series
 *Hana Tokidoki Kuma* | Boys' Love
 *Soredemo Kimi to Koi ga Shitai!* | Boys' Love
 Usotsuki to Hatsukoi | Boys' Love
 *Bartender: The Celebs Mix* | Browser Games
+*Toonix Shorts* | Cartoon Network
 Blazing Teens: Legendary Warriors | Chinese Animation
 Fire X Fire | Chinese Animation
 Pleasant Goat and Big Big Wolf | Chinese Animation
@@ -47,11 +44,13 @@ Qin Shi Mingyue: Tian Xing Jiu Ge | Chinese Animation
 Man of Many Faces | CLAMP
 *Code Geass: Maelstrom of Libra* | Code Geass Series
 *Code Geass: The Miraculous Birthday* | Code Geass Series
+*Ittsumo Shiotaiou na Osananajimi dakedo, Ore ni Kataomoi shite iru no ga Barebare de Kawaii.* | Comic Fire
 May My Father Die Soon | Comic Owl
 Waka-chan wa Kyou mo Azatoi | Comico
 Venus Wars | Dark Horse Comics
+*Desktop Mate* | Desktop Companions
+*Your Mother* | Desktop Companions
 *Detective Conan: Crossroad in the Ancient Capital* | Detective Conan Series
-Die Hard with a Vengeance | Die Hard Series
 *The Twins* | DVloper's Works
 Orenchi ni Kita Onna Kishi to Inakagurashi Surukotoninatta Ken | Earth Star Entertainment
 Split Lover | Earth Star Entertainment
@@ -73,20 +72,19 @@ Lolicon Saga | Futabasha
 Yakedo Shoujo | Futabasha
 *Painter Momopie* | Game Boy
 *Urban Yeti!* | Game Boy Advance
+*Abandoned: Tsuyo Sugite Buki ga Kowareru Yuusha to Buki Shokunin no Elf* | GANMA!
 Jirai Nandesuka? Chihara-San | GANMA!
 Rinjin-chan ga Shinpai | GANMA!
 Shihai Shoujo Kubaru-chan | GANMA!
 Uchi ni Kaeru to Itsumo Kukkoro ga Iru | GANMA!
 *Gantz: E* | Gantz Series
 Shirube no Michi | Gentosha
-*Giant* | George Stevens's Works
 Shake-chan | Gijinka
 Copihan | Gonzo
 Tama & Friends | Group TAC
 Your Story | Hayakawa Publishing
 *Hello Neighbor: Welcome to Ravenbrook* | Hello Neighbor Series
 Akuma ga Boku o | Hentai
-Bestiary 3 | Hentai
 Classmate no Majime Iinchou wa Kakure Kurogal | Hentai
 Daraku: Onna Kyoushi Hakai | Hentai
 *Dire Straights* | Hentai
@@ -108,6 +106,7 @@ Junyoku Kaihouku | Hentai
 Kaibutsu no Chouai | Hentai
 Kareshi Mochi no Kenage na Anoko o Ikasete Goudatsu! Netori Play | Hentai
 Kawai-san wa Saigomade Shitai! | Hentai
+Kohikofu | Hentai
 Konamirai | Hentai
 Kouhai-chan ni Eroi Koto Sareru Hon | Hentai
 Lingerie ~Houmon Hanbai Futou-ki~ | Hentai
@@ -134,20 +133,18 @@ Shiawase nara Niku wo Morou | Hentai
 Soubo Soukan | Hentai
 SPOHAME | Hentai
 Takarasagashi no Natsuyasumi | Hentai
+*Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut* | Hentai
 Tasogare no Shou Elf | Hentai
 The Camgirl Next Door | Hentai
 There's Something Loose in Her Head | Hentai
 Tonari no Chinatsu-chan R | Hentai
 Toriko no Kusari | Hentai
-TS Shoujo Haruki-kun | Hentai
 Tsuma Netori Rei: Boku no Ayamachi Kanojo no Sentaku | Hentai
 Twin Quiet -Shinsou Sennou Yugamerareta Seigi | Hentai
 Unique Job 'Tanetsuke Oji-san' o Kakutoku shimashita | Hentai
 Valkyrie Hazard | Hentai
-Watakushi Igai no Onna o Shiru Hitsuyou ga Arimashite? ~Ojou-sama Gentei Konkatsu Party~ | Hentai
 Watch Out! Sexual Student Council | Hentai
 Yanagida-kun to Mizuno-san | Hentai
-Yobae! Inko-chan | Hentai
 You Bishoujo Miruku-chan | Hentai
 *Ring 2* | Hideo Nakata's Works
 *My Life as McDull* | Hong Kong Media
@@ -161,6 +158,7 @@ Sleepy Barmaid | Houbunsha
 Chhota Bheem | Indian Media
 *BABBDI* | Indie Games
 Grave of Träumerei | Indie Games
+*HamuHamu♪* | Indie Games
 LET'S TALK.LET'S TALK.LET'S TALK. | Indie Games
 *The Choicer Voicer* | Indie Games
 Thirsty Suitors | Indie Games
@@ -183,7 +181,6 @@ Hajimete Koibito ga Dekimashita | Kodansha
 Hanazono-sanchi no FUTAGO-chan | Kodansha
 Hanzou no Mon | Kodansha
 Hikaeme ni Itte mo, Kore wa Ai | Kodansha
-Honnou Switch | Kodansha
 Ienai Koi wa Kiss Iro | Kodansha
 Ikemen Kanojo to Heroine na Ore!? | Kodansha
 Is Love the Answer? | Kodansha
@@ -194,9 +191,7 @@ Kore wa Koi no Hanashi | Kodansha
 Kouga-san no Kamiguse | Kodansha
 Kuzu to Megane to Bungaku Shoujo (Nise) | Kodansha
 Love in Focus | Kodansha
-Mairimashita, Senpai | Kodansha
 Meguro-san wa Hajimete Janai | Kodansha
-Namida Ame to Serenade | Kodansha
 Odoru Respawn | Kodansha
 Onizuka-chan to Sawarida-kun | Kodansha
 Reiwa Hanamaru Gakuen | Kodansha
@@ -216,19 +211,15 @@ Kamuya Ride | Leed
 Kubidai Hikiukenin | Leed
 *3rd Life* | Life Series
 *Double Life* | Life Series
-*Last Life* | Life Series
 *Limited Life* | Life Series
 *Nice Life* | Life Series
 *Past Life* | Life Series
 *Real Life* | Life Series
-*Secret Life* | Life Series
 *Simple Life* | Life Series
-*Wild Life* | Life Series
-Paperbag-kun is in Love | LINE Corporation
+*Kitsch Wedding* | Literature
 Miracles of the Namiya General Store | Literature
 Night on the Galactic Railroad | Literature
 Remembrance of Earth's Past | Literature
-Kodoku no Gourmet | Live-Action
 Kusozako Choroin Nishiga Hachi | Mag Garden
 Farewell Song | Manhua
 P·boys | Manhua
@@ -253,7 +244,6 @@ Nijiura Maids | Memes
 🤔 | Memes
 Mako-san to Hachisuka-kun | Micro Magazine
 Natsume & Natsume | Micro Magazine
-*Kick the Buddy* | Mobile Games
 *King or Fail* | Mobile Games
 Last Cloudia | Mobile Games
 *Hunter's Notes* | Monster Hunter
@@ -262,13 +252,13 @@ Hitchcock | Music Videos
 In the Back Room | Music Videos
 Innocent Tyrant | Music Videos
 Natsumi Step! | Music Videos
-Say it. | Music Videos
-*The Devil's Plan* | Netflix Originals
+*Filly Funtasia* | My Little Pony-Like Series
 Hill Climb Girl | Nihon Animator Mihonichi
 Kuroi Sailor Fuku | Nihon Bungeisha
 Onecha. | Nihon Bungeisha
 Shiori's Diary | Nihon Bungeisha
-Showvember | Object Shows
+*Super New Dimension Game Neptunia Unlimited* | Nintendo Switch 2
+*Pokémon Picross* | Nonogram Games
 Shino-chan wa Jibun no Namae ga Ienai | Ohta Shuppan
 Records of the Deep Sea | Okegom
 Sunahama | Okegom
@@ -277,18 +267,16 @@ Amaranth | PC-98
 *Camp Pikachu* | Pikachu Shorts
 *Eevee & Friends* | Pikachu Shorts
 *Gotta Dance!* | Pikachu Shorts
-*Meloetta's Moonlight Serenade* | Pikachu Shorts
 *Pikachu and the Pokémon Music Squad* | Pikachu Shorts
 *Pikachu, What's This Key?* | Pikachu Shorts
 *Pikachu's Island Adventure* | Pikachu Shorts
 *Pikachu's Ocean Adventure* | Pikachu Shorts
 *Pikachu's PikaBoo* | Pikachu Shorts
-*PinocchioP* | PinocchioP's Works
 Uketsukejou ni Kokuhaku Shitakute Guild ni Kayoitsumetara Eiyuu ni Natteta | pixiv Media
-*Timmy's Sea Adventure* | Puzzle Games
 *Quatermass* | Quatermass Series
 *Quatermass and the Pit* | Quatermass Series
 *Quatermass II* | Quatermass Series
+Actors & Actresses | Real Life People
 Animators | Real Life People
 Artists | Real Life People
 Business Figures | Real Life People
@@ -301,10 +289,7 @@ Game Developers | Real Life People
 Models | Real Life People
 Seiyuu | Real Life People
 Orpheus no Mado | Riyoko Ikeda's Works
-*RoboCop 2* | RoboCop Series
-*RoboCop 3* | RoboCop Series
 *Bishōjo Senshi Sailor Moon R (Game)* | Sailor Moon Games
-*Bishōjo Senshi Sailor Moon S Kurukkurin* | Sailor Moon Games
 *Bishōjo Senshi Sailor Moon S: Jōgai Rantō!? Shuyaku Sōdatsusen* | Sailor Moon Games
 *Bishōjo Senshi Sailor Moon SuperS: Various Emotion* | Sailor Moon Games
 *Bishōjo Senshi Sailor Moon SuperS: Zenin Sanka! Shuyaku Soudatsusen* | Sailor Moon Games
@@ -313,7 +298,7 @@ Standby Say You! | SEGA
 *Haou Airen* | Sho-Comi
 *16-sai, Shinkon Hajimemashita.* | Shogakukan
 Jesus | Shogakukan
-Nekome Kozou | Shogakukan
+*Miharu's Seat of War* | Shogakukan
 Ookami wa Tsuki ni Koi wo Suru | Shogakukan
 Ore Dake ni Kamatte Maka-senpai | Shogakukan
 Sodachi Zakari no Oshiego ga Yakeni Emoi | Shogakukan
@@ -321,7 +306,7 @@ Tarepanda Goes on an Adventure | Shogakukan
 The Concierge at Hokkyoku Department Store | Shogakukan
 *Nido to Mezamenu Komoriuta* | Short Films
 Hana no Kishi Dakini | Shou Shibamoto's Works
-Ashita no Ousama | Shueisha
+*Alien Headbutt* | Shueisha
 Koukou Jidai ni Gouman Datta Joou-sama to no Dousei Seikatsu wa Igai to Ikigokochi ga Warukunai | Shueisha
 Nito no Joreishi | Shueisha
 Tsuppari-kun wa Mukuwarenai | Shueisha
@@ -334,10 +319,18 @@ Hate no Shoutsuushin | Shufu to Seikatsusha
 SMCU | SM Entertainment
 A-jang.com | South Korean Animation
 Telemonster | South Korean Animation
+*Awajima Hyakkei* | Spring 2026 Anime
+*Daikenja Riddle no Jikan Gyakkou* | Spring 2026 Anime
+*Ghost Concert* | Spring 2026 Anime
+*Kirio Fanclub* | Spring 2026 Anime
+*Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru* | Spring 2026 Anime
+*Megami 'Isekai Tensei Nani ni Naritai desu ka' Ore 'Yuusha no Rokkotsu de'* | Spring 2026 Anime
+*Tadaima, Ojamasaremasu!* | Spring 2026 Anime
+*Enigmatica* | Suiseisha
 Sinner | Sukima
 Hakata Mentai! Pirikarako-chan | Summer 2019 Anime
-Omega Mart | Surrealism Genre
 The Fuccons | Surrealism Genre
+*Skąd się Bierze Woda Sodowa* | Tadeusz Baranowski's Works
 *Chicken Cutlet Princess* | Taiwanese Media
 *Super Kong* | Taiwanese Media
 Osabori Jouzuna Komukai-san wa Ore wo Nogasanai! | Takeshobo
@@ -348,6 +341,8 @@ Tsunbaka | Takuma Yokota's Works
 *Tamagotchi! Data Carddass* | Tamagotchi Series
 Okawari-Boy Starzan S | Tatsunoko Production
 EXEcutional | Thai Media
+*3 from Hell* | The Firefly Trilogy
+*The Devil's Rejects* | The Firefly Trilogy
 Cauldron Bubble Poison Shop | The Imitation Crystal
 Game-Bu | The Imitation Crystal
 Star Eater | The Imitation Crystal
@@ -355,10 +350,10 @@ Wasteland with Crows | The Imitation Crystal
 The Dark Swordsman Returns | Time Travel Media
 Monkey Punch: Manga Katsudou Daishashin | TMS Entertainment
 The Adventures of the American Rabbit | Toei Animation
+*Brittany Hanayome Ibun* | Tokuma Shoten
 Tokyo Ghoul: Days | Tokyo Ghoul Series
 *Tokyo Ghoul: Past* | Tokyo Ghoul Series
 Tokyo Ghoul: Void | Tokyo Ghoul Series
-*Shopkins* | Toys
 *Live on Cardliver Kakeru* | Trading Card Games
 Transformers: Cyberverse | Transformers Franchise
 *Transformers: Exiles* | Transformers Franchise
@@ -372,17 +367,16 @@ Transformers: Cyberverse | Transformers Franchise
 *Transformers: Retribution* | Transformers Franchise
 *Transformers: War for Cybertron Trilogy* | Transformers Franchise
 *Angel!* | Triangle
-*Kite ne! Mahou Senshi no Gakuensai \~Fandisc no Otome-tachi\~* | Triangle
 *Mahou Senshi Exceed Knights -Aratanaru Sekai no Megami-tachi-* | Triangle
 *Mahou Senshi Lemmtear Knights 2 -Koware Yuku Sekai no Megami-tachi-* | Triangle
 *Mahou Senshi Symphonic Knights \~Megami o Tsugu Otome-tachi\~* | Triangle
 *Omakase☆Demakase Angel!! \~Chocolat to Milfy Shukufuku Shichau zo\~* | Triangle
 *SiREN (Film)* | V/H/S Series
-Dappervolk | Virtual Pets
 *Absent in the Rain* | Visual Novels
 *Haruka Naru Enkei Sekai* | Visual Novels
 A.I.VOICE | Voice Synthesizers
 *VOICEPEAK* | Voice Synthesizers
+*Sasaki-san wa Chotto dake Sugoi.* | Web Action
 Dear Immortal Tyrant | Web Novels
 I Unknowingly Rejected My Favorite | Web Novels
 Love Letter From The Future | Web Novels
@@ -393,7 +387,6 @@ Villain Retirement | Web Novels
 Epic and Jana | Webcomics
 Fantasy Frontier | Webcomics
 Monochrome | Webcomics
-Sanpakugan-chan no Ohanashi | Webcomics
 Yoshka | Webcomics
 Ako to Bambi | Webmanga
 Black Sesame Salt and Custard Pudding | Webmanga
@@ -406,10 +399,10 @@ Tororin Time | Webmanga
 *Clutch Cargo* | Western
 *Colonel Bleep* | Western
 Kids' Praise! | Western
-O loupežníku Rumcajsovi | Western
 The Bedfellows | Western
+*The DaVincibles* | Western
 *The Most Dangerous Game* | Western
-*Winx Club: The Magic Is Back* | Winx Club Series
+*Zodiac Girlz* | Western
 The Mystery Files of Detective Inaba | WOLF RPG Editor Games
 *Wonder Boy Returns* | Wonder Boy Series
 *WWE 2K18* | WWE 2K
@@ -419,7 +412,6 @@ The Mystery Files of Detective Inaba | WOLF RPG Editor Games
 *WWE SmackDown vs. Raw 2007* | WWE Series
 *WWE SmackDown vs. Raw 2008* | WWE Series
 *WWE SmackDown! vs. Raw 2006* | WWE Series
-Oni no Hanayome | Yōkai
 Shizuko wa Ore no Yome | Yōkai
 Pansuto | Young Champion Magazine
 Burger Brawl | YouTube
