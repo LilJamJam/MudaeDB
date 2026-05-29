@@ -3,7 +3,8 @@ The home of my files that relate to the custom database that I made from scrapin
 
 A short list of files I maintain:
 - SecondarySeriesBundles - All series and bundles who have no main characters
-- OneBundle - All series that are attached to one bundle
+- OneBundle - All series that are attached to one bundle, general bundles are excluded from the total bundle count
+- TwoBundle - Same as OneBundle but with two bundles
 - SuperSub - All pairs of bundles that are a subset of other bundles, includes series which are only contained within these pairs. Excludes general bundles.
 - SuperSubGeneral - Similar to SuperSub but covers general bundles (Anime, Manga, etc) only
 
