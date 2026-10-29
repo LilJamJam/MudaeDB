@@ -4,11 +4,11 @@
 
 General ($disableblock-ed) bundles (eg: Anime, Manga...) are excluded from calculations in this file, use the SuperSubGeneral file to see them.
 
-Number of known pairs: 20207 => \*\*21432\*\*
+Number of known pairs: 20207 => **21432**
 
-Number of unique super-bundles: 2185 => \*\*2280\*\* (26.9% of all bundles)
+Number of unique super-bundles: 2185 => **2280** (26.9% of all bundles)
 
-Number of unique sub-bundles: 5592 => \*\*5879\*\* (69.4%)
+Number of unique sub-bundles: 5592 => **5879** (69.4%)
 
 ## All Pairs
 
@@ -2980,7 +2980,7 @@ YouTube | YouTubers
 # List of Known Series Only Bundled in SuperSub Bundles
 
 Only includes series with one superbundle/parent, series with multiple are not considered.<br>
-Total series: 464 -> \*\*508\*\*<br>
+Total series: 464 -> **508**<br>
 
 Series | No. of Bundles
 ------ | ------
