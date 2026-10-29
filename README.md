@@ -7,6 +7,8 @@ A short list of files I maintain:
 - TwoBundle - Same as OneBundle but with two bundles
 - SuperSub - All pairs of bundles that are a subset of other bundles, includes series which are only contained within these pairs. Excludes general bundles.
 - SuperSubGeneral - Similar to SuperSub but covers general bundles (Anime, Manga, etc) only
+- SuperSubCTT (CV excluded) - All pairs of tags that are a subset of other tags, and both tags in the pair are NOT in the CV Category.
+- SuperSubCTT (CV only) - All pairs of tags that are a subset of other tags, and both tags in the pair are in the CV Category.
 
 ### My personal Mudae DB now includes site-exclusive data which is not found in the Discord bot.
 
