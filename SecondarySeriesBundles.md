@@ -835,13 +835,13 @@ Zork Series<br>
 'Ore, Nanka Okashii ka?' Amami Ryuuki wa Seito Shidouchuu!<br>
 'Otaku-kun' ni Yasashii Gal<br>
 'Sokubaku' no Tsuyoi Futanari Kanojo to Suki na Dake<br>
-/*batteries not included<br>
+\*batteries not included<br>
 +44<br>
 -ESCAPE-<br>
 -PURSUIT-<br>
 .45 PARABELLUM BLOODHOUND - Cyberpunk Active Time Action<br>
 .hack//frägment<br>
-0-ji no Kane to Cinderella /~Halloween Wedding/~<br>
+0-ji no Kane to Cinderella \~Halloween Wedding\~<br>
 0.0000001% Demon Lord<br>
 007: Everything or Nothing<br>
 007: First Light<br>
@@ -861,7 +861,7 @@ Zork Series<br>
 1080° Avalanche<br>
 1080° Snowboarding<br>
 11-Sai Toshishita no Onnanoko ni Skinship Sareru Hanashi<br>
-12-ji no Kane to Cinderella /~Halloween Wedding/~<br>
+12-ji no Kane to Cinderella \~Halloween Wedding\~<br>
 125, rue Montmartre<br>
 1408<br>
 15&<br>
@@ -881,7 +881,7 @@ Zork Series<br>
 2112: The Birth of Doraemon<br>
 213<br>
 24-Hour Rebirth Consultation Center<br>
-24-ji no Kane to Cinderella /~Halloween Wedding/~<br>
+24-ji no Kane to Cinderella \~Halloween Wedding\~<br>
 28 Weeks Later<br>
 28 Years Later: The Bone Temple<br>
 2DK, G Pen, Mezamashi Tokei.<br>
@@ -912,9 +912,9 @@ Zork Series<br>
 45 Seconds<br>
 48 Hrs.<br>
 4Minute<br>
-5-toubun no Hanayome /~Kanojo to Kawasu Itsutsu no Yakusoku/~<br>
-5-toubun no Hanayome ∬ /~Natsu no Omoide mo Go-toubun/~<br>
-5-toubun no Princess /~ Gensou to Shin'en to Mahou Gakuin /~<br>
+5-toubun no Hanayome \~Kanojo to Kawasu Itsutsu no Yakusoku\~<br>
+5-toubun no Hanayome ∬ \~Natsu no Omoide mo Go-toubun\~<br>
+5-toubun no Princess \~ Gensou to Shin'en to Mahou Gakuin \~<br>
 50 Cent: Blood on the Sand<br>
 50 Cent: Bulletproof<br>
 50 Ways to Leave a Psychopathic Villain<br>
@@ -929,7 +929,7 @@ Zork Series<br>
 7 Days to Die<br>
 7 Grand Dad<br>
 70 Oku no Hari<br>
-77 (Sevens) /~And, two stars meet again/~<br>
+77 (Sevens) \~And, two stars meet again\~<br>
 7th Dragon 2020-II<br>
 7th Period<br>
 7x1 NANA ni KAKEru ICHI<br>
@@ -941,7 +941,7 @@ Zork Series<br>
 93Punx<br>
 99 Degrees Fahrenheit<br>
 [Hihou] Komyuryoku 0 Otaku Shoujo, Dragon wo One Punch de Shizumete Yuumei Haishinsha wo Tasuketara Fuhon'i Buzz ga Tomaranai<br>
-[Kuroinu Gaiden] Elf Mura no Kanraku /~Chijoku to Kairaku no Utage/~<br>
+[Kuroinu Gaiden] Elf Mura no Kanraku \~Chijoku to Kairaku no Utage\~<br>
 _____<br>
 A Bad Case Of Stripes<br>
 A Beginner's Guide to Hiding Zombies<br>
@@ -1183,8 +1183,8 @@ Air Force One<br>
 Air Zonk<br>
 AirMech<br>
 Airplane!<br>
-Aisai /~Tsuma to Oyaji Dake no Toki/~<br>
-Aisaika /~Tsuma o Dakaseru Otto no Yugame/~<br>
+Aisai \~Tsuma to Oyaji Dake no Toki\~<br>
+Aisaika \~Tsuma o Dakaseru Otto no Yugame\~<br>
 Aisha's Futa Diaries<br>
 Aishite Ii no wa, Karada dake<br>
 Aishuu Souai<br>
@@ -1214,7 +1214,7 @@ Akujo Alicia no Kyuukoku Recipe<br>
 Akuma ga Hallelujah<br>
 Akuma to Dolce<br>
 Akumaharai Evangeline -Kokumareta Inmon-<br>
-Akuyaku ni Narenakatta Tsuihou Reijou wa Amaku Yasashiku Toroka Sareru /~Jujutsushi to Futarikiri, Dekiai no 10-nichikan/~<br>
+Akuyaku ni Narenakatta Tsuihou Reijou wa Amaku Yasashiku Toroka Sareru \~Jujutsushi to Futarikiri, Dekiai no 10-nichikan\~<br>
 Akuyaku Reijou ga Sei Heroine wo Kudoki Otosu Hanashi<br>
 Akuyaku Reijou wa Single Mother ni Narimashita: Futago wo Hikitorimashitaga Koushaku-sama kara no Dekiai wa Souteigai desu<br>
 Aladdin in Nasira's Revenge<br>
@@ -1365,7 +1365,7 @@ Anal Angel<br>
 Anal Blast<br>
 Anand<br>
 Anata e Sasageru Sadistic<br>
-Anata ga Iru no ni Netorarechau /~Onna no Ko Doushi no Aida ni Watte Hairu Jogakuen Dansei Kyouin/~<br>
+Anata ga Iru no ni Netorarechau \~Onna no Ko Doushi no Aida ni Watte Hairu Jogakuen Dansei Kyouin\~<br>
 Anata no Oshiro no Kobito-san: Gohan Kudasai, Hatarakimasu<br>
 Anata to Watashi no Amai Hitotoki<br>
 Anata wa Watashi no Geboku desu: Neko to Geboku no Himitsu no Kankei<br>
@@ -1379,7 +1379,7 @@ Anders als die Andern<br>
 Anderson Bruford Wakeman Howe<br>
 Andorozon<br>
 Andy Pandy<br>
-Ane Ane Z Saimin /~Sumaho Saimin Souchi de Bakunyuu Ane-domo ni Saimin Choukyou, Kichiku Netori de Haramasete Yaru!/~<br>
+Ane Ane Z Saimin \~Sumaho Saimin Souchi de Bakunyuu Ane-domo ni Saimin Choukyou, Kichiku Netori de Haramasete Yaru!\~<br>
 Ane ga Ole o Konnani Shimashita<br>
 Ane no Seiyoku Shori wa Ototo ga Suru Monoda to, Gitei wa Omoi Hajimete Iru.<br>
 Ane wo Suki na Onee-san to<br>
@@ -1664,7 +1664,7 @@ Axis of Justice<br>
 Aya (umemaro)<br>
 AYAKA is in LOVE with HIROKO!<br>
 Ayakashi-kan e Youkoso!<br>
-Ayane Oujousama wa Sanova B/*/*chi ni Araserareru<br>
+Ayane Oujousama wa Sanova B\*\*chi ni Araserareru<br>
 Ayase-san wo Warawasetai<br>
 Ayashiki Tougenkyou no Arias<br>
 Azelda: The Elementalist's Contract Marriage<br>
@@ -1756,7 +1756,7 @@ Bakunyuu Celeb Tsuma Osawari Sharyou 'Iya, Dame, Sawaranaide! Kore Ijou Saretara
 Bakunyuu Hitozuma ga Gitei ni Netorareru Hanashi<br>
 Bakunyuu Inkya wa Gyaku NTR-ru!!<br>
 Bakunyuu Inran Katei Kyoushi<br>
-Bakunyuu Layer Ore no Haramase Niku Onaho! /~Tomodachi no Kanojo o Netori Koubi de Chin Kobi Layer ni!/~<br>
+Bakunyuu Layer Ore no Haramase Niku Onaho! \~Tomodachi no Kanojo o Netori Koubi de Chin Kobi Layer ni!\~<br>
 Bakunyuu Onna Kishi Konna Zako Monster ga Watashi no Nakama! Nan no Joudan da<br>
 Bakunyuu Onna Tomodachi no Katachi o shita Nanika to Mechakucha Haitoku Sex suru Hanashi<br>
 Balala The Fairies<br>
@@ -1781,7 +1781,7 @@ Bane Murrain<br>
 BanG Dream! Ave Mujica<br>
 BanG Dream! GARUPA☆PICO<br>
 BanG Dream! GARUPA☆PICO Fever!<br>
-BanG Dream! GARUPA☆PICO /~Ohmori/~<br>
+BanG Dream! GARUPA☆PICO \~Ohmori\~<br>
 BanG Dream! Girls Band Party!<br>
 BanG Dream! It's MyGO!!!!!<br>
 BanG Dream! Our Notes<br>
@@ -2040,8 +2040,8 @@ Bigfoot vs. D.B. Cooper<br>
 Bigfoot vs. The Illuminati<br>
 Biggles<br>
 Bigley's Revenge<br>
-Bijukujo Kyoushi no Mesu Anasha Seikyouiku /~Gakuen DQN wa Jukujo Hole de Oshioki yo♪/~<br>
-Biki Claudia wa Haramase Onaho/~Koketsuna Hime ga Chin Make Kuppuku , Oi mo Idenshi mo Sashidashi Kobi Akume/~<br>
+Bijukujo Kyoushi no Mesu Anasha Seikyouiku \~Gakuen DQN wa Jukujo Hole de Oshioki yo♪\~<br>
+Biki Claudia wa Haramase Onaho\~Koketsuna Hime ga Chin Make Kuppuku , Oi mo Idenshi mo Sashidashi Kobi Akume\~<br>
 Bikibiki Gakuen<br>
 Bikini Armor Yuusha ni Tensei Shita Moto Joshi Chuugakusei-chan no (H na) Isekai Boukentan♡<br>
 Bill Bruford's Earthworks<br>
@@ -2089,7 +2089,7 @@ Bishōjo Senshi Sailor Moon SuperS: Various Emotion<br>
 Bishōjo Senshi Sailor Moon SuperS: Zenin Sanka! Shuyaku Soudatsusen<br>
 Bitch Gal JK wa Tannin o Moteasobu<br>
 Bitch Gal Sanshimal Harem Sakusei<br>
-Bitch Rich Party! /~Gyaru Ojou-sama no Tonogata Ikinuki Keikaku/~<br>
+Bitch Rich Party! \~Gyaru Ojou-sama no Tonogata Ikinuki Keikaku\~<br>
 Bitch X Rich<br>
 Bitten and Bound<br>
 Bittersweet Blossoms<br>
@@ -2242,7 +2242,7 @@ Boku dake Yobare Nakatta Onaho Gasshuku<br>
 Boku ga Shiai ni Maketa kara…♥<br>
 Boku ga Shiranai Senpai no Shumi — Okurarete Kita no wa Maikuro Bikini Onanii Douga —<br>
 Boku Igai Zennin Tenseisha Ka Yo!?<br>
-Boku Katsu Life /~Tomodachi no Otouto-kun to 'Game Suru Naka' kara 'Cosplay Sex Suru Kankei' ni Naru made/~<br>
+Boku Katsu Life \~Tomodachi no Otouto-kun to 'Game Suru Naka' kara 'Cosplay Sex Suru Kankei' ni Naru made\~<br>
 Boku ni Haishin Bare shita U-Cup Chinkobi Joshi Amino-san<br>
 Boku no Hero, Masoiki Nikubenki Ochi<br>
 Boku no Imouto wa 'Osaka Okan'<br>
@@ -2264,7 +2264,7 @@ Bokujou no Tanetsuke Beit ni Ukatta Boku<br>
 BOKURA<br>
 Bokura no Ai wa Kimochi Warui<br>
 Bokura no Megami sama wa…<br>
-Bokura wa Minna /*nde Iru<br>
+Bokura wa Minna \*nde Iru<br>
 Bokutachi, Otaku Tomodachi<br>
 Bolts and Blip<br>
 Bom-ui Solineun Machi Neowa Dalm-aseo<br>
@@ -2304,7 +2304,7 @@ Boss Reverse<br>
 Boston Blackie<br>
 Botanicula<br>
 Bottle Rocket<br>
-Bouken-ka ni Narou! /~Skill Board de Dungeon Kouryaku/~<br>
+Bouken-ka ni Narou! \~Skill Board de Dungeon Kouryaku\~<br>
 Boukensha wo Kubi ni Natta no de, Renkinjutsushi to Shite Denaoshimasu! - Henkyou Kaitaku? Yoshi, Ore ni Makase Toke!<br>
 Bounce Tales<br>
 Bouncers<br>
@@ -2438,12 +2438,12 @@ Buhi no Tame ni Josou shitara Koufun shita Senpai-tachi ni Teisou o Ubawaremashi
 Buhi no Tame ni Ouendan ni Ittara Taiikukai-kei Nori de Otokonoko Namahame Sex saseraremashita<br>
 BUILT IN LOVE<br>
 Buio Omega<br>
-Buka Ore x Onna Joushi/Kashidashi Play = ??? /~Buka no Ore ni Kashidasareta Hitozuma Onna Joushi, Yukana/~<br>
+Buka Ore x Onna Joushi/Kashidashi Play = ??? \~Buka no Ore ni Kashidasareta Hitozuma Onna Joushi, Yukana\~<br>
 Bukimi no Tani-kun<br>
 Bulbo's Belief System<br>
 Bulldog Drummond<br>
 Bullet in the Head<br>
-Bulletphilia-tachi no Yami-Ichiba /~ 100th Black Market<br>
+Bulletphilia-tachi no Yami-Ichiba \~ 100th Black Market<br>
 Bulletstorm<br>
 Bulworth<br>
 Bungaku Shoujo to Osananajimi-kun<br>
@@ -2478,7 +2478,7 @@ Butt Attack Punisher Girl Gautaman<br>
 Butterfly Tale<br>
 Buttobi! Harpy Girl<br>
 Button Man<br>
-Buzoku NTR /~Boku no Tsuma ga Minamitaiheiyou no Kotou ni Kurasu Rinri-kan 0 Razoku No Ichiin ni Naru made no Kiroku/~<br>
+Buzoku NTR \~Boku no Tsuma ga Minamitaiheiyou no Kotou ni Kurasu Rinri-kan 0 Razoku No Ichiin ni Naru made no Kiroku\~<br>
 Buzz! Junior: Jungle Party<br>
 Buzz!: Brain Bender<br>
 Buzz!: Brain of the World<br>
@@ -2788,7 +2788,7 @@ Chloe x Halle<br>
 Choose Me<br>
 Chop Socky Chooks<br>
 Choro Mesu Days<br>
-Chotto Ecchi na Maid no Hibi /~Sei no Mezame/~<br>
+Chotto Ecchi na Maid no Hibi \~Sei no Mezame\~<br>
 Chou Jigen Game Neptune: High School<br>
 Chou no Doku Hana no Kusari<br>
 Choubatsu Bou -β-<br>
@@ -2816,7 +2816,7 @@ Chuck's Challenge 3D<br>
 Chuck's Choice<br>
 Chuckie Egg<br>
 Chucklewood Critters<br>
-Chulip x Wonder! /~Kiss Shinaito Derarenai Heya/~<br>
+Chulip x Wonder! \~Kiss Shinaito Derarenai Heya\~<br>
 CID the Dummy<br>
 Cidade Invisível<br>
 Cinderella at 2 A.M.<br>
@@ -3183,7 +3183,7 @@ Daily life with my succubus boss<br>
 Dairy Farmers Wei And Tao<br>
 Daisuki datta Senpai ga AV Haiyuu da nante Gaman dekiru to Omoimasu ka (Muri datta!!)<br>
 Daisuki! Yuri<br>
-Dakkoshite Gyu! /~Ore no Yome wa Dakimakura/~<br>
+Dakkoshite Gyu! \~Ore no Yome wa Dakimakura\~<br>
 Dame Kanshu x Shuujin -Gyakuten-<br>
 Damien: Omen II<br>
 DAMON and BABY<br>
@@ -3213,7 +3213,7 @@ Dangerous Obsessions<br>
 Dangerous Shelter<br>
 Daniel Howell<br>
 DanMachi BATTLE CHRONICLE<br>
-Danmaku Amanojaku /~ Impossible Spell Card<br>
+Danmaku Amanojaku \~ Impossible Spell Card<br>
 Danna Daisuki Nagachichi Hitozuma Gal ga Otonari-san no Seishori Pet ni Naru Made<br>
 Danshi Kinsei Majo no Kuni ni Nyotaika Skill de Nyuukoku Shite Mita<br>
 Danshi Koukousei ga Mahou Shoujo ni Naru Hanashi<br>
@@ -3386,9 +3386,9 @@ Dekachin Futanari Gal<br>
 Dekakute Eroi Doukyuusei<br>
 Dekakute Eroi Gal<br>
 Dekanomos<br>
-Dekapai Atashiko Haishinsha ni Nama Dildo no Pet ni Sarechaimashita /~Anta no Chinpo mo Jinsei mo Atashira no Mon dakara ne/~<br>
+Dekapai Atashiko Haishinsha ni Nama Dildo no Pet ni Sarechaimashita \~Anta no Chinpo mo Jinsei mo Atashira no Mon dakara ne\~<br>
 Dekapai Kakutouka no Kutsujyokuteki Haiboku Monogatari<br>
-Dekapai♥Namaiki♥Imouto Maou♥ /~Dekachin♂Gachi Iki Toubatsuki/~<br>
+Dekapai♥Namaiki♥Imouto Maou♥ \~Dekachin♂Gachi Iki Toubatsuki\~<br>
 Dekka wa Kuuruna Osananajimi wa, Boku wo Dorodoro ni Amayakasu<br>
 Delibunny<br>
 Delicate Condition<br>
@@ -3502,7 +3502,7 @@ Dezicon<br>
 Di4ri<br>
 Diablo V<br>
 Diabolik<br>
-Diabowi /~Oku-sama wa Anata Gonomi no Oppai ni Narugoto o Nozondeiru/~<br>
+Diabowi \~Oku-sama wa Anata Gonomi no Oppai ni Narugoto o Nozondeiru\~<br>
 Diamond no Kuni no Alice<br>
 Diamond Rush<br>
 Diary of a Wimpy Kid (2010)<br>
@@ -3530,7 +3530,7 @@ DIE!Namite Lives!<br>
 Die2Nite<br>
 Diego (Manhwa)<br>
 Dies Iræ<br>
-Diet-trooper! Carrotman! /~ The Invasion of Lardron! Unhealthy Food Takes Over The World!? /~<br>
+Diet-trooper! Carrotman! \~ The Invasion of Lardron! Unhealthy Food Takes Over The World!? \~<br>
 Digimon Adventure 01<br>
 Digimon Adventure 02<br>
 Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals<br>
@@ -3627,7 +3627,7 @@ Do Androids Dream of Electric Sheep?<br>
 Do Do Sol Sol La La Sol<br>
 Do It for the Fans, Not Me!<br>
 Do or Die<br>
-Do S na OL Joou-sama /~Toshishita no Buka ni M Otoko Choukyou Sareru Joushi/~<br>
+Do S na OL Joou-sama \~Toshishita no Buka ni M Otoko Choukyou Sareru Joushi\~<br>
 Do Sukebe Kunoichi Momoka-san Chibi Deshi no Dekachin ga Kimochi Yosugite Dekashiri Yurashi Makuri<br>
 Do the Right Thing<br>
 Do You Like Brahms?<br>
@@ -3696,7 +3696,7 @@ Dokibird Ch.<br>
 Dokidoki★Girls Dance Club<br>
 Dokkaebi Ritual<br>
 Dokkiri Donkey<br>
-Dokushin Kizoku wa Isekai o Ouka Suru /~Kekkon Shinai Otoko no Yuuga na Ohitori-sama Life/~<br>
+Dokushin Kizoku wa Isekai o Ouka Suru \~Kekkon Shinai Otoko no Yuuga na Ohitori-sama Life\~<br>
 Dolan<br>
 Dolfje Weerwolfje<br>
 Dolittle<br>
@@ -3752,7 +3752,7 @@ Doom: Satsujin Keisatsukan no Danzairoku<br>
 Doomed Brothers<br>
 Doonesbury<br>
 Dope Rider: A Fistful of Delirium<br>
-Dopocchari Kuikomi M Musume /~Sensei, Watashi, Nuganakute mo Sugoindesu!/~<br>
+Dopocchari Kuikomi M Musume \~Sensei, Watashi, Nuganakute mo Sugoindesu!\~<br>
 Doppelganger Zero<br>
 Doppio Senso<br>
 Dora and Friends: Into the City!<br>
@@ -3764,14 +3764,14 @@ Doraemon Yuujou Densetsu<br>
 Dorami & Doraemons: Robot School's Seven Mysteries<br>
 Dorami & Doraemons: Space Land's Critical Event<br>
 Dordogne<br>
-Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta /~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru/~<br>
+Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta \~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru\~<br>
 Dorei Tenshi<br>
 Dorico no Toshokan<br>
 Dossouye<br>
 Dosukebe Bakunyuu Gal no Seishori Iinkai Katsudou<br>
 Dosukebe Dark Elf-san to Otameshi Fuufu Seikatsu<br>
 Dosukebe Haishinsha Kanojo no Dekachin Soku Make NTR Houkoku<br>
-Dosukebe Mama♪ /~Boku no Mama wa, (Seiteki ni) Chou Kahogo/~<br>
+Dosukebe Mama♪ \~Boku no Mama wa, (Seiteki ni) Chou Kahogo\~<br>
 Double Dragon (Movie)<br>
 Double Dragon (TV)<br>
 Double Dragon III: The Sacred Stones<br>
@@ -3786,10 +3786,10 @@ Doukyonin ni Kataomoi Shiteru Yuri Manga<br>
 Doukyuusei Fuzoku<br>
 Dounia et la Princesse d'Alep<br>
 Douse Shinu kara, Suki ni Shite<br>
-Doutei Danshi to Bichiko-chan /~Himitsu no Hame Pako Kagai Jugyou/~<br>
+Doutei Danshi to Bichiko-chan \~Himitsu no Hame Pako Kagai Jugyou\~<br>
 Doutei Otaku to no Sex ga Ii Hazu ga Nai<br>
 Down and Dirty Duck<br>
-Downer Gyaruko-chan to Shippori Onsen Ryokou /~H Shimakuri Yonpaku Itsuka no Tabi/~<br>
+Downer Gyaruko-chan to Shippori Onsen Ryokou \~H Shimakuri Yonpaku Itsuka no Tabi\~<br>
 Downer Maid no Jimuteki Ochinpo Gohoushi<br>
 Downer Onee-sama wa Mae mo Ushiro mo Aishitai<br>
 Dr Kawashima's Brain Training for Nintendo Switch<br>
@@ -4027,7 +4027,7 @@ Ebirah, Horror of the Deep<br>
 Ebisu-san to Hotei-san<br>
 Ebony Castle<br>
 Ecchi na Fuushuu ga aru Kaso Shuuraku no Ohanashi<br>
-Ecchi na Menu Hajimemashita! /~Yariman JK no FamiRes Gohoushi Arbeit/~<br>
+Ecchi na Menu Hajimemashita! \~Yariman JK no FamiRes Gohoushi Arbeit\~<br>
 Ecchi na Otokonoko to Ichaicha Shite Iyasaretai<br>
 Ecchi na Otokonoko to Papakatsu Shite Iyasaretai<br>
 Ecchi na Otokonoko to Vacance ni Itte Iyasaretai<br>
@@ -4054,7 +4054,7 @@ Education!! Succubus♂-kun<br>
 Eetu ja Konna<br>
 Eevee & Friends<br>
 Effigy<br>
-Eiga 5-toubun no Hanayome /~Kimi to Sugoshita Itsutsu no Omoide/~<br>
+Eiga 5-toubun no Hanayome \~Kimi to Sugoshita Itsutsu no Omoide\~<br>
 Eighth Grade<br>
 Eigyou Mahou Shoujo ga Kiss Shitara<br>
 Eiketsu Taisen<br>
@@ -4132,7 +4132,7 @@ Enemy Zero<br>
 Engacho!<br>
 Engan no Cyclops<br>
 Enigmatica<br>
-Enkou Now (/*＾ε＾/*) /~Donna Ecchi na Onegai mo Suppo Shidai de OK♪/~<br>
+Enkou Now (\*＾ε＾\*) \~Donna Ecchi na Onegai mo Suppo Shidai de OK♪\~<br>
 Enomoto-senpai wa Tenshi Nanka Janai<br>
 Enter the Dragon<br>
 Enter the Gungeon 2<br>
@@ -4621,7 +4621,7 @@ Fruit Ninja: Frenzy Force<br>
 Fruit, Gateau au Chocolat<br>
 Fruits Basket -prelude-<br>
 Fu-fu<br>
-FUBUKI /~zero in on Holoearth/~<br>
+FUBUKI \~zero in on Holoearth\~<br>
 Fudajo! - Otome Shoukan Datsui Taisen<br>
 Fudanshi Tenshi<br>
 Fuga: Melodies of Steel 3<br>
@@ -4658,7 +4658,7 @@ Furyou-chan to Kotatsu de Nukunuku Suru Oomisoka.<br>
 Furyouppoi Kanojo to Asedaku de Daradara Shitai Natsu.<br>
 Furyouppoi Kanojo to Daradara Cosplay kusu.<br>
 Furyouppoi Kanojo to Daradara Omocha de Mou Ikkai.<br>
-Fushi no Kami /~Henkyou kara Hajimeru Bunmei Saiseiki/~<br>
+Fushi no Kami \~Henkyou kara Hajimeru Bunmei Saiseiki\~<br>
 Fushi Tantei, Reidou Momiji<br>
 Fushigi Tsuushin: Toilet no Hanako-san<br>
 Fusionfall<br>
@@ -4757,7 +4757,7 @@ Gadget Trial<br>
 Gagamba<br>
 Gajuu<br>
 Gakeppuchi Reijou wa Mukiryoku Akuma de Otome o Sutetai<br>
-Gakeppuchi Reijou wa Mukiryoku Akuma de Otome o Sutetai/~Devil's Nightmare/~<br>
+Gakeppuchi Reijou wa Mukiryoku Akuma de Otome o Sutetai\~Devil's Nightmare\~<br>
 Gakkou de Guuzen Onnanoko no 'Himitsu' o Shitte Shimatta Ohanashi<br>
 Gakkou Ichi no Bishoujo to Shinyuu Doushi no Renai Soudan ni Notte Itara, Itsunomanika Kanojo ga Dare Yori mo Chikai Sonzai ni Natteta Ken<br>
 Gakuen Game Neptune: Katsudou Diary<br>
@@ -4778,7 +4778,7 @@ Galactic Taz Ball<br>
 Galaxic Baseball League<br>
 Galaxy Fantasy<br>
 Gale of the God<br>
-Galfro /~Gal's Frontier/~<br>
+Galfro \~Gal's Frontier\~<br>
 Gal☆Cleaning!<br>
 Game & Watch Gallery<br>
 Game & Watch Gallery 2<br>
@@ -4919,8 +4919,8 @@ Giants in the Trees<br>
 Gibbon: Beyond the Trees<br>
 Gibby Haynes and His Problem<br>
 Gibo no Omocha ni Sareta Boku<br>
-Gibo no Shizuku /~Shimetta Hada kara Kaoritatsu Amai Iroka/~<br>
-Gibo no Toiki /~Haitokushin ni Tadayou Haha no Iroka/~<br>
+Gibo no Shizuku \~Shimetta Hada kara Kaoritatsu Amai Iroka\~<br>
+Gibo no Toiki \~Haitokushin ni Tadayou Haha no Iroka\~<br>
 Gibo Ochi<br>
 Gichigichi-kun<br>
 Gidget<br>
@@ -4948,9 +4948,9 @@ GioGio's Bizarre Adventure II: Golden Heart, Golden Ring<br>
 Girl Genius: Adventures in Castle Heterodyne<br>
 Girl Meets World<br>
 Girl Saurus<br>
-Girl tutor who is kind to only me/~<br>
+Girl tutor who is kind to only me\~<br>
 Girl Under Trial<br>
-Girl's Blossom Project /~Unbelievable Real Love/~<br>
+Girl's Blossom Project \~Unbelievable Real Love\~<br>
 Girlfriend From Abroad<br>
 Girlfriend Who Absolutely Doesn't Want to Take a Bath VS Boyfriend Who Absolutely Wants Her to Take a Bath<br>
 Girls and the King's Tea Party<br>
@@ -5041,7 +5041,7 @@ Gogmagog<br>
 Gogo Kyuu Ji, Veranda Goshi no Megami Senpai wa Boku dake no Mono<br>
 Gohoubi to Shiawase no Silene<br>
 Gohoubi Training<br>
-Gohoubi wa Karada de. /~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto/~<br>
+Gohoubi wa Karada de. \~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto\~<br>
 Goin' Down the Road<br>
 Going the Extra Inch<br>
 Gojitsutan<br>
@@ -5049,7 +5049,7 @@ Gokigen Lovely Days<br>
 Gokko wa Oshimai<br>
 Gokufutsuu no Onnanokotachi ga Nikutai wo Kaizousare Ikasare Tsuzuke Onahoshouhin toshite Shukkasareru made<br>
 Gokuhin-chan ga Papa-Katsu shite, Love Love Fuufu ni naru Hanashi<br>
-Gokukano! /~Tama Torasetemoraimasu!/~<br>
+Gokukano! \~Tama Torasetemoraimasu!\~<br>
 Gokumon Nadeshiko Koko Ni Ari<br>
 Gold Medal Coach<br>
 Gold Miner<br>
@@ -5067,7 +5067,7 @@ Goldie & Bear<br>
 Golem Hearts<br>
 Golf (NES)<br>
 Gomer Pyle, U.S.M.C.<br>
-Gomibako-gurashi no Seijo-sama /~Gomi Atsukai no Kodai Mahou Dougu wo Naoshitari, Tsuihou Boukensha wo Naoshitari no Slow Life/~<br>
+Gomibako-gurashi no Seijo-sama \~Gomi Atsukai no Kodai Mahou Dougu wo Naoshitari, Tsuihou Boukensha wo Naoshitari no Slow Life\~<br>
 GON (Game)<br>
 Gone Girl<br>
 Gone Golfing<br>
@@ -5149,7 +5149,7 @@ Great American String Band<br>
 Great Animal Kaiser<br>
 GREAT DECEIVER<br>
 Great Expectations<br>
-Great Fairy Wars /~ Touhou Sangetsusei<br>
+Great Fairy Wars \~ Touhou Sangetsusei<br>
 Greed<br>
 Green Bullfrog<br>
 Green Jellÿ<br>
@@ -5240,12 +5240,12 @@ Guyframe<br>
 Guys and Dolls<br>
 Gyaku Bunny to White Day Kai<br>
 Gyakushuu no Orc<br>
-Gyaru Ane Z /~Gachi Kimochiii!! Atashi-tachi ga Anta no Niku Onaho ni Natte Yaru!!/~<br>
+Gyaru Ane Z \~Gachi Kimochiii!! Atashi-tachi ga Anta no Niku Onaho ni Natte Yaru!!\~<br>
 Gyaru Milk<br>
 Gyaru mo Yasai mo Kuwazugirai<br>
 Gyaru Shinkan wa Rizare ga Darui<br>
 Gyaru to Couture: Ariake Momo wa Fuku wo Tsukutte Yuushou suru Koto ni shita<br>
-Gyaru to Papakatsu /~Yarichin Chuunen Oji no Enjoy PacoPaco Life/~<br>
+Gyaru to Papakatsu \~Yarichin Chuunen Oji no Enjoy PacoPaco Life\~<br>
 Gyeongseong Creature<br>
 Gyeonwoo and Fairy<br>
 GYM GRIND<br>
@@ -5274,10 +5274,10 @@ Hagane to Wakaba<br>
 Hagane: The Final Conflict<br>
 Hagrid's Magical Creatures Motorbike Adventure<br>
 Haha ga Keiei Shiteiru no wa Isekai Yuri Sakaba nano ka!?<br>
-Haha no Omanko ni Mosaic o Kakeru Boku /~Okaa-san wa Shakkin Dorei/~<br>
+Haha no Omanko ni Mosaic o Kakeru Boku \~Okaa-san wa Shakkin Dorei\~<br>
 Haha, You Clowns<br>
 Hai Hai Shidou Shidou<br>
-Haiboku. /~Boku no Aya-nee ga Ochiru made/~<br>
+Haiboku. \~Boku no Aya-nee ga Ochiru made\~<br>
 Haikaburi Ojisan to Neko Ouji<br>
 Haikei, Arishi Hi ni Saku Hanatachi e<br>
 Haikyo de Jirai Joshi to Yonaka-juu Nakadashi Sex Shita Hanashi<br>
@@ -5329,7 +5329,7 @@ Hammock Brothers<br>
 HamuHamu♪<br>
 Han River Police<br>
 Hana Awase<br>
-Hana Oboro /~Sengoku-den Ranki/~<br>
+Hana Oboro \~Sengoku-den Ranki\~<br>
 Hana to Gin<br>
 Hana Tokidoki Kuma<br>
 Hana's Demons of Lust<br>
@@ -5427,7 +5427,7 @@ Hatchet II<br>
 Hatchet III<br>
 Hate Plus<br>
 Hatsuhime Yuugi<br>
-Hatsujou Exorcist! /~Harau to Hatsujou Suru Ojou-sama ni Tsukaetemasu./~<br>
+Hatsujou Exorcist! \~Harau to Hatsujou Suru Ojou-sama ni Tsukaetemasu.\~<br>
 Hatsujou Futanari Musume to Mesu Ochi Papa<br>
 Hatsujou Sakari no Onaho-san.<br>
 Hatsujouki Dakara Shikatanai<br>
@@ -5458,7 +5458,7 @@ Headhunter<br>
 Healing Paradox<br>
 Heart Break Comics<br>
 Heart Eyes<br>
-Heart no Kuni no Alice /~Wonderful Twin World/~<br>
+Heart no Kuni no Alice \~Wonderful Twin World\~<br>
 Heart of Darkness<br>
 Heart of Darkness (Novel)<br>
 Heart of Thorns<br>
@@ -5580,10 +5580,10 @@ Hidden<br>
 Hidden Addiction [Entertainment Industry]<br>
 Hidden Block<br>
 Hidden Mysteries: Titanic<br>
-Hifuu Nightmare Diary /~ Violet Detector<br>
+Hifuu Nightmare Diary \~ Violet Detector<br>
 Higan de Rendezvous<br>
 Higawari Wig no Katsura-san<br>
-High Angle /~Osananajimi no Volley-bu Ace ga, Ore ni dake Amaetekuru/~<br>
+High Angle \~Osananajimi no Volley-bu Ace ga, Ore ni dake Amaetekuru\~<br>
 High Anxiety<br>
 High On Life 2<br>
 High Plains Drifter<br>
@@ -5629,16 +5629,16 @@ Hill Climb Racing<br>
 Himbo 101<br>
 Hime to Boin<br>
 Himei -Chikashitsu ni Torawareta 11 Nin-<br>
-Himejima Gakuen Shimaikou /~Ochikobore no Kyoushitsu/~<br>
+Himejima Gakuen Shimaikou \~Ochikobore no Kyoushitsu\~<br>
 Himekishi Alicia no Junan<br>
 Himekishi Sharon to Isekai no Yuusha<br>
 Himematsuri<br>
-Himeno Style 1 /~Ore Dake o Motomeru Bakunyuu Bunny o Hitorijime suru Amakute Noumitsu na Yoru/~<br>
+Himeno Style 1 \~Ore Dake o Motomeru Bakunyuu Bunny o Hitorijime suru Amakute Noumitsu na Yoru\~<br>
 Himitsu ni Shiro yo!!<br>
 Himitsu no Otsukiai wo Shiteimasu.<br>
 Himitsu no Shoukan de Ajin Maid o<br>
 Hinamizawa Bus Stop<br>
-Hinkon Tsuma ga Yachin Omanko de Harau Made /~28-sai I-Cup Seijun Tsuma, Akushuu Kebukai Kimo Oji Ooya ni NTR/~<br>
+Hinkon Tsuma ga Yachin Omanko de Harau Made \~28-sai I-Cup Seijun Tsuma, Akushuu Kebukai Kimo Oji Ooya ni NTR\~<br>
 Hinnyuu-chan no Ana o Ijimeru Hon<br>
 Hinokio: Inter Galactic Love<br>
 Hip Hop Harry<br>
@@ -5666,11 +5666,11 @@ Hitozuma Haramu<br>
 Hitozuma Hisako no Choukyou Netorare Seikatsu<br>
 Hitozuma Joushi no Wakarasekata<br>
 Hitozuma Life: One Time Gal<br>
-Hitozuma Mahou Senshi Sakura /~Shinobiyoru Saisei Maou no Shokushu/~<br>
+Hitozuma Mahou Senshi Sakura \~Shinobiyoru Saisei Maou no Shokushu\~<br>
 Hitozuma Ochi Yokkyuu Fuman no Wakazuma<br>
 Hitozuma OnaPet Yukino-san Chounaikai Onsen Ryokou Zenra Bus Guide!<br>
 Hitozuma Sentai Aisaiger<br>
-Hitozuma wa Moto Mahou Shoujo /~Kakyuu Sentouin Datta Ore ga Chikan o Kurikaeshi Netori Otosu/~<br>
+Hitozuma wa Moto Mahou Shoujo \~Kakyuu Sentouin Datta Ore ga Chikan o Kurikaeshi Netori Otosu\~<br>
 Hitozuma Yarisute Doukoukai<br>
 HobbyKids Adventures<br>
 Hobo 3: Wanted<br>
@@ -5687,7 +5687,7 @@ Hocus Pocus 2<br>
 Hogan's Alley<br>
 Hogtied<br>
 Hohoemu Kanojo wa Mou... no Junbigou<br>
-Hoiku Shichao! /~Ecchi na Toshiue Hobo-san to Ichaicha Oyuugi/~<br>
+Hoiku Shichao! \~Ecchi na Toshiue Hobo-san to Ichaicha Oyuugi\~<br>
 Hokago Kodukuri Seikyoiku<br>
 Hokenshitsu no Kagishimete<br>
 Hokenshitsu no Otona na Senpai, Ore no Maede wa Sugu Dereru<br>
@@ -5742,7 +5742,7 @@ Hometown Cha-Cha-Cha<br>
 Hometown Story<br>
 Hone ni Negai wo, Hoshi ni Noroi wo<br>
 Honey Come Chatka<br>
-Honey Drop /~Onee-chan no Netorare Tokubetsu Kyoushitsu/~<br>
+Honey Drop \~Onee-chan no Netorare Tokubetsu Kyoushitsu\~<br>
 Honey Glazed Carrots<br>
 Honey Honey no Suteki na Bouken<br>
 Honey Popcorn<br>
@@ -5792,7 +5792,7 @@ Hotel Transylvania: The Series<br>
 Hotel Transylvania: Transformania<br>
 HOTSHOT<br>
 HOTSHOTTOON<br>
-Houkago Houshi-bu (Kari) /~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku/~<br>
+Houkago Houshi-bu (Kari) \~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku\~<br>
 Houkago Nijigenme!<br>
 Houkago, Android to Sucubbus wa<br>
 Houmurareta Kimi e<br>
@@ -5993,15 +5993,15 @@ Iggle Pop!<br>
 Iggy's Reckin' Balls<br>
 Iguana<br>
 Iinari Jimiko-chan ga Gakkoujuu no Otoko ni Nakadashi Sarete Haranjau Hanashi<br>
-Ijimekko no Bakunyuu Haha Gachi Haramase Seisai! /~Do S na Onna Shachou Mama o Ero Hidoi Koto de Yorokobu Do M Onaho ni Shite Yatta♪/~<br>
+Ijimekko no Bakunyuu Haha Gachi Haramase Seisai! \~Do S na Onna Shachou Mama o Ero Hidoi Koto de Yorokobu Do M Onaho ni Shite Yatta♪\~<br>
 Ijimete Ijirarete<br>
 Ikachan<br>
 Ikari III: The Rescue<br>
 Ikari Warriors II: Victory Road<br>
 IkeKan: Will He Turn Out Handsome? Dating on Pure Gut Feeling!<br>
 Ikemen Futanari Kuzu Ouji<br>
-Ikenai Naisho no Kankei /~Mama to Musume to Ore no Kaikan/~<br>
-Ikenie Seijo /~Charlotte/~<br>
+Ikenai Naisho no Kankei \~Mama to Musume to Ore no Kaikan\~<br>
+Ikenie Seijo \~Charlotte\~<br>
 Iki Dekinai no wa Kimi no Sei<br>
 Iki Jigoku Refle ni Ochiru Tenshi Kaiwai-chan<br>
 Ikinokore! Mujintou Sabaibaru-sei Katsu♡<br>
@@ -6025,7 +6025,7 @@ Imagine: Babies<br>
 Imagine: Fashion Designer<br>
 Imagine: Fashion Designer New York<br>
 Imaro<br>
-Immoral Quartet /~4-nin no Seiyoku ga Karamiau, Ai to Netorare no Monogatari/~<br>
+Immoral Quartet \~4-nin no Seiyoku ga Karamiau, Ai to Netorare no Monogatari\~<br>
 Immoral Romantic Comedy<br>
 Imouto ga Watashi o Okazu ni Shitate Onanie o Shite ita Hanashi<br>
 Imouto Kansatsu Nikki<br>
@@ -6087,14 +6087,14 @@ Initial D The Arcade<br>
 Injustice (Movie)<br>
 Injustice 2<br>
 Injustice: Gods Among Us<br>
-Injuu Kangoku /~DIRTY PRISON SHIP/~<br>
+Injuu Kangoku \~DIRTY PRISON SHIP\~<br>
 Inked<br>
 Inki na Imouto o 'Kyouiku' shite Kairaku Chuudoku no Nikubenki ni suru<br>
 Inkou Kyoushi no Saimin Seikatsu Shidouroku Kashimura Miyuki Hen Sensei no Idenshi de Watashi no Onaka o Fukuramasete, Kaigai Shingaku o Tomete Kudasai...<br>
 Inkya Majutsushi (Wizard) de Daitaikan<br>
 Inkya no Kuse ni Chikubi ga Kirei na Pink Iro na no Namaki nan da yo!<br>
 Inkya Otaku Joshi ga Roshutsu Cosplay de Jinsei Gyakuten<br>
-Inkya Succubus /~Inma to Ijigen ni Tsunagaru Ana/~<br>
+Inkya Succubus \~Inma to Ijigen ni Tsunagaru Ana\~<br>
 Inland Empire<br>
 Inma no Naku Yoru ni<br>
 Inma Shouki Reina<br>
@@ -6150,7 +6150,7 @@ Invizimals: La Alianza<br>
 Invizimals: La Resistencia<br>
 Invizimals: Las Tribus Perdidas<br>
 Invizimals: Nueva Alianza<br>
-Inwai Rinne /~Bijukujo Rinko/~<br>
+Inwai Rinne \~Bijukujo Rinko\~<br>
 Ion Fury<br>
 Ippaku Futsuka Onaho Tsuki 500G<br>
 Ippaku Futsuka, Mama Yamemasu.<br>
@@ -6184,9 +6184,9 @@ Is a Friend of a Friend a Guy?<br>
 Is It Fate?<br>
 Is Lupin Still Burning?<br>
 Isekai de Mizu no Dai Seirei Yattemasu<br>
-Isekai de Tadahitori no Mamono Tsukai /~Tenshoku Shitara Maou ni Machigawa Remashita/~<br>
-Isekai H Eiyuuden /~Bishoujo Senshi-tachi wa Saikyou Gunshi no Muchana Onegai ni Sakaraenai/~<br>
-Isekai Heat Massage /~Ken to Mahou no Sekai o H na Shiatsu Skill de Musou Seiatsu!!/~<br>
+Isekai de Tadahitori no Mamono Tsukai \~Tenshoku Shitara Maou ni Machigawa Remashita\~<br>
+Isekai H Eiyuuden \~Bishoujo Senshi-tachi wa Saikyou Gunshi no Muchana Onegai ni Sakaraenai\~<br>
+Isekai Heat Massage \~Ken to Mahou no Sekai o H na Shiatsu Skill de Musou Seiatsu!!\~<br>
 Isekai Kita no de Mahou o Sukebe na Koto ni Riyou Shiyou to Omou<br>
 Isekai Mesu Yuusha<br>
 Isekai Mofumofu Cafe<br>
@@ -6221,11 +6221,11 @@ It's Mr. Pants<br>
 It's Not Your Baby!<br>
 It's Raining After All<br>
 IT: Welcome to Derry<br>
-Itadaki Joshi, Itadakimasu /~Papa Katsu Joshi Korashime Keikaku/~<br>
+Itadaki Joshi, Itadakimasu \~Papa Katsu Joshi Korashime Keikaku\~<br>
 Itadaki Street DS<br>
 Itadakimasu<br>
 Itadakimasu (Mura)<br>
-Itsu made mo Mama to Issho! /~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!/~<br>
+Itsu made mo Mama to Issho! \~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!\~<br>
 Itsudemo Jitaku Ni Kaereru Ore Wa, Isekai De Gyoushounin O Hajimemashita<br>
 Itsuka Minoreba<br>
 Itsuka, Kazoku ni Naru made<br>
@@ -6239,7 +6239,7 @@ IV-N TIGHT<br>
 Ivan Vasilievich Changes His Profession<br>
 ivansxtc<br>
 Ivor the Engine<br>
-IZ/*ONE<br>
+IZ\*ONE<br>
 Izon Taishitsu na Yandere Kanojo wa Ore no Iinari<br>
 Izure Shinwa no Ragnarok<br>
 Izzy<br>
@@ -6265,7 +6265,7 @@ Jak 3<br>
 Jak and Daxter: The Lost Frontier<br>
 Jak X: Combat Racing<br>
 Jake & Milo<br>
-Jakou no Lyla /~Allure of MUSK/~<br>
+Jakou no Lyla \~Allure of MUSK\~<br>
 Jakusha Futanari Kintama Hayashite Toshishita Wakarase Tanetsuke<br>
 James Bond Jr.<br>
 James Cameron's Avatar: The Game<br>
@@ -6392,7 +6392,7 @@ Josou Cosplayer ni Otouto ga Dekiru Manga<br>
 Josou Danshi no Chinchin ga Suki Sugiru<br>
 Josou Gakuen (Nin)<br>
 Josou Haishin-nushi wa Onee-chan ni Naritai.<br>
-Josou Mesu Ochi Fuuki Iin /~Kiyoku Tadashii Mohansei ga Inran Bitch ni Ochiru made/~<br>
+Josou Mesu Ochi Fuuki Iin \~Kiyoku Tadashii Mohansei ga Inran Bitch ni Ochiru made\~<br>
 Josou Pandemic<br>
 Josou Sanmyaku<br>
 Josou Sennen Oukoku<br>
@@ -6404,7 +6404,7 @@ Joukyou Seikatsuroku Ichijou<br>
 Joulupukki ja noitarumpu<br>
 Journey to Silius<br>
 Journey to the Savage Planet<br>
-Jouryuu Tsuma /~Celeb Oyako ni Fukushuu WakaraSEX/~<br>
+Jouryuu Tsuma \~Celeb Oyako ni Fukushuu WakaraSEX\~<br>
 Joyland<br>
 Ju-On: The Grudge 2<br>
 Jubilee's Journey: A Jane Goodall Interactive Adventure<br>
@@ -6494,7 +6494,7 @@ Jurassic World: Alive<br>
 Jurassic World: The Game<br>
 Jurassic World: The Ride<br>
 Jusant<br>
-Jusei Shite yo Chizuru-san! /~Hitozuma to Koi Suru Hitonatsu/~<br>
+Jusei Shite yo Chizuru-san! \~Hitozuma to Koi Suru Hitonatsu\~<br>
 Just Between Us<br>
 Just Cause 2<br>
 Just Cause 4<br>
@@ -6553,7 +6553,7 @@ Juuji Tonbo wa Sora o Tobanai<br>
 Juujin Guuwa<br>
 Juumonji-kun shika mienai!!<br>
 Juuni Senshi Bakuretsu Eto Ranger<br>
-Juusho Futei Camper wa Dungeon de Nonbiri to Kurashitai /~Kiken na Shinsou Monster mo Ore ni Totte wa Shokuzai desu/~<br>
+Juusho Futei Camper wa Dungeon de Nonbiri to Kurashitai \~Kiken na Shinsou Monster mo Ore ni Totte wa Shokuzai desu\~<br>
 K-12<br>
 K-9 and Company<br>
 K.C. Munchkin!<br>
@@ -6578,7 +6578,7 @@ Kageyama-kun no Anyaku × Seishun Direction<br>
 Kagi Hime Monogatari: Eikyuu Alice Rondo<br>
 Kaginado (Series)<br>
 Kaichou to Fukukaichou no Fujun na Otsukiai<br>
-Kaifuku Lotion de Maou wo Taosu Koto ni Natta. /~Isekai Byurubyuru Kouryakuki/~<br>
+Kaifuku Lotion de Maou wo Taosu Koto ni Natta. \~Isekai Byurubyuru Kouryakuki\~<br>
 Kaigai no Ero Douga Site de Ore Dake Mushuusei Dungeon Haishin: Musou shite Super Chat No.1 ni Nattara Ssekaiju no Josei Performer kara barizogon ga DM de Todokimashita<br>
 Kaigai Shusshin no Shinkon Tsuma ga Hoka no Otoko to Yaritai to Dogeza Shite Kimashita<br>
 Kaigoku Shijo no Bakunyuu Seito Kaichou JK ga Houman na Nyuuwaku de Otosu Gyaku NTR Keikaku<br>
@@ -6588,7 +6588,7 @@ Kaiju Girls (Karasu)<br>
 Kaijyu<br>
 KAIMA<br>
 Kaito Ruby<br>
-Kaitou Tenshi Twin Angel /~Toki to Sekai no Labyrinth/~<br>
+Kaitou Tenshi Twin Angel \~Toki to Sekai no Labyrinth\~<br>
 Kaizou Choujin Shubibinman<br>
 Kaizou Choujin Shubibinman Zero<br>
 Kajko i Kokosz<br>
@@ -6597,8 +6597,8 @@ Kajyo-Sapo<br>
 Kakko Tsukete Eroi Koto ni Kyoumi Nai Furi Shitetara Ore no Hou ga Saki ni Suki datta Osananajimi o Erozaru no Tomodachi ni Torareru Ohanashi<br>
 KAKU: Ancient Seal<br>
 Kakure Kyonyuu no Bungaku Shoujo Toshoshitsu no Haitoku Jugyou<br>
-Kakuriyo no Saiyaku to Utsushiyo no Ikusabime /~Kirie Hen/~<br>
-Kakuriyo no Saiyaku to Utsushiyo no Ikusabime /~Sayaka Hen/~<br>
+Kakuriyo no Saiyaku to Utsushiyo no Ikusabime \~Kirie Hen\~<br>
+Kakuriyo no Saiyaku to Utsushiyo no Ikusabime \~Sayaka Hen\~<br>
 Kakyuu Majutsushi, Inmon ni Somaru<br>
 Kamala luonto<br>
 Kamaya Painters<br>
@@ -6614,23 +6614,23 @@ KAMITSUBAKI CITY ENSEMBLE<br>
 Kamp Koral: SpongeBob's Under Years<br>
 Kamui (Tiësto)<br>
 Kan'ochi x Aniyome -Anta no Sei yo! Watashi, Kono Uwaki Chi●po Janakya Dame na no!-<br>
-Kan'ochi x Namaiki Gyaru /~Chou Kimochi Ii! Atashi, Sensei no Niku Onaho ni Naru!/~<br>
+Kan'ochi x Namaiki Gyaru \~Chou Kimochi Ii! Atashi, Sensei no Niku Onaho ni Naru!\~<br>
 Kanae Channel<br>
 KanColle Movie<br>
 Kanda Alice mo Suiri Suru.<br>
 Kane & Lynch 2: Dog Days<br>
 Kang & Kodos' Twirl 'n' Hurl<br>
 Kangaroo Jack<br>
-Kangokujou /~Ingyaku no Shihai/~<br>
+Kangokujou \~Ingyaku no Shihai\~<br>
 Kanjiyasui Osanajimi to Saimi H!?<br>
 Kanmoku no Ko<br>
-KanoBitch /~Kanojo ga Bitch ni Natta Riyuu/~<br>
+KanoBitch \~Kanojo ga Bitch ni Natta Riyuu\~<br>
 Kanojo ga Boyish ni Nayamu Riyuu<br>
 Kanojo ga Separate o Matou Riyuu<br>
-Kanojo Netorase /~Ore no ED Chiryou ni Kyouryoku Shite Kureru Saikou no Kyonyuu Kanojo ga Saitei Oyaji ni Ubawareru made/~<br>
+Kanojo Netorase \~Ore no ED Chiryou ni Kyouryoku Shite Kureru Saikou no Kyonyuu Kanojo ga Saitei Oyaji ni Ubawareru made\~<br>
 Kanojo no Ane (InCha Neet) ni Netorareta Ore<br>
-Kanojo no Imouto no Aza to Yuuwaku /~Jun'ai Nante Gomi Desu yo Senpai♡/~<br>
-Kanojo no Imouto wa Jirai-kei. /~Onee-chan ni Naisho de Honki no Uwaki Koubi… Shiyo?/~<br>
+Kanojo no Imouto no Aza to Yuuwaku \~Jun'ai Nante Gomi Desu yo Senpai♡\~<br>
+Kanojo no Imouto wa Jirai-kei. \~Onee-chan ni Naisho de Honki no Uwaki Koubi… Shiyo?\~<br>
 Kanojo no Kinpatsu Mama ga Sukebe Sugiru Ken<br>
 Kanojo no Tomodachi wa Dosukebe Kasshoku Gyaru<br>
 Kanojo o Netorase Fuuzoku ni Nante Tsurete-kun ja Nakatta<br>
@@ -6642,7 +6642,7 @@ Kanojo wo Ubatta Ikemen Bishoujo ga Nazeka Oremade Nerattekuru<br>
 Kanojo-tachi no Natsu<br>
 Kanomama Michaku Koubi-sei Katsu<br>
 Kanpeki Lolita Fashion Kanojo no Darashinai Shitai<br>
-Kanraku no Arena /~In'yoku no Death Match/~<br>
+Kanraku no Arena \~In'yoku no Death Match\~<br>
 Kansaiben no Kyouiku Jisshuusei ni Tsubusare Okasare Aisareru Hanashi 'Yade♥'<br>
 Kantai Collection (Anime)<br>
 Kanzen Haiboku -WrestleDown- Muhai no Bijyo Wrestler ga Wana ni Hamari Ring-jou de Youshanaku Nando mo Okasareru!!<br>
@@ -6675,8 +6675,8 @@ Karmachakra<br>
 Karnov's Revenge<br>
 Karting of Banban<br>
 Kasei Madoushi no Isekai Seikatsu: Boukenchuu no Kasei Fugyou Uketamawarimasu!<br>
-Kasshoku Bakunyuu x Pocchari Jukujo Sou /~Otonari-san to Ooya-san ga Erosugite/~<br>
-Kasshoku Cool Bitch Hitozuma no Seiyoku Kaishou /~Kondo wa Umi de Sex Lesson!?/~<br>
+Kasshoku Bakunyuu x Pocchari Jukujo Sou \~Otonari-san to Ooya-san ga Erosugite\~<br>
+Kasshoku Cool Bitch Hitozuma no Seiyoku Kaishou \~Kondo wa Umi de Sex Lesson!?\~<br>
 Kasshoku Futanari to Choushin Kyoukon Futanari no Ichaicha SEX!<br>
 Kasshoku Gal ga Ore no Iyashi Natsu no Umi de Kyonyuu na Kanojo ga Tousen Shimashita.<br>
 Kasshoku Kiko Senpai ni Pool ni Tsurete Ikareta Kekka<br>
@@ -6684,7 +6684,7 @@ Kasshoku Kyonyuu no Elf Onna Senshi ga Inmon Fuyo de Ryoujoku sarete Mesuinu Oma
 Katakoi Contrast -way of parting-<br>
 Katamari Amore<br>
 Katamichi Catch Ball<br>
-Katei Kyoushi X Saimin 2 /~Zettai Juujun, Takabisha Shimai o Dosukebe Inran ni Saimin Sousa/~<br>
+Katei Kyoushi X Saimin 2 \~Zettai Juujun, Takabisha Shimai o Dosukebe Inran ni Saimin Sousa\~<br>
 Katekyo No Sense♀<br>
 Katenai Ko<br>
 Kathy Rain<br>
@@ -6696,7 +6696,7 @@ Katy, la oruga<br>
 Kawa Entertainment<br>
 Kawaii Kouhai ga SeFri ni Natte Agemasu ne<br>
 Kawaikute Zankoku<br>
-Kawariyuku Kanojo /~Osananajimi wa Dou Agaite mo Netorareru/~<br>
+Kawariyuku Kanojo \~Osananajimi wa Dou Agaite mo Netorareru\~<br>
 Kazama Iroha Ch.<br>
 Kaze Hikaru<br>
 Kaze no Kishihime<br>
@@ -6774,7 +6774,7 @@ Killjoy<br>
 Killzone<br>
 Killzone 3<br>
 Kimajime Kyouei Joshi, Sei ni Oboreru<br>
-Kimeseku /~Namaiki Sister Kusurizuke!/~<br>
+Kimeseku \~Namaiki Sister Kusurizuke!\~<br>
 Kimi Dake no Ponytail<br>
 Kimi ga Haramu made Genkai Toppa Sex<br>
 Kimi ni Naretara<br>
@@ -6855,7 +6855,7 @@ Kinpatsu Chounyuu Gal ni Gyaku DeliHeal Atsukai Sarete Iru Ore no Hanashi<br>
 Kirai Doushi no Watashitachi wa Ichiya no Ayamachi de<br>
 Kirameki no Kyoudai: Sex Crime<br>
 Kirameku Kaben.<br>
-Kiraware H /~Boku o Kirai na Kimi ga Suki/~<br>
+Kiraware H \~Boku o Kirai na Kimi ga Suki\~<br>
 Kirby and the World Beyond<br>
 Kirby Battle Royale!<br>
 Kirby Fighters 2<br>
@@ -6882,12 +6882,12 @@ Kitayama-kun to Minamiya-kun<br>
 Kitchen Nightmares<br>
 Kite Liberator<br>
 Kite Man: Hell Yeah!<br>
-Kite ne! Mahou Senshi no Gakuensai /~Fandisc no Otome-tachi/~<br>
+Kite ne! Mahou Senshi no Gakuensai \~Fandisc no Otome-tachi\~<br>
 Kitsch Wedding<br>
 Kitty Kart 64<br>
-Kiyoubinbou, Jou wo Tateru /~Kaitaku Gakuen no Rettousei na no ni, Joukyuu-shoku no Skill to Mahou ga Subete Tsukaemasu/~<br>
+Kiyoubinbou, Jou wo Tateru \~Kaitaku Gakuen no Rettousei na no ni, Joukyuu-shoku no Skill to Mahou ga Subete Tsukaemasu\~<br>
 Kizuguchi to Houtai<br>
-KLAP!! /~Kind Love And Punish/~<br>
+KLAP!! \~Kind Love And Punish\~<br>
 Klonoa Beach Volleyball<br>
 Klonoa Heroes: Densetsu no Star Medal<br>
 Klonoa: Dream Traveller of Noctis Sol<br>
@@ -6939,7 +6939,7 @@ Kolja<br>
 KOLONI Their Story<br>
 Komada-san wo Komarasetai<br>
 Kon's Lesson<br>
-Kon'yakusha no Hahaoya wa, Ore no Motokano Deshita. /~Mama ni Natta Kara ni wa, I/~ppai Ogyarasete Ageru♪/~<br>
+Kon'yakusha no Hahaoya wa, Ore no Motokano Deshita. \~Mama ni Natta Kara ni wa, I\~ppai Ogyarasete Ageru♪\~<br>
 Kona<br>
 Kona II: Brume<br>
 Konami Krazy Racers<br>
@@ -6979,7 +6979,7 @@ Kouhai wa Koakumama!?<br>
 Kouiu Kankei ga Sugoku Suki<br>
 Koujo Tensei: Densetsu no Dai Madoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan o Tsukuri Musou Suru<br>
 Koukando Zero no Onnanoko ni Saimin o Kakete Icha Love Ecchi.<br>
-Koukinaru Meidensu /~Ankoku ni Somari Yuku Kizuna/~<br>
+Koukinaru Meidensu \~Ankoku ni Somari Yuku Kizuna\~<br>
 Koukotsu no Ori<br>
 Koukyuu Ichiban no Akujo<br>
 Koumajou Densetsu II: Stranger's Requiem<br>
@@ -6991,7 +6991,7 @@ Kousou Senki Christia<br>
 Kousuke x Natsuki<br>
 Kouzuki-san to Mizukura-kun<br>
 Kozue's Strange Journey 2<br>
-Kozukuri Youkai H Henka /~Otome o Okasu Hyoui Gattai/~<br>
+Kozukuri Youkai H Henka \~Otome o Okasu Hyoui Gattai\~<br>
 Kozure Omega to Boukun Yakuza<br>
 Kramer vs. Kramer<br>
 Krapopolis<br>
@@ -7025,21 +7025,21 @@ Kung Fury: Street Rage<br>
 Kung-Fu Master<br>
 Kureiji Ollie Ch.<br>
 Kurenai no Kishidan<br>
-Kurikuri Clinic /~Shinjin Nurse no Sodatekata/~<br>
+Kurikuri Clinic \~Shinjin Nurse no Sodatekata\~<br>
 Kurisute Treasure<br>
 Kuro Gal Hitozuma to Natsuyasumi<br>
-Kuro Gal Hokeni Jisshuu Chu/~!<br>
+Kuro Gal Hokeni Jisshuu Chu\~!<br>
 Kuro Gal Kyonyuu Gimai wa Boku o Yasashiku Sakusei Shitai<br>
 Kuro Gal Maid Inma, Goshu O Kuu.<br>
 Kuro Gal to Kimodameshi<br>
 Kuro Gal-chan wa Echiechi Caba-jou♥<br>
-Kuro Gyaru Bitch-ka Keikaku! /~Hikikomori Imouto o Inran Kousei/~<br>
-Kuro Gyaru no Denshanai Ingi /~Batsu Game no Hyouteki ni Sareta Boku/~<br>
+Kuro Gyaru Bitch-ka Keikaku! \~Hikikomori Imouto o Inran Kousei\~<br>
+Kuro Gyaru no Denshanai Ingi \~Batsu Game no Hyouteki ni Sareta Boku\~<br>
 Kurokami no Maria-sama<br>
 Kuru Kuru Kururin<br>
 Kururin Paradise<br>
 Kururin Squash!<br>
-Kuso Namaiki na Gyaru Kouhai Azato Kawaii Yuuwaku /~Senpaitte, Konnanode Bocchaun Desu kaa♪/~<br>
+Kuso Namaiki na Gyaru Kouhai Azato Kawaii Yuuwaku \~Senpaitte, Konnanode Bocchaun Desu kaa♪\~<br>
 Kuso Namaiki na Loli Kyonyuu Mesugaki o Otona Chinpo de Wakaraseru<br>
 Kusozako Sourou Maou wa Chouanzangata no Mucchi Muchi Elf Mama ni Makeppanashi<br>
 Kusozako Sourou Maou wa Chouchoushin no Mucchimuchi Dekashiri Majo ni mo Makeppanashi<br>
@@ -7051,12 +7051,12 @@ Kyaba Jou Dakedo JD ni Otosaremashita<br>
 Kyle + Rosemary<br>
 Kyo Kara Warui Ko.<br>
 Kyoei Toshi<br>
-Kyonyuu Daimaou no Dosukebe Quest /~Kanzen Haiboku Shita Shounen Yuusha-kun UC/~<br>
+Kyonyuu Daimaou no Dosukebe Quest \~Kanzen Haiboku Shita Shounen Yuusha-kun UC\~<br>
 Kyonyuu Fantasy Burst<br>
 Kyonyuu Gunjin Shihai Saimin<br>
-Kyonyuu Gyaru MC Kousai 'Konna Oji-san Chi/*po ni Sakaraenai Nante...... Maji Arienai!'<br>
+Kyonyuu Gyaru MC Kousai 'Konna Oji-san Chi\*po ni Sakaraenai Nante...... Maji Arienai!'<br>
 Kyonyuu Hitozuma Kitakitsune<br>
-Kyonyuu JK Hame Nikki /~ Yappari Kareshi yori, Sensei no Ochinchin ga Kimochi Ii<br>
+Kyonyuu JK Hame Nikki \~ Yappari Kareshi yori, Sensei no Ochinchin ga Kimochi Ii<br>
 Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi<br>
 Kyonyuu no Tomodachi to Tsukiau made no Hanashi Zenpen<br>
 Kyonyuu Osananajimi Kanojo ni Yuuwaku sarete Icha Love Oho Ecchi suru Hanashi<br>
@@ -7073,7 +7073,7 @@ Kyoutou Project<br>
 Kyuss<br>
 Kyuujitsu no Chichizuri<br>
 Kyuukatsu o Josou Suru<br>
-Kyuusekkin!! /~Koi wa Oshiire no Naka de/~<br>
+Kyuusekkin!! \~Koi wa Oshiire no Naka de\~<br>
 Käpt'n Blaubär Club<br>
 Käpt'n Blaubärs Seemannsgarn<br>
 Kōya no Shōnen Isamu<br>
@@ -7246,7 +7246,7 @@ Learn to Fly !<br>
 Learn with Pokémon: Typing Adventure<br>
 Learnin' Wheels<br>
 Learning Curves<br>
-Learning in Love! /~Sweet Study Session/~<br>
+Learning in Love! \~Sweet Study Session\~<br>
 Leatherface (2017)<br>
 Leatherface: The Texas Chainsaw Massacre III<br>
 Leave it to Beaver<br>
@@ -7611,7 +7611,7 @@ Love on the Brain<br>
 Love Order<br>
 Love Phobia<br>
 Love Position - The Legend of Halley<br>
-Love Songs♪ADV: Futaba Riho 14-sai /~Natsu/~<br>
+Love Songs♪ADV: Futaba Riho 14-sai \~Natsu\~<br>
 Love Tavern<br>
 Love Without Borders<br>
 Love You to Bits<br>
@@ -7793,29 +7793,29 @@ Mahjong Horoki<br>
 Mahjong Kings<br>
 Mahjong, Sex & Girls<br>
 Mahluk: Dark Demon<br>
-Mahou Kenki Arch Caliber /~Mazoku Koutan/~<br>
+Mahou Kenki Arch Caliber \~Mazoku Koutan\~<br>
 Mahou Kinniku Shoujo Six Pack<br>
 Mahou Kishi Lynfolia<br>
-Mahou Senshi Elixir Knights /~Unmei ni Tsunagareshi Otome-tachi/~<br>
+Mahou Senshi Elixir Knights \~Unmei ni Tsunagareshi Otome-tachi\~<br>
 Mahou Senshi Emeroad Knights -Kizuna o Tsumugu Megami-tachi-<br>
 Mahou Senshi Exceed Knights -Aratanaru Sekai no Megami-tachi-<br>
-Mahou Senshi EXTRA BURST /~Tenshi Danzai/~<br>
+Mahou Senshi EXTRA BURST \~Tenshi Danzai\~<br>
 Mahou Senshi Fairy Maids<br>
 Mahou Senshi FINAL IGNITION<br>
 Mahou Senshi Lemmtear Knights 2 -Koware Yuku Sekai no Megami-tachi-<br>
-Mahou Senshi Lemmtear Knights /~Hikari no Otome-tachi/~<br>
+Mahou Senshi Lemmtear Knights \~Hikari no Otome-tachi\~<br>
 Mahou Senshi Princess Tear<br>
 Mahou Senshi Sweet Knights<br>
-Mahou Senshi Symphonic Knights /~Megami o Tsugu Otome-tachi/~<br>
+Mahou Senshi Symphonic Knights \~Megami o Tsugu Otome-tachi\~<br>
 Mahou Shoujo Akuochi Choukyou Lab<br>
 Mahou Shoujo Elena<br>
-Mahou Shoujo ga Owaru Hi /~Mushibamareru Nichijou/~<br>
+Mahou Shoujo ga Owaru Hi \~Mushibamareru Nichijou\~<br>
 Mahou Shoujo Jihen<br>
 Mahou Shoujo Lovelion<br>
 Mahou Shoujo Madoka☆Magica (Mobage)<br>
 Mahou Shoujo Neko Taruto<br>
 Mahou Shoujo no Kareinaru Yosei<br>
-Mahou Shoujo Saint Lily Guuzou /~Idol Mahou Shoujo ga Jishin no Mahou de Aijou o Uetsukerare Zakokaijin o Dekiai suru Made/~<br>
+Mahou Shoujo Saint Lily Guuzou \~Idol Mahou Shoujo ga Jishin no Mahou de Aijou o Uetsukerare Zakokaijin o Dekiai suru Made\~<br>
 Mahou Shoujo Taisen<br>
 Mahou Shoujo vs Succubus-san<br>
 Mahou Shoujo Yusya-chan<br>
@@ -7823,7 +7823,7 @@ Mahou Shoujo, Shisu<br>
 Mahou Shoujo-tachi vs Shokushu-san<br>
 Mahou Shoujo? Naria☆Girls<br>
 Mahou Shounen Natsuki x Loveits<br>
-Mahou wa Isekai ni Oite Kimashita. /~ Tensai Madoushi Datta Imouto no Yowakute New Game /~<br>
+Mahou wa Isekai ni Oite Kimashita. \~ Tensai Madoushi Datta Imouto no Yowakute New Game \~<br>
 Mahoutsukai no Yome: Seika no Maboroshi to Yumemiru Tabiji<br>
 Mahoutsukai PreCure! The Movie: Miraculous Transformation! Cure Mofurun!<br>
 Mahoutsukai Rubedo-kun<br>
@@ -7846,7 +7846,7 @@ Majime to Fumajime<br>
 Majin no Jousai<br>
 Majo ga Kudasu Tettsui Malleus Maleficarum<br>
 Majo no Mago to Nana Nin no Maid<br>
-Majo to Futari no Deshi /~Junshin na Manadeshi to Yokuboumamire no Kuzu Deshi/~<br>
+Majo to Futari no Deshi \~Junshin na Manadeshi to Yokuboumamire no Kuzu Deshi\~<br>
 Majo x Shota<br>
 Major League<br>
 Major Minor's Majestic March<br>
@@ -7858,13 +7858,13 @@ MAke Drama<br>
 Make Mine Music<br>
 Makemasen kara to Iiharu Kao no Ii Onnanoko wo, Zenryoku de Kuppuku Saseru Yuri no Ohanashi<br>
 Maken no Elena<br>
-Maken Tensei /~Tensei shitara Saikyou no Maken ni natta Ore, Tsukawareru Tabi ni Bishoujo o Yokujou sasete Shimau Ken ni Tsuite/~<br>
+Maken Tensei \~Tensei shitara Saikyou no Maken ni natta Ore, Tsukawareru Tabi ni Bishoujo o Yokujou sasete Shimau Ken ni Tsuite\~<br>
 Makeout Videotape<br>
 Maki-chan VS Kurokawa-kun: Kachoku Bakunyuu Boishshu Sakyubasu wa Zaabote no Yume o Miru ka?<br>
 Makki, Shoujobyou -Lyrical pop world's end-<br>
 Makon<br>
 Makoto-senpai no Mae de wa Kakko Tsukerarenai!<br>
-Makutsu no Ou /~Yomei Ikkagetsu no Doutei, Mahou Shoujo Harem o Kizuite Ou e Kunrinsu/~<br>
+Makutsu no Ou \~Yomei Ikkagetsu no Doutei, Mahou Shoujo Harem o Kizuite Ou e Kunrinsu\~<br>
 Malatesta's Carnival of Blood<br>
 Malcatras' Maiden<br>
 Maleficent<br>
@@ -7873,9 +7873,9 @@ Malignant<br>
 Mallard Fillmore<br>
 Maltti ja Valtti<br>
 Mama Love<br>
-Mama tte Yonde mo Ii no ka na? /~Watashi ga Aka-chan ni Naru made/~<br>
+Mama tte Yonde mo Ii no ka na? \~Watashi ga Aka-chan ni Naru made\~<br>
 Mama Vaca<br>
-Mama x Kano EX /~Ryoushu Kizoku ni Totsugitakunai Musume no Tame ni, Okaa-san ga Ecchi na Tehodoki Itashimasu/~<br>
+Mama x Kano EX \~Ryoushu Kizoku ni Totsugitakunai Musume no Tame ni, Okaa-san ga Ecchi na Tehodoki Itashimasu\~<br>
 Mama-san Volley de Mama Onaho Kaimakusen!<br>
 Mamma Mia!<br>
 Mamma Mu och Kråkan<br>
@@ -7910,12 +7910,12 @@ Manuelita<br>
 Manyeo<br>
 Mao-sama!<br>
 Maou Golvellius<br>
-Maou Reijou no Kyouiku Gakari /~Yuusha Gakuin o Tsuihou Sareta Heimin Kyoushi wa Maou no Musume-Tachi no Katei Kyoushi to Naru/~<br>
+Maou Reijou no Kyouiku Gakari \~Yuusha Gakuin o Tsuihou Sareta Heimin Kyoushi wa Maou no Musume-Tachi no Katei Kyoushi to Naru\~<br>
 Maou to Odore! Code:Arcana<br>
 Maou-sama wa Yuusha no Ken de Midaretai<br>
 Maou-sama, Re Re Revenge!<br>
 Maougun wa Kaimetsu Shimashita<br>
-Maoujou no Succubus 3 /~VS. Love Love Saiminjutsushi/~<br>
+Maoujou no Succubus 3 \~VS. Love Love Saiminjutsushi\~<br>
 Mapantsula<br>
 Marble Golem<br>
 Marcelino Pan y Vino<br>
@@ -7930,7 +7930,7 @@ Maria Full of Grace<br>
 Mariachi Legends<br>
 Mariandal<br>
 Marie and Alex<br>
-Mariko-san to Boku /~Beit Saki no Hitozuma to no Furin Kankei/~<br>
+Mariko-san to Boku \~Beit Saki no Hitozuma to no Furin Kankei\~<br>
 Marin's Corruption Quest<br>
 Mario & Luigi: Paper Jam<br>
 Mario & Sonic at the London 2012 Olympic Games<br>
@@ -8076,7 +8076,7 @@ Mashou no Otome no Yakumawari<br>
 Mask Girl<br>
 Maskarado<br>
 Maso Seiheki Police<br>
-Masquerade /~Jigoku Gakuen SO/DO/MU/~<br>
+Masquerade \~Jigoku Gakuen SO/DO/MU\~<br>
 Masqué<br>
 Mass Appeal<br>
 Mass Effect Galaxy<br>
@@ -8173,7 +8173,7 @@ Mega Man: The Power Battle<br>
 Mega Mindy<br>
 Mega Turrican<br>
 Megami Tantei Vinus File<br>
-Megami-gari /~Sekai o Sukutta no ni Fuuin Sare Kaketa no de Megami-tachi ni Fukushu! Haramase Onaho ni Shite Harem Rakuen o Tsukuru!/~<br>
+Megami-gari \~Sekai o Sukutta no ni Fuuin Sare Kaketa no de Megami-tachi ni Fukushu! Haramase Onaho ni Shite Harem Rakuen o Tsukuru!\~<br>
 Megamind Rules!<br>
 Megamind vs. the Doom Syndicate<br>
 Megamind: Ultimate Showdown<br>
@@ -8181,7 +8181,7 @@ Megarosalia<br>
 Megaton Rainfall<br>
 Megpoid the Music♯<br>
 MEIJI GARAKUTA SCRAP MARCH<br>
-MeiKura /~Zokusei Morisugi Maidroid to, Maketakunai Classmate no Gohoushi Seikatsu/~<br>
+MeiKura \~Zokusei Morisugi Maidroid to, Maketakunai Classmate no Gohoushi Seikatsu\~<br>
 MeiQ: Labyrinth of Death<br>
 Meitantei PreCure!: Fushigi na Niwa to Futari no Himitsu<br>
 Mei☆Katsu<br>
@@ -8218,8 +8218,8 @@ Merry Little Batman<br>
 Meshes of the Afternoon<br>
 Messi and the Giants<br>
 Messiah of Evil<br>
-Mesu Gaki Sakyubasu no Wakara se Tyoukyou Kurabu /~Kuri ze me × Nyoudou ze me × Zako Manko ka/~<br>
-Mesu Ochi Daigaku /~Inran Josou Dorei ni Otosareta Yuutousei no Matsuro/~<br>
+Mesu Gaki Sakyubasu no Wakara se Tyoukyou Kurabu \~Kuri ze me × Nyoudou ze me × Zako Manko ka\~<br>
+Mesu Ochi Daigaku \~Inran Josou Dorei ni Otosareta Yuutousei no Matsuro\~<br>
 Mesu ♂ Gaki<br>
 Mesu ♂ Kami<br>
 Mesugaki Elf ni Natta Don Elf-ka no Kusuri<br>
@@ -8273,7 +8273,7 @@ Mickey's Speedway USA<br>
 Mickey's Twice Upon a Christmas<br>
 Mickey, Donald, Goofy: The Three Musketeers<br>
 Microman<br>
-Midara na Sensei wa Kirai desu ka? /~Sakura Aimi no Baai/~<br>
+Midara na Sensei wa Kirai desu ka? \~Sakura Aimi no Baai\~<br>
 Midarahna Kyonyuu Senki<br>
 Midnight Approach<br>
 Midnight Cowboy<br>
@@ -8350,7 +8350,7 @@ Mini Yuri<br>
 MiniMuse<br>
 Minion Rush<br>
 Minions & Monsters<br>
-MINN /~Caprasomnia/~<br>
+MINN \~Caprasomnia\~<br>
 Minority Report: Everybody Runs<br>
 Mint Candy Love<br>
 Minute to Win It<br>
@@ -8371,7 +8371,7 @@ Mirai/Coffee: Kanojo no Koi.<br>
 Mirror Collection Fantasia<br>
 MirrorMi Academy<br>
 Mirrors<br>
-Misako 37-sai /~Doutei Daigakusei × Futsuu no Shufu/~<br>
+Misako 37-sai \~Doutei Daigakusei × Futsuu no Shufu\~<br>
 Misato-san wa Amasugi Joushi ni Chotto Kibishii<br>
 Miseinen dakedo Kodomo ja Nai<br>
 Misfile: Next<br>
@@ -8397,7 +8397,7 @@ Mitsuya-sensei no Keikakuteki na Edzuke.<br>
 Mix Gear<br>
 Mixed Vegetables<br>
 Mizu ni Sumu Hana<br>
-Mizugi ga Zurete... Haitteru! /~Porori ja Sumanai Danjo Kongou Synchro-bu/~<br>
+Mizugi ga Zurete... Haitteru! \~Porori ja Sumanai Danjo Kongou Synchro-bu\~<br>
 Mizuiro Cinema<br>
 MNF Metropolis<br>
 Moai-kun<br>
@@ -8424,7 +8424,7 @@ Moebana<br>
 Moero TwinBee: Cinnamon-hakase o Sukue!<br>
 Moeru! Oniisan<br>
 Moesha<br>
-Moeyo! Otome Doushi /~Kayuu Koigatari/~<br>
+Moeyo! Otome Doushi \~Kayuu Koigatari\~<br>
 Mofuka no Potpourri<br>
 Mogu ★ Mogu Roommate<br>
 Mohawk & Headphone Jack<br>
@@ -8470,7 +8470,7 @@ Monster By Mistake<br>
 Monster Costume Room<br>
 Monster Dash<br>
 Monster Fucker<br>
-Monster Girl Encyclopedia World Guide - Side II Salvarision /~The Dark Knights of Lescatie/~<br>
+Monster Girl Encyclopedia World Guide - Side II Salvarision \~The Dark Knights of Lescatie\~<br>
 Monster Girl Quest! (ONA)<br>
 Monster High (2010)<br>
 Monster High (2016)<br>
@@ -8539,7 +8539,7 @@ MOTHERED<br>
 Mothra<br>
 Mothra vs. Godzilla<br>
 Moto Dorei Desu ga, Oni no Dorei o Katte Mitara Seiryoku ga Tsuyosugiru node Sutetai...<br>
-Moto Idol Okusama no Himitsu no Makura Eigyou /~Sex Girai Datta Watashi ga Inran AV Jou ni Naru made/~<br>
+Moto Idol Okusama no Himitsu no Makura Eigyou \~Sex Girai Datta Watashi ga Inran AV Jou ni Naru made\~<br>
 Moto Mahou Shoujo no Kazoku Banashi Tsuki<br>
 Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan<br>
 Moto Onna Kenshi Lyla wa Quest-chuu!<br>
@@ -8632,12 +8632,12 @@ Muscle Cafe<br>
 Muscular Bull Teacher & Chubby Tiger Student<br>
 Mushoku Tensei: Quest of Memories<br>
 Music Producers<br>
-Musume Kuzushi /~Chichi to Musume no Kyouen/~<br>
+Musume Kuzushi \~Chichi to Musume no Kyouen\~<br>
 Musume no Tsugi wa Mama Onaho: Onaho Gasshuku #2<br>
 Mutant Mudds Super Challenge<br>
 Mutants: Genetic Gladiators<br>
 Mutated Pheromones<br>
-Mutchinguapuri /~ Yukitsu Peno<br>
+Mutchinguapuri \~ Yukitsu Peno<br>
 Muttsuri Futanari-chan wa Tomodachi ni Yokujou shiteru!<br>
 MW (Manga)<br>
 My Adventures with Superman<br>
@@ -8773,7 +8773,7 @@ N++<br>
 N.M.L.<br>
 N.U.D.E.@ Natural Ultimate Digital Experiment<br>
 N.W.A<br>
-N\/*E\/*R\/*D<br>
+N\\*E\\*R\\*D<br>
 Nabuchodinosaure<br>
 Nacho & Jesús<br>
 Nagato Yuki-chan no Shoushitsu<br>
@@ -8784,7 +8784,7 @@ Nakanaka Ikenai Futanari Musume<br>
 Nakayoshi Onna Boukensha<br>
 Naked Lunch<br>
 Nakiri Ayame Ch.<br>
-Nakoruru /~Ano Hito kara no Okurimono/~<br>
+Nakoruru \~Ano Hito kara no Okurimono\~<br>
 Namaiki Incubus o Mesu Ochi Sasete Wakarasetai<br>
 Namaiki na Warugaki Shoujo o Furoba de Tanetsuke! Gyakushuu SEX!!<br>
 Namaiki Sugiru yo, Chigaya-kun<br>
@@ -8861,12 +8861,12 @@ Nationale 7<br>
 Natsu e no Tobira<br>
 Natsu ga Owaredo<br>
 Natsu Matsuri<br>
-Natsu no Owari no Kokuhaku /~Osananajimi, Onjou Shizuku no Baai/~<br>
-Natsu no Owari no Yakusoku /~Rikujou Buin Tachibana Natsuki no Baai/~<br>
+Natsu no Owari no Kokuhaku \~Osananajimi, Onjou Shizuku no Baai\~<br>
+Natsu no Owari no Yakusoku \~Rikujou Buin Tachibana Natsuki no Baai\~<br>
 Natsuiro High School: Seishun Hakusho<br>
 Natsuiro Matsuri Ch.<br>
 Natsumi Diary<br>
-Natsuyasumi Ake no Kanojo wa... /~Charao Gonomi no Kuro Gyaru Bitch ni/~<br>
+Natsuyasumi Ake no Kanojo wa... \~Charao Gonomi no Kuro Gyaru Bitch ni\~<br>
 Natsu☆Saver<br>
 NATURALCORDE -Aiyoku no Iro ni Somerarete, Watashi wa Arugamama no Jibun ni Naru-<br>
 Nature Cat<br>
@@ -8907,7 +8907,7 @@ Neo Angelique: Tenshi no Namida<br>
 Neo Artifacts<br>
 Neon Abyss<br>
 Neon Genesis Evangelion 2<br>
-Neon Genesis Evangelion Gaiden Vol. 2 /~ Feast of Dolls /~<br>
+Neon Genesis Evangelion Gaiden Vol. 2 \~ Feast of Dolls \~<br>
 Neon Genesis Evangelion RPG: Decisive Battle in Tokyo-3<br>
 Neon Genesis Evangelion: Ayanami Raising Project<br>
 Neon Genesis Evangelion: Battle Orchestra<br>
@@ -8933,8 +8933,8 @@ Neteiru Aida ni Yatte Okimashita!<br>
 Netoralayer - Otto no Kaisha no Tetsudai de Cosplay o Surun ja Nakatta - Kaijou Hen<br>
 Netorare Device -Net Game De Kawatta Kanojo-<br>
 Netorare Heroine Himeko -Himitsu no Gakuen Seikatsu-<br>
-Netorare Inbo Bukken /~Sayaka/~<br>
-Netorare Jukubo Natsuko (41) /~Wakai Otoko to no Hentai Sex ni Hamatta Hontou wa Dosukebe Datta Okaa-san/~<br>
+Netorare Inbo Bukken \~Sayaka\~<br>
+Netorare Jukubo Natsuko (41) \~Wakai Otoko to no Hentai Sex ni Hamatta Hontou wa Dosukebe Datta Okaa-san\~<br>
 Netorare Juusha<br>
 Netorare Yuusha wo TS Shoujo ga Sukka Hanashi<br>
 Netorareta Bakunyuu Blonde Zuma Elena<br>
@@ -9080,8 +9080,8 @@ Non Anonymous Instruction<br>
 Noodle and Doodle<br>
 Noona Fan<br>
 Normal People<br>
-Norn9 /~Norn + Nonette/~ Act Tune<br>
-Norn9 /~Norn + Nonette/~ Last Era<br>
+Norn9 \~Norn + Nonette\~ Act Tune<br>
+Norn9 \~Norn + Nonette\~ Last Era<br>
 Noroi: The Curse<br>
 North by Northwest<br>
 North of North<br>
@@ -9097,7 +9097,7 @@ Not Others<br>
 Not Suitable for Work<br>
 Not What the Doctor Ordered<br>
 Notorare<br>
-Nouka no Yome to Zetsurin Gifu /~Totsuida Saki de Matteita no wa Tetori Ashitori Tanetsuke Choukyou Sareru Hibi Deshita/~<br>
+Nouka no Yome to Zetsurin Gifu \~Totsuida Saki de Matteita no wa Tetori Ashitori Tanetsuke Choukyou Sareru Hibi Deshita\~<br>
 Nousatsu Junkie<br>
 November Joe: The Detective of the Woods<br>
 Novocaine<br>
@@ -9120,7 +9120,7 @@ Nutri Ventures<br>
 Nyancology<br>
 nya・ni・nyu・nye・nyon<br>
 Nyonin-jima -Yaru dake Kanrinin no Hame Pako Ijuu Seikatsu-<br>
-Nyotai-ka Hero no Torishimari! Ore-sama wa 'Watashi' ni Nanka Naranai shi. /~Aku no Soshiki ga Chijoku Zenkai Lesson/~<br>
+Nyotai-ka Hero no Torishimari! Ore-sama wa 'Watashi' ni Nanka Naranai shi. \~Aku no Soshiki ga Chijoku Zenkai Lesson\~<br>
 Nyotaika Shita Ore no Tadareta<br>
 Nyuugyuu Cafe ni Youkoso! Futago no Ecchi na Tokunou Miruku Meshiagare<br>
 O<br>
@@ -9128,7 +9128,7 @@ O Brother, Where Art Thou?<br>
 O Lucky Man!<br>
 O' Christmas Tree<br>
 O'Malley of the Mounted<br>
-Oba-san Janai, Onna Datta. /~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu/~<br>
+Oba-san Janai, Onna Datta. \~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu\~<br>
 Obey! the Game<br>
 Oborete, Aidoku<br>
 Obsession (1976)<br>
@@ -9173,12 +9173,12 @@ Ohenro-chan!<br>
 Ohime-sama no Himitsu<br>
 Ohime-sama no Ohime-sama<br>
 Oichin<br>
-Oide yo! Mizuryuu Kei Land /~Kazoku to Sukebe na Theme Park!/~<br>
+Oide yo! Mizuryuu Kei Land \~Kazoku to Sukebe na Theme Park!\~<br>
 Oil Massage no Toriko ni Natta Watashi<br>
 Oink!<br>
 Oink: Heaven's Butcher<br>
 Ojamajo Adventure: Naisho no Mahou<br>
-Oji Oji no Zako Chinpo, Carry shite Ageyokka? /~Meikko wa Gaming Mesugaki/~<br>
+Oji Oji no Zako Chinpo, Carry shite Ageyokka? \~Meikko wa Gaming Mesugaki\~<br>
 Oji to Mei<br>
 Okama Hakusho<br>
 Okane Daisuki<br>
@@ -9186,13 +9186,13 @@ Okashiratsuki.<br>
 Okawari Itadaketa Darou ka?<br>
 Okayu Nyumu!<br>
 Okayu Nyumu! R<br>
-Okazu Little Sister/~<br>
+Okazu Little Sister\~<br>
 Okazu Touban no Seitai<br>
 Okisaki-sama to Ningyohime no Ohanashi<br>
 Oklahoma!<br>
 Okoranaide Hoshikawa-san<br>
 Okubyou Usagi wa Otogaisama<br>
-Okuchi Kara Hajimaru Shanai Furin /~Onna Joushi ni Shiborarete/~<br>
+Okuchi Kara Hajimaru Shanai Furin \~Onna Joushi ni Shiborarete\~<br>
 Ol'wen and the Sea<br>
 Old & In the Way<br>
 Old Possum's Book of Practical Cats<br>
@@ -9204,7 +9204,7 @@ Om Nom: Merge<br>
 Omae No Kaa-Chan Ikutoki No Kao Sugee Busu Da Zo W<br>
 Omae no Nee-chan Onaho Gasshuku Itteru Rashii ze<br>
 Omae no Omoide no Kowasarekata<br>
-Omakase☆Demakase Angel!! /~Chocolat to Milfy Shukufuku Shichau zo/~<br>
+Omakase☆Demakase Angel!! \~Chocolat to Milfy Shukufuku Shichau zo\~<br>
 Omaru Polka Ch.<br>
 Omase na Imouto to Ecchi na Saimin Pakopako Life<br>
 Omega to Akuma no Sefure Jijou<br>
@@ -9223,7 +9223,7 @@ On the Silver Globe<br>
 On the Waterfront<br>
 On'na irezumi-shi Ruri<br>
 Onaho Gasshuku Saimin Dosukebe Interview<br>
-Onaho o Kattara Jinsei Shuuryou /~'Anata' o Sakusei Shimasu/~<br>
+Onaho o Kattara Jinsei Shuuryou \~'Anata' o Sakusei Shimasu\~<br>
 Onaji Ana no Mujina<br>
 OnaLive<br>
 Once & Future<br>
@@ -9261,7 +9261,7 @@ One-Pound Gospel<br>
 One-Way Flight<br>
 One-way Romance<br>
 Onee-chan to, Mama to, Ofuro ni Hairo<br>
-Onee-san to Shiyo? /~Echinpo Card de Yaritai Houdai/~<br>
+Onee-san to Shiyo? \~Echinpo Card de Yaritai Houdai\~<br>
 Oni and Monk<br>
 Oni Ure Idol ga Kyou mo Watashi wo Oshitekuru<br>
 Onibaba<br>
@@ -9277,10 +9277,10 @@ Only Show Yourself to Me<br>
 Onna Doushi no Sex ga Mitakatta dake nano ni Watashi mo Suru Koto ni Nattan da ga!<br>
 Onna Gyaru Joushi to Furin Suru Hanashi<br>
 Onna Kishi wa, Jibun ni Ochiru<br>
-Onna Ninja Azusa vs Orc 2 /~Injuu-tachi no Utage/~<br>
-Onna Ninja Azusa vs Orc 3 /~Injuu-tachi no Oukoku/~<br>
-Onna Ninja Azusa vs Orc /~Zecchou! Ishukan Battle!/~<br>
-Onna Rijichou Midou Takane /~Geki Chin Gakusei no Dekamara ni BBA Ana o Otosarete Haramase Onaho Ka/~<br>
+Onna Ninja Azusa vs Orc 2 \~Injuu-tachi no Utage\~<br>
+Onna Ninja Azusa vs Orc 3 \~Injuu-tachi no Oukoku\~<br>
+Onna Ninja Azusa vs Orc \~Zecchou! Ishukan Battle!\~<br>
+Onna Rijichou Midou Takane \~Geki Chin Gakusei no Dekamara ni BBA Ana o Otosarete Haramase Onaho Ka\~<br>
 Onnakishi Rahel to Aonibiiro no Ashi no Ne<br>
 Onnakishi Rahel to Kinka no Daishou<br>
 Onnakishi Rahel to Shien no Yakusoku<br>
@@ -9318,7 +9318,7 @@ Ore ni Dake Chou VIP Taiou Shite Kureru Seikan Esute no Onee-san<br>
 Ore no Class no Chichi Gal<br>
 Ore no Dankon ♡ Sacrifice<br>
 Ore no Ie no Koakuma Imouto<br>
-Ore no Imouto wa Seijun Bitch /~Oya ni wa Himitsu no Hamehame Seikatsu/~<br>
+Ore no Imouto wa Seijun Bitch \~Oya ni wa Himitsu no Hamehame Seikatsu\~<br>
 Ore no Jimi Kanojo wa Natsuyasumi dake Aitsu Senyou no OnaPet<br>
 Ore no Koto ga Daikirai na Imouto ga Kowai<br>
 Ore no Maede wa Otome de Kawaii Himemiya-san<br>
@@ -9328,11 +9328,11 @@ Ore no Ryouri<br>
 Ore no Shita de Agake<br>
 Ore no Tsugai ha Thoroughbread Omega<br>
 Ore Satsujin Jiken!?<br>
-Ore Seijo /~Ore ga Seijo de Omae Akuyaku Reijou Saikyou Tag Otome Game Kanzen Kouryaku Itashimasu wa/~<br>
+Ore Seijo \~Ore ga Seijo de Omae Akuyaku Reijou Saikyou Tag Otome Game Kanzen Kouryaku Itashimasu wa\~<br>
 Ore to Akuma no Blues<br>
 Ore to Imouto to Kouhai ga Sankaku Kankei!?<br>
 Ore to Ojisan no Tamaran!? Chinhakuki<br>
-Ore wa Gibo ni Netorareru /~Watashi-tachi mo Misetsukete Yareba Ii no yo/~<br>
+Ore wa Gibo ni Netorareru \~Watashi-tachi mo Misetsukete Yareba Ii no yo\~<br>
 Ore wo Dame ni Suru Yuki-chan Sensei<br>
 Ore Yori Dekakute Yowai Shoukansamurai-san<br>
 ORE'N<br>
@@ -9349,9 +9349,9 @@ Orphans of the Storm<br>
 Ortheo<br>
 Orwell<br>
 Osananajimi BIG LOVE<br>
-Osananajimi DAYS /~Anna to kurasu 14-nich/~<br>
+Osananajimi DAYS \~Anna to kurasu 14-nich\~<br>
 Osananajimi no Oppai ga Dekasugiru<br>
-Osananajimi no Saiminjutsu wa Jikosaimin! /~Jibun de Kaketanda kara Monku Nee daro?/~<br>
+Osananajimi no Saiminjutsu wa Jikosaimin! \~Jibun de Kaketanda kara Monku Nee daro?\~<br>
 Osananajimi Rikujou Shoujo no Minamikami Tsubame, Ossan Kyoushi ni Yogosareru.<br>
 Osananajimi to Musubareru Hazu datta Idol Shibou Momona-chan ga Ojisan no Aijin ni Naru Hanashi.<br>
 Osananajimi wa Bed Yakuza!<br>
@@ -9370,7 +9370,7 @@ Oshikake Akuma wa Sakaraenai!<br>
 Oshikake Nyobo, Kodomo Tsuki!<br>
 Oshikake Pet wa Aisaretai<br>
 Oshikake☆Harem<br>
-Oshinagaki /~Kikyou/~<br>
+Oshinagaki \~Kikyou\~<br>
 Oshiri Tantei<br>
 Osmo<br>
 Osoi Kikime de Nagaku Kiku! Biyaku Kouka de Gusho Nure Joshidai-sei!<br>
@@ -9378,7 +9378,7 @@ Ossan Boukensha Kane no Zenkou<br>
 Ossan Musou -Papakatsu JK Kuro Gal Ochi-<br>
 Ossan, Tenseishite Tensai Yakusha ni Naru<br>
 Ossessione<br>
-Osuiki Inma /~Kairaku no Bouryoku de Renzoku Shasei wo Oboekoma Sareru 7-kakan/~<br>
+Osuiki Inma \~Kairaku no Bouryoku de Renzoku Shasei wo Oboekoma Sareru 7-kakan\~<br>
 OTAHOO Project<br>
 Otaku Cat & His Human Himbo<br>
 Otaku ni Ninki no Vtuber ga Chinpo Chuudoku no Baka Mesu ni Otosareru Hanashi<br>
@@ -9406,16 +9406,16 @@ Otonari no Onee-san wa XXX Shitai<br>
 Otonari Vitamin Osananajimi<br>
 Otonari-san e. Anata no Musume-san ga Amarini Kawaikute Kenage de Atama mo Yokute, Boku no Risou no Onaho ni Pittari datta node, Shichaimashita--Saimin Tanetsuke<br>
 Otonari-san wa Futanari Kuro Gal<br>
-Otonatte, Choro/~i<br>
+Otonatte, Choro\~i<br>
 Otoriyose-shimasshi!<br>
 Otoshigo to Juusha no Monogatari<br>
 Otouto no Muramura Chinpo o Osewa Suru no wa Onee-chan-tachi no Yakume desu!<br>
 Otto ga Inainode<br>
-Otto no Inu Ma ni Wakadzuma Netori /~Aitsu no Yome wa Ore no Nama Nakadashi Senyou Niku Onaho/~<br>
-Otto no Inu Ma ni... /~Watashi Odosarete, Anata ni Ienai Koto Shimashita/~<br>
+Otto no Inu Ma ni Wakadzuma Netori \~Aitsu no Yome wa Ore no Nama Nakadashi Senyou Niku Onaho\~<br>
+Otto no Inu Ma ni... \~Watashi Odosarete, Anata ni Ienai Koto Shimashita\~<br>
 Ouhi no Daraku<br>
 Ouija Shark<br>
-Ouja no Bankuruwase /~Net Shougi no Teiou, Real Taikai de Choujou o Mezasu/~<br>
+Ouja no Bankuruwase \~Net Shougi no Teiou, Real Taikai de Choujou o Mezasu\~<br>
 Ouke no Monshou<br>
 Oukyuu Kishi no Determination<br>
 Oumpah-Pah<br>
@@ -9489,7 +9489,7 @@ Ozark<br>
 P<br>
 P Higurashi no Naku Koro ni Meguri<br>
 P-Model<br>
-P.S.C (Paizuri Subscription Company) /~Teishinchou Bakunyuu Muhyoujou Inma-san to Nanokakan Paizuri Houdai Seikatsu/~<br>
+P.S.C (Paizuri Subscription Company) \~Teishinchou Bakunyuu Muhyoujou Inma-san to Nanokakan Paizuri Houdai Seikatsu\~<br>
 Pac 'n Roll<br>
 Pac-Attack<br>
 Pac-in-Time<br>
@@ -9521,7 +9521,7 @@ Paihame Nakayoshi<br>
 Paint Your Wagon<br>
 Painter Momopie<br>
 Pairing Gear<br>
-Pako ☆ Sis /~Bitch na Imouto to Hame Pako Dousei Seikatsu/~<br>
+Pako ☆ Sis \~Bitch na Imouto to Hame Pako Dousei Seikatsu\~<br>
 Paladin's Quest<br>
 Pale Rider<br>
 Palette (Game)<br>
@@ -9651,7 +9651,7 @@ Persona 3: Dancing in Moonlight<br>
 Persona 5: Dancing in Starlight<br>
 Personal Trainer<br>
 Personal Training<br>
-Pest ga Aketara Asobimashou! /~Chuusei Europa Sekai to Gendai Bunmei Slow Life/~<br>
+Pest ga Aketara Asobimashou! \~Chuusei Europa Sekai to Gendai Bunmei Slow Life\~<br>
 Pesterquest<br>
 Pet Pals<br>
 Pet Sematary<br>
@@ -9777,7 +9777,7 @@ Planet of the Apes (2001)<br>
 Planet of the Vampires<br>
 Planet Zoldath<br>
 Planet Zoo<br>
-planetarian /~Snow Globe/~<br>
+planetarian \~Snow Globe\~<br>
 Plankton: The Movie<br>
 Plants vs. Zombies 3<br>
 Plants vs. Zombies Adventures<br>
@@ -9809,7 +9809,7 @@ Pocket Boyfriend<br>
 Pocket Card Jockey<br>
 Pocket Creature PVP<br>
 Pocket Creature Shakespeare<br>
-Pocket Monsters B2 W2 /~ A New Legend /~<br>
+Pocket Monsters B2 W2 \~ A New Legend \~<br>
 Pocket NT Creature<br>
 Pocky & Rocky 2<br>
 Pocky & Rocky Reshrined<br>
@@ -9964,7 +9964,7 @@ Prince of Persia: The Two Thrones<br>
 Princely Negotiations<br>
 Princess Aya<br>
 Princess Crown<br>
-Princess Heart Link /~Kenki-tachi no Enbu/~<br>
+Princess Heart Link \~Kenki-tachi no Enbu\~<br>
 Princess Maker (1991)<br>
 Princess Maker 3<br>
 Princess Maker: Go! Go! Princess<br>
@@ -9975,7 +9975,7 @@ Princess Top<br>
 Print I Love U<br>
 PriPara Mezase! Idol ☆ Grand Prix No.1!<br>
 PRISM Project<br>
-Prism ☆ Magical /~Prism Generations!/~<br>
+Prism ☆ Magical \~Prism Generations!\~<br>
 Prison Breakfast<br>
 Prison Love<br>
 PRISON OF HUSKS<br>
@@ -10016,8 +10016,8 @@ Psi-Ops: The Mindgate Conspiracy<br>
 Psychedelia<br>
 Psychic TV<br>
 Psycho Fox<br>
-Puchi Eva /~EVANGELION@SCHOOL/~<br>
-Puchi Holo no Mura /~Ken to Omise to Inakakurashi/~<br>
+Puchi Eva \~EVANGELION@SCHOOL\~<br>
+Puchi Holo no Mura \~Ken to Omise to Inakakurashi\~<br>
 Puella Magi Madoka Magica: The Different Story<br>
 Puff Daddy & The Family<br>
 Puggsy<br>
@@ -10060,7 +10060,7 @@ Puyo Puyo Tetris 2<br>
 Puyo Puyo Tsu<br>
 Puyo Puyo! 15th Anniversary<br>
 Puyo Puyo!! 20th Anniversary<br>
-Puyo Puyo/~n<br>
+Puyo Puyo\~n<br>
 Puzzle & Dragons: Super Mario Bros. Edition<br>
 Puzzle Bobble<br>
 Puzzle Chambers<br>
@@ -10251,14 +10251,14 @@ Regression of the Third Prince<br>
 Regular Show: The Movie<br>
 Reigen Shoukan Love Jiangshi<br>
 Reign of the Supermen<br>
-Reijou Saimin /~Seikaku Kuzu no S-kyuu Ojou-sama o Kimo Oyaji ga Kanzen Shihai/~<br>
-Reijou VTuber wa Maid no Yashoku ni Juurinsareru /~Kindan Gohan de Shokureposei Haishin/~<br>
+Reijou Saimin \~Seikaku Kuzu no S-kyuu Ojou-sama o Kimo Oyaji ga Kanzen Shihai\~<br>
+Reijou VTuber wa Maid no Yashoku ni Juurinsareru \~Kindan Gohan de Shokureposei Haishin\~<br>
 Reijuu no Acolyte Lufia<br>
 Reijuu no Seifuku<br>
 Reimagine :the game:<br>
 Reincarnator's Stream<br>
 Reindeer New Year<br>
-Relict2 /~Episode Moon/~<br>
+Relict2 \~Episode Moon\~<br>
 REM World<br>
 Rematch<br>
 Remo Williams: The Adventure Begins<br>
@@ -10326,7 +10326,7 @@ Rev. NOiR<br>
 Revenge of the Mummy<br>
 Revenge of the Nerds<br>
 Revenge of the Sunfish<br>
-Revenge Room /~Jutai o Kyouyou Sareru Chikashitsu/~<br>
+Revenge Room \~Jutai o Kyouyou Sareru Chikashitsu\~<br>
 Reventure<br>
 Reverse Bunny Reward<br>
 Revival<br>
@@ -10397,7 +10397,7 @@ Rising With the Monsters<br>
 Risky Business<br>
 Ristaria -Kaikyuu, Ryouchi, Onna. Subete o Tsukamu Nariagari Story-<br>
 Risto Räppääjä<br>
-Ritou Seikatsu no Osewa Gakari /~Downer JK Nanami-chan Hen/~<br>
+Ritou Seikatsu no Osewa Gakari \~Downer JK Nanami-chan Hen\~<br>
 Rituals<br>
 Rizline<br>
 Rizzoli & Isles<br>
@@ -10565,14 +10565,14 @@ Safety Last!<br>
 SaGa Emerald Beyond<br>
 Sahan<br>
 Sai:Taker Futari no Artemis<br>
-Saiai no Tsuma o Takushimasu /~Izaki-ka no Junan/~<br>
+Saiai no Tsuma o Takushimasu \~Izaki-ka no Junan\~<br>
 Saiaku no Jinsei<br>
 Saigo no Seifuku<br>
 Saihate kara, Toho 5-fun<br>
 Saihokuryou no Kaibutsu: Shakkin Jigoku kara Hajimaru Fukoku Kyouhei<br>
 Saikaishita Osananajimi to Issen o Koecchau Hanashi<br>
 Saikou ni Tsugou no Ii Paizuri Jouzu no Mari-san<br>
-Saikyou Chiyushi no Techigai Slow Life /~'Shiro Mahou' ga Tsukaenai to Tsuihousareta kedo, Kawari no 'Shiro Mahou' ga Muteki deshita/~<br>
+Saikyou Chiyushi no Techigai Slow Life \~'Shiro Mahou' ga Tsukaenai to Tsuihousareta kedo, Kawari no 'Shiro Mahou' ga Muteki deshita\~<br>
 Saikyou Onna Kishi, Yowa Yowa Yuusha ni Ama Ama Shasei Shugyou<br>
 Sailor Moon Drops<br>
 Sailor Moon S: Jougai Rantou!<br>
@@ -10594,10 +10594,10 @@ Saki to Final Fantasy XIV<br>
 Sakigake no Hana Miko<br>
 Sakuna Chronicles: Kokorowa and the Gears of Creation<br>
 Sakura Halloween<br>
-Sakura Kikou /~Dorei Choukyou/~<br>
+Sakura Kikou \~Dorei Choukyou\~<br>
 Sakura Miko Ch.<br>
 Sakura Samurai: Art of the Sword<br>
-Sakura Taisen 4 /~Koiseyo Otome/~<br>
+Sakura Taisen 4 \~Koiseyo Otome\~<br>
 Sakura to Asobo!<br>
 Sakura-iro Dreamer<br>
 Sakurako Netorare Tan<br>
@@ -10815,8 +10815,8 @@ Seijo-den Erisu no Bouken 2<br>
 Seikaku ga Warui Gal ga Rei no Heya de Wakaraserareru Hanashi<br>
 Seikaku Saiaku na Mahou Shoujo o Saimin de Wakaraseru<br>
 Seikatsu Majutsushitachi, Kaitei Shinden Ni Idomu<br>
-Seikou Hiwa /~Kareshi Mochi no Watashi ga Toshishita no Otaku ni Otosareru made/~<br>
-Seimu Chousa wa Totsuzen ni. /~Aisuru Tsuma e no Namahame Chousa/~<br>
+Seikou Hiwa \~Kareshi Mochi no Watashi ga Toshishita no Otaku ni Otosareru made\~<br>
+Seimu Chousa wa Totsuzen ni. \~Aisuru Tsuma e no Namahame Chousa\~<br>
 Seinaru Hime no Kakushigoto<br>
 Seirei Senshi Spriggan<br>
 Seirei Tsukai no Sniper<br>
@@ -10825,7 +10825,7 @@ Seishori Touban ja Nai noni Nuitekureru Gal<br>
 Seiso Kanojo no Noumiso ga Nietagiru Futanari Kintama ni Okasarete Osananajimi kara Kaasan made Shuui no Mesu Subete Kuichirakasu Yarichin Osu ni Natteru...<br>
 Seiso na Mai to Yoru no Himitsu<br>
 Seiso Ojou-sama Oyako no Netorare Life<br>
-Seiso x Hanten /~Onna Tomodachi ga Succubus ga Karada ni Nottorarete Mainichi Seiryoku Kyoukyuu saserareru Hanashi/~<br>
+Seiso x Hanten \~Onna Tomodachi ga Succubus ga Karada ni Nottorarete Mainichi Seiryoku Kyoukyuu saserareru Hanashi\~<br>
 Seiso-ppoi no ni Gehin na Kotobazukai de Ohoaegi Shichau Kinjo no Kyonyuu Onee-san to Noukou Icha Love Ecchi suru Hanashi<br>
 Seisou no Shinrishi<br>
 Seitokai no Himegoto<br>
@@ -10848,7 +10848,7 @@ Sengoku Blade<br>
 Sengoku Cannon<br>
 Sengoku Tenshi Jibril<br>
 Sennya Senshoku Monogatari<br>
-Sennyuu Dato Natsume Zenpen /~Elite Onna Sousakan ga Ura Casino no Wana ni Hamerare Gesu Kyaku no Onaho ni Naru Hanashi/~<br>
+Sennyuu Dato Natsume Zenpen \~Elite Onna Sousakan ga Ura Casino no Wana ni Hamerare Gesu Kyaku no Onaho ni Naru Hanashi\~<br>
 Senpai no Dekai Kuruma ga Boku no Kanojo o Nosete Hageshiku Yureru<br>
 Senpai to Kouhai<br>
 Senpai to no Ecchi na Douga de Kasegu Hanashi<br>
@@ -10865,7 +10865,7 @@ Senran Kagura: Peach Beach Splash<br>
 Senran Kagura: Reflexions<br>
 Senran Kagura: Shinovi Master -Tokyo Youma-hen-<br>
 Sensei Anone.<br>
-Sensei Dame desu... /~Kyonyuu Shoujo Momoka no Futaana Omocha Seme/~<br>
+Sensei Dame desu... \~Kyonyuu Shoujo Momoka no Futaana Omocha Seme\~<br>
 Sensei de Asobou!<br>
 Sensei no Barrage<br>
 Sensei wa Kyou Kara Toile ni Narimasu<br>
@@ -10951,7 +10951,7 @@ Shall We Ride?<br>
 Shaman King: Funbari Chronicle<br>
 Shameshrine Andorora<br>
 Shan Gui<br>
-Shanai no Himegoto /~Stress Kaishou ni Kaisha no Toilet de Onani shite itara, Kouhai ni Kikarete shimatte ita Hanashi/~<br>
+Shanai no Himegoto \~Stress Kaishou ni Kaisha no Toilet de Onani shite itara, Kouhai ni Kikarete shimatte ita Hanashi\~<br>
 Shane<br>
 Shank 2<br>
 Shantae Advance: Risky Revolution<br>
@@ -10995,21 +10995,21 @@ Shibora Renkare Keiyaku Hataraku Otona no Onee-san to H na Rental Kareshi Seikat
 Shibou End wo Kaihi Shita Galge no Heroine-tachi ga Ore no [Nikkichou] wo Yonde Himitsu wo Shittarashii<br>
 Shibou Ingi Choufuku Shippai!? Mekakure Kyonshii<br>
 Shibuya Near Family<br>
-Shiei no Sona-Nyl /~What a beautiful memories/~<br>
+Shiei no Sona-Nyl \~What a beautiful memories\~<br>
 Shift at Midnight<br>
 Shigoto no Ato wa Dakishimete<br>
 Shihou Sekai no Ou<br>
 Shikabane-gurai no Bouken Meshi<br>
 Shikiyoku Kaihou Succubus-chan<br>
 Shikyouin Hibiki no Kareinaru Oasobi<br>
-Shimai no Rakuen/~Ore no Koto ga Daisuki Sugiru Bakunyuu Shimai to Dosukebe Kindan Dousei Seikatsu♥/~<br>
+Shimai no Rakuen\~Ore no Koto ga Daisuki Sugiru Bakunyuu Shimai to Dosukebe Kindan Dousei Seikatsu♥\~<br>
 Shimatsuya Soji<br>
 Shimiken<br>
 Shimmer and Shine<br>
 Shin Ban Megami Tantei VINUS FILE<br>
 Shin Bokura no Taiyou: Gyakushuu no Sabata<br>
 Shin Godzilla<br>
-Shin Jinrui Kuroridian /~ Kairaku ni Makete Shin Jinrui-ka shi chau Kusozako Kyu Jinrui-tachi /~<br>
+Shin Jinrui Kuroridian \~ Kairaku ni Makete Shin Jinrui-ka shi chau Kusozako Kyu Jinrui-tachi \~<br>
 Shin Kamen Rider<br>
 Shin Kazokuhou de Musume ni Sareta Dokushin Otoko no Ohanashi<br>
 Shin Matai Toshi<br>
@@ -11018,7 +11018,7 @@ Shin no Seijo de Aru Watashi wa Tsuihou saremashita. Dakara Kono Kuni wa Mou Owa
 Shin Onigashima<br>
 Shin Seiki Yuusha Taisen<br>
 Shin Ultraman<br>
-Shin'yuu no Haha Kumiko /~Ana no Ichi kara Haramasekata made Subete Kanojo ga Oshiete Kureta/~<br>
+Shin'yuu no Haha Kumiko \~Ana no Ichi kara Haramasekata made Subete Kanojo ga Oshiete Kureta\~<br>
 SHIN-JINRUI COMPLEX<br>
 Shinainaru waga mao e<br>
 Shinchou-sa Kanojo<br>
@@ -11037,7 +11037,7 @@ Shinji and Good Friends<br>
 Shinjin-chan no Arbeit<br>
 Shinjuku Soumei<br>
 Shinkaigyo no Anko-san<br>
-Shinkaku Senki Age Slave /~Inmon ni Ochiru Elf Shimai/~<br>
+Shinkaku Senki Age Slave \~Inmon ni Ochiru Elf Shimai\~<br>
 Shinkan Senshi Erisu no Bouken<br>
 Shinkyoku Soukai Polyphonica: Memories White<br>
 Shinkyoku Soukai Polyphonica: The Black<br>
@@ -11046,7 +11046,7 @@ Shinobi III: Return of the Ninja Master<br>
 Shinobi, Koi Utsutsu<br>
 Shinobi, Koi Utsutsu -Kanmitsu Hana Emaki-<br>
 Shinobi: Art of Vengeance<br>
-Shinsei Kourin Arcana Rouge /~Hakudaku to Shokushu ni Kegasareshi Mahou Shoujo-tachi/~<br>
+Shinsei Kourin Arcana Rouge \~Hakudaku to Shokushu ni Kegasareshi Mahou Shoujo-tachi\~<br>
 Shinyuu ga Watashi no Koto wo Suki Kamo Shirenai<br>
 Shinyuu ni Sukina Hito ga Dekitarashii<br>
 Shiori Novella Ch.<br>
@@ -11101,7 +11101,7 @@ Shoujo☆Kageki Revue Starlight -The STAGE Junior High- Remains<br>
 Shoujo☆Kageki Revue Starlight -The STAGE Junior High- Rerise<br>
 Shoujo☆Kageki Revue Starlight Butai Souzougeki Harukanaru El Dorado<br>
 Shoujo☆Kageki Revue Starlight Overture<br>
-Shoujo☆Kageki Revue Starlight Saikai Eyes/~74th<br>
+Shoujo☆Kageki Revue Starlight Saikai Eyes\~74th<br>
 Shounen Henai-san<br>
 Shounen wa, Onee-chan ni Idakare Natsu<br>
 Shoutengai no Ana Zuma-tachi<br>
@@ -11132,7 +11132,7 @@ Shuuen no Virche -EpiC:lycoris-<br>
 Shuugaku Ryokou de YouCha to Onaji Group ni Nacchatta Mekakure InCha-chan<br>
 Shuukaku no Yoru<br>
 Shuumatsu Iryou<br>
-Shuumatsu no Hanayome-sama /~Sweet Home†Melty Life/~<br>
+Shuumatsu no Hanayome-sama \~Sweet Home†Melty Life\~<br>
 Sicario<br>
 Sickness of Snakes<br>
 Side Effects<br>
@@ -11147,7 +11147,7 @@ Sigma Epsilon X<br>
 Sigma Star Saga<br>
 Sigmund<br>
 Signal 100<br>
-Silence /~Seinaru Yoru no Kane no Naka de.../~<br>
+Silence \~Seinaru Yoru no Kane no Naka de...\~<br>
 Silent Hill 2 (2024)<br>
 Silent Hill: Homecoming<br>
 Silent Hill: The Arcade<br>
@@ -11187,7 +11187,7 @@ Siren's Kiss<br>
 Sirius: Twin Stars<br>
 SISTAR<br>
 Sister Alicia no Himitsu no Shokushu Shugyou<br>
-Sister no Fuku no Naka /~Fuku no Naka ni Shimawarete Nandomo Shasei suru Boku/~<br>
+Sister no Fuku no Naka \~Fuku no Naka ni Shimawarete Nandomo Shasei suru Boku\~<br>
 Sisters (1972)<br>
 Sit 'N Survive<br>
 Sit Down, Shut Up<br>
@@ -11432,16 +11432,16 @@ SonSon<br>
 Soon, You'll Paint Your Heart Out<br>
 Sorcerer<br>
 Sorcerer Series<br>
-Soredemo Boku wa Binyuu ga Suki /~Kyonyuu Osananajimi no Kyousei Approach/~<br>
+Soredemo Boku wa Binyuu ga Suki \~Kyonyuu Osananajimi no Kyousei Approach\~<br>
 Soredemo Kimi to Koi ga Shitai!<br>
 Soreyuke Ebisumaru! Karakuri Meiro: Kieta Goemon no Nazo!!<br>
 Soreyuke!! Kid: Go! Go! Kid<br>
-Soreyuke, Ero Baka Ojou-sama! /~Celeb no Watashi ga Dekachin Shomin wo Tegome ni Suru no wa Touzen desu!/~<br>
+Soreyuke, Ero Baka Ojou-sama! \~Celeb no Watashi ga Dekachin Shomin wo Tegome ni Suru no wa Touzen desu!\~<br>
 Soshite Watashi wa Kyou mo Ano Otoko ni Taberareru<br>
 Soshite, Kanojo wa Boku no Mono ni Natta....<br>
 Sougo Onanii de Osananajimi wa Itsumo Iku!<br>
 Soujuu no Valerie Inu Pet-ka Kaizou Keikaku<br>
-Soukan Syoukougun /~Boku dake no Mesumama/~<br>
+Soukan Syoukougun \~Boku dake no Mesumama\~<br>
 Soul Blazer<br>
 Soul Bravers Dochashiko Card Legend Gensuu Ryuuki Zeta Nova<br>
 Soul Fjord<br>
@@ -11457,7 +11457,7 @@ Sound City Players<br>
 Sound Shapes<br>
 Sounder<br>
 Soundtrack #1<br>
-Sousei no Himegimi /~Futanari Shimai to Maou no Kyuuai/~<br>
+Sousei no Himegimi \~Futanari Shimai to Maou no Kyuuai\~<br>
 Sousouki Reginald<br>
 South Park (Game)<br>
 South Park Let's Go Tower Defense Play!<br>
@@ -11630,7 +11630,7 @@ Squee!<br>
 Squid Game: Unleashed<br>
 Squid Horror<br>
 Squirrel with a Gun<br>
-SSS /~Three S/~<br>
+SSS \~Three S\~<br>
 SSS-Grade Café in Front of the Dungeon<br>
 SSSS.GRIDMΛN: Hime & Samurai<br>
 St. Uruel Gakuen no Nichijou<br>
@@ -11875,9 +11875,9 @@ Sugar Meets Girl!<br>
 Sugar-Puss on Dorchester Street<br>
 Sugar★Shooter<br>
 Sugar★Shooter 2<br>
-Sugimoto Gynecology Clinic /~Nurse Reform Program/~<br>
+Sugimoto Gynecology Clinic \~Nurse Reform Program\~<br>
 Sui Generis<br>
-Suichuu no Karte /~ Mizuchima Kaichuu Shinryoujo e Youkoso<br>
+Suichuu no Karte \~ Mizuchima Kaichuu Shinryoujo e Youkoso<br>
 Suicidal Tendencies<br>
 Suicide Club<br>
 Suicide Squad (2016)<br>
@@ -12194,7 +12194,7 @@ Tarrano the Conqueror<br>
 Tarzan (Game)<br>
 Tarzan II<br>
 Tasmanian Devil: Munching Madness<br>
-Tasogare Sakaba /~Uwabami Breakers/~<br>
+Tasogare Sakaba \~Uwabami Breakers\~<br>
 TASOMACHI: Behind the Twilight<br>
 Tastefully Yours<br>
 Tasty Bite<br>
@@ -12300,7 +12300,7 @@ Tenjou Tenge Seitokai Prephase<br>
 Tenkuu no Shiro o Moratta no de Isekai de Tanoshiku Asobitai<br>
 Tennessee Tuxedo and His Tales<br>
 Tennis-bu to Machigaete Kyonyuu Gal Onee-san-tachi no YariCir ni Haitte shimatta Hanashi<br>
-Tenohira Kaitaku Mura de Isekai Kenkokuki /~Fueteku Yome-tachi to Nonbiri Mujintou Life/~<br>
+Tenohira Kaitaku Mura de Isekai Kenkokuki \~Fueteku Yome-tachi to Nonbiri Mujintou Life\~<br>
 Tensai Kuzu Kyoushi no Akuochi Reijou Ikusuron<br>
 Tensai Spy wa Shikujiranai!!<br>
 Tensei Gotoki De Nigerareru To Demo, Niisan?<br>
@@ -12310,7 +12310,7 @@ Tensei Shitara Yadoya no Musuko deshita<br>
 Tenseimae ha Otoko Dattanode Gyaku Harem ha Okotowari Siteorimasu<br>
 Tenseisaki ga Shoujo Manga no Shirobuta Reijou datta<br>
 Tenshi na Osananajimi-tachi to Sugosu 10000-nichi no Hanayome Days<br>
-Tenshi no Milk Tank /~Futanari LL Set/~<br>
+Tenshi no Milk Tank \~Futanari LL Set\~<br>
 Tenshi no Nichou Kenjuu -Angelos Armas-<br>
 Tenshi-tachi no Gogo<br>
 Tenshi-tachi no Gogo II -Minako-<br>
@@ -12804,7 +12804,7 @@ The Glassworkers<br>
 The Glove<br>
 The Goal<br>
 The God of Cookery<br>
-The Goddess Of Tears/~Re:Legend/~<br>
+The Goddess Of Tears\~Re:Legend\~<br>
 The Godfather Part II<br>
 The Godfather Part III<br>
 The Gods Must be Crazy<br>
@@ -13248,7 +13248,7 @@ The Out-of-Towners<br>
 The Outlaw<br>
 The Outlaw Josey Wales<br>
 The Overpowered Cop<br>
-The Overpowered Cursed Magic Sword I Got From My 'Junk Collection' Skill Is Too Strong /~I Was Thrown Away as Useless, but I'll Rise up With the World's Discarded Items/~<br>
+The Overpowered Cursed Magic Sword I Got From My 'Junk Collection' Skill Is Too Strong \~I Was Thrown Away as Useless, but I'll Rise up With the World's Discarded Items\~<br>
 The Pack<br>
 The Pact<br>
 The Pandora Directive<br>
@@ -13392,7 +13392,7 @@ The Sea Hawk (1940)<br>
 The Sea's Nocturne<br>
 The Search for WondLa<br>
 The Searchers<br>
-The Second Reproduction/~Reunion/~<br>
+The Second Reproduction\~Reunion\~<br>
 The Secret Bedroom of the Abandoned Princess<br>
 The Secret Between Me and My Horse Boss<br>
 The Secret Diary of Laura Palmer<br>
@@ -13746,7 +13746,7 @@ Thunder Hoop<br>
 Thunder Mountain Tub Thumpers<br>
 Thunder of Gigantic Serpent<br>
 Thunderbolt and Lightfoot<br>
-Thunderbolts/*<br>
+Thunderbolts\*<br>
 Thunderfist<br>
 THX 1138<br>
 Tibia<br>
@@ -13808,7 +13808,7 @@ Toad Patrol<br>
 Toada Brava<br>
 Toaru Anbu no Item<br>
 Toaru Boukensha no Bunretsu Nichijou<br>
-Toaru Daikazoku No Okazu Jijou /~Mamagawari Onee-chan Funtouki/~<br>
+Toaru Daikazoku No Okazu Jijou \~Mamagawari Onee-chan Funtouki\~<br>
 Toaru Iinchou no Bunretsu Nichijou<br>
 Toaru Kagaku no Accelerator<br>
 Toaru Kagaku no Dark Matter<br>
@@ -13905,16 +13905,16 @@ Tomb Raider: Underworld<br>
 Tomba! 2: The Evil Swine Return<br>
 Tombés du ciel<br>
 Tommy<br>
-Tomo Ochi /~Saiai no Kanojo o Netorareta Ore ga Issho ni Mesuochi Saserareta Hanashi/~<br>
+Tomo Ochi \~Saiai no Kanojo o Netorareta Ore ga Issho ni Mesuochi Saserareta Hanashi\~<br>
 Tomodachi Collection<br>
 Tomodachi ga Urayamu H Sugiru Boku no Mama to Onee–chan wa, Tokoro Kamawazu Boku o Yuuwaku o Shite Kimasu.<br>
 Tomodachi ni Nante Modorenai.<br>
 Tomodachi no Hahaoya wa Bakunyuu Deriheru jo<br>
-Tomodachi no Mama /~Bakunyuu dakara Hame Otosu Hen/~<br>
+Tomodachi no Mama \~Bakunyuu dakara Hame Otosu Hen\~<br>
 Tomodachi tte Konna Koto Surun da.<br>
 Tomoko to Mitsuki<br>
 Tomorrow Never Comes<br>
-Tonari no Bijin Tsuma wa Yokkyuu Fuman Deshita /~Aa, Ano Hito no Yori Danzen Ookikute Katai....!/~<br>
+Tonari no Bijin Tsuma wa Yokkyuu Fuman Deshita \~Aa, Ano Hito no Yori Danzen Ookikute Katai....!\~<br>
 Tonari no Downer-kei Arafour Newhalf<br>
 Tonari no Gorilla ni Koishiteiru<br>
 Tonari no Heya Kara Aegigoe ga Surunde Sukedo...<br>
@@ -13970,23 +13970,23 @@ Total Distortion<br>
 Total Eclipse of the Eternal Heart<br>
 Total War: Warhammer<br>
 Totally Killer<br>
-Totsuzen Kaijin Ken Jimuin no Ore ga Mahou Shoujo-tachi o Otosu Hanashi /~Mahou Tenshi Angel Saber VS Aku no Soshiki Death Brand/~<br>
+Totsuzen Kaijin Ken Jimuin no Ore ga Mahou Shoujo-tachi o Otosu Hanashi \~Mahou Tenshi Angel Saber VS Aku no Soshiki Death Brand\~<br>
 Touch it and it Gets Hard!<br>
 Touch My Katamari<br>
 Touch of Evil<br>
-Touch, Shot! /~Love Application/~<br>
+Touch, Shot! \~Love Application\~<br>
 Touch-up<br>
 Toudou Hiroka no Reiyuutan<br>
 Toudou-kun Chi no Maid Shota<br>
 Tough Guy<br>
-Touhou Bougetsushou /~ Cage in Lunatic Runagate<br>
-Touhou Bunkachou /~ Shoot the Bullet<br>
+Touhou Bougetsushou \~ Cage in Lunatic Runagate<br>
+Touhou Bunkachou \~ Shoot the Bullet<br>
 Touhou LostWord<br>
 Touhou Luna Nights<br>
 Touhou Mystia's Izakaya<br>
-Touhou Sangetsusei /~ Oriental Sacred Place<br>
-Touhou Sangetsusei /~ Strange and Bright Nature Deity<br>
-Touhou Sangetsusei /~ Visionary Fairies in Shrine<br>
+Touhou Sangetsusei \~ Oriental Sacred Place<br>
+Touhou Sangetsusei \~ Strange and Bright Nature Deity<br>
+Touhou Sangetsusei \~ Visionary Fairies in Shrine<br>
 Touhou Spell Bubble<br>
 Touhou Spell Carnival<br>
 Touken Ranbu Warriors<br>
@@ -14055,7 +14055,7 @@ Trauma<br>
 Traveling Wilburys<br>
 Tree Fu Tom<br>
 Triachnid<br>
-Trials of Interspecies Sisters /~Erotic Interactions with Human/~<br>
+Trials of Interspecies Sisters \~Erotic Interactions with Human\~<br>
 Tribute<br>
 Trick or Treat<br>
 Trick or Treat (1986)<br>
@@ -14112,31 +14112,31 @@ TS Tensei Shita Watashi ga Shozoku Suru VTuber Jimujo no Liver wo Zenin Ochiru t
 Tsubasa Reservoir Chronicle the Movie: The Princess in the Birdcage Kingdom<br>
 Tsubasa-chan, Kimi wa. Macchingu shita Onna wa Satsujinki<br>
 Tsuboi Maki (42) wa 2-fun-go Musuko to Oyako de Sex o Suru<br>
-Tsuihou Sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu /~Donna Monster mo Zettai ni Ikaseru Otoko/~<br>
-Tsuihou Sareta Tensei Ouji, 'Auto Craft' Skill de Ryouchi wo Bakusoku de Kaitakushi Saikyou no Mura wo Tsukutteshimau /~Saikyou Crafting Skill de Hajimeru, Rakuraku Ryouchi Kaitaku Slow Life/~<br>
+Tsuihou Sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu \~Donna Monster mo Zettai ni Ikaseru Otoko\~<br>
+Tsuihou Sareta Tensei Ouji, 'Auto Craft' Skill de Ryouchi wo Bakusoku de Kaitakushi Saikyou no Mura wo Tsukutteshimau \~Saikyou Crafting Skill de Hajimeru, Rakuraku Ryouchi Kaitaku Slow Life\~<br>
 Tsuihou Yuusha no Yuuga na Slow Life: Jiyuu ni Nattara Ore Dake no Saiai Tenshi Mote ni Haitta!<br>
 Tsuihousareta Renkinjutsushi wa Mujikaku ni Densetsu to Naru Yandere Imouto (Oukoku no Shugoryuu) to Issho ni Henkyou de Shiawase ni Kurashimasu!<br>
-Tsuiteru Mesu /~Otokonoko Report/~<br>
+Tsuiteru Mesu \~Otokonoko Report\~<br>
 Tsukarete masen Tsukarete masu!<br>
 Tsuki to Koi wa Michireba Kakeru<br>
 Tsuki to Pieta<br>
 Tsuki to Suppin<br>
 Tsuki wa Tapioca Mitai ni<br>
 TSUKINO PARADISE<br>
-Tsukino Shizue (39) /~ Ero○ki no Dorei Onaho ni Sareta Ikkagetsukan no Choukyou Kiroku<br>
+Tsukino Shizue (39) \~ Ero○ki no Dorei Onaho ni Sareta Ikkagetsukan no Choukyou Kiroku<br>
 Tsukisoi wa Sei Chouki<br>
 Tsukiyo ni Kagayaku Akai Hana<br>
 Tsukumo Sana Ch.<br>
-Tsuma ga Kakushiteita Video… /~Moto Kare Netorase Kansatsuki/~<br>
+Tsuma ga Kakushiteita Video… \~Moto Kare Netorase Kansatsuki\~<br>
 Tsuma ga, Tanin no Mesu ni naru made<br>
-Tsuma no Haha /~Gouman Onna Shachou to Doukyo no Hibi/~<br>
+Tsuma no Haha \~Gouman Onna Shachou to Doukyo no Hibi\~<br>
 Tsuma Wa Ima, Kaigai Ni Imasu<br>
 Tsumi no Kongen<br>
 Tsun Hime-sama to Dame Ouji-chan<br>
 Tsunderia<br>
 Tsurie<br>
 Tsurizao Hitotsu de Isekai Hourou<br>
-Tsuuhan de Katta Youtou ga Gachi datta /~Tameshizuri Shitara Kuukan ga Sakete Isekai ni Tobasareta Ageku, Densetsu no Yuusha da to Kanchigai Sarete Komatteimasu/~<br>
+Tsuuhan de Katta Youtou ga Gachi datta \~Tameshizuri Shitara Kuukan ga Sakete Isekai ni Tobasareta Ageku, Densetsu no Yuusha da to Kanchigai Sarete Komatteimasu\~<br>
 Tsuyu Shirazu<br>
 Tucker & Dale vs. Evil<br>
 Tunnel Town<br>
@@ -14260,7 +14260,7 @@ Umamusume: Pretty Derby (Game)<br>
 Umamusume: Pretty Derby - Beginning of a New Era<br>
 Umamusume: Pretty Derby - Haru Urara Ganbaru!<br>
 Umamusume: Pretty Derby - ROAD TO THE TOP<br>
-Umamusume: Pretty Derby /~Sprinters' Story/~<br>
+Umamusume: Pretty Derby \~Sprinters' Story\~<br>
 Umamusume: Pretty Derby – Party Dash<br>
 Umayon<br>
 Umayuru<br>
@@ -14307,7 +14307,7 @@ Uncle Styopa<br>
 Uncle Vanya<br>
 Uncontrollable Gravity<br>
 Unconventional Training<br>
-Undead King /~A Low-Ranking Adventurer, With the Power of Monsters, Becomes Unbeatable/~<br>
+Undead King \~A Low-Ranking Adventurer, With the Power of Monsters, Becomes Unbeatable\~<br>
 Under a Killing Moon<br>
 Under ConTroll<br>
 Under Kids<br>
@@ -14365,7 +14365,7 @@ Urban Legend<br>
 Urban Vermin<br>
 Urban Yeti!<br>
 Urban Yuri: A Lady's Romance Manifesto<br>
-Ure Muchi Bakunyuu Boukensha Party wa Haramase Niku Onaho! /~ Tsuida Yadoya o Tamariba ni Suru Toshiue Mesu-tachi o Chin Kobi Zenkai no Mazo Ana ni Shitsukete Yatta!/~<br>
+Ure Muchi Bakunyuu Boukensha Party wa Haramase Niku Onaho! \~ Tsuida Yadoya o Tamariba ni Suru Toshiue Mesu-tachi o Chin Kobi Zenkai no Mazo Ana ni Shitsukete Yatta!\~<br>
 Ure Muchi Bishoujo Senshi to Aku no Onna Kanbu wa Ore no Haramase Niku Onaho!<br>
 Urekko Mangaka-san to Shigodeki Henshuu-san<br>
 Urmel aus dem Eis<br>
@@ -14394,7 +14394,7 @@ Utawarerumono: ZAN<br>
 Uuno Turhapuro<br>
 Uwa, Mesugaki Tsuyoi!<br>
 Uwaki na Twintail<br>
-Uwasa no Kasshokuzuma 'Anita' to Sugosu Noumitsu na 7-kakan /~Boku to Kanojo ga 'Daishuki Hold' ni Itatta Wake/~<br>
+Uwasa no Kasshokuzuma 'Anita' to Sugosu Noumitsu na 7-kakan \~Boku to Kanojo ga 'Daishuki Hold' ni Itatta Wake\~<br>
 Uza Nee!!<br>
 Uzagarami Gal no Isourou ga Ore no Heya kara Deteikanai.<br>
 Uzugami: Bunretsu Zoushoku Ningen<br>
@@ -14561,9 +14561,9 @@ VShojo<br>
 VTumbler<br>
 Vultures - Scavengers of Death<br>
 Vyugen<br>
-W/B /~White Rose / Black Lily/~<br>
+W/B \~White Rose / Black Lily\~<br>
 Wacky Funsters! The Geekwad's Guide to Gaming<br>
-Wafuu Seiso na Kurokami JK wa Do Hentai no Futanari Do Mazo /~Binkan Kyokon Chinpo wa Nani o Sarete mo Shasei Shichau/~<br>
+Wafuu Seiso na Kurokami JK wa Do Hentai no Futanari Do Mazo \~Binkan Kyokon Chinpo wa Nani o Sarete mo Shasei Shichau\~<br>
 Wagamama Kouhai-kun<br>
 Wagyan Land 2<br>
 Wagyan Land 3<br>
@@ -14727,7 +14727,7 @@ What Did Jack Do?<br>
 What Do I Do?! I Have Transmigrated Into the Weakest Little Monster<br>
 What He Who Doesn't Believe in Fate Says<br>
 What if I Married My Enemy?<br>
-What if I Undress Usaka After Work...? /~My Hot and Cold Superior's Dirty Secret/~<br>
+What if I Undress Usaka After Work...? \~My Hot and Cold Superior's Dirty Secret\~<br>
 What The Car?<br>
 What The Duck<br>
 What the Fog<br>
@@ -14851,7 +14851,7 @@ Wirehead<br>
 Wise Guys<br>
 Wishbone<br>
 Wishing Sarah<br>
-Witch Hunter /~Choroi ze Aku no Onna Kanbu/~<br>
+Witch Hunter \~Choroi ze Aku no Onna Kanbu\~<br>
 Witch Isis<br>
 Witch's Dungeon<br>
 Witch's Workshop<br>
@@ -14979,7 +14979,7 @@ Wrong Turn 4: Bloody Beginnings<br>
 Wrong Turn 5: Bloodlines<br>
 Wrong Turn 6: Last Resort<br>
 Wrong Turn: The Foundation<br>
-WSS /~Watashi ga Sakini Sukidatta no ni/~<br>
+WSS \~Watashi ga Sakini Sukidatta no ni\~<br>
 Wu-Block<br>
 Wu-Tang: Shaolin Style<br>
 Wunderkind Little Amadeus<br>
@@ -15009,7 +15009,7 @@ WWE SmackDown! vs. Raw 2006<br>
 WWF WrestleFest<br>
 WZRD<br>
 X (1992)<br>
-X Change Alternative 2 /~Kimi no Hitomi ni Utsuru Kimi/~<br>
+X Change Alternative 2 \~Kimi no Hitomi ni Utsuru Kimi\~<br>
 X-Angels<br>
 X-Change<br>
 X-Change 3<br>
@@ -15066,24 +15066,24 @@ XX Archive<br>
 XX Dungeon<br>
 Y School Heroes: Bustlin' School Life<br>
 Y tu mamá también<br>
-Yachin Hensai no Tame, Fuufu Sorotte Shitsukeraremasu /~Tsugaijime/~<br>
+Yachin Hensai no Tame, Fuufu Sorotte Shitsukeraremasu \~Tsugaijime\~<br>
 Yada-san Is Cold<br>
 Yahtzee Girl<br>
 Yakimochi Kanojo no Wagamama Kai<br>
 Yakimochi Stream<br>
-Yakitate Croissant /~Autumn Leaf no 3 Shimai/~<br>
+Yakitate Croissant \~Autumn Leaf no 3 Shimai\~<br>
 Yakkity Yak<br>
 Yakuman<br>
 Yakuman DS<br>
 Yakusoku Shita yo ne?<br>
 Yakuza Yuri<br>
 Yakyuujou de Itadakimasu<br>
-Yama, Kaimashita /~Isekai Gurashi mo Warukunai/~<br>
+Yama, Kaimashita \~Isekai Gurashi mo Warukunai\~<br>
 Yamahime no Mayu<br>
 Yamaoka-san's Ramen<br>
 Yamasong: March of the Hollows<br>
 Yamitsuki!<br>
-Yandere Ojou-sama no Seidorei Kyouiku /~Meimon Kizoku no Ojou-sama ga Kaitorareta Saki wa Osananajimi no Ie deshita/~<br>
+Yandere Ojou-sama no Seidorei Kyouiku \~Meimon Kizoku no Ojou-sama ga Kaitorareta Saki wa Osananajimi no Ie deshita\~<br>
 Yankee & Carameliser<br>
 Yankee JK Ayaka-san no Jakuten<br>
 Yankee Josouko Helper<br>
@@ -15095,7 +15095,7 @@ Yardbirds<br>
 Yarimoku Kouen<br>
 Yarinaoshi Crank-In<br>
 Yasashii Kanojo wa, Dandan Ubaware Yuku<br>
-Yasei no Last Boss ga Arawareta! /~Kuro Tsubasa no Survivor/~<br>
+Yasei no Last Boss ga Arawareta! \~Kuro Tsubasa no Survivor\~<br>
 Yasetai-san to Shitsuren-chan<br>
 Yasha<br>
 Year of the Dragon<br>
@@ -15124,8 +15124,8 @@ Yoiko-sensei to Usuihon no Akuma<br>
 Yokai Art 2: Tales of the Nine-Tails<br>
 Yokai Art: Night Parade of One Hundred Demons<br>
 Yokkyuu Fuman Majime Joshi ga Class no Yariman Gal to Dosukebe H Shichau Hanashi<br>
-Yokkyuu Fuman na Boku no Mama no Sex Lesson /~Papa ni wa Ienai Katei-nai Jouji/~<br>
-Yokkyuu Fuman na Hatsujou Oba-san ni Yuuwaku Sareta Boku wa... /~Himitsu to Haitoku ni Michita Fuyuyasumi no Omoide/~<br>
+Yokkyuu Fuman na Boku no Mama no Sex Lesson \~Papa ni wa Ienai Katei-nai Jouji\~<br>
+Yokkyuu Fuman na Hatsujou Oba-san ni Yuuwaku Sareta Boku wa... \~Himitsu to Haitoku ni Michita Fuyuyasumi no Omoide\~<br>
 Yoko! Jakamoko! Toto!<br>
 Yoku Dekimashita.<br>
 Yokujou Bazooka the Animation<br>
@@ -15139,7 +15139,7 @@ Yoohoo to the Rescue<br>
 Yooka-Laylee and the Impossible Lair<br>
 Yoridori Midori no Amaama Gohoushi<br>
 Yoru mo Warui Ko<br>
-Yosei Shoukan 3-goushitsu Laycey /~Kasshoku Hada Elf o Shimei Shita Dotei Orc/~<br>
+Yosei Shoukan 3-goushitsu Laycey \~Kasshoku Hada Elf o Shimei Shita Dotei Orc\~<br>
 Yoshi (Game)<br>
 Yoshi Touch & Go<br>
 Yoshi's Adventure<br>
@@ -15221,9 +15221,9 @@ Yume Kojo: Doki Doki Panic<br>
 Yume no Naka de Kimi wo Sagashite<br>
 Yume no Netorare<br>
 Yume no Shizuku, Kin no Torikago<br>
-Yume Tenshi /~Takujou Dennou Inmu Yuugi/~<br>
+Yume Tenshi \~Takujou Dennou Inmu Yuugi\~<br>
 Yume to Koi dewa Tsuriawanai<br>
-Yumekoi /~Yume Miru Mahou Shoujo to Koi no Jumon/~<br>
+Yumekoi \~Yume Miru Mahou Shoujo to Koi no Jumon\~<br>
 Yumemiru BanGal<br>
 YUMENIKKI –DREAM DIARY–<br>
 Yumiko Jiru<br>
@@ -15300,7 +15300,7 @@ Zerorange Lolipops<br>
 Zetsurin Majutsushi-sama to Tsunagatte Iru Nante Shiranakattan desu. Dekiai Nante Yurushite Kudasai<br>
 Zettai ni Yuuwaku sarenai Otoko VS Zettai ni Yuuwaku suru Onna<br>
 Zettai Watashi no Koto Suki Daro<br>
-Zettai, Naisho ni Dekimasuyo /~Jimi Kyonyuu Muchimuchi Kouhai ga Kanojo Mochi no Ore ni Semattekite Dosukebe Uwaki Namanakadashi/~<br>
+Zettai, Naisho ni Dekimasuyo \~Jimi Kyonyuu Muchimuchi Kouhai ga Kanojo Mochi no Ore ni Semattekite Dosukebe Uwaki Namanakadashi\~<br>
 Zhu Zhu Pets<br>
 ZIGA<br>
 Zigomar<br>
@@ -15340,7 +15340,7 @@ Zombies Calling<br>
 Zombii Attack<br>
 ZombiSeed<br>
 Zombitch Hazard!<br>
-Zombitch /~Slutty Gal's Holy Sex War/~<br>
+Zombitch \~Slutty Gal's Holy Sex War\~<br>
 ZombiU<br>
 Zone Fighter<br>
 Zoo World<br>
@@ -15357,7 +15357,7 @@ Zoushoku Shoujo Plana-chan!<br>
 Zuma's Revenge<br>
 Zunzunkyou no Yabou<br>
 Zurikichi Kangoku<br>
-Zutto Otousan no Oyomesan /~Oyako de Naisho no Kinshinsoukan/~<br>
+Zutto Otousan no Oyomesan \~Oyako de Naisho no Kinshinsoukan\~<br>
 Zutto Shinjiteru<br>
 Zé Carioca<br>
 Zéro de conduite<br>
